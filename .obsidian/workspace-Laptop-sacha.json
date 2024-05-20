@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "58428d8a19819ab9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ea1d234c91cbf7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea9fa1dde76a1ba3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ressources/Règles/Classes/Magicien Donjons & Dragons - D&D 5e.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "68d29479df5ae0a9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ressources/données/Gifts Dungeons & Dragons - D&D 5e.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "790a0bd0c08fffa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personnages/Falafel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d23a65bc9ac68ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8bcf66e7ad59254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac58ca7f7cf11210",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd69dd083bb2ba34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "afd7b54ee1c3808d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a2e8edb4f5196154",
+    "type": "split",
+    "children": [
+      {
+        "id": "2227d2727110c693",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6798e8508b968cfc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personnages/Falafel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2ea7c21cecd6569",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personnages/Falafel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "950dba74d3306193",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c3bec03963b8c7f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personnages/Falafel.md"
+              }
+            }
+          },
+          {
+            "id": "d0a493cc44d3a7fd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab57444f2bd6cbf2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "790a0bd0c08fffa7",
+  "lastOpenFiles": [
+    "Ressources/données/Gifts Dungeons & Dragons - D&D 5e.pdf",
+    "Ressources/données/Races-Classes.pdf",
+    "Ressources/Règles/eFeuillePersoDD5.pdf",
+    "Ressources/Règles/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/données",
+    "Personnages/super_mage.pdf",
+    "Ressources/Règles/MJ/5e_Ability-Score-Table_5e.webp",
+    "Ressources/Règles/MJ/table rencontre lvl-px.png",
+    "Ressources/Règles/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Règles/Sites internets.md",
+    "Ressources/Règles/MJ/Basic-Rules-FR.pdf",
+    "Ressources/Règles/MJ/Aide de Jeu.pdf",
+    "Ressources/Règles/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
+    "Main Page.md",
+    "Lieux/Ayihyala/Cité/Le Donjon/Donjon Etage 3.md",
+    "Lieux/Ayihyala/Cité/Le Donjon/Table-Rencontre_Etage3.pdf",
+    "Lieux/Ayihyala/Cité/Le Donjon/Donjon Etage 2.md",
+    "Histoire du Monde.md",
+    "Lieux/Ayihyala/Cité/Le Donjon/Donjon Etage 1.md",
+    "Lieux/Dimension du Palais des Sables/Palais des Sables.md",
+    "Ressources/Règles/Tranche de puissance.md",
+    "Templates/Columns.md",
+    "Templates/fiche personnage.md",
+    "Personnages/Daeliadayla/Daeliadayla Jiryaliamaoji.md",
+    "Personnages/L'Ensauceleur.md",
+    "Personnages/Greed Le-Nain Antique/Greed Le-Nain.md",
+    "Personnages/Ama-Zahanie/Ama l'enchanteresse.md",
+    "Personnages/Afylia/La Reine Afylia.md",
+    "Personnages/Mères Tikya/Le Conseil des Matriarches Tikya.md",
+    "Timeline/Ere des Mortels.md",
+    "Personnages/Soa.md",
+    "Templates/timeline.md",
+    "Carte du Monde.md",
+    "Lieux/Ayihyala/L'île d'Ayihyala.md",
+    "Lieux/Ayihyala/Cité/La cité Ayihyala.md",
+    "Lieux/Ayihyala/Cité/Les bas fonds.md",
+    "Lieux/Ayihyala/Cité/Les arènes.md",
+    "Lieux/Ayihyala/Cité/Le port.md",
+    "Lieux/Ayihyala/Cité/Le Donjon/map etage 2.jpg",
+    "Personnages/Karharlak/mind-flayer.jpg",
+    "Personnages/Castiran Eville Spown/vampirien 4.jpg",
+    "Personnages/Castiran Eville Spown/vampirien 3.jpg",
+    "Personnages/Castiran Eville Spown/vampirien 2.jpg",
+    "Personnages/Castiran Eville Spown/vampirien 1.jpg",
+    "Personnages/Afylia/Afylia screenshot.png",
+    "Personnages/Acnolia/Acnolia screenshot.png"
+  ]
+}

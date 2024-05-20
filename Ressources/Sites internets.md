@@ -1,0 +1,17 @@
+Aide DD :
+- site aidedd : https://www.aidedd.org
+- races anyflip : https://online.anyflip.com/fqhgb/qrus/mobile/index.html
+- pdf : https://www.aidedd.org/adj/telechargement/
+- sorts : https://www.aidedd.org/dnd-filters/spells-5e.php
+- armes : https://www.aidedd.org/regles/equipement/armes/
+- armures : https://www.aidedd.org/regles/equipement/armures/
+- invocations : https://www.aidedd.org/dnd-filters/eldritch-invocations.php
+- monstres : https://www.aidedd.org/dnd-filters/monsters.php
+- objets (magique) : https://www.aidedd.org/dnd-filters/magic-items.php
+- poisons : https://www.aidedd.org/dnd-filters/poisons-5e.php
+- herbe : https://www.aidedd.org/dnd-filters/herbs.php
+- classe : https://www.dndbeyond.com/classes
+- races (dndbeyond) : https://www.dndbeyond.com/races
+- création de personnage (visuel) : https://www.heroforge.com/
+- prix : https://www.dndbeyond.com/sources/basic-rules/equipment#Equipment
+- Dieux : https://screenrant.com/dungeons-dragons-deities-gods-forgotten-realms-fifth-edition/

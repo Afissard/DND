@@ -1,0 +1,1 @@
+Pièce d'or carré avec une tête de femme ([[La Reine Afylia]]) de profil, l'œil est incrusté de quartz
