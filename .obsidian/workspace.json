@@ -78,27 +78,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personnages/Linn Seraphim/Linn Seraphim (bis supersonic).md",
+                "file": "Personnages/Linn Seraphim/Linn Seraphim (mage-?).md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "ae7b1e35c38f15ab",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf"
-              },
-              "pinned": true
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -164,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+                "file": "Personnages/Linn Seraphim/Linn Seraphim (mage-?).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+                "file": "Personnages/Linn Seraphim/Linn Seraphim (mage-?).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf"
+                "file": "Personnages/Linn Seraphim/Linn Seraphim (mage-?).md"
               }
             }
           },
@@ -248,23 +236,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f9147c3205e675de",
+  "active": "3e36bd245129658e",
   "lastOpenFiles": [
-    "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Linn Seraphim/Linn Seraphim (bis supersonic).md",
-    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Personnages/Linn Seraphim/Linn Seraphim (mage-?).md",
+    "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Rôdeur Donjons & Dragons - D&D 5e.pdf",
+    "Ragnarök/Ragnarök - Présentation.md",
+    "Ressources/Règles/Basic-Rules-FR.pdf",
+    "Personnages/Linn Seraphim/Linn va trop vite.png",
+    "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
     "Personnages/Linn Seraphim/Linn Seraphim_pnj-lvl10.pdf",
     "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
-    "Ressources/Classes/Rôdeur Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Linn Seraphim/Linn va trop vite.png",
-    "Ragnarök/Ragnarök - Présentation.md",
     "Lieux/Ayihyala/Le Donjon/Donjon Etage 4.md",
     "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
     "Ragnarök/Ragnarök - Présentation.pdf",
     "Ressources/Objets/Magic Items Dungeons & Dragons - D&D 5e.pdf",
-    "Ressources/Objets/Sane_Magical_Prices.pdf",
-    "Ressources/Classes/5e Class - The Catalyst (Spell Version) - The Homebrewery.pdf",
     "Lieux/Ayihyala/Le Donjon/Donjon Etage X.md",
     "Lieux/Ayihyala/Le Donjon/Donjon Etage 2.md",
     "Lieux/Ayihyala/Le Donjon/Donjon Etage 1.md",
