@@ -4,89 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c5d773c233240e77",
+        "id": "4a2da5ee65c93105",
         "type": "tabs",
         "children": [
           {
-            "id": "959a24197fb8610c",
+            "id": "ab9ead1e102b0dc9",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ce390524db86ac68",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Personnages/Linn Seraphim/Linn Seraphim_pnj-lvl10.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4a915547ef7c625d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ragnarök/Ragnarök - Présentation.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "3385881ac06765cb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f9147c3205e675de",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "3e36bd245129658e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personnages/Linn Seraphim/Linn Seraphim (mage-?).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personnages/Linn Seraphim/Linn Seraphim (mage-?).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personnages/Linn Seraphim/Linn Seraphim (mage-?).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personnages/Linn Seraphim/Linn Seraphim (mage-?).md"
-              }
+              "state": {}
             }
           },
           {
@@ -236,19 +161,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3e36bd245129658e",
+  "active": "ab9ead1e102b0dc9",
   "lastOpenFiles": [
+    "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
+    "Personnages/Linn Seraphim/Linn Seraphim_pnj-lvl10.pdf",
+    "Ragnarök/Ragnarök - Présentation.md",
     "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Linn Seraphim/Linn Seraphim (mage-?).md",
+    "Personnages/Linn Seraphim/Sorts de mage intéressants.md",
+    "README.md",
     "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Rôdeur Donjons & Dragons - D&D 5e.pdf",
-    "Ragnarök/Ragnarök - Présentation.md",
     "Ressources/Règles/Basic-Rules-FR.pdf",
     "Personnages/Linn Seraphim/Linn va trop vite.png",
     "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Linn Seraphim/Linn Seraphim_pnj-lvl10.pdf",
-    "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
     "Lieux/Ayihyala/Le Donjon/Donjon Etage 4.md",
     "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
     "Ragnarök/Ragnarök - Présentation.pdf",
@@ -275,7 +201,6 @@
     "Personnages/Afylia/La Reine Afylia.md",
     "Personnages/Mères Tikya/Le Conseil des Matriarches Tikya.md",
     "Timeline/Ere des Mortels.md",
-    "Personnages/Soa.md",
     "Lieux/Ayihyala/Le Donjon/map etage 2.jpg",
     "Personnages/Karharlak/mind-flayer.jpg",
     "Personnages/Castiran Eville Spown/vampirien 4.jpg",
