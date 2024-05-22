@@ -4,18 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "4a2da5ee65c93105",
+        "id": "9c00594ea7326037",
         "type": "tabs",
         "children": [
           {
-            "id": "ab9ead1e102b0dc9",
+            "id": "d33d66eafd10e41f",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "83ab79cbdc72afab",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7a68259cedd7be04",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personnages/Liam Seraphim/Liam Seraphim.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personnages/Liam Seraphim/Liam Seraphim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personnages/Liam Seraphim/Liam Seraphim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personnages/Liam Seraphim/Liam Seraphim.md"
+              }
             }
           },
           {
@@ -161,24 +196,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ab9ead1e102b0dc9",
+  "active": "7a68259cedd7be04",
   "lastOpenFiles": [
-    "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
-    "Personnages/Linn Seraphim/Linn Seraphim_pnj-lvl10.pdf",
-    "Ragnarök/Ragnarök - Présentation.md",
+    "Personnages/Liam Seraphim/Liam Seraphim l2 WIP.pdf",
+    "Ressources/eFeuillePersoDD5.pdf",
     "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
+    "Personnages/Liam Seraphim/Liam Seraphim.md",
+    "Personnages/Linn Seraphim/Linn Seraphim_pnj-lvl10.pdf",
+    "Ressources/Règles/5e_Ability-Score-Table_5e.webp",
+    "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
+    "Personnages/Linn Seraphim/Linn Seraphim.pdf",
+    "Personnages/Liam Seraphim",
+    "Ressources/Classes/Rôdeur Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "Ragnarök/Ragnarök - Présentation.md",
     "Personnages/Linn Seraphim/Sorts de mage intéressants.md",
     "README.md",
-    "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Rôdeur Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Règles/Basic-Rules-FR.pdf",
     "Personnages/Linn Seraphim/Linn va trop vite.png",
-    "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
     "Lieux/Ayihyala/Le Donjon/Donjon Etage 4.md",
-    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
-    "Ragnarök/Ragnarök - Présentation.pdf",
-    "Ressources/Objets/Magic Items Dungeons & Dragons - D&D 5e.pdf",
     "Lieux/Ayihyala/Le Donjon/Donjon Etage X.md",
     "Lieux/Ayihyala/Le Donjon/Donjon Etage 2.md",
     "Lieux/Ayihyala/Le Donjon/Donjon Etage 1.md",
@@ -187,7 +225,6 @@
     "Ressources/Sites internets.md",
     "Ressources/Règles/table rencontre lvl-px.png",
     "Personnages/Vaern.md",
-    "Ressources/Règles/5e_Ability-Score-Table_5e.webp",
     "Main Page.md",
     "Histoire du Monde.md",
     "Lieux/Dimension du Palais des Sables/Palais des Sables.md",
@@ -200,7 +237,6 @@
     "Personnages/Ama-Zahanie/Ama l'enchanteresse.md",
     "Personnages/Afylia/La Reine Afylia.md",
     "Personnages/Mères Tikya/Le Conseil des Matriarches Tikya.md",
-    "Timeline/Ere des Mortels.md",
     "Lieux/Ayihyala/Le Donjon/map etage 2.jpg",
     "Personnages/Karharlak/mind-flayer.jpg",
     "Personnages/Castiran Eville Spown/vampirien 4.jpg",
