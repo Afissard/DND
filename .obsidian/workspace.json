@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "e6e18f9f62c993eb",
         "type": "tabs",
         "children": [
           {
             "id": "9d799f4a7a89f385",
+=======
+        "id": "4a2da5ee65c93105",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab9ead1e102b0dc9",
+>>>>>>> 29d716ff3882914e8a0708158d7ae4287343eee3
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,6 +169,7 @@
       "templater-obsidian:Templater": false
     }
   },
+<<<<<<< HEAD
   "active": "9d799f4a7a89f385",
   "lastOpenFiles": [
     "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
@@ -172,12 +181,26 @@
     "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Rôdeur Donjons & Dragons - D&D 5e.pdf",
     "Personnages/Linn Seraphim/Linn va trop vite.png",
+=======
+  "active": "ab9ead1e102b0dc9",
+  "lastOpenFiles": [
+    "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
+    "Personnages/Linn Seraphim/Linn Seraphim_pnj-lvl10.pdf",
+    "Ragnarök/Ragnarök - Présentation.md",
+    "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Personnages/Linn Seraphim/Sorts de mage intéressants.md",
+    "README.md",
+    "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Rôdeur Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Règles/Basic-Rules-FR.pdf",
+    "Personnages/Linn Seraphim/Linn va trop vite.png",
+    "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
+>>>>>>> 29d716ff3882914e8a0708158d7ae4287343eee3
     "Lieux/Ayihyala/Le Donjon/Donjon Etage 4.md",
     "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
     "Ragnarök/Ragnarök - Présentation.pdf",
     "Ressources/Objets/Magic Items Dungeons & Dragons - D&D 5e.pdf",
-    "Ressources/Objets/Sane_Magical_Prices.pdf",
-    "Ressources/Classes/5e Class - The Catalyst (Spell Version) - The Homebrewery.pdf",
     "Lieux/Ayihyala/Le Donjon/Donjon Etage X.md",
     "Lieux/Ayihyala/Le Donjon/Donjon Etage 2.md",
     "Lieux/Ayihyala/Le Donjon/Donjon Etage 1.md",
@@ -200,7 +223,6 @@
     "Personnages/Afylia/La Reine Afylia.md",
     "Personnages/Mères Tikya/Le Conseil des Matriarches Tikya.md",
     "Timeline/Ere des Mortels.md",
-    "Personnages/Soa.md",
     "Lieux/Ayihyala/Le Donjon/map etage 2.jpg",
     "Personnages/Karharlak/mind-flayer.jpg",
     "Personnages/Castiran Eville Spown/vampirien 4.jpg",
