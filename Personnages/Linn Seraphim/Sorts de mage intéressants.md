@@ -70,7 +70,7 @@
 - [cage de force](https://www.aidedd.org/dnd/sorts.php?vf=cage-de-force) : fort, mais utile ?
 - [dissimulation](https://www.aidedd.org/dnd/sorts.php?vf=dissimulation) : situationnelle
 - [inversion de la gravité](https://www.aidedd.org/dnd/sorts.php?vf=inversion-de-la-gravite) : très fort quand tu peux voler
-- [symbole](https://www.aidedd.org/dnd/sorts.php?vf=symbole) : pratique, peut être moins détour-nable de l'usage que le glyphe
+- [symbole](https://www.aidedd.org/dnd/sorts.php?vf=symbole) : pratique, peut être moins détournable de l'usage que le glyphe
 - [téléportation](https://www.aidedd.org/dnd/sorts.php?vf=teleportation) : très utile
 
 ## Tier 8
