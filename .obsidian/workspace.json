@@ -10,12 +10,31 @@
           {
             "id": "d468a012a4d1af8f",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personnages/Liam Seraphim/Liam Seraphim.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "23a1e51ebb480a60",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf"
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf"
+              }
             }
           }
         ]
@@ -142,34 +165,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "d468a012a4d1af8f",
+  "active": "23a1e51ebb480a60",
   "lastOpenFiles": [
+    "Personnages/Liam Seraphim/Liam Seraphim.md",
+    "Personnages/Liam Seraphim/Liam Seraphim lvl2 .pdf",
+    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
+    "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
+    "Personnages/Liam Seraphim/Druide Inspiration.png",
+    "Templates/image personnage placeholder.png",
+    "Ressources/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
     "Personnages/TaxePaladin/Taxe Paladin.md",
     "Ressources/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
     "Ressources/Données/Gifts Dungeons & Dragons - D&D 5e.pdf",
     "Personnages/TaxePaladin/magic extracteur de charité illustration.jpg",
     "Personnages/TaxePaladin/magic extracteur de charité.jpg",
     "Ressources/Règles/5e_Ability-Score-Table_5e.webp",
-    "Personnages/Liam Seraphim/Liam Seraphim.md",
     "Personnages/TaxePaladin",
     "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Règles/table rencontre lvl-px.png",
-    "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Liam Seraphim/Liam Seraphim lvl2 .pdf"
+    "Ressources/Règles/table rencontre lvl-px.png"
   ]
 }
