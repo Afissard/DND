@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "027fe165025502e5",
         "type": "tabs",
         "children": [
@@ -17,24 +18,79 @@
                 "file": "Personnages/Linn Seraphim/Sorts de mage intéressants.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
+=======
+<<<<<<< HEAD
+        "id": "9c00594ea7326037",
+        "type": "tabs",
+        "children": [
           {
-            "id": "d36c12230c2648a0",
+            "id": "d33d66eafd10e41f",
+=======
+<<<<<<< HEAD
+        "id": "e6e18f9f62c993eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d799f4a7a89f385",
+=======
+        "id": "4a2da5ee65c93105",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab9ead1e102b0dc9",
+>>>>>>> 29d716ff3882914e8a0708158d7ae4287343eee3
+>>>>>>> 657d86617697279de4e9970282ea9e7cd1264c14
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
+                "file": "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf"
+>>>>>>> 04a094700ba110be0f2824688a4099bd2d9b7289
+              },
+              "pinned": true
+            }
+          },
+          {
+<<<<<<< HEAD
+            "id": "d36c12230c2648a0",
+=======
+            "id": "83ab79cbdc72afab",
+>>>>>>> 04a094700ba110be0f2824688a4099bd2d9b7289
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+<<<<<<< HEAD
                 "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf"
+=======
+                "file": "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7a68259cedd7be04",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personnages/Liam Seraphim/Liam Seraphim.md",
+                "mode": "source",
+                "source": false
+>>>>>>> 04a094700ba110be0f2824688a4099bd2d9b7289
               },
               "pinned": true
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 1
+=======
+        "currentTab": 2
+>>>>>>> 04a094700ba110be0f2824688a4099bd2d9b7289
       }
     ],
     "direction": "vertical"
@@ -100,7 +156,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+=======
+                "file": "Personnages/Liam Seraphim/Liam Seraphim.md",
+>>>>>>> 04a094700ba110be0f2824688a4099bd2d9b7289
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +177,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+=======
+                "file": "Personnages/Liam Seraphim/Liam Seraphim.md",
+>>>>>>> 04a094700ba110be0f2824688a4099bd2d9b7289
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +199,29 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "30da135e7d64139f",
+=======
+            "id": "c3bec03963b8c7f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personnages/Liam Seraphim/Liam Seraphim.md"
+              }
+            }
+          },
+          {
+            "id": "d0a493cc44d3a7fd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab57444f2bd6cbf2",
+>>>>>>> 04a094700ba110be0f2824688a4099bd2d9b7289
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -175,6 +261,7 @@
       "templater-obsidian:Templater": false
     }
   },
+<<<<<<< HEAD
   "active": "d36c12230c2648a0",
   "lastOpenFiles": [
     "Personnages/Linn Seraphim/Sorts de mage intéressants.md",
@@ -188,5 +275,77 @@
     "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Paladin Donjons & Dragons - D&D 5e.pdf"
+=======
+<<<<<<< HEAD
+  "active": "7a68259cedd7be04",
+=======
+<<<<<<< HEAD
+  "active": "9d799f4a7a89f385",
+  "lastOpenFiles": [
+    "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
+    "Ragnarök/Ragnarök - Présentation.md",
+    "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
+    "Personnages/Linn Seraphim/Linn Seraphim_pnj-lvl10.pdf",
+    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Personnages/Linn Seraphim/Linn Seraphim (bis supersonic).md",
+    "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Rôdeur Donjons & Dragons - D&D 5e.pdf",
+    "Personnages/Linn Seraphim/Linn va trop vite.png",
+=======
+  "active": "ab9ead1e102b0dc9",
+>>>>>>> 657d86617697279de4e9970282ea9e7cd1264c14
+  "lastOpenFiles": [
+    "Personnages/Liam Seraphim/Liam Seraphim l2 WIP.pdf",
+    "Ressources/eFeuillePersoDD5.pdf",
+    "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
+    "Personnages/Liam Seraphim/Liam Seraphim.md",
+    "Personnages/Linn Seraphim/Linn Seraphim_pnj-lvl10.pdf",
+    "Ressources/Règles/5e_Ability-Score-Table_5e.webp",
+    "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
+    "Personnages/Linn Seraphim/Linn Seraphim.pdf",
+    "Personnages/Liam Seraphim",
+    "Ressources/Classes/Rôdeur Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "Ragnarök/Ragnarök - Présentation.md",
+    "Personnages/Linn Seraphim/Sorts de mage intéressants.md",
+    "README.md",
+    "Personnages/Linn Seraphim/Linn va trop vite.png",
+<<<<<<< HEAD
+=======
+    "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
+>>>>>>> 29d716ff3882914e8a0708158d7ae4287343eee3
+>>>>>>> 657d86617697279de4e9970282ea9e7cd1264c14
+    "Lieux/Ayihyala/Le Donjon/Donjon Etage 4.md",
+    "Lieux/Ayihyala/Le Donjon/Donjon Etage X.md",
+    "Lieux/Ayihyala/Le Donjon/Donjon Etage 2.md",
+    "Lieux/Ayihyala/Le Donjon/Donjon Etage 1.md",
+    "Lieux/Ayihyala/Le Donjon/Donjon.md",
+    "Lieux/Ayihyala/Le Donjon/Donjon Etage 3.md",
+    "Ressources/Sites internets.md",
+    "Ressources/Règles/table rencontre lvl-px.png",
+    "Personnages/Vaern.md",
+    "Main Page.md",
+    "Histoire du Monde.md",
+    "Lieux/Dimension du Palais des Sables/Palais des Sables.md",
+    "Ressources/Tranche de puissance.md",
+    "Templates/Columns.md",
+    "Templates/fiche personnage.md",
+    "Personnages/Daeliadayla/Daeliadayla Jiryaliamaoji.md",
+    "Personnages/L'Ensauceleur.md",
+    "Personnages/Greed Le-Nain Antique/Greed Le-Nain.md",
+    "Personnages/Ama-Zahanie/Ama l'enchanteresse.md",
+    "Personnages/Afylia/La Reine Afylia.md",
+    "Personnages/Mères Tikya/Le Conseil des Matriarches Tikya.md",
+    "Lieux/Ayihyala/Le Donjon/map etage 2.jpg",
+    "Personnages/Karharlak/mind-flayer.jpg",
+    "Personnages/Castiran Eville Spown/vampirien 4.jpg",
+    "Personnages/Castiran Eville Spown/vampirien 3.jpg",
+    "Personnages/Castiran Eville Spown/vampirien 2.jpg",
+    "Personnages/Castiran Eville Spown/vampirien 1.jpg",
+    "Personnages/Afylia/Afylia screenshot.png"
+>>>>>>> 04a094700ba110be0f2824688a4099bd2d9b7289
   ]
 }
