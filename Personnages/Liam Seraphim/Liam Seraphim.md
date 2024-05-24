@@ -9,7 +9,12 @@
 | Sagesse         | 16+2   | 4     |
 | Charisme        | 13     | 1     |
 Jet de caractéristique : 12 13 16 16 11 13
+# Histoire
+Liam est un fée plutôt ordinaire, si ce n'est qu'il a grandi dans l'ombre de sa grande sœur [[Linn (Linnaea) Seraphim]]. Un jour alors que sa sœur avais prouvé une énième fois ses capacités prodigieuse, il décida partir. Alors qu'il s'appretait à quitter son village en catimini par une nuit sans lune, le vieux druide de son village sorti d'une ombre et lui dit de sa voie tremblotante teinté de sénilité : "Liam, je sais ce que tu ressens, moi aussi dans ma jeunesse j'ai voulus tout quitter, et c'est ce que j'ai fais. Cela m'a permis de rencontré mon maitre et de vivre pleins d'aventure que je n'aurais jamais vécu au village. Si tu marche dans cette direction (pointant une direction presqu'au hasard) pendant deux ou trois lunes tu trouveras mon maitre, je suis sur qu'il pourra t'aider."
+Un jour alors qu'il méditais avec son maître, Liam reçu la vision de son village étant détruit par ?. Avec l'approbation de son maître, Liam se remit en chemin en direction de son village dans le but d'allez retrouver sa sœur, aider les survivants, reconstruire le village mais aussi traquer la menace. 
 # Description
+
+![[Druide Inspiration.png]]
 # Race : Fée
 ## Description
 Le Feywild abrite de nombreux peuples fantastiques, notamment des fées. Les fées sont un petit peuple, mais pas autant que leurs amis lutins et sprites. Les premières fées parlaient elfique, gobelin ou sylvain, et leurs rencontres avec des visiteurs humains ont incité nombre d'entre elles à apprendre également le commun.

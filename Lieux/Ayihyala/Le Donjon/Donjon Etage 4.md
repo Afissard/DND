@@ -9,12 +9,7 @@ Les combats sont répartis de la manière suivante : les joueurs on le choix de 
 - Greed (Guerrier) + assassin-mage (max de déplacement furtif pour backstab) -> un grotte (sombre -> désavantage vue), il y a plein de recoin, de rocher pour se cacher, seul se montre Greed, l'assassin se cache pour une attaque d'opportunité
 ## Choix n°3
 - Un Maitre du Temps (pause accélération, etc) avec une grande aiguille + Un maitre de la gravité (inversion, écrasement, trou noir),  à la mort d'un des deux frères, le survivant peut utiliser une action spécial (roll back / ?) -> dans une grande horloge (big ben)
-
-# Table de rencontre
-TODO
 # Boss
-Le Maitre Forgeron et ses créatures (si défié par les joueurs)
+Le Maitre Forgeron et son golem (avec +10 en force ?) (si défié par les joueurs)
 # Récompense
-- [[Anneau d'agrandissment mineur]]
-- [[Epée courte empoisonné]]
-- [[Anneau Bouclier d'Agathys]]
+- Un objet créer par le Maitre Forgeron
