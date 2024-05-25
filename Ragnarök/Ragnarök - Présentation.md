@@ -9,7 +9,7 @@ L'objectif est de créer un personnage à un niveau donné (20) à partir de car
 - Pour des raison d’équités, un personnage niveaux 0 a toutes ses statistiques à 10 avec 24 points à répartir librement.
 - Les races du Multivers (Mordenkainen) sont autorisé (ayez une preuve de votre source si jamais il faut vérifier une règle)
 - Vous pouvez vous multi-classer autant de fois que vous le souhaiter dans le respect des règle de DND
-- Vous pouvez acheter de l'équipement supplémentaire (armes, armure, poison, potion, etc), en complément de celui accorder par votre classe et historique, avec le modeste budget de 200PO (pour le moment pas d'objet magique tant qu'on a pas leurs "valeurs")
+- Vous pouvez acheter de l'équipement supplémentaire (armes, armure, poison, potion, etc), en complément de celui accorder par votre classe et historique, avec le modeste budget de 1000 PO (pour le moment pas d'objet magique tant qu'on a pas leurs "valeurs")
 ## Proposition
 - Dans la poursuite de la suppression du hasard dans la création de personnages, les gains de PV par niveau sont fixes, par exemple pour un niveau de moine au lieu de gagner 1d8 (ou 5) + modificateur de constitution, gagne 5 +  modificateur de constitution.
 # Combats
