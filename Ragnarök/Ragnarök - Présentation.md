@@ -17,5 +17,6 @@ Les combats pourrais soit être en 1v1 ou bien en équipe, si tout le monde est 
 ## Spécifications
 - Les effets de sorts qui demande des décisions du MJ sont interdit. Par exemple [Souhait](https://www.aidedd.org/dnd/sorts.php?vf=souhait) offre la possibilité au joueur de demander ce qu'il souhaite au MJ, cet effet est donc restreint, cependant les effet décrit dans les règles restent eux valide, par exemple avec souhait, un joueur peut toujours accorder une immunité. (*Souhait est un bonne exemple parce qu'il a plusieurs effets et qu'il est connus de tous, cependant il n'est pas exclus que certains sorts soit totalement bannis car trop injuste dans certaine situation*)
 - L'arène est choisie au préalable par les joueurs, soit par accord soit par un lancer de pièce le gagnant pouvant choisir l'arène (-> BO3, le perdant du match précédant choisie l'arène suivante)
+- Chute : 18m/tour, dégât de chute : "À la fin d’une chute, une créature reçoit 1d6 points de dégâts contondants pour chaque 3 mètres de chute, jusqu’à un maximum de 20d6."
 ## Proposition
 - Gentleman rule : Tout le monde a le droit à 1 tour de préparation sous condition de ne pas attaquer/affecter le/les adversaire, tour uniquement réservé aux buff. Si la règle est mise en place, les deux camps se mettent d'accord sur sont application ou non.

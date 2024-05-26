@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c33ec4a1e4c0ed38",
+        "id": "e17b113c46d36645",
         "type": "tabs",
         "children": [
           {
-            "id": "1f001e79922df7a2",
+            "id": "166f46383d147343",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Ragnarök/Personnages/Linn Seraphim - Dea.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "0e10e4c327fe4ee0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "52715bea6c6bd1e9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf"
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ragnarök/Personnages/Linn Seraphim - Dea.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ragnarök/Personnages/Linn Seraphim - Dea.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ragnarök/Personnages/Linn Seraphim - Dea.pdf"
-              }
+              "state": {}
             }
           }
         ],
@@ -185,26 +153,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f9dd00e2be495e4",
+  "active": "166f46383d147343",
   "lastOpenFiles": [
-    "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
-    "Ragnarök/Personnages/Linn Seraphim - Dea (1).pdf",
-    "Ragnarök/Personnages/Linn Seraphim - Dea.pdf",
-    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Personnages/Linn Seraphim/Sorts de mage intéressants.md",
-    "Ressources/eFeuillePersoDD5.pdf",
+    "Personnages/Vaern/dnd_vaern_13.pdf",
+    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
+    "Personnages/Linn Seraphim/Linn Seraphim_pnj-lvl10.pdf",
+    "Personnages/Vaern/dnd_vaern_12.pdf",
+    "Personnages/Linn Seraphim/Linn Seraphim.pdf",
+    "Ragnarök/Ragnarök - Présentation.md",
+    "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
+    "Ragnarök/Personnages/Linn Seraphim - Dea.pdf",
+    "Ressources/Règles/Basic-Rules-FR.pdf",
     "Ragnarök/Personnages/Linn Seraphim - Dea.md",
     "Ressources/Données/5e_Ability-Score-Table_5e.webp",
     "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
-    "Ragnarök/Ragnarök - Présentation.md",
-    "Ressources/Règles/Basic-Rules-FR.pdf",
-    "Personnages/Liam Seraphim/Liam Seraphim lvl2 .pdf",
     "Templates/caractéristique personnage.md",
-    "Personnages/Linn Seraphim/Linn Seraphim_pnj-lvl10.pdf",
-    "Ragnarök/Personnages",
-    "Personnages/Linn Seraphim/Linn Seraphim.pdf",
     "Personnages/Liam Seraphim/Liam Seraphim.md",
-    "Ressources/Données/Gifts Dungeons & Dragons - D&D 5e.pdf",
     "Lieux/Ayihyala/Le Donjon/Donjon Etage 4.md",
     "Lieux/Ayihyala/Cité/Les Arènes/Les arènes.md",
     "Personnages/TaxePaladin/Taxe Paladin.md",
