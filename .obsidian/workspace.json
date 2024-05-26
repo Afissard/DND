@@ -8,11 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f96c0c75eb961b5f",
+            "id": "1f001e79922df7a2",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Ragnarök/Personnages/Linn Seraphim - Dea.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0e10e4c327fe4ee0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "52715bea6c6bd1e9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf"
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ragnarök/Personnages/Linn Seraphim - Dea.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ragnarök/Personnages/Linn Seraphim - Dea.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,10 +160,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ragnarök/Personnages/Linn Seraphim - Dea.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -152,8 +185,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f96c0c75eb961b5f",
+  "active": "7f9dd00e2be495e4",
   "lastOpenFiles": [
+    "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
+    "Ragnarök/Personnages/Linn Seraphim - Dea (1).pdf",
     "Ragnarök/Personnages/Linn Seraphim - Dea.pdf",
     "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Personnages/Linn Seraphim/Sorts de mage intéressants.md",
@@ -162,7 +197,6 @@
     "Ressources/Données/5e_Ability-Score-Table_5e.webp",
     "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
     "Ragnarök/Ragnarök - Présentation.md",
-    "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Règles/Basic-Rules-FR.pdf",
     "Personnages/Liam Seraphim/Liam Seraphim lvl2 .pdf",
     "Templates/caractéristique personnage.md",
