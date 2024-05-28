@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e17b113c46d36645",
+        "id": "6e44f8dabd0b2fd6",
         "type": "tabs",
         "children": [
           {
-            "id": "166f46383d147343",
+            "id": "38236b7355d019b2",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf"
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf"
+              }
             }
           }
         ],
@@ -153,20 +161,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "166f46383d147343",
+  "active": "38236b7355d019b2",
   "lastOpenFiles": [
-    "Personnages/Linn Seraphim/Sorts de mage intéressants.md",
-    "Personnages/Vaern/dnd_vaern_13.pdf",
+    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Données/table rencontre lvl-px.png",
     "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
+    "Personnages/Vaern/dnd_vaern_13.pdf",
+    "Personnages/Linn Seraphim/Sorts de mage intéressants.md",
     "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
     "Personnages/Linn Seraphim/Linn Seraphim_pnj-lvl10.pdf",
     "Personnages/Vaern/dnd_vaern_12.pdf",
     "Personnages/Linn Seraphim/Linn Seraphim.pdf",
     "Ragnarök/Ragnarök - Présentation.md",
-    "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
-    "Ragnarök/Personnages/Linn Seraphim - Dea.pdf",
-    "Ressources/Règles/Basic-Rules-FR.pdf",
     "Ragnarök/Personnages/Linn Seraphim - Dea.md",
     "Ressources/Données/5e_Ability-Score-Table_5e.webp",
     "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
@@ -175,7 +184,6 @@
     "Lieux/Ayihyala/Le Donjon/Donjon Etage 4.md",
     "Lieux/Ayihyala/Cité/Les Arènes/Les arènes.md",
     "Personnages/TaxePaladin/Taxe Paladin.md",
-    "Ressources/Données/table rencontre lvl-px.png",
     "Personnages/Vaern/Vaern.md",
     "Personnages/L'Ensauceleur/L'Ensauceleur.md",
     "Personnages/Liam Seraphim/Druide Inspiration.png",
