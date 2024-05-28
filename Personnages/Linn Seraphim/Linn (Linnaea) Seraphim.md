@@ -127,19 +127,21 @@ Au niveau 2, lorsque vous choisissez cette école, l'or et le temps que vous dev
 À partir du niveau 14, vous avez un avantage aux jets de sauvegarde contre les sorts. En outre, vous avez la résistance contre les dégâts des sorts.
 ## Amélioration de caractéristiques 
 Au niveau 4, puis par la suite aux niveaux 8, 12, ~~16 et 19~~, vous pouvez augmenter une valeur de caractéristique de votre choix de +2, ou bien augmenter deux valeurs de caractéristique de votre choix de +1. Vous ne pouvez cependant pas augmenter une caractéristique au-delà de 20 par ce biais.
-# Guerrier Maitre de Guerre (6 niveaux)
+# Guerrier Maître de Guerre (6 niveaux)
 ## Points de vie 
 **DV :** 1d10 par niveau de guerrier 
 **PV au niveau 1 :** 10 + votre modificateur de Constitution 
 **PV aux niveaux suivants :** 1d10 (ou 6) + votre modificateur de Constitution
-## Maitrise
+## Maîtrise
 Armures : toutes les armures, boucliers 
 Armes : armes courantes, armes de guerre 
 Outils : aucun 
 Jets de sauvegarde : Force, Constitution 
 Compétences : choisissez deux compétences parmi Acrobaties, Athlétisme, Dressage, Histoire, Intimidation, Intuition, Perception et Survie
 ## Style de combat
-**Arme à deux mains :** Lorsque vous obtenez 1 ou 2 à un dé de dégâts lors d'une attaque que vous effectuez avec une arme de corps à corps que vous tenez avec vos deux mains, vous pouvez relancer le dé et obligatoirement prendre le nouveau résultat, même si celui-ci est un 1 ou un 2. L'arme doit avoir la propriété à deux mains ou polyvalente pour octroyer cet avantage. Combat à deux armes Lorsque vous vous engagez dans un combat avec deux armes en mains, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la seconde attaque.
+**Arme à deux mains :** Lorsque vous obtenez 1 ou 2 à un dé de dégâts lors d'une attaque que vous effectuez avec une arme de corps à corps que vous tenez avec vos deux mains, vous pouvez relancer le dé et obligatoirement prendre le nouveau résultat, même si celui-ci est un 1 ou un 2. L'arme doit avoir la propriété à deux mains ou polyvalente pour octroyer cet avantage.
+***OU***
+**Combat à deux armes :** Lorsque vous vous engagez dans un combat avec deux armes en mains, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la seconde attaque.
 ***OU***
 **Combat à deux armes :** Lorsque vous vous engagez dans un combat avec deux armes en mains, vous pouvez ajouter votre modificateur de caractéristique aux dégâts de la seconde attaque.
 ***OU***
@@ -150,7 +152,7 @@ Vous possédez une réserve d'endurance limitée dans laquelle vous pouvez puise
 À partir du niveau 2, à votre tour, vous pouvez réaliser une action supplémentaire en plus de votre action normale et de votre éventuelle action bonus. Une fois cette capacité utilisée, vous devez terminer un repos court ou long pour pouvoir l'utiliser de nouveau. ~~À partir du niveau 17, vous pouvez utiliser cette capacité deux fois entre deux repos, mais une seule fois par tour.~~
 ## Archétype martial 
 Au niveau 3, choisissez un archétype que vous vous efforcez d'imiter dans vos styles et techniques de combat. Votre archétype vous accorde des capacités spéciales au niveau 3 ~~puis de nouvelles aux niveaux 7, 10, 15 et 18~~.
-### Maitre de Guerre
+### Maître de Guerre
 Vous êtes un expert des manœuvres durant la bataille. Vous comptez sur la ruse et la prouesse pour vaincre vos ennemis. Une formation intense combinée à une attention constante vous propulse au combat. La victoire est un signe de plus de la suprématie martiale. 
 #### Disciple martial 
 Au niveau 3, vous gagnez la maîtrise d'un outil d'artisan de votre choix. 

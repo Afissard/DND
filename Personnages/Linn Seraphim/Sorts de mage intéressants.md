@@ -18,6 +18,7 @@
 - [protection contre le bien et le mal](https://www.aidedd.org/dnd/sorts.php?vf=protection-contre-le-mal-et-le-bien) : situationnel
 - [repli expéditif](https://www.aidedd.org/dnd/sorts.php?vf=repli-expeditif) : "déjà vu!"
 - [trait ensorceler](https://www.aidedd.org/dnd/sorts.php?vf=trait-ensorcele) : concentration, forts à tout niveau
+- [sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil) : attention au PV
 
 ## Tier 2
 - [agrandissement / rapetissement](https://www.aidedd.org/dnd/sorts.php?vf=agrandissement-rapetissement) : très fort pour corp à corp (trait de race -> action bonus)
@@ -72,6 +73,8 @@
 - [inversion de la gravité](https://www.aidedd.org/dnd/sorts.php?vf=inversion-de-la-gravite) : très fort quand tu peux voler
 - [symbole](https://www.aidedd.org/dnd/sorts.php?vf=symbole) : pratique, peut être moins détournable de l'usage que le glyphe
 - [téléportation](https://www.aidedd.org/dnd/sorts.php?vf=teleportation) : très utile
+- [doigt de mort](https://www.aidedd.org/dnd/sorts.php?vf=doigt-de-mort) : désintégration pour créer un zombi
+- [rayons prismatiques](https://www.aidedd.org/dnd/sorts.php?vf=rayons-prismatiques) : puissant et drôle avec un peu de chance
 
 ## Tier 8
 - [champ d'antimagie](https://www.aidedd.org/dnd/sorts.php?vf=champ-antimagie) : très fort face à un mage plus dangereux que le lanceur

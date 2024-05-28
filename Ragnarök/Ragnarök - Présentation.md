@@ -9,7 +9,7 @@ L'objectif est de créer un personnage à un niveau donné (20) à partir de car
 - Pour des raison d’équités, un personnage niveaux 0 a toutes ses statistiques à 10 avec 24 points à répartir librement.
 - Les races du Multivers (Mordenkainen) sont autorisé (ayez une preuve de votre source si jamais il faut vérifier une règle)
 - Vous pouvez vous multi-classer autant de fois que vous le souhaiter dans le respect des règle de DND
-- Vous pouvez acheter de l'équipement supplémentaire (armes, armure, poison, potion, etc), en complément de celui accorder par votre classe et historique, avec le modeste budget de 200PO (pour le moment pas d'objet magique tant qu'on a pas leurs "valeurs")
+- Vous pouvez acheter de l'équipement supplémentaire (armes, armure, poison, potion, etc), en complément de celui accorder par votre classe et historique, avec le modeste budget de 1000 PO (pour le moment pas d'objet magique tant qu'on a pas leurs "valeurs")
 ## Proposition
 - Dans la poursuite de la suppression du hasard dans la création de personnages, les gains de PV par niveau sont fixes, par exemple pour un niveau de moine au lieu de gagner 1d8 (ou 5) + modificateur de constitution, gagne 5 +  modificateur de constitution.
 # Combats
@@ -17,5 +17,6 @@ Les combats pourrais soit être en 1v1 ou bien en équipe, si tout le monde est 
 ## Spécifications
 - Les effets de sorts qui demande des décisions du MJ sont interdit. Par exemple [Souhait](https://www.aidedd.org/dnd/sorts.php?vf=souhait) offre la possibilité au joueur de demander ce qu'il souhaite au MJ, cet effet est donc restreint, cependant les effet décrit dans les règles restent eux valide, par exemple avec souhait, un joueur peut toujours accorder une immunité. (*Souhait est un bonne exemple parce qu'il a plusieurs effets et qu'il est connus de tous, cependant il n'est pas exclus que certains sorts soit totalement bannis car trop injuste dans certaine situation*)
 - L'arène est choisie au préalable par les joueurs, soit par accord soit par un lancer de pièce le gagnant pouvant choisir l'arène (-> BO3, le perdant du match précédant choisie l'arène suivante)
+- Chute : 18m/tour, dégât de chute : "À la fin d’une chute, une créature reçoit 1d6 points de dégâts contondants pour chaque 3 mètres de chute, jusqu’à un maximum de 20d6."
 ## Proposition
 - Gentleman rule : Tout le monde a le droit à 1 tour de préparation sous condition de ne pas attaquer/affecter le/les adversaire, tour uniquement réservé aux buff. Si la règle est mise en place, les deux camps se mettent d'accord sur sont application ou non.
