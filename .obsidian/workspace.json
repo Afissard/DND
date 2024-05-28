@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d97a84eac5bb5942",
+        "id": "0e95ad956d56211e",
         "type": "tabs",
         "children": [
           {
-            "id": "6b155f2c9544185f",
+            "id": "05ff11c664605481",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "66ae6f3d53a3b7ed",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Ressources/Données/table rencontre lvl-px.png"
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "467f8bd30886d2c1",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -173,12 +152,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6b155f2c9544185f",
+  "active": "05ff11c664605481",
   "lastOpenFiles": [
+    "Ressources/Données/table rencontre lvl-px.png",
+    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
     "Personnages/Hora/Hora-Armure.pdf",
     "Ressources/eFeuillePersoDD5.pdf",
-    "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Données/table rencontre lvl-px.png",
     "Personnages/Linn Seraphim/Linn Seraphim_pnj-lvl10.pdf",
     "Lieux/Ayihyala/Le Donjon/Donjon Etage 4.md",
     "Personnages/Hora",
@@ -188,8 +168,6 @@
     "Personnages/Vaern",
     "Sans titre",
     "Personnages/Liam Seraphim/Liam Seraphim.md",
-    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Liam Seraphim/Liam Seraphim lvl2  (1).pdf",
     "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
     "Personnages/Liam Seraphim/Druide Inspiration.png",
     "Templates/image personnage placeholder.png",
