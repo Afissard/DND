@@ -1,30 +1,18 @@
 {
   "main": {
-    "id": "f1f88457784d484c",
+    "id": "09b5603fd707d38e",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "6e44f8dabd0b2fd6",
+        "id": "3f36d469893ffcb6",
         "type": "tabs",
         "children": [
           {
-            "id": "38236b7355d019b2",
-=======
-        "id": "0e95ad956d56211e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "05ff11c664605481",
->>>>>>> 54d009b54f729e33fc10c50d74bbdb9cea8ab677
+            "id": "1657f40bd1d2a8ef",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf"
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -33,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d9aa46e4ac115982",
+    "id": "f06bbc1f58fbd304",
     "type": "split",
     "children": [
       {
-        "id": "08e478c82c273fee",
+        "id": "3e804a58f9437cf8",
         "type": "tabs",
         "children": [
           {
-            "id": "f53416bf45f2665b",
+            "id": "b8d5d6b29de9fc3a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +39,7 @@
             }
           },
           {
-            "id": "d4f176e0f258fe90",
+            "id": "d0bae09e32aafa74",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +54,7 @@
             }
           },
           {
-            "id": "902b17a36f054199",
+            "id": "30c3247ca62384f5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "467f8bd30886d2c1",
+    "id": "fd2aedfc13d13a70",
     "type": "split",
     "children": [
       {
-        "id": "d2ddd13e6c0c8042",
+        "id": "28b1e36e7fb87495",
         "type": "tabs",
         "children": [
           {
-            "id": "73de6f5890fa1b98",
+            "id": "a6f2694890c01e06",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +92,18 @@
             }
           },
           {
-            "id": "a0c7a4d8503875d6",
+            "id": "fb88495cbbccc508",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5061ac5936bc6eca",
+            "id": "59ed89d4c20d832b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,7 +114,7 @@
             }
           },
           {
-            "id": "03ca14fcc3aae8a5",
+            "id": "7e5996ff7b64ee36",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -140,13 +126,11 @@
             }
           },
           {
-            "id": "7f9dd00e2be495e4",
+            "id": "abf57faffab7306c",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,68 +142,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "38236b7355d019b2",
+  "active": "1657f40bd1d2a8ef",
   "lastOpenFiles": [
-    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Données/table rencontre lvl-px.png",
-    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Vaern/dnd_vaern_13.pdf",
-    "Personnages/Linn Seraphim/Sorts de mage intéressants.md",
-    "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Linn Seraphim/Linn Seraphim_pnj-lvl10.pdf",
-    "Personnages/Vaern/dnd_vaern_12.pdf",
-    "Personnages/Linn Seraphim/Linn Seraphim.pdf",
-    "Ragnarök/Ragnarök - Présentation.md",
-    "Ragnarök/Personnages/Linn Seraphim - Dea.md",
-    "Ressources/Données/5e_Ability-Score-Table_5e.webp",
-    "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
-    "Templates/caractéristique personnage.md",
-    "Personnages/Liam Seraphim/Liam Seraphim.md",
-    "Lieux/Ayihyala/Le Donjon/Donjon Etage 4.md",
-    "Lieux/Ayihyala/Cité/Les Arènes/Les arènes.md",
-    "Personnages/TaxePaladin/Taxe Paladin.md",
-    "Personnages/Vaern/Vaern.md",
-=======
-  "active": "f53416bf45f2665b",
-  "lastOpenFiles": [
-    "Templates/caractéristique personnage.md",
-    "Ressources/Données/5e_Ability-Score-Table_5e.webp",
-    "Ragnarök/Personnages/Linn Seraphim - Dea.pdf",
-    "Ragnarök/Personnages/Linn Seraphim - Dea.md",
-    "Ragnarök/Personnages",
-    "Personnages/Vaern/dnd_vaern_13.pdf",
-    "Personnages/Vaern/dnd_vaern_12.pdf",
-    "Personnages/Muda/Muda-Armure.pdf",
-    "Personnages/Muda",
-    "Ressources/Données/table rencontre lvl-px.png",
-    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Hora/Hora-Armure.pdf",
-    "Ressources/eFeuillePersoDD5.pdf",
-    "Lieux/Ayihyala/Le Donjon/Donjon Etage 4.md",
->>>>>>> 54d009b54f729e33fc10c50d74bbdb9cea8ab677
-    "Personnages/L'Ensauceleur/L'Ensauceleur.md",
-    "Personnages/Liam Seraphim/Liam Seraphim.md",
-    "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
-    "Personnages/Liam Seraphim/Druide Inspiration.png",
-    "Templates/image personnage placeholder.png",
-    "Personnages/TaxePaladin/Taxe Paladin.md",
-    "Personnages/TaxePaladin/magic extracteur de charité illustration.jpg",
-    "Personnages/TaxePaladin/magic extracteur de charité.jpg",
-    "Ressources/Règles/5e_Ability-Score-Table_5e.webp"
+    "Ragnarök/Personnages/Linn Seraphim - Dea.pdf"
   ]
 }
