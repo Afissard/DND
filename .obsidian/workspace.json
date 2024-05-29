@@ -4,18 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "0e95ad956d56211e",
+        "id": "2aba8c69a60b6edf",
         "type": "tabs",
         "children": [
           {
-            "id": "05ff11c664605481",
+            "id": "c2d1c30181206112",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2adf086d16f2b2c9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ressources/eFeuillePersoDD5.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "560020c35d1d0ddb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personnages/Asudem/Asudem.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4c8f336da8fd058e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personnages/Asudem/Asudem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personnages/Asudem/Asudem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personnages/Asudem/Asudem.md"
+              }
             }
           }
         ]
@@ -152,26 +197,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f53416bf45f2665b",
+  "active": "560020c35d1d0ddb",
   "lastOpenFiles": [
-    "Templates/caractéristique personnage.md",
     "Ressources/Données/5e_Ability-Score-Table_5e.webp",
+    "Ressources/eFeuillePersoDD5.pdf",
+    "Personnages/Asudem/Asudem.md",
+    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
+    "Personnages/Asudem",
+    "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
+    "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
+    "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim BIS.md",
+    "README.md",
+    "Templates/caractéristique personnage.md",
     "Ragnarök/Personnages/Linn Seraphim - Dea.pdf",
     "Ragnarök/Personnages/Linn Seraphim - Dea.md",
     "Ragnarök/Personnages",
     "Personnages/Vaern/dnd_vaern_13.pdf",
     "Personnages/Vaern/dnd_vaern_12.pdf",
     "Personnages/Muda/Muda-Armure.pdf",
-    "Personnages/Muda",
     "Ressources/Données/table rencontre lvl-px.png",
-    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Hora/Hora-Armure.pdf",
-    "Ressources/eFeuillePersoDD5.pdf",
     "Lieux/Ayihyala/Le Donjon/Donjon Etage 4.md",
     "Personnages/L'Ensauceleur/L'Ensauceleur.md",
     "Personnages/Liam Seraphim/Liam Seraphim.md",
-    "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
     "Personnages/Liam Seraphim/Druide Inspiration.png",
     "Templates/image personnage placeholder.png",
     "Personnages/TaxePaladin/Taxe Paladin.md",
