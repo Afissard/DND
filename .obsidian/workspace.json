@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c82089ed6dd5b51",
+        "id": "b67c86dea7df0aaa",
         "type": "tabs",
         "children": [
           {
-            "id": "451475d1f448c8bc",
+            "id": "d2dba3d651a5cd16",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -19,16 +19,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "b78460f16b420e17",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Personnages/Asudem/Asudem.pdf"
-              }
             }
           }
         ]
@@ -81,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "54c4217d8e9227c8",
@@ -162,25 +153,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "451475d1f448c8bc",
+  "active": "d2dba3d651a5cd16",
   "lastOpenFiles": [
+    "Personnages/Asudem/Asudem (1).pdf",
     "Personnages/Asudem/Asudem.pdf",
     "Personnages/Asudem/Asudem.md",
+    "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Sword-Coast-Map_HighRes.jpg",
+    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
     "Ressources/eFeuillePersoDD5.pdf",
     "Ressources/Sites internets.md",
-    "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Données/5e_Ability-Score-Table_5e.webp",
-    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf"
+    "Ressources/Données/5e_Ability-Score-Table_5e.webp"
   ]
 }

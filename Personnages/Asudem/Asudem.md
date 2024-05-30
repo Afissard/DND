@@ -1,3 +1,8 @@
+# Description
+Femme à la peau presque trop blanche pour une humaine, ses yeux sont d'un bleu roi avec des pupilles verticale. Elle porte une longue cape noire avec un voile (opaque) masquant ses yeux (3m de porté de vue) en plus de ses robes noire de moine-ninja.
+# Histoire
+Asudem est née maudite, ses parant l'ont donné au temple de Bhaal quelque mois après la première manifestation de ses étranges pouvoirs. Aujourd'hui moine de Bhaal, Asudem chasse et tue, de manière implacable, à la demande de son temple rappelant à tous que personne ne peut échapper à la mort éternellement.
+Asudem s'est créer une petite réputation en laissant ses victimes pétrifié de terreur et de surprise.
 # Caractéristiques
 caractéristiques de base : 11 18 14 12 7 13
 humain (variante) : +2 points différent
