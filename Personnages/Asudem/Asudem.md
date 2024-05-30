@@ -2,22 +2,40 @@
 caractéristiques de base : 11 18 14 12 7 13
 humain (variante) : +2 points différent
 
-| Caractéristique | Valeur | Bonus | Sauvegarde | Bonus Sauvegarde |
-| :-------------: | :----: | :---: | :--------: | :--------------: |
-|      Force      |   7    |  --2  |            |                  |
-|    Dextérité    |   19   |   4   |            |                  |
-|  Constitution   |   14   |   2   |            |                  |
-|  Intelligence   |   11   |   0   |            |                  |
-|     Sagesse     |   14   |   2   |            |                  |
-|    Charisme     |   12   |   1   |            |                  |
+| Caractéristique | Valeur | Bonus | Sauvegarde |
+| :-------------: | :----: | :---: | :--------: |
+|      Force      |   7    |  -2   | -2+2 -> 0  |
+|    Dextérité    |   19   |   4   |  4+2 -> 6  |
+|  Constitution   |   14   |   2   |     2      |
+|  Intelligence   |   11   |   0   |     0      |
+|     Sagesse     |   14   |   2   |     2      |
+|    Charisme     |   12   |   1   |     1      |
 # Race : Humain (variante)
 ## Malédiction de [Méduse](https://www.aidedd.org/dnd/monstres.php?vf=meduse)
-**Regard pétrifiant :**  Si une créature débute son tour à 9 mètres ou moins de la méduse et que chacun peut voir l'autre, la méduse (si elle n'est pas incapable d'agir) peut forcer la créature à effectuer un jet de sauvegarde de Constitution DD 14. En cas d'échec de 5 points ou plus, la créature est immédiatement pétrifiée. En cas de simple échec, elle commence à se changer en pierre et est entravée. Elle doit retenter le jet de sauvegarde à la fin de son prochain tour. En cas de réussite, l'effet se termine. En cas d'échec, la créature est pétrifiée, jusqu'à ce qu'elle soit délivrée par un sort de [restauration supérieure](https://www.aidedd.org/dnd/sorts.php?vf=restauration-superieure) ou par une magie similaire. À moins qu'elle ne soit surprise, une créature peut éviter le regard de la méduse pour éviter un jet de sauvegarde au début de son tour. Dans ce cas, elle ne pourra pas voir la méduse jusqu'au début de son prochain tour, et pourra encore choisir à ce moment d'éviter son regard. Si elle regarde la méduse entretemps, elle devra tenter immédiatement le jet de sauvegarde. Si la méduse voit son propre reflet à 9 mètres ou moins dans des conditions de lumière vive, la méduse, du fait de sa malédiction, sera affectée par son propre regard.
+**Regard pétrifiant :**  Si une créature débute son tour à 9 mètres ou moins de la méduse et que chacun peut voir l'autre, la méduse (si elle n'est pas incapable d'agir) peut forcer la créature à effectuer un jet de sauvegarde de Constitution DD 14. En cas d'échec de 5 points ou plus, la créature est immédiatement pétrifiée. En cas de simple échec, elle commence à se changer en pierre et est entravée. Elle doit retenter le jet de sauvegarde à la fin de son prochain tour. En cas de réussite, l'effet se termine. En cas d'échec, la créature est pétrifiée, jusqu'à ce qu'elle soit délivrée par un sort de [restauration supérieure](https://www.aidedd.org/dnd/sorts.php?vf=restauration-superieure) ou par une magie similaire. À moins qu'elle ne soit surprise, une créature peut éviter le regard de la méduse pour éviter un jet de sauvegarde au début de son tour. Dans ce cas, elle ne pourra pas voir la méduse jusqu'au début de son prochain tour, et pourra encore choisir à ce moment d'éviter son regard. Si elle regarde la méduse entre temps, elle devra tenter immédiatement le jet de sauvegarde. Si la méduse voit son propre reflet à 9 mètres ou moins dans des conditions de lumière vive, la méduse, du fait de sa malédiction, sera affectée par son propre regard.
 # Dons
 ## Vigilant
 Toujours en train de guetter le danger, vous gagnez les avantages suivants : 
 - Vous gagnez un bonus de +5 à l'initiative. 
 - Vous ne pouvez pas être surpris tant que vous êtes conscient. 
 - Les autres créatures n'ont pas un avantage aux jets d'attaque contre vous du fait que vous ne les voyez pas
+## Chanceux
+Vous avez une chance inexplicable qui semble tomber juste au bon moment. Vous avez 3 points de chance. Chaque fois que vous faites un jet d'attaque, de caractéristique ou de sauvegarde, vous pouvez dépenser un point de chance pour lancer un d20 supplémentaire. Vous pouvez choisir de dépenser un de vos points de chance après avoir lancé le dé mais avant que son effet soit déterminé. Vous choisissez quel d20 utiliser pour le jet d'attaque, de caractéristique ou de sauvegarde. Vous pouvez également dépenser un point de chance quand un jet d'attaque est fait contre vous. Lancez un d20, et choisissez quel jet l'attaquant doit utiliser. Si plus d'une créature dépense un point de chance pour influencer le résultat d'un jet, les points s'annulent ; aucun dé supplémentaire n'est lancé. Vous regagnez vos points de chance dépensés lorsque vous terminez un repos long.
+## Attaquant sauvage
+Une fois par tour quand vous lancez les dégâts d'une attaque au corps à corps avec une arme, vous pouvez relancer les dégâts de l'arme et choisir le meilleur des deux résultats.
+## Initié à la magie
+Choisissez une classe : barde, clerc, druide, ensorceleur, magicien ou occultiste. Vous apprenez deux sorts mineurs de votre choix parmi la liste de sorts de cette classe. En outre, choisissez un sort de niveau 1 à apprendre dans cette même liste. En utilisant ce don, vous pouvez lancer le sort à son niveau le plus bas et devez ensuite terminer un repos long avant de pouvoir le lancer à nouveau de cette manière. Votre caractéristique d'incantation pour ces sorts dépend de la classe que vous avez choisie : Charisme pour barde, ensorceleur ou occultiste ; Sagesse pour clerc ou druide ; Intelligence pour magicien.
 ## Robuste
 Votre maximum de points de vie augmente d'un montant égal au double de votre niveau quand vous gagnez ce don. Chaque fois que vous gagnez un niveau par la suite, votre maximum de points de vie augmente de 2 points de vie supplémentaires.
+# Classes
+11 niveau de moine pour 9 de roublard
+## Moine voix de l'ombre
+### Défense sans armure 
+Dès le niveau 1, tant que vous n'êtes équipé ni d'une armure, ni d'un bouclier, votre CA est égale à 10 + votre modificateur de Dextérité + votre modificateur de Sagesse. 
+### Arts martiaux 
+Au niveau 1, votre pratique des arts martiaux vous donne la maîtrise des styles de combat utilisant les attaques à mains nues et les armes de moine, qui sont l'épée courte et toutes les armes de corps à corps courantes qui n'ont ni la propriété à deux mains, ni la propriété lourde. Vous gagnez les avantages suivants lorsque vous êtes à mains nues ou ne maniez que des armes de moine et que vous n'êtes équipé ni d'armure ni de bouclier : 
+- Vous pouvez utiliser la Dextérité à la place de la Force aux jets d'attaque et de dégâts de vos attaques à mains nues et avec des armes de moine. 
+- Vous pouvez lancer un d4 à la place des dégâts normaux de votre attaque à mains nues ou de vos armes de moine. Ce dé change lorsque vous gagnez des niveaux de moine, comme indiqué dans la colonne Arts martiaux de la table ci-dessus. 
+- Lorsque vous utilisez l'action Attaquer avec une attaque à mains nues ou une arme de moine au cours de votre tour, vous pouvez effectuer une attaque à mains nues au prix d'une action bonus. Par exemple, si vous prenez l'action Attaque et attaquez avec un bâton, vous pouvez également effectuer une attaque à mains nues avec votre action bonus, à condition que vous n'ayez pas déjà utilisé votre action bonus pour ce tour.
+Certains monastères utilisent des versions spéciales des armes de moine. Par exemple, vous pourriez utiliser un gourdin dont les deux manches en bois sont reliés par une chaîne de fer (cette arme est alors appelée un nunchaku) ou bien une serpe possédant une lame plus courte et plus droite (on parle alors de kama). Quel que soit le nom que vous utilisiez pour votre arme de moine, vous pouvez utiliser les statistiques de jeu données à l'arme dans le chapitre Armes.
+## Roublard assassin

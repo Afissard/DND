@@ -1,39 +1,14 @@
 {
   "main": {
-    "id": "09b5603fd707d38e",
+    "id": "02027fbf58397074",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "2aba8c69a60b6edf",
+        "id": "1c82089ed6dd5b51",
         "type": "tabs",
         "children": [
           {
-            "id": "c2d1c30181206112",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2adf086d16f2b2c9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Ressources/eFeuillePersoDD5.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "560020c35d1d0ddb",
+            "id": "451475d1f448c8bc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -47,52 +22,30 @@
             }
           },
           {
-            "id": "4c8f336da8fd058e",
-=======
-<<<<<<< HEAD
-        "id": "6e44f8dabd0b2fd6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "38236b7355d019b2",
-=======
-        "id": "0e95ad956d56211e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "05ff11c664605481",
->>>>>>> 54d009b54f729e33fc10c50d74bbdb9cea8ab677
->>>>>>> 06c5600f3afc969e59f3ce850bf7addebb4f8800
+            "id": "b78460f16b420e17",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-<<<<<<< HEAD
-                "file": "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf"
+                "file": "Personnages/Asudem/Asudem.pdf"
               }
-=======
-                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf"
-              },
-              "pinned": true
->>>>>>> 06c5600f3afc969e59f3ce850bf7addebb4f8800
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f06bbc1f58fbd304",
+    "id": "d5da0422d6cc65e1",
     "type": "split",
     "children": [
       {
-        "id": "3e804a58f9437cf8",
+        "id": "1526960d9257e857",
         "type": "tabs",
         "children": [
           {
-            "id": "b8d5d6b29de9fc3a",
+            "id": "48fd4046e580aebb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -102,7 +55,7 @@
             }
           },
           {
-            "id": "d0bae09e32aafa74",
+            "id": "61cced4afd190fb9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -117,7 +70,7 @@
             }
           },
           {
-            "id": "30c3247ca62384f5",
+            "id": "3e44c140de21dcdf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -131,24 +84,20 @@
     "width": 300
   },
   "right": {
-    "id": "fd2aedfc13d13a70",
+    "id": "54c4217d8e9227c8",
     "type": "split",
     "children": [
       {
-        "id": "28b1e36e7fb87495",
+        "id": "d0f366ba9d54ee69",
         "type": "tabs",
         "children": [
           {
-            "id": "a6f2694890c01e06",
+            "id": "8de1748db04a330e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "Personnages/Asudem/Asudem.md",
-=======
-                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
->>>>>>> 06c5600f3afc969e59f3ce850bf7addebb4f8800
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,23 +109,19 @@
             }
           },
           {
-            "id": "fb88495cbbccc508",
+            "id": "f56be2d281cd7a29",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
                 "file": "Personnages/Asudem/Asudem.md",
-=======
-                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
->>>>>>> 06c5600f3afc969e59f3ce850bf7addebb4f8800
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "59ed89d4c20d832b",
+            "id": "1d38d1ca0a12851a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -187,7 +132,7 @@
             }
           },
           {
-            "id": "7e5996ff7b64ee36",
+            "id": "4583a652588d2080",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -199,12 +144,12 @@
             }
           },
           {
-            "id": "abf57faffab7306c",
+            "id": "52f7a6f8d84d5347",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf"
+                "file": "Personnages/Asudem/Asudem.md"
               }
             }
           }
@@ -227,58 +172,15 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "38236b7355d019b2",
+  "active": "451475d1f448c8bc",
   "lastOpenFiles": [
-    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Données/table rencontre lvl-px.png",
-    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Vaern/dnd_vaern_13.pdf",
-    "Personnages/Linn Seraphim/Sorts de mage intéressants.md",
-    "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Linn Seraphim/Linn Seraphim_pnj-lvl10.pdf",
-    "Personnages/Vaern/dnd_vaern_12.pdf",
-    "Personnages/Linn Seraphim/Linn Seraphim.pdf",
-    "Ragnarök/Ragnarök - Présentation.md",
-    "Ragnarök/Personnages/Linn Seraphim - Dea.md",
-    "Ressources/Données/5e_Ability-Score-Table_5e.webp",
-    "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
-    "Templates/caractéristique personnage.md",
-    "Personnages/Liam Seraphim/Liam Seraphim.md",
-    "Lieux/Ayihyala/Le Donjon/Donjon Etage 4.md",
-    "Lieux/Ayihyala/Cité/Les Arènes/Les arènes.md",
-    "Personnages/TaxePaladin/Taxe Paladin.md",
-    "Personnages/Vaern/Vaern.md",
-=======
-  "active": "f53416bf45f2665b",
-  "lastOpenFiles": [
-    "Templates/caractéristique personnage.md",
-    "Ressources/Données/5e_Ability-Score-Table_5e.webp",
-    "Ragnarök/Personnages/Linn Seraphim - Dea.pdf",
-    "Ragnarök/Personnages/Linn Seraphim - Dea.md",
-    "Ragnarök/Personnages",
-    "Personnages/Vaern/dnd_vaern_13.pdf",
-    "Personnages/Vaern/dnd_vaern_12.pdf",
-    "Personnages/Muda/Muda-Armure.pdf",
-    "Personnages/Muda",
-    "Ressources/Données/table rencontre lvl-px.png",
-    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Hora/Hora-Armure.pdf",
+    "Personnages/Asudem/Asudem.pdf",
+    "Personnages/Asudem/Asudem.md",
     "Ressources/eFeuillePersoDD5.pdf",
-    "Lieux/Ayihyala/Le Donjon/Donjon Etage 4.md",
->>>>>>> 54d009b54f729e33fc10c50d74bbdb9cea8ab677
-    "Personnages/L'Ensauceleur/L'Ensauceleur.md",
-    "Personnages/Liam Seraphim/Liam Seraphim.md",
-    "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim.md",
-    "Personnages/Liam Seraphim/Druide Inspiration.png",
-    "Templates/image personnage placeholder.png",
-    "Personnages/TaxePaladin/Taxe Paladin.md",
-    "Personnages/TaxePaladin/magic extracteur de charité illustration.jpg",
-    "Personnages/TaxePaladin/magic extracteur de charité.jpg",
-    "Ressources/Règles/5e_Ability-Score-Table_5e.webp"
+    "Ressources/Sites internets.md",
+    "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Données/5e_Ability-Score-Table_5e.webp",
+    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf"
   ]
 }
