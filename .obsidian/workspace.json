@@ -24,14 +24,17 @@
           {
             "id": "b78460f16b420e17",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Personnages/Asudem/Asudem.pdf"
-              }
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personnages/Asudem/Asudem.md",
+                "file": "Personnages/Asudem/Asudem.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personnages/Asudem/Asudem.md",
+                "file": "Personnages/Asudem/Asudem.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personnages/Asudem/Asudem.md"
+                "file": "Personnages/Asudem/Asudem.pdf"
               }
             }
           }
@@ -172,8 +175,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "451475d1f448c8bc",
+  "active": "b78460f16b420e17",
   "lastOpenFiles": [
+    "Personnages/Vaern/dnd_vaern_13.pdf",
+    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Personnages/Linn Seraphim/Linn Seraphim.pdf",
     "Personnages/Asudem/Asudem.pdf",
     "Personnages/Asudem/Asudem.md",
     "Ressources/eFeuillePersoDD5.pdf",
