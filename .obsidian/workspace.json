@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b67c86dea7df0aaa",
+        "id": "ea03bc9042bdf3ea",
         "type": "tabs",
         "children": [
           {
-            "id": "d2dba3d651a5cd16",
+            "id": "95b344cc23a790c3",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personnages/Asudem/Asudem.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -71,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54c4217d8e9227c8",
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personnages/Asudem/Asudem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personnages/Asudem/Asudem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personnages/Asudem/Asudem.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,11 +152,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d2dba3d651a5cd16",
+  "active": "95b344cc23a790c3",
   "lastOpenFiles": [
+    "Ressources/Données/5e_Ability-Score-Table_5e.webp",
+    "Personnages/Asudem/Asudem.md",
     "Personnages/Asudem/Asudem (1).pdf",
     "Personnages/Asudem/Asudem.pdf",
-    "Personnages/Asudem/Asudem.md",
     "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Sword-Coast-Map_HighRes.jpg",
     "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
@@ -175,7 +165,6 @@
     "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
     "Ressources/eFeuillePersoDD5.pdf",
-    "Ressources/Sites internets.md",
-    "Ressources/Données/5e_Ability-Score-Table_5e.webp"
+    "Ressources/Sites internets.md"
   ]
 }
