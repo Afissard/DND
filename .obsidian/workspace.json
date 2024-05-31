@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "ea03bc9042bdf3ea",
         "type": "tabs",
         "children": [
           {
             "id": "95b344cc23a790c3",
+=======
+        "id": "6e380f0415c60fce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55672ddcd342028f",
+>>>>>>> 542f531047470b133a775cf5bdd2d8d04f3c4abb
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -142,29 +150,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false
     }
   },
+<<<<<<< HEAD
   "active": "95b344cc23a790c3",
   "lastOpenFiles": [
     "Ressources/Données/5e_Ability-Score-Table_5e.webp",
     "Personnages/Asudem/Asudem.md",
     "Personnages/Asudem/Asudem (1).pdf",
     "Personnages/Asudem/Asudem.pdf",
+=======
+  "active": "55672ddcd342028f",
+  "lastOpenFiles": [
+    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
+    "Personnages/Asudem/Asudem.md",
+    "Personnages/Asudem/Asudem.pdf",
+    "Personnages/Vaern/dnd_vaern_13.pdf",
+    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
+    "Ressources/Données/table rencontre lvl-px.png",
+    "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
+    "Personnages/Linn Seraphim/Linn Seraphim.pdf",
+>>>>>>> 542f531047470b133a775cf5bdd2d8d04f3c4abb
     "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Sword-Coast-Map_HighRes.jpg",
-    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
+<<<<<<< HEAD
     "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
     "Ressources/eFeuillePersoDD5.pdf",
     "Ressources/Sites internets.md"
+=======
+    "Ressources/Sites internets.md",
+    "Ressources/Données/5e_Ability-Score-Table_5e.webp"
+>>>>>>> 542f531047470b133a775cf5bdd2d8d04f3c4abb
   ]
 }
