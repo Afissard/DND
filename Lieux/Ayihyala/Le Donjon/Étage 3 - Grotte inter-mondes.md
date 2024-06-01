@@ -1,5 +1,7 @@
 # Description
 Cet étage ne semble pas avoir été construit par la main de l'homme, c'est une grande grotte assez linéaire (avec quelque niches tout de même), les nombreux cristaux qui habille ses parois reflète absolument tout, lumière, magie, et même l'énergie cinétique des coups, les rendant indestructible ?
+
+Il y a caché dans l'étage une porte vers les enfers, gardé par quelque diablotins et autres démons
 # Table de rencontre
 
 | 1D8 | Rencontre                   |

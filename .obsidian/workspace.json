@@ -1,26 +1,24 @@
 {
   "main": {
-    "id": "02027fbf58397074",
+    "id": "fea3dc1a178365ce",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "ea03bc9042bdf3ea",
+        "id": "b3d8a38c3484da9b",
         "type": "tabs",
         "children": [
           {
-            "id": "95b344cc23a790c3",
-=======
-        "id": "6e380f0415c60fce",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "55672ddcd342028f",
->>>>>>> 542f531047470b133a775cf5bdd2d8d04f3c4abb
+            "id": "b381914bad69cbd9",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lieux/Ayihyala/Le Donjon/Étage 4 - Vallée enchantée.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -29,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d5da0422d6cc65e1",
+    "id": "a16aa56465b56684",
     "type": "split",
     "children": [
       {
-        "id": "1526960d9257e857",
+        "id": "306b1738e7f9a764",
         "type": "tabs",
         "children": [
           {
-            "id": "48fd4046e580aebb",
+            "id": "c7165e9a8533b4c8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +45,7 @@
             }
           },
           {
-            "id": "61cced4afd190fb9",
+            "id": "990d05daaa1264f1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +60,7 @@
             }
           },
           {
-            "id": "3e44c140de21dcdf",
+            "id": "b97d4d65bdb3018a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,19 +74,20 @@
     "width": 300
   },
   "right": {
-    "id": "54c4217d8e9227c8",
+    "id": "26571e859f2680a4",
     "type": "split",
     "children": [
       {
-        "id": "d0f366ba9d54ee69",
+        "id": "ec03faeac7780fdb",
         "type": "tabs",
         "children": [
           {
-            "id": "8de1748db04a330e",
+            "id": "5cf33059093a3345",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lieux/Ayihyala/Le Donjon/Étage 4 - Vallée enchantée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,18 +99,19 @@
             }
           },
           {
-            "id": "f56be2d281cd7a29",
+            "id": "e9402595ba998a0b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lieux/Ayihyala/Le Donjon/Étage 4 - Vallée enchantée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1d38d1ca0a12851a",
+            "id": "c3390bd1c289335f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": "4583a652588d2080",
+            "id": "640da0216b6cbd20",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -134,11 +134,13 @@
             }
           },
           {
-            "id": "52f7a6f8d84d5347",
+            "id": "7c87bade31e9db18",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lieux/Ayihyala/Le Donjon/Étage 4 - Vallée enchantée.md"
+              }
             }
           }
         ]
@@ -150,47 +152,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "95b344cc23a790c3",
+  "active": "b381914bad69cbd9",
   "lastOpenFiles": [
-    "Ressources/Données/5e_Ability-Score-Table_5e.webp",
+    "Main Page.md",
+    "Lieux/Ayihyala/Le Donjon/Étage 4 - Vallée enchantée.md",
+    "Carte du Monde.md",
+    "Histoire du Monde.md",
+    "Templates/timeline.md",
     "Personnages/Asudem/Asudem.md",
-    "Personnages/Asudem/Asudem (1).pdf",
-    "Personnages/Asudem/Asudem.pdf",
-=======
-  "active": "55672ddcd342028f",
-  "lastOpenFiles": [
-    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Asudem/Asudem.md",
-    "Personnages/Asudem/Asudem.pdf",
-    "Personnages/Vaern/dnd_vaern_13.pdf",
-    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
-    "Ressources/Données/table rencontre lvl-px.png",
-    "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Linn Seraphim/Linn Seraphim.pdf",
->>>>>>> 542f531047470b133a775cf5bdd2d8d04f3c4abb
     "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Sword-Coast-Map_HighRes.jpg",
+    "Personnages/Asudem/Asudem01.pdf",
+    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
-<<<<<<< HEAD
-    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
-    "Ressources/eFeuillePersoDD5.pdf",
-    "Ressources/Sites internets.md"
-=======
+    "Lieux/Ayihyala/Le Donjon/Table-Rencontre_EtageX2.pdf",
+    "Lieux/Ayihyala/Le Donjon/Étage 2,5 - Le lac.md",
+    "Lieux/Ayihyala/Le Donjon/Étage 5 - Palais d'Acnolia.md",
+    "Personnages/Acnolia/Le prince et mage noir Acnolia.md",
+    "Personnages/Acnolia/Acnolia screenshot.png",
+    "Lieux/Ayihyala/Le Donjon/Table-Rencontre_EtageX.pdf",
+    "Lieux/Ayihyala/Le Donjon/Étage 2 - Catacombe des oubliés.md",
+    "Lieux/Ayihyala/Le Donjon/Étage 3 - Grotte inter-mondes.md",
+    "Lieux/Ayihyala/Le Donjon/Étage 1 - Catacombes des Héros.md",
+    "Lieux/Ayihyala/Le Donjon/Donjon.md",
+    "Personnages/Asudem/Asudem.pdf",
+    "Ressources/Sword-Coast-Map_HighRes.jpg",
     "Ressources/Sites internets.md",
-    "Ressources/Données/5e_Ability-Score-Table_5e.webp"
->>>>>>> 542f531047470b133a775cf5bdd2d8d04f3c4abb
+    "Personnages/Vaern/dnd_vaern_13.pdf",
+    "Ressources/Classes/Rôdeur Donjons & Dragons - D&D 5e.pdf"
   ]
 }

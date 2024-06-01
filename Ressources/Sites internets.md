@@ -2,6 +2,7 @@ Aide DD :
 - site aidedd : https://www.aidedd.org
 - races anyflip : https://online.anyflip.com/fqhgb/qrus/mobile/index.html
 - pdf : https://www.aidedd.org/adj/telechargement/
+- équipement : https://www.aidedd.org/regles/equipement/
 - sorts : https://www.aidedd.org/dnd-filters/spells-5e.php
 - armes : https://www.aidedd.org/regles/equipement/armes/
 - armures : https://www.aidedd.org/regles/equipement/armures/
@@ -15,3 +16,4 @@ Aide DD :
 - création de personnage (visuel) : https://www.heroforge.com/
 - prix : https://www.dndbeyond.com/sources/basic-rules/equipment#Equipment
 - Dieux : https://screenrant.com/dungeons-dragons-deities-gods-forgotten-realms-fifth-edition/
+- **Map :** https://www.aidedd.org/atlas/index.php?map=R&l=1

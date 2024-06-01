@@ -3,6 +3,7 @@ Femme à la peau presque trop blanche pour une humaine, ses yeux sont d'un bleu 
 # Histoire
 Asudem est née maudite, ses parant l'ont donné au temple de Bhaal quelque mois après la première manifestation de ses étranges pouvoirs. Aujourd'hui moine de Bhaal, Asudem chasse et tue, de manière implacable, à la demande de son temple rappelant à tous que personne ne peut échapper à la mort éternellement.
 Asudem s'est créer une petite réputation en laissant ses victimes pétrifié de terreur et de surprise.
+Bien qu'elle soit une tueuse sans pitié gardant son sang froid en toute situation, Asudem souhaite vénérer Bhaal de la manière la plus pure possible (meurtres horribles), notamment pour devenir prêtresse (et peut être même pouvoir rencontré son dieu) mais elle veut aussi trouver l'origine de sa malédiction et réformer le temple de Bhaal.
 # Caractéristiques
 caractéristiques de base : 11 18 14 12 7 13
 humain (variante) : +2 points différent
@@ -33,7 +34,7 @@ Choisissez une classe : barde, clerc, druide, ensorceleur, magicien ou occultist
 ## Robuste
 Votre maximum de points de vie augmente d'un montant égal au double de votre niveau quand vous gagnez ce don. Chaque fois que vous gagnez un niveau par la suite, votre maximum de points de vie augmente de 2 points de vie supplémentaires.
 # Classes
-11 niveau de moine pour 9 de roublard
+11 niveau de moine pour 9 de roublard (ou quelque niveau de roublard en moins pour quelque niveau de clerc domaine de la tromperie)
 ## Moine voix de l'ombre
 ### Défense sans armure 
 Dès le niveau 1, tant que vous n'êtes équipé ni d'une armure, ni d'un bouclier, votre CA est égale à 10 + votre modificateur de Dextérité + votre modificateur de Sagesse. 
@@ -43,4 +44,15 @@ Au niveau 1, votre pratique des arts martiaux vous donne la maîtrise des styles
 - Vous pouvez lancer un d4 à la place des dégâts normaux de votre attaque à mains nues ou de vos armes de moine. Ce dé change lorsque vous gagnez des niveaux de moine, comme indiqué dans la colonne Arts martiaux de la table ci-dessus. 
 - Lorsque vous utilisez l'action Attaquer avec une attaque à mains nues ou une arme de moine au cours de votre tour, vous pouvez effectuer une attaque à mains nues au prix d'une action bonus. Par exemple, si vous prenez l'action Attaque et attaquez avec un bâton, vous pouvez également effectuer une attaque à mains nues avec votre action bonus, à condition que vous n'ayez pas déjà utilisé votre action bonus pour ce tour.
 Certains monastères utilisent des versions spéciales des armes de moine. Par exemple, vous pourriez utiliser un gourdin dont les deux manches en bois sont reliés par une chaîne de fer (cette arme est alors appelée un nunchaku) ou bien une serpe possédant une lame plus courte et plus droite (on parle alors de kama). Quel que soit le nom que vous utilisiez pour votre arme de moine, vous pouvez utiliser les statistiques de jeu données à l'arme dans le chapitre Armes.
+### Ki 
+À partir du niveau 2, votre entrainement vous permet d'exploiter cette mystérieuse énergie qu'est le ki. Votre accès à cette énergie est représenté par un nombre de points ki. Votre niveau de moine détermine le nombre de points ki que vous possédez, comme indiqué dans la colonne Ki de la table ci-dessus. Vous pouvez dépenser ces points pour déclencher diverses capacités ki. Vous débutez en connaissant trois de ces capacités ki : Déluge de coups, Défense patiente et Déplacement aérien. Vous apprendrez de nouvelles capacités ki en gagnant des niveaux de moine.
+Lorsque vous dépensez un point ki, il n'est plus disponible jusqu'à ce que vous finissiez un repos court ou long, à la n desquels vous récupérez tous les points ki utilisés. Vous devez passer au moins 30 minutes de votre repos à méditer pour pouvoir regagner vos points ki. Plusieurs de vos capacités ki nécessitent que votre cible effectue un jet de sauvegarde pour résister à leurs effets. Le DD du jet de sauvegarde est calculé ainsi : **DD du jet de sauvegarde du ki = 8 + votre bonus de maîtrise + votre modification de Sagesse**
+- **Défense patiente :** Vous pouvez dépenser 1 point ki pour utiliser l'action Esquiver via une action bonus au cours de votre tour. 
+- **Déluge de coups :** Immédiatement après avoir utilisé une action Attaquer au cours de votre tour, vous pouvez dépenser 1 point ki pour effectuer deux attaques à mains nues via une action bonus. 
+- **Déplacement aérien :** Vous pouvez dépenser 1 point ki pour utiliser l'action Se Désengager ou l'action Foncer via une action bonus au cours de votre tour, de plus votre distance de saut est doublée pour le tour.
+### Déplacement sans armure 
+À partir du niveau 2, votre vitesse augmente de 3 mètres tant que vous n'êtes équipé ni d'une armure, ni d'un bouclier. Ce bonus augmente lorsque vous atteignez certains niveaux de moine, comme indiqué sur la table du moine ci-dessus. Au niveau 9, vous gagnez la capacité de vous déplacer, durant votre tour, le long de parois verticales et à la surface des liquides sans que vous ne tombiez au cours de votre mouvement.
 ## Roublard assassin
+None
+## Clerc domaine de la Tromperie
+None
