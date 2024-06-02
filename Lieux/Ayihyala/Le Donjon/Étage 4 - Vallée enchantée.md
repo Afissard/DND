@@ -7,7 +7,7 @@ Cependant certaine régions de la vallée reste encore à l'état sauvage et son
 ## Peuple des Fées
 D'une hauteur d'un mètre, les Fées sont considérer de tous comme un peuple vénérable et plein de sagesse bien que remplis d'humour et de ruse aux premiers abords.
 ## Peuple des Souris
-Le royaume des souris est le plus grand de la vallée, bien que ses petits habitants soient faibles et craintifs, le nombre faisant la forces, l'armée souris a toujours réussis à contenir et repoussé les assaults du royaume des Chats. 
+L'empire  des souris est le plus grand de la vallée, bien que ses petits habitants soient faibles et craintifs, le nombre faisant la forces, l'armée souris a toujours réussis à contenir et repoussé les assaults du royaume des Chats. 
 ## Peuples des Chats
 Probablement ancêtres du peuple Tabaxies, le peuple chat est joueur mais aussi guerrier, diviser en multiple clan, le royaume est gouverné par un champion jugé digne et sage par ses pairs.
 # La Forge

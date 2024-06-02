@@ -2,15 +2,15 @@
 # Description
 Linn est une fée à la peau pale et cheveux blanc aux reflet bleuté. Ses yeux sont bleu ciel, en accord avec les motifs de sa robe longue et large, ne laissant qu'une interstice pour ses longue aile de papillon blanc-bleu. Si ses grande oreilles attire l'attention, ses cornes (de cerf) spectrale, reflet de son humeur (blanc, s'assombrie vers du bleu, bleu foncé en plus de s'agrandir si humeurs négative), elles sont sources de nombreux regards émerveillé. Linn aime jouer d'une drôle de flute taillé dans un bois de cerf.
 **Alignement :** Chaotique Bon
-**Objectif :** Linn est une jeune fée (20 ans / 100 ans) qui vivais paisiblement dans son village jusqu'à ce que celui-ci se fasse détruire lors d'une nuit sanglante dont peu des siens on survécus, depuis elle est à la recherche de la cause de ce malheurs pour se venger.
+**Objectif :** Linn est une jeune fée (20 ans / 100 ans) qu&i vivais paisiblement dans son village jusqu'à ce que celui-ci se fasse détruire lors d'une nuit sanglante dont peu des siens on survécus, depuis elle est à la recherche de la cause de ce malheurs pour se venger.
 **Défaut :** Linn s'est trouvé une passion pour la collection de pierre précieuse et bijoux
 
 # Caractéristique
 
 | Caractéristique | Niveau | Bonus | Sauvegarde | Bonus Sauvegarde |
 | --------------- | ------ | ----- | ---------- | ---------------- |
-| Force           | 16     | 3     |            |                  |
-| Dextérité       | 11     | 0     |            |                  |
+| Force           | 11     | 0     |            |                  |
+| Dextérité       | 16     | 3     |            |                  |
 | Constitution    | 16+1   | 3     |            |                  |
 | Intelligence    | 18+2   | 5     |            |                  |
 | Sagesse         | 15     | 2     |            |                  |

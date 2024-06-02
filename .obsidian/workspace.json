@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b3d8a38c3484da9b",
+        "id": "ae38e9de1df0c2d1",
         "type": "tabs",
         "children": [
           {
-            "id": "b381914bad69cbd9",
+            "id": "5a1b8bda460349bc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -162,32 +162,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b381914bad69cbd9",
+  "active": "5a1b8bda460349bc",
   "lastOpenFiles": [
-    "Main Page.md",
+    "Ressources/Objets/Hache à deux main Super Enchanté.md",
     "Lieux/Ayihyala/Le Donjon/Étage 4 - Vallée enchantée.md",
+    "Ressources/Objets/Anneau Bouclier d'Agathys.md",
+    "Personnages/Linn Seraphim/Linn Seraphim Barde 10.pdf",
+    "Personnages/Asudem/Asudem01.pdf",
+    "Ressources/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
+    "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim v2.md",
+    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
+    "Personnages/Linn Seraphim/Linn Seraphim.pdf",
+    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Personnages/Linn Seraphim/Linn (Linnaea) Seraphim v1.md",
+    "Personnages/Linn Seraphim/Sorts de mage intéressants.md",
+    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
+    "Personnages/Vaern/dnd_vaern_14.pdf",
+    "Personnages/Vaern/dnd_vaern_13.pdf",
+    "Personnages/Asudem/Asudem.md",
+    "Main Page.md",
     "Carte du Monde.md",
     "Histoire du Monde.md",
     "Templates/timeline.md",
-    "Personnages/Asudem/Asudem.md",
-    "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Asudem/Asudem01.pdf",
-    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
-    "Lieux/Ayihyala/Le Donjon/Table-Rencontre_EtageX2.pdf",
     "Lieux/Ayihyala/Le Donjon/Étage 2,5 - Le lac.md",
     "Lieux/Ayihyala/Le Donjon/Étage 5 - Palais d'Acnolia.md",
     "Personnages/Acnolia/Le prince et mage noir Acnolia.md",
     "Personnages/Acnolia/Acnolia screenshot.png",
-    "Lieux/Ayihyala/Le Donjon/Table-Rencontre_EtageX.pdf",
     "Lieux/Ayihyala/Le Donjon/Étage 2 - Catacombe des oubliés.md",
     "Lieux/Ayihyala/Le Donjon/Étage 3 - Grotte inter-mondes.md",
     "Lieux/Ayihyala/Le Donjon/Étage 1 - Catacombes des Héros.md",
     "Lieux/Ayihyala/Le Donjon/Donjon.md",
-    "Personnages/Asudem/Asudem.pdf",
     "Ressources/Sword-Coast-Map_HighRes.jpg",
-    "Ressources/Sites internets.md",
-    "Personnages/Vaern/dnd_vaern_13.pdf",
-    "Ressources/Classes/Rôdeur Donjons & Dragons - D&D 5e.pdf"
+    "Ressources/Sites internets.md"
   ]
 }
