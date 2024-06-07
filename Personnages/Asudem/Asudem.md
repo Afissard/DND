@@ -45,7 +45,7 @@ Vous maîtrisez les techniques pour tirer avantage de chaque faiblesse dans la g
 - Vous pouvez effectuer une attaque d'opportunité même si une créature prend l'action Se désengager avant de se mettre hors de portée de votre allonge. 
 - Quand une créature à 1,50 mètre ou moins de vous fait une attaque contre une cible autre que vous (et que cette cible n'a pas ce don), vous pouvez utiliser votre réaction pour réaliser une attaque au corps à corps avec une arme contre la créature attaquante.
 # Classes
-11 niveau de moine pour 9 de roublard (ou quelque niveau de roublard en moins pour quelque niveau de clerc domaine de la tromperie)
+11 niveau de moine pour 9 de roublard (ou quelque niveau de roublard en moins pour quelque niveau de clerc domaine de la tromperie ou 3 niveau de guerrier champion pour le critique amélioré)
 ## Moine voix de l'ombre
 ### Défense sans armure 
 Dès le niveau 1, tant que vous n'êtes équipé ni d'une armure, ni d'un bouclier, votre CA est égale à 10 + votre modificateur de Dextérité + votre modificateur de Sagesse. 
