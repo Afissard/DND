@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "35d7360fc72e3cd9",
+        "id": "8311bdbbdd028316",
         "type": "tabs",
         "children": [
           {
-            "id": "4c94cc615f56f6a1",
+            "id": "7962ec5bce9a4639",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -153,12 +153,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c94cc615f56f6a1",
+  "active": "9431088d230af419",
   "lastOpenFiles": [
+    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "Personnages/Asudem/Asudem01.pdf",
+    "Personnages/Asudem/Asudem.md",
+    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Personnages/Vaern/dnd_vaern_15.pdf",
     "Personnages/Vaern/dnd_vaern_14.pdf",
-    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
     "Lieux/Ayihyala/Le Donjon/Étage 4 - Vallée enchantée.md",
     "Lieux/Ayihyala/Le Donjon/Étage 2,5 - Le lac.md",
     "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
@@ -170,7 +172,6 @@
     "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
     "Personnages/Linn Seraphim/Linn Seraphim Barde 10.pdf",
-    "Personnages/Soa/dnd_Soa_Carion.pdf",
     "Personnages/Soa/Soa.md",
     "Personnages/Ama-Zahanie/Ama l'enchanteresse.md",
     "Lieux/Ayihyala/Le Donjon/Donjon.md",
