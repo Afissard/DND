@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "346253aa64614edd",
+        "id": "cc562a489bdb24aa",
         "type": "tabs",
         "children": [
           {
-            "id": "c085b00efef89240",
+            "id": "e673748b654986d0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -153,24 +153,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c085b00efef89240",
+  "active": "e673748b654986d0",
   "lastOpenFiles": [
-    "Personnages/Liam Seraphim/Liam Seraphim v2.md",
-    "Personnages/Liam Seraphim/Liam Seraphim lvl2 .pdf",
-    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Liam Seraphim/Liam Seraphim v1.md",
-    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Asudem/Asudem01.pdf",
-    "Personnages/Asudem/Asudem.md",
+    "Personnages/Ea/Ea.md",
+    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
-    "Personnages/Vaern/dnd_vaern_15.pdf",
-    "Personnages/Vaern/dnd_vaern_14.pdf",
+    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/5E-CHARACTERSHEETS/Spellcasting Sheet (Optional) - Print Version.pdf",
+    "Ressources/5E-CHARACTERSHEETS/Spellcasting Sheet (Optional) - Form Fillable.pdf",
+    "Ressources/5E-CHARACTERSHEETS/DnD_5E_CharacterSheet - Form Fillable.pdf",
+    "Ressources/5E-CHARACTERSHEETS/CharacterSheet_TyrannyofDragons.pdf",
+    "Ressources/5E-CHARACTERSHEETS/CharacterSheet_3Pgs_ Complete.pdf",
+    "Ressources/5E-CHARACTERSHEETS/Character Sheet - Print Version.pdf",
+    "Ressources/5E-CHARACTERSHEETS/Character Sheet - Form Fillable.pdf",
+    "Ressources/Données/5e_Ability-Score-Table_5e.webp",
+    "Personnages/Liam Seraphim/Liam Seraphim v2.md",
+    "Personnages/Liam Seraphim/Liam Seraphim v1.md",
+    "Personnages/Asudem/Asudem.md",
     "Lieux/Ayihyala/Le Donjon/Étage 4 - Vallée enchantée.md",
     "Lieux/Ayihyala/Le Donjon/Étage 2,5 - Le lac.md",
-    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
     "Lieux/Vallée enchantée/L'empire Souris.md",
-    "Ressources/Règles/Basic-Rules-FR.pdf",
-    "Ressources/Règles/Aide de Jeu.pdf",
     "Lieux/Ayihyala/Le Donjon/Étage 2 - Catacombe des oubliés.md",
     "Lieux/Ayihyala/Le Donjon/Étage 3 - Grotte inter-mondes.md",
     "Personnages/Soa/Soa.md",
