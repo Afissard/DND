@@ -1,67 +1,44 @@
-# Résumé
+caractéristique de base : 11 14 15 17 11 14
 
-| Caractéristique | Valeur | Bonus |
-| --------------- | ------ | ----- |
-| Force           | 11     | 0     |
-| Dextérité       | 16     | 3     |
-| Constitution    | 13+1   | 2     |
-| Intelligence    | 12     | 1     |
-| Sagesse         | 16+2   | 4     |
-| Charisme        | 13     | 1     |
-Jet de caractéristique : 12 13 16 16 11 13
-# Histoire
-Liam est un fée plutôt ordinaire, si ce n'est qu'il a grandi dans l'ombre de sa grande sœur [[Linn (Linnaea) Seraphim v1]]. Un jour alors que sa sœur avais prouvé une énième fois ses capacités prodigieuse, il décida partir. Alors qu'il s'appretait à quitter son village en catimini par une nuit sans lune, le vieux druide de son village sorti d'une ombre et lui dit de sa voie tremblotante teinté de sénilité : "Liam, je sais ce que tu ressens, moi aussi dans ma jeunesse j'ai voulus tout quitter, et c'est ce que j'ai fais. Cela m'a permis de rencontré mon maitre et de vivre pleins d'aventure que je n'aurais jamais vécu au village. Si tu marche dans cette direction (pointant une direction presqu'au hasard) pendant deux ou trois lunes tu trouveras mon maitre, je suis sur qu'il pourra t'aider."
-Un jour alors qu'il méditais avec son maître, Liam reçu la vision de son village étant détruit par ?. Avec l'approbation de son maître, Liam se remit en chemin en direction de son village dans le but d'allez retrouver sa sœur, aider les survivants, reconstruire le village mais aussi traquer la menace. 
-# Description
+| Caractéristique |   Valeur   | Bonus | Sauvegarde | Bonus Sauvegarde |
+| :-------------: | :--------: | :---: | :--------: | :--------------: |
+|      Force      |     11     |   0   |            |                  |
+|    Dextérité    | 11+2 -> 13 |   1   |            |                  |
+|  Constitution   |  15+1->16  |   3   |    oui     |                  |
+|  Intelligence   |     14     |   2   |    oui     |                  |
+|     Sagesse     |  17+1->18  |   4   |    oui     |                  |
+|    Charisme     |     14     |   2   |            |                  |
+# Niveaux
+- 2 niveaux de druide cercle de la lune
+- 2 niveaux de mage école de la divination
+- plus tard : 2 niveaux de guerrier pour la fougue / 1 niveau de barbare pour la rage + défense sans armure (->plus de Force requis)
 
-![[Druide Inspiration.png]]
-# Race : Fée
-## Description
-Le Feywild abrite de nombreux peuples fantastiques, notamment des fées. Les fées sont un petit peuple, mais pas autant que leurs amis lutins et sprites. Les premières fées parlaient elfique, gobelin ou sylvain, et leurs rencontres avec des visiteurs humains ont incité nombre d'entre elles à apprendre également le commun.
-Imprégnées de la magie du Feywild, la plupart des fées ressemblent à de petits elfes avec des ailes d'insectes, mais chaque fée a une caractéristique physique particulière qui la distingue. Pour votre fée, lancez un jet sur le tableau des caractéristiques Fey ou choisissez une option parmi ceux-ci. Vous êtes également libre de proposer votre propre caractéristique si aucune des suggestions ci-dessous ne correspond à votre personnage.
-
-| D8  | Caractéristique                                                                          |
-| --- | ---------------------------------------------------------------------------------------- |
-| 1   | Vos ailes sont comme celles d'un oiseau.                                                 |
-| 2   | Vous avez une peau chatoyante et multicolore.                                            |
-| 3   | Vous avez des oreilles exceptionnellement grandes.                                       |
-| 4   | Une brume scintillante vous entoure constamment.                                         |
-| 5   | Vous avez une petite corne spectrale sur votre front, comme une petite corne de licorne. |
-| 6   | Vos jambes sont insectes.                                                                |
-| 7   | Vous sentez le brownie chaud.                                                            |
-| 8   | Un froid notable mais sans effet vous entoure.                                           |
-## Caractéristique
-- **Amélioration de caractéristique** 3 points de stats à répartir, ne peut dépasser le niveau 20
-- **Type de créature** Fée.
-- **Taille** Petit.
-- **Vitesse** 9m.
-- **Magie des Fée** Vous connaissez le sort [Druidisme](https://www.aidedd.org/dnd/sorts.php?vf=druidisme).
-    - A partir du niveau 3 vous pouvez lancer le sort [Lueurs Féérique](https://www.aidedd.org/dnd/sorts.php?vf=lueurs-feeriques) avec ce trait. Au niveau 5 vous pouvez lancer le sort [Agrandissement/Rapetissement](https://www.aidedd.org/dnd/sorts.php?vf=agrandissement-rapetissement) avec ce trait. Une fois que vous avez utiliser Lueurs Féérique ou Agrandissement/Rapetissement avec ce trait, vous devriez effectuer un repos long avant de pouvoir les réutiliser. Vou pouvez aussi lancer ces sorts avec un emplacement de sort approprié.
-    - L'Intelligence, la Sagesse, ou le Charisme est votre caractéristique d'incantation pour ces sort.
-- **Vol** Grace à vos ailes, vous avez la même vitesse de vol que votre vitesse de marche. Vous ne pouvez voler si vous porter une armure intermédiaire ou lourde.
-- **Langues** Vous parlé le Commun et le Féerique/Elfique
-# Historique : Itinérant
-## Variante : Saltimbanque
-### Spécialité
-Vous maîtrisez un art en particulier, avec lequel vous avez appris à gagner votre vie. Ce dernier vous ouvre l'accès à la maîtrise d'une compétence spécifique.
-
-| D6    | Spécialité                               |
-| ----- | ---------------------------------------- |
-| **1** | Musicien/Conteur (Histoire ou Religion)  |
-| **2** | Acteur (Persuasion ou Supercherie)       |
-| **3** | Acrobate (Acrobaties)                    |
-| **4** | Jongleur (Escamotage)                    |
-| **5** | Montreur d'animaux (Dressage)            |
-| **6** | Diseuse de bonne aventure (Perspicacité) |
-### Aptitude : Spectacle ambulant
-Votre art vous apporte bien des inconvénients, mais il a aussi ses bénéfices. Vous trouvez toujours un lieu où l'on vous offre le gîte et le couvert en échange d'une représentation pour égayer l'ambiance. Tant que vous prenez la peine de vous produire au moins une fois par jour (quand les clients sont nombreux), on vous fournit un logement et une nourriture aussi décente que possible. De plus, vous vous attirez les bonnes grâces de la foule, qui vous perçoit avec un excellent a priori. Cependant, vous ne passez jamais vraiment inaperçu, et plus vous restez dans une ville, plus on vous reconnaît.
-
-**Compétences** : Une compétence dépendant de la spécialité, Représentation.  
-**Outils maîtrisés** : Un instrument de musique au choix, véhicules (terrestres).  
-**Langues maîtrisées** : Vous pouvez remplacer l'instrument de musique par une langue au choix.  
-**Équipement** : Tenue de voyageur, costume ou vêtements tape à l'œil, outils nécessaires à votre art (instrument, animal dressé, outils pour vos jongleries, etc.), sac de voyage, bourse contenant 15 po.
+# Race : Elfe des bois
+source : https://www.aidedd.org/regles/races/elfe/
+### Traits
+- **Augmentation de caractéristique :** +2 Dextérité + 1 Sagesse
+- **Langues :** Elfique, Commun
+### Capacité
+- **Vision dans le noir :** Vous pouvez voir à 18 mètres dans une lumière faible comme vous verriez avec une lumière vive, et dans le noir comme vous verriez avec une lumière faible. Dans le noir, vous ne discernez pas les couleurs, uniquement des nuances de gris.
+- **Transe :** Les elfes n'ont pas besoin de dormir. Au lieu de cela, ils méditent profondément, restant à demi conscients, 4 heures par jour (le mot commun pour désigner cette méditation est « transe »). En méditant, vous pouvez rêver, tant bien que mal ; ces rêves sont en fait des exercices mentaux qui deviennent un réflexe après des années de pratique. Après un repos de ce type, vous obtenez les mêmes avantages qu'un humain après 8 heures de sommeil.
+- **Ascendance féerique :** Vous avez un avantage aux jets de sauvegarde contre les effets de charme et la magie ne peut pas vous endormir.
+- **Entraînement aux armes elfiques :** Vous obtenez la maîtrise des épées (longues et courtes) et des arcs (longs et courts).
+- **Foulée légère :** Votre vitesse de base passe à 10,50 mètres.
+- **Cachette naturelle :** Vous pouvez tenter de vous cacher dans une zone à visibilité réduite, comme en présence de branchages, de forte pluie, de neige qui tombe, de brume ou autre phénomène naturel.
+# Historique : Ermite
+Vous avez vécu reclus, soit dans une communauté protégée, comme un monastère, ou entièrement seul, lors d'un épisode formateur de votre vie. Durant cette période loin de la clameur de la société, vous avez trouvé le calme, la solitude et peut-être même certaines réponses que vous cherchiez.
+**Compétences maîtrisées :** Médecine, Religion  
+**Outils maîtrisés :** kit d'herboriste  
+**Langues :** une de votre choix  
+**Équipement :** un étui à parchemin remplis de notes sur vos études ou vos prières, une couverture pour l'hiver, des vêtements communs, un kit d'herboriste et 5 po.
+## Capacité : Découverte
+La paisible réclusion de votre ermitage prolongé vous a donné accès à une grande et unique découverte. La nature exacte de cette révélation dépend de la nature de votre réclusion. Il se peut que ce soit un grand secret à propos du cosmos, des dieux, de créatures venues d'autres plans ou de forces de la nature. Ce pourrait aussi être un site que personne d'autre ne connait. Vous pourriez avoir mis au grand jour des faits oubliés depuis longtemps ou déterré des reliques du passé qui pourraient réécrire l'histoire. Il se peut aussi que ce soit des informations qui pourraient nuire à ceux qui vous ont forcé à l'exil et, de ce fait, être la raison de votre retour dans la société.
 # Classes
 ## Druide : Cercle de la Lune
+### Points de vie
+**DV :** 1d8 par niveau de druide 
+**PV au niveau 1 :** 8 + votre modificateur de Constitution 
+**PV aux niveaux suivants :** 1d8 (ou 5) + votre modificateur de Constitution
 ### Maîtrises 
 **Armures :** armures légères et intermédiaires, boucliers (un druide n'utilisera pas d'armure ou de bouclier en métal) 
 **Armes :** gourdin, dague, fléchette, javeline, masse d'armes, bâton, cimeterre, fronde, serpe, lance 
@@ -120,3 +97,47 @@ Les rites de votre cercle vous permettent de prendre la forme d'animaux plus dan
 Au niveau 10, vous pouvez dépenser deux utilisations de Forme sauvage en même temps pour vous transformer en un élémentaire de l'air, de l'eau, de la terre ou du feu.
 #### Mille formes
 Au niveau 14, vous avez appris à utiliser la magie pour améliorer votre forme physique de façon plus subtile. Vous pouvez lancer le sort modification d'apparence à volonté.
+## Magicien : école de la divination
+### Points de vie 
+**DV :** 1d6 par niveau de magicien 
+**PV au niveau 1 :** 6 + votre modificateur de Constitution 
+**PV aux niveaux suivants :** 1d6 (ou 4) + votre modificateur de Constitution
+### Incantation 
+En tant qu'étudiant de la magie des arcanes, vous possédez un grimoire qui contient des sorts qui montrent les premières lueurs de votre véritable pouvoir.
+#### Sorts mineurs 
+Au niveau 1, vous connaissez trois sorts mineurs de magicien de votre choix. Vous apprendrez des sorts mineurs supplémentaires de votre choix aux niveaux supérieurs, comme indiqué dans la colonne Sorts mineurs connus de la table ci-dessus.
+#### Grimoire 
+Au niveau 1, vous possédez un grimoire qui contient six sorts de magicien de niveau 1 de votre choix. Votre grimoire est le gardien des sorts de magicien que vous connaissez, à exception des sorts mineurs qui sont eux xés dans votre esprit.
+#### Préparer et lancer des sorts 
+La table du magicien montre combien d'emplacements de sorts vous avez pour lancer vos sorts de magicien de niveau 1 et supérieur. Pour lancer un de ces sorts, vous devez dépenser un emplacement du niveau du sort ou supérieur. Vous regagnez tous les emplacements de sorts dépensés lorsque vous terminez un repos long.
+**Vous devez préparer la liste des sorts de magicien qui vous sont disponibles pour les lancer. Pour ce faire, choisissez dans votre grimoire un nombre de sorts de magicien égal à votre modificateur d'Intelligence + votre niveau de magicien (minimum un sort).** Les sorts doivent être d'un niveau pour lequel vous avez des emplacements de sorts. Par exemple, si vous êtes un magicien de niveau 3, vous avez suivant la table quatre emplacements de sorts de niveaux 1 et deux emplacements de sorts de niveau 2. Avec une Intelligence de 16, votre liste de sorts préparés peut inclure six sorts de niveau 1 et 2, selon n'importe quelle combinaison, sélectionnés depuis votre grimoire. Si vous préparez le sort de niveau 1 projectile magique, vous pouvez le lancer en utilisant un emplacement de niveau 1 ou de niveau 2. Lancer le sort ne le supprime pas de votre liste de sorts préparés.
+Vous pouvez modier votre liste de sorts préparés lorsque vous terminez un repos long. Préparer une nouvelle liste de sorts de magicien nécessite du temps pour étudier votre grimoire et mémoriser les incantations et les gestes que vous devez faire pour lancer le sort : au moins 1 minute par niveau de sort pour chaque sort sur votre liste.
+#### Caractéristique d'incantation 
+L'intelligence est votre caractéristique d'incantation pour vos sorts de magicien, car vous apprenez vos sorts à travers l'étude et la mémorisation. Vous utilisez votre Intelligence chaque fois qu'un sort se réfère à votre capacité de lancer des sorts. En outre, vous utilisez votre modificateur d'Intelligence pour dénifir le DD du jet de sauvegarde d'un sort de magicien que vous lancez ainsi que pour le jet d'attaque de celui-ci.
+**DD de sauvegarde des sorts = 8 + votre bonus de maîtrise + votre modificateur d'Intelligence**
+**Modificateur aux attaques avec un sort = votre bonus de maîtrise + votre modificateur d'Intelligence**
+#### Rituel 
+Vous pouvez lancer un sort de magicien en tant que rituel si ce sort possède l'étiquette rituel et si vous avez le sort dans votre grimoire. Vous n'avez pas besoin d'avoir préparé le sort.
+#### Focaliseur d'incantation 
+Vous pouvez utiliser un focaliseur arcanique comme focaliseur d'incantation pour vos sorts de magicien.
+#### Apprendre des sorts de niveau 1 et supérieur 
+Chaque fois que vous gagnez un niveau de magicien, vous pouvez ajouter deux sorts de magicien de votre choix à votre grimoire. Chacun de ces sorts doit être d'un niveau pour lequel vous avez des emplacements de sorts, comme indiqué sur la table ci-dessus. Lors de vos aventures, vous trouverez peut-être d'autres sorts que vous pourrez ajouter à votre grimoire (voir l'encadré "Votre Grimoire").
+### Restauration arcanique 
+Vous avez appris à regagner une partie de votre énergie magique par l'étude de votre grimoire. Une fois par jour, lorsque vous terminez un repos court, vous pouvez choisir des emplacements de sorts dépensés à récupérer. Les emplacements de sorts peuvent avoir un niveau combiné égal ou inférieur à la moitié de votre niveau de magicien (arrondi au supérieur), et aucun de ces emplacements ne peut être de niveau 6 ou supérieur. Par exemple, si vous êtes un magicien de niveau 4, vous pouvez récupérer jusqu'à l'équivalent de deux niveaux d'emplacements de sorts. Vous pouvez récupérer soit un emplacement de sort de niveau 2 ou deux emplacements de sorts de niveau 1.
+### Amélioration de caractéristiques 
+Au niveau 4, puis par la suite aux niveaux 8, 12, 16 et 19, vous pouvez augmenter une valeur de caractéristique de votre choix de +2, ou bien augmenter deux valeurs de caractéristique de votre choix de +1. Vous ne pouvez cependant pas augmenter une caractéristique au-delà de 20 par ce biais.
+### École de la Divination
+#### Devin érudit 
+Au niveau 2, lorsque vous choisissez cette école, l'or et le temps que vous devez dépenser pour copier un sort de divination dans votre grimoire est divisé par deux.
+#### Présage 
+À partir du niveau 2, des aperçus du futur commencent à germer dans votre conscience. Lorsque vous terminez un repos long, lancez deux d20 et notez les résultats. Vous pouvez remplacer n'importe quel jet d'attaque, de sauvegarde ou de caractéristique, qu'il soit lancé par vous ou par une créature que vous pouvez voir, par l'un de ces jets anticipés. Vous devez choisir de faire cela avant de lancer le dé, et vous ne pouvez remplacer qu'un seul jet par tour. Chaque jet anticipé ne peut être utilisé qu'une seule fois. Lorsque vous terminez un repos long, vous perdez tous les jets anticipés non-utilisés.
+#### Divination experte 
+À partir du niveau 6, lancer des sorts de divination vous devient si facile que vous ne dépensez qu'une fraction de vos efforts pour cela. Lorsque vous lancez un sort de divination de niveau 2 ou plus, en utilisant un emplacement de sort, vous récupérez un emplacement de sort dépensé. L'emplacement que vous regagnez doit être d'un niveau inférieur au sort que vous venez de lancer et ne peut pas être d'un niveau supérieur à 5.
+#### Troisième œil 
+À partir du niveau 10, vous pouvez utiliser votre action pour augmenter vos pouvoirs de perception. Dans ce cas, choisissez l'un des avantages suivants, lequel dure jusqu'à ce que vous soyez incapable d'agir ou que vous preniez un repos, court ou long. Vous ne pouvez pas utiliser de nouveau cette capacité jusqu'à ce que vous terminiez un repos.
+- **Compréhension supérieure :** Vous pouvez lire toutes les langues. 
+- **Vision dans le noir :** Vous gagnez vision dans le noir à 18 mètres. 
+- **Vision éthérée :** Vous pouvez voir dans le plan éthéré dans un rayon de 18 mètres autour de vous. 
+- **Voir l'invisible :** Vous pouvez voir les créatures et les objets invisibles dans un rayon de 3 mètres autour de vous et dans votre ligne de mire.
+#### Présage supérieur 
+À partir du niveau 14, les visions de vos rêves s'intensifient et brossent un tableau plus précis dans votre esprit de ce qui va se passer. Vous lancez 3 dés, au lieu de 2, pour votre capacité de Présage.
