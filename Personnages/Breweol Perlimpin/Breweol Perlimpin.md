@@ -1,15 +1,19 @@
+# Description et Histoire
+Breweol est un veil elfe des bois d'apparence faiblarde emmitouflé dans ses robes mais sa cape de fourrure et son masque taillé dans le crane d'un cerf lui donne un air de veil homme patibulaire et renfermé malgré sa barbe vénérable. Sa personnalité est tout autre, c'est en effet un vieillard un peu gâteux mais aux yeux emplis malice et de sagesse, bon vivant il aime se remémorer et partager ses aventures passées tout en fumant (avec une pipe) son tabac ou en buvant du thé de sa composition.
+Après avoir vécu les deux dernier siècle isolé avec pour seul compagnie quelque animaux pour se consacré à ses études et méditations de druide, Breweol choisi de quitter sa retraite après avoir reçu une vision de ? (peut être les événement de la Tour de la Vérité ?) pour reprendre le chemin de l'aventure. Il souhaite aussi consacrer plus activement les derniers siècles de sa vie à la protection de la nature notamment en invitant les citadins à vivre en symbiose avec celle-ci.
+# Caractéristique
 caractéristique de base : 11 14 15 17 11 14
 
 | Caractéristique |   Valeur   | Bonus | Sauvegarde | Bonus Sauvegarde |
 | :-------------: | :--------: | :---: | :--------: | :--------------: |
 |      Force      |     11     |   0   |            |                  |
 |    Dextérité    | 11+2 -> 13 |   1   |            |                  |
-|  Constitution   |  15+1->16  |   3   |    oui     |                  |
+|  Constitution   | 15+1 -> 16 |   3   |    oui     |                  |
 |  Intelligence   |     14     |   2   |    oui     |                  |
-|     Sagesse     |  17+1->18  |   4   |    oui     |                  |
+|     Sagesse     | 17+1 -> 18 |   4   |    oui     |                  |
 |    Charisme     |     14     |   2   |            |                  |
 # Niveaux
-- 2 niveaux de druide cercle de la lune
+- 4 niveaux de druide cercle de la lune
 - 2 niveaux de mage école de la divination
 - plus tard : 2 niveaux de guerrier pour la fougue / 1 niveau de barbare pour la rage + défense sans armure (->plus de Force requis)
 

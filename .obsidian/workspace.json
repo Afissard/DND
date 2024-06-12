@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f072bb78362d2b91",
+        "id": "bc2f977059b51eab",
         "type": "tabs",
         "children": [
           {
-            "id": "35fd0487e67a1544",
+            "id": "e99d38676cbac1a5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -153,19 +153,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35fd0487e67a1544",
+  "active": "e99d38676cbac1a5",
   "lastOpenFiles": [
-    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
+    "Personnages/Breweol Perlimpin/Breweol-fiche_0.pdf",
+    "Personnages/Breweol Perlimpin/Breweol-grimoire.pdf",
     "Personnages/Breweol Perlimpin/Breweol Perlimpin.md",
-    "Personnages/Breweol Perlimpin/DD5-Breweol-fiche_0.pdf",
+    "Personnages/Liam Seraphim/Druide Inspiration.png",
+    "Personnages/Breweol Perlimpin/Breweol-grimoire (1).pdf",
+    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Personnages/Breweol Perlimpin/DD5-eFeuillePersoDD5.pdf",
     "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
     "Ressources/Règles/dnd_multiclasse.pdf",
     "Ressources/5E-CHARACTERSHEETS/Character Sheet - Alternative - Form Fillable.pdf",
-    "Personnages/Breweol Perlimpin/Breweol-grimoire.pdf",
     "Ressources/5E-CHARACTERSHEETS/DD5-eFeuillePersoDD5.pdf",
-    "Personnages/Ea/DnD_5E_CharacterSheet - Form Fillable.pdf",
-    "Personnages/Ea/CharacterSheet_3Pgs_ Complete 1.pdf",
     "Personnages/Liam Seraphim/Liam Seraphim v2.md",
     "Ressources/Données/5e_Ability-Score-Table_5e.webp",
     "Personnages/Liam Seraphim/Liam Seraphim v1.md",
