@@ -15,5 +15,7 @@ Aide DD :
 - races (dndbeyond) : https://www.dndbeyond.com/races
 - création de personnage (visuel) : https://www.heroforge.com/
 - prix : https://www.dndbeyond.com/sources/basic-rules/equipment#Equipment
-- Dieux : https://screenrant.com/dungeons-dragons-deities-gods-forgotten-realms-fifth-edition/
+- Dieux : https://www.aidedd.org/univers/pantheon/ 
 - **Map :** https://www.aidedd.org/atlas/index.php?map=R&l=1
+- Conseil : https://www.aidedd.org/dnd-5/sage-advice/
+- **Extra :** https://www.aidedd.org/dnd-5/unearthed-arcana/

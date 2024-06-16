@@ -63,6 +63,34 @@ Lorsque vous dépensez un point ki, il n'est plus disponible jusqu'à ce que vou
 - **Déplacement aérien :** Vous pouvez dépenser 1 point ki pour utiliser l'action Se Désengager ou l'action Foncer via une action bonus au cours de votre tour, de plus votre distance de saut est doublée pour le tour.
 ### Déplacement sans armure 
 À partir du niveau 2, votre vitesse augmente de 3 mètres tant que vous n'êtes équipé ni d'une armure, ni d'un bouclier. Ce bonus augmente lorsque vous atteignez certains niveaux de moine, comme indiqué sur la table du moine ci-dessus. Au niveau 9, vous gagnez la capacité de vous déplacer, durant votre tour, le long de parois verticales et à la surface des liquides sans que vous ne tombiez au cours de votre mouvement.
+### Tradition monastique 
+Au niveau 3, vous vous engagez dans une tradition monastique : la voie de la paume, la voie de l'ombre ou la voie des quatre éléments. Ces voies sont détaillées à la n de la description de la classe. Votre tradition vous confère des capacités au niveau 3 ainsi qu'aux niveaux 6, 11 et 17.
+### Parade de projectiles 
+À partir du niveau 3, vous pouvez utiliser votre réaction pour dévier ou attraper les projectiles lorsque vous êtes touché lors d'une attaque à distance avec une arme. Lorsque vous choisissez d'utiliser la parade de projectiles, les dégâts que vous subissez de l'attaque sont réduits de 1d10 + votre modificateur de Dextérité + votre niveau de moine. Si vous réduisez les dégâts à 0, vous pouvez attraper le projectile s'il est suffisamment petit pour que vous puissiez le tenir à une main et si bien sûr vous avez une main de libre. Si vous attrapez le projectile de cette façon, vous pouvez dépenser 1 point ki pour effectuer une attaque à distance avec cette arme ou cette munition (portée 6/18 mètres) ; cette attaque fait partie de votre réaction. Vous effectuez cette attaque avec votre bonus de maîtrise, que vous maîtrisiez ou non l'arme en question, et le projectile compte comme une arme de moine pour cette attaque.
+### Amélioration de caractéristiques 
+Au niveau 4, puis par la suite aux niveaux 8, 12, 16 et 19, vous pouvez augmenter une valeur de caractéristique de votre choix de +2, ou bien augmenter deux valeurs de caractéristique de votre choix de +1. Vous ne pouvez cependant pas augmenter une caractéristique au-delà de 20 par ce biais.
+### Chute ralentie 
+Dès le niveau 4, vous pouvez utiliser votre réaction lorsque vous tombez pour réduire les dégâts consécutifs à une chute d'un montant égal à cinq fois votre niveau de moine.
+### Attaque supplémentaire 
+À partir du niveau 5, vous pouvez attaquer deux fois, au lieu d'une, lorsque vous utiliser une action Attaquer lors de votre tour.
+### Frappe étourdissante 
+À partir du niveau 5, vous pouvez perturber le flux du ki du corps de votre adversaire. Lorsque vous touchez une autre créature lors d'une attaque au corps à corps avec une arme, vous pouvez dépenser 1 point ki pour tenter d'effectuer une frappe étourdissante. La cible doit réussir un jet de sauvegarde de Constitution sous peine d'être étourdie jusqu'à la n de votre prochain tour.
+### Frappes de ki 
+À partir du niveau 6, vos attaques à mains nues sont considérées comme des attaques magiques pour ce qui est de vaincre la résistance et l'immunité aux attaques et dégâts non-magiques.
+### Esquive totale 
+Au niveau 7, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle d'un dragon bleu ou le sort boule de feu. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié de ses dégâts initiaux, vous ne subissez aucun dégât si vous réussissez votre jet de sauvegarde, et seulement la moitié des dégâts si vous l'échouez.
+### Sérénité 
+À partir du niveau 7, vous pouvez utiliser votre action pour mettre n à un effet qui vous affecte et vous inflige l'état charmé ou effrayé. 
+### Pureté physique 
+Au niveau 10, votre maîtrise du flux de ki qui vous parcourt vous immunise aux maladies et aux poisons.
+### Tradition Monastique : Voie de l'Ombre
+Les moines de la voie de l'ombre suivent une tradition qui valorise la discrétion et les subterfuges. Ces moines peuvent être appelés des ninjas ou des danseurs fantômes, et ils servent en tant qu'espions ou assassins. Parfois, les membres d'un monastère ninja sont les membres d'une même famille, formant un clan soudé par la promesse de cacher et protéger les secrets de leur art et leurs missions. D'autres monastères ressemblent d'avantage à des guildes de voleurs, qui louent leurs services aux nobles, aux riches marchands, ou à n'importe qui capable de payer leurs honoraires. Peu regardant sur la méthode, les responsables de ces monastères comptent sur une obéissance aveugle de leurs élèves.
+### Arts des ombres 
+Dès que vous choisissez cette voie au niveau 3, vous pouvez utiliser votre ki pour reproduire les effets de certains sorts. Par une action, vous pouvez dépenser 2 points ki pour lancer ténèbres, vision dans le noir, passage sans trace ou silence, sans avoir besoin de fournir les composantes matérielles. De plus, vous gagnez le sort mineur illusion mineure si vous ne le connaissez pas déjà.
+### Foulée d'ombre 
+Au niveau 6, vous gagnez la capacité de vous déplacer d'ombres en ombres. Lorsque vous êtes dans une zone de lumière faible ou de ténèbres, par une action bonus vous pouvez vous téléporter jusqu'à 18 mètres dans un espace inoccupé que vous pouvez voir et qui se trouve également dans une lumière faible ou dans les ténèbres. Vous avez ensuite un avantage à la première attaque au corps à corps que vous effectuez avant la n de votre tour.
+### Linceul d'ombre 
+Au niveau 11, vous avez appris à ne faire qu'un avec les ombres. Lorsque vous vous trouvez dans une zone de lumière faible ou de ténèbres, vous pouvez utiliser votre action pour devenir invisible. Vous restez invisible jusqu'à ce que vous effectuiez une attaque, lanciez un sort, ou soyez dans une zone de lumière vive.
 ## Roublard assassin
 None
 ## Clerc domaine de la Tromperie
