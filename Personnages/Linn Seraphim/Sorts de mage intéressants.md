@@ -19,6 +19,7 @@
 - [repli expéditif](https://www.aidedd.org/dnd/sorts.php?vf=repli-expeditif) : "déjà vu!"
 - [trait ensorceler](https://www.aidedd.org/dnd/sorts.php?vf=trait-ensorcele) : concentration, forts à tout niveau
 - [sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil) : attention au PV
+- [main brûlante](https://www.aidedd.org/dnd/sorts.php?vf=mains-brulantes) : puni le corps à corps
 
 ## Tier 2
 - [agrandissement / rapetissement](https://www.aidedd.org/dnd/sorts.php?vf=agrandissement-rapetissement) : très fort pour corp à corp (trait de race -> action bonus)
