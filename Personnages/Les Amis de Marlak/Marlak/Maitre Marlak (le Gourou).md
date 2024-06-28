@@ -1,4 +1,0 @@
-En 20 ans passé sur [[L'île d'Ayihyala]], c'est fait beaucoup d'amis et a reçue de nombreuse visions, notamment concernant les habitants du donjon, ils sait qu'un jour arriveront d'une autre terre des héros pour détruire les être maléfique qui le hante et ouvrir la porte à son dieux qui se trouverais enfermer derrière...
-Il a fondé pour cela une secte : Les Amis de Marlak et a commencé à gagné une certaine influence et réputation dans [[Les bas fonds]] que même les hautes sphère de la ville commence à réfléchir pour l'éliminer, lui qui trouble la tranquillité de la ville, c'est notamment lui qui à inciter les jeunes aventuriers de la ville à venir explorer le donjon, ce qui a causé pas mal de morts les premières années.
-
-Les joueurs sont les messies qui vont délivrer un prophète

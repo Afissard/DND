@@ -1,1 +1,0 @@
-Une secte fondé par [[Maitre Marlak (le Gourou)]]

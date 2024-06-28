@@ -1,1 +1,0 @@
-5d6 dégâts de foudre avec possibilité de canaliser la foudre (dd const pour tout le monde)

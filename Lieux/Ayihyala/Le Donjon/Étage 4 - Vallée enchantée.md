@@ -1,3 +1,0 @@
-![[La Serre]]
-
-TODO : Map

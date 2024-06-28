@@ -1,0 +1,3 @@
+A passé un pacte avec [[Greed Le-Nain]] par le passé et il va proposer à [[Castiran Eville Spown]] le même pacte : du pouvoir pour accomplir une vengeance.
+
+Offre une goute de son sang -> permet de puiser dans sont pouvoir mais à chaque utilisation, il se rapproche plus d'un démon (poussé de cornes, écailles, ailles et queue). Utilisation du pouvoir : pendant 5 min : +2 en force et constitution + immunité poisons et maladie. Passif : comprend l'infernal (profond négocié) et peut entré en contact télépathique si Daeliadayla Jiryaliamaoji le souhaite.

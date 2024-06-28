@@ -1,2 +1,0 @@
-*Alias les Mères Tikya*
-C'est à l'origine le conseil de la Reine, chacune des Matriarches est en charge d'un domaine (exemple : justice, foi, magie, économie, etc). Désormais c'est elles qui assurent la régence en attendant le réveil de leur reine.

@@ -1,8 +1,0 @@
-- Un Tabaxie fortement inspiré des Ecaflip, donc beaucoup d'aléatoire
-- Un Tieffelin rockeur & enchanteur (ensorceleur/barde) : [[Ea Meloflow]]
-- Un Palladin à peaufiner : [[Taxe Paladin]]
-- Un Clerc (alcoolique ?) et illuminé : [[Solis Abdir.pdf]]
-- Un marionnettiste dément : [[Peter Angladam]]
-- Une dryade druide
-- Un archer de l'infini (rôdeur & roublard)
-- 

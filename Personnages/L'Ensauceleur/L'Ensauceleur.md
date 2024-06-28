@@ -1,3 +1,0 @@
-- [[Daeliadayla Jiryaliamaoji]] a le contrôle du bras droit en échange de l'apprentissage de l'infernal (gravé sur le bras droit)
-- [[Daeliadayla Jiryaliamaoji]] a le contrôle total du corp (1 fois par jour pendant 10min) en échange du talent chanceux (gravé sur le bras gauche). A chaque utilisation mutation -> démon
-- [[Daeliadayla Jiryaliamaoji]] donne une partie de ses pouvoir, cf contrat. A chaque utilisation mutation -> démon

@@ -1,1 +1,1 @@
-Ceci est le repository de mes personnages et campagne DND, tout ce qui se trouve dans les dossier `Lieux/`, `Personnages/`, `Timeline/` ainsi que dans `/` est susceptible de spoil sur une campagne a venir, vous êtes prévenus.
+Ceci est le repository de mes personnages et campagne DND, tout ce qui se trouve dans le dossier `JDRs/` est susceptible de spoil sur une campagne a venir, vous êtes prévenus.
