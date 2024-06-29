@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "336df9b3f4769e4e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JDRs/Phandalin Cluedo/personnages/Le Compte Mordred De Lamar.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "f5206760b593b04c",
             "type": "leaf",
             "pinned": true,
@@ -36,6 +22,26 @@
             }
           },
           {
+            "id": "a97ce62fe51235eb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JDRs/Phandalin Cluedo/personnages/Lancelin De Lamar.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "53139ffda8d7b106",
+        "type": "tabs",
+        "children": [
+          {
             "id": "9296265ae98998ca",
             "type": "leaf",
             "pinned": true,
@@ -48,9 +54,24 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "336df9b3f4769e4e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JDRs/Phandalin Cluedo/personnages/Le Compte Mordred De Lamar.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "14a3ecdddb3f1626",
@@ -116,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JDRs/Phandalin Cluedo/Résumé de la campagne.md",
+                "file": "JDRs/Phandalin Cluedo/personnages/La Comtesse Aliénor De Lamar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JDRs/Phandalin Cluedo/Résumé de la campagne.md",
+                "file": "JDRs/Phandalin Cluedo/personnages/La Comtesse Aliénor De Lamar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,12 +190,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JDRs/Phandalin Cluedo/Résumé de la campagne.md"
+                "file": "JDRs/Phandalin Cluedo/personnages/La Comtesse Aliénor De Lamar.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,15 +214,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9296265ae98998ca",
+  "active": "f5206760b593b04c",
   "lastOpenFiles": [
-    "JDRs/Phandalin Cluedo/Carte de Phandalin.jpg",
-    "JDRs/Phandalin Cluedo/Résumé de la campagne.md",
-    "JDRs/Phandalin Cluedo/personnages/Le Compte Mordred De Lamar.md",
+    "JDRs/Ayihyala/Lieux/Phandalin/Phandalin.md",
     "JDRs/Phandalin Cluedo/personnages/La Comtesse Aliénor De Lamar.md",
-    "Ressources/Cartes/Phandalin-carte.jpg",
-    "Templates/pnj humain.md",
+    "JDRs/Phandalin Cluedo/personnages/Le Compte Mordred De Lamar.md",
+    "JDRs/Phandalin Cluedo/personnages/Lancelin De Lamar.md",
+    "JDRs/Phandalin Cluedo/lieux/Phandalin.md",
     "Templates/personnage.md",
+    "JDRs/Phandalin Cluedo/personnages/Siegfried De Lamar.md",
+    "JDRs/Phandalin Cluedo/Résumé de la campagne.md",
+    "JDRs/Phandalin Cluedo/personnages/Ranulf le tavernier.md",
+    "JDRs/Phandalin Cluedo/personnages/Lucie tavernière et fille légère.md",
+    "JDRs/Phandalin Cluedo/personnages/Lothar Démiur Chef de la Garde.md",
+    "JDRs/Ayihyala/Lieux/Padhiver/Padhiver.md",
+    "JDRs/Phandalin Cluedo/objets/dague De Lamar.md",
+    "JDRs/Phandalin Cluedo/objets",
+    "JDRs/Phandalin Cluedo/Carte de Phandalin.jpg",
+    "Ressources/Cartes/Phandalin-carte.jpg",
     "Templates/statblock.md",
     "2024-06-28.md",
     "Ressources/Fiches personnages/DD5-eFeuillePersoDD5.pdf",
@@ -222,17 +253,9 @@
     "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
     "Ressources/Données/5e_Ability-Score-Table_5e.webp",
     "Ressources/Données/Herbs Dungeons & Dragons - D&D 5e.pdf",
-    "JDRs/Phandalin Cluedo/lieux/le manoir.md",
-    "JDRs/Phandalin Cluedo/lieux/les champs.md",
-    "JDRs/Phandalin Cluedo/lieux/la forêt.md",
-    "JDRs/Phandalin Cluedo/lieux/le temple de Lathandre.md",
-    "JDRs/Phandalin Cluedo/lieux/la taverne.md",
     "Ressources/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
     "JDRs/autres/Yvaan Leblanc/Yvaan Leblanc.pdf",
     "JDRs/autres/Yvaan Leblanc/DD5-eFeuillePersoDD5 1.pdf",
-    "Ressources/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
-    "JDRs/autres/Liste de perso à faire.md",
-    "JDRs/Ragnarök/Personnages/Breweol - Deus.md",
     "Ressources/Règles/table rencontre lvl-px.png",
     "Pasted image 20240619092910.png",
     "Pasted image 20240619092907.png",

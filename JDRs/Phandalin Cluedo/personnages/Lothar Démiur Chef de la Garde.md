@@ -1,4 +1,4 @@
-## {{title}}
+## Lothar Démiur Chef de la Garde
 *Humanoïde (humain) de taille M, neutre neutre*
 ___
 **Classe d'armure** 10 (vêtement)  
@@ -44,14 +44,14 @@ ___
 |  0  |  0  |  0  |  0  |  0  |
 ***Objet***. Description
 ___
-## Description
+### Description
 Description du personnage
 ___
-## Histoire
+### Histoire
 Histoire du personnage
 ___
-## Objectif
+### Objectif
 Objectif du personnage
 ___
-## Notes
+### Notes
 prise de notes

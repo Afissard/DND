@@ -1,4 +1,4 @@
-## {{title}}
+## Lancelin De Lamar
 *Humanoïde (humain) de taille M, neutre neutre*
 ___
 **Classe d'armure** 10 (vêtement)  
