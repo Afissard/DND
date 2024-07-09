@@ -1,5 +1,16 @@
-## Lancelin De Lamar
-*Humanoïde (humain) de taille M, neutre bon, aucun (historique), niveau 1*
+Prompt à donner :
+### Préparation
+```md
+Génération de fiche de personnage pour Donjon et Dragon 5e au format markown. 
+
+Je vais te donner un modèle de fiche, une template de fiche dans le prochain message. Tu devras suivre ce modèle, parfois je donnerais des fiche avec certaine catégorie déjà remplis tu devras donc t'adapté à celle ci en restant cohérant, notament avec la description, l'histoire et les objectifs du personnage. Pour chaque fiche je suis susecptible de donnée un niveau, une race, une classe ainsi qu'un historique, si l'une des choses n'est pas donnée tu es libre d'improvisé en restant encore et toujours cohérant. 
+
+Si cela est compris alors je vais te donné le modèle de fiche.
+```
+### Modèle de fiche
+```md
+## {{title}}
+*Humanoïde (humain) de taille M, neutre neutre, soldat (historique)*
 ___
 **Classe d'armure** 10 (vêtement)  
 **Points de vie** 5 (1d8 + 1)  
@@ -56,3 +67,4 @@ Objectif du personnage
 ___
 ## Notes
 prise de notes
+```

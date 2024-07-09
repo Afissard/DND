@@ -1,5 +1,5 @@
 ## {{title}}
-*Humanoïde (humain) de taille M, neutre neutre*
+*Humanoïde (humain) de taille M, neutre neutre, soldat (historique), {classe} niveau 0*
 ___
 **Classe d'armure** 10 (vêtement)  
 **Points de vie** 5 (1d8 + 1)  
@@ -42,6 +42,7 @@ ___
 | PP  | PO  | PE  | PA  | PC  |
 | :-: | :-: | :-: | :-: | :-: |
 |  0  |  0  |  0  |  0  |  0  |
+
 ***Objet***. Description
 ___
 ## Description

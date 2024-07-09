@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8309a6748d5db866",
+        "id": "bffff45962bee81b",
         "type": "tabs",
         "children": [
           {
-            "id": "f5206760b593b04c",
+            "id": "c48329d911281b91",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JDRs/Phandalin Cluedo/personnages/La Comtesse Aliénor De Lamar.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a97ce62fe51235eb",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JDRs/Phandalin Cluedo/personnages/Lancelin De Lamar.md",
+                "file": "JDRs/autres/Bobli Tauseq.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,42 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "53139ffda8d7b106",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9296265ae98998ca",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JDRs/Phandalin Cluedo/Résumé de la campagne.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "336df9b3f4769e4e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JDRs/Phandalin Cluedo/personnages/Le Compte Mordred De Lamar.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "14a3ecdddb3f1626",
@@ -138,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JDRs/Phandalin Cluedo/personnages/La Comtesse Aliénor De Lamar.md",
+                "file": "JDRs/autres/Bobli Tauseq.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JDRs/Phandalin Cluedo/personnages/La Comtesse Aliénor De Lamar.md",
+                "file": "JDRs/autres/Bobli Tauseq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JDRs/Phandalin Cluedo/personnages/La Comtesse Aliénor De Lamar.md"
+                "file": "JDRs/autres/Bobli Tauseq.md"
               }
             }
           }
@@ -214,49 +163,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5206760b593b04c",
+  "active": "c48329d911281b91",
   "lastOpenFiles": [
-    "JDRs/Ayihyala/Lieux/Phandalin/Phandalin.md",
-    "JDRs/Phandalin Cluedo/personnages/La Comtesse Aliénor De Lamar.md",
-    "JDRs/Phandalin Cluedo/personnages/Le Compte Mordred De Lamar.md",
-    "JDRs/Phandalin Cluedo/personnages/Lancelin De Lamar.md",
-    "JDRs/Phandalin Cluedo/lieux/Phandalin.md",
+    "Templates/sort.md",
+    "Ressources/Sorts/Texte illusoire.md",
+    "Ressources/Sorts/Murmures dissonants.md",
+    "Ressources/Sorts/Illusion mineure.md",
+    "Ressources/Sorts/Fou rire de Tasha.md",
+    "Ressources/Sorts/Décharge occulte.md",
+    "Ressources/Sorts/Charme-personne.md",
+    "JDRs/autres/Bobli Tauseq.md",
+    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
     "Templates/personnage.md",
-    "JDRs/Phandalin Cluedo/personnages/Siegfried De Lamar.md",
+    "Ressources/Sorts",
+    "Ressources/Données/5e_Ability-Score-Table_5e.webp",
+    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
+    "JDRs/autres/Liste de perso à faire.md",
+    "Ressources/Sites internets.md",
+    "JDRs/Phandalin Cluedo/musique.md",
+    "JDRs/autres/TaxePaladin/Taxe Paladin.md",
+    "JDRs/autres/Solis/Solis Abdir.pdf",
+    "JDRs/Phandalin Cluedo/personnages/Esprit de la mare.md",
     "JDRs/Phandalin Cluedo/Résumé de la campagne.md",
-    "JDRs/Phandalin Cluedo/personnages/Ranulf le tavernier.md",
-    "JDRs/Phandalin Cluedo/personnages/Lucie tavernière et fille légère.md",
-    "JDRs/Phandalin Cluedo/personnages/Lothar Démiur Chef de la Garde.md",
-    "JDRs/Ayihyala/Lieux/Padhiver/Padhiver.md",
-    "JDRs/Phandalin Cluedo/objets/dague De Lamar.md",
+    "JDRs/Phandalin Cluedo/personnages/Lancelin De Lamar.md",
+    "JDRs/Phandalin Cluedo/personnages/Le Compte Mordred De Lamar.md",
+    "JDRs/Phandalin Cluedo/personnages/La Comtesse Aliénor De Lamar.md",
+    "Ressources/Données/table rencontre lvl-px.png",
+    "JDRs/Ayihyala/Tranche de puissance.md",
+    "Ressources/Génération de fiche à l'aide de GPT.md",
+    "JDRs/Phandalin Cluedo/personnages/test.md",
+    "Templates/gpt pnj.md",
+    "JDRs/Ayihyala/Lieux/Phandalin/Phandalin.md",
+    "JDRs/Phandalin Cluedo/lieux/Phandalin.md",
+    "JDRs/Phandalin Cluedo/personnages/Siegfried De Lamar.md",
     "JDRs/Phandalin Cluedo/objets",
     "JDRs/Phandalin Cluedo/Carte de Phandalin.jpg",
     "Ressources/Cartes/Phandalin-carte.jpg",
-    "Templates/statblock.md",
-    "2024-06-28.md",
     "Ressources/Fiches personnages/DD5-eFeuillePersoDD5.pdf",
     "Templates/image personnage placeholder.png",
-    "Templates/fiche sort.md",
-    "JDRs/autres/Vaern/Vaern.md",
-    "Templates/columns.md",
-    "Templates/timeline.md",
-    "Templates/caractéristique personnage.md",
-    "Templates/fiche personnage.md",
-    "README.md",
-    "JDRs/Ayihyala/Main Page.md",
-    "JDRs/Ayihyala/Histoire du Monde.md",
-    "Ressources/Sites internets.md",
-    "Carte du Monde.md",
     "Ressources/Données/Races-Classes.pdf",
     "Ressources/Cartes",
     "Ressources/Données/Monsters Dungeons & Dragons - D&D 5e.pdf",
-    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
-    "Ressources/Données/5e_Ability-Score-Table_5e.webp",
     "Ressources/Données/Herbs Dungeons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
-    "JDRs/autres/Yvaan Leblanc/Yvaan Leblanc.pdf",
-    "JDRs/autres/Yvaan Leblanc/DD5-eFeuillePersoDD5 1.pdf",
-    "Ressources/Règles/table rencontre lvl-px.png",
     "Pasted image 20240619092910.png",
     "Pasted image 20240619092907.png",
     "Ressources/Cartes/Sword-Coast-Map_HighRes.jpg",

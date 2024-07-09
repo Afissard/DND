@@ -19,4 +19,4 @@
 - Conseil : https://www.aidedd.org/dnd-5/sage-advice/
 - **Extra :** https://www.aidedd.org/dnd-5/unearthed-arcana/
 - **Aide DD web app :** https://www.aidedd.org/adj/outils/
-- 
+- création de ville (GUARDS method) : https://youtu.be/o_DSr8tY4pQ?si=2fzi6NHI6u2XBeQz
