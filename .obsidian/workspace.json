@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c48329d911281b91",
+            "id": "14a60384188380e2",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "JDRs/autres/Bobli Tauseq.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+                "file": "Ressources/Classes/Rôdeur Donjons & Dragons - D&D 5e.pdf"
+              }
             }
           }
         ]
@@ -87,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JDRs/autres/Bobli Tauseq.md",
+                "file": "Ressources/Classes/Rôdeur Donjons & Dragons - D&D 5e.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JDRs/autres/Bobli Tauseq.md",
+                "file": "Ressources/Classes/Rôdeur Donjons & Dragons - D&D 5e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JDRs/autres/Bobli Tauseq.md"
+                "file": "Ressources/Classes/Rôdeur Donjons & Dragons - D&D 5e.pdf"
               }
             }
           }
@@ -163,8 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c48329d911281b91",
+  "active": "14a60384188380e2",
   "lastOpenFiles": [
+    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
+    "JDRs/autres/Bobli Tauseq.md",
+    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Sorts/Déguisement.md",
+    "Ressources/Sorts/Tentacules de Hadar.md",
+    "JDRs/Ayihyala/Personnages/Castiran Eville Spown/Castiran Eville Spown.md",
+    "Ressources/Données/table rencontre lvl-px.png",
     "Templates/sort.md",
     "Ressources/Sorts/Texte illusoire.md",
     "Ressources/Sorts/Murmures dissonants.md",
@@ -172,8 +175,6 @@
     "Ressources/Sorts/Fou rire de Tasha.md",
     "Ressources/Sorts/Décharge occulte.md",
     "Ressources/Sorts/Charme-personne.md",
-    "JDRs/autres/Bobli Tauseq.md",
-    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
     "Templates/personnage.md",
     "Ressources/Sorts",
     "Ressources/Données/5e_Ability-Score-Table_5e.webp",
@@ -188,14 +189,10 @@
     "JDRs/Phandalin Cluedo/personnages/Lancelin De Lamar.md",
     "JDRs/Phandalin Cluedo/personnages/Le Compte Mordred De Lamar.md",
     "JDRs/Phandalin Cluedo/personnages/La Comtesse Aliénor De Lamar.md",
-    "Ressources/Données/table rencontre lvl-px.png",
     "JDRs/Ayihyala/Tranche de puissance.md",
     "Ressources/Génération de fiche à l'aide de GPT.md",
     "JDRs/Phandalin Cluedo/personnages/test.md",
     "Templates/gpt pnj.md",
-    "JDRs/Ayihyala/Lieux/Phandalin/Phandalin.md",
-    "JDRs/Phandalin Cluedo/lieux/Phandalin.md",
-    "JDRs/Phandalin Cluedo/personnages/Siegfried De Lamar.md",
     "JDRs/Phandalin Cluedo/objets",
     "JDRs/Phandalin Cluedo/Carte de Phandalin.jpg",
     "Ressources/Cartes/Phandalin-carte.jpg",
@@ -204,7 +201,6 @@
     "Ressources/Données/Races-Classes.pdf",
     "Ressources/Cartes",
     "Ressources/Données/Monsters Dungeons & Dragons - D&D 5e.pdf",
-    "Ressources/Données/Herbs Dungeons & Dragons - D&D 5e.pdf",
     "Pasted image 20240619092910.png",
     "Pasted image 20240619092907.png",
     "Ressources/Cartes/Sword-Coast-Map_HighRes.jpg",
