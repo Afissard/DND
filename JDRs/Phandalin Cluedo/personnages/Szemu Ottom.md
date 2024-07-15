@@ -1,4 +1,4 @@
-## {{title}}
+## Szemu Ottom
 *Humanoïde (humain) de taille M, neutre neutre, soldat (historique), {classe} niveau 0*
 ___
 **Classe d'armure** 10 (vêtement)  
@@ -49,7 +49,7 @@ ___
 Description du personnage
 ___
 ## Histoire
-Histoire du personnage
+fille de [[Yeshih Ottom]], c'est elle qui a tué [[Le Compte Mordred De Lamar]].
 ___
 ## Objectif
 Objectif du personnage

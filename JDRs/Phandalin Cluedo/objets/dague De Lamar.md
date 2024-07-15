@@ -1,1 +1,1 @@
-une dague appartenant au [[Le Compte Mordred De Lamar]].
+une dague appartenant au [[Le Compte Mordred De Lamar]]. Sa lame est légèrement ondulé, le pommeau représentant une tête de serpent prêt à mordre.

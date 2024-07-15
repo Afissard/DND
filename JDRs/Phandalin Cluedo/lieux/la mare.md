@@ -1,0 +1,1 @@
+C'est en apparence une mare des plus normale avec un écosystème des plus standard. Cependant selon certaine veilles légendes cette mare serais sans fond et habiter par un esprit [Yuan-ti](https://le-monde-des-royaumes-oublies.fandom.com/fr/wiki/Yuan-ti), ce serais ce même esprit ([[Esprit de la mare]]) à l'origine de la [[dague De Lamar]].

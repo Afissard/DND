@@ -1,4 +1,4 @@
-## {{title}}
+## Yeshih Ottom
 *Humanoïde (humain) de taille M, neutre neutre, soldat (historique), {classe} niveau 0*
 ___
 **Classe d'armure** 10 (vêtement)  
@@ -46,7 +46,7 @@ ___
 **Objet**. Description
 ___
 ## Description
-Description du personnage
+C'est un veil homme, vêtu dans le pure style ottomans
 ___
 ## Histoire
 Histoire du personnage
