@@ -4,8 +4,8 @@
 - Un Clerc (alcoolique ?) et illuminé : [[Solis Abdir.pdf]]
 - Un marionnettiste dément : [[Peter Angladem]]
 - Une dryade druide
-- Un archer de l'infini (rôdeur & roublard)
+- Un archer de l'infini (rôdeur & roublard) [[Lothar le compte déchu]]
 - Un dresseur Pokemon (invocateur ...)
-- Un cavalier (sort de paladin : invocation de destrier ...)
+- Un cavalier (sorte de paladin : invocation de destrier ...)
 - Un gnome de guerre
 - Un kobold "Sram" (roublard, rôdeur, ensorceleur/barde)
