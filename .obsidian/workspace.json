@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5bc415fabfe657ee",
+        "id": "f44205b171cbc45c",
         "type": "tabs",
         "children": [
           {
-            "id": "ab6bdd61ab4e58e5",
+            "id": "a4a7be916cf3c81e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JDRs/Ayihyala/Objets/La perche du Passeur.md",
+                "file": "JDRs/autres/Asudem/Asudem Yulia.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "314181a3e67a29d2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf"
-              }
             }
           }
         ]
@@ -97,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JDRs/Ayihyala/Objets/La perche du Passeur.md",
+                "file": "JDRs/autres/Asudem/Asudem Yulia.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JDRs/Ayihyala/Objets/La perche du Passeur.md",
+                "file": "JDRs/autres/Asudem/Asudem Yulia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JDRs/Ayihyala/Objets/La perche du Passeur.md"
+                "file": "JDRs/autres/Asudem/Asudem Yulia.md"
               }
             }
           }
@@ -173,10 +163,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab6bdd61ab4e58e5",
+  "active": "a4a7be916cf3c81e",
   "lastOpenFiles": [
-    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
+    "JDRs/autres/Asudem/Asudem02.pdf",
+    "Ressources/Sorts/Silence.md",
+    "JDRs/autres/Asudem/Asudem Yulia.md",
+    "Ressources/Sorts/Passage sans trace.md",
+    "Ressources/Sorts/Vision dans le noir.md",
+    "Ressources/Sorts/Ténèbres.md",
+    "Ressources/Sorts/Illusion mineure.md",
+    "JDRs/autres/Asudem/Asudem.md",
     "JDRs/Ayihyala/Objets/La perche du Passeur.md",
+    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
     "JDRs/Phandalin Cluedo/personnages/Siegfried De Lamar.md",
     "JDRs/Phandalin Cluedo/Résumé de la campagne.md",
     "JDRs/Phandalin Cluedo/personnages/Szemu Ottom.md",
@@ -201,17 +199,9 @@
     "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Sorts/Déguisement.md",
     "Ressources/Sorts/Tentacules de Hadar.md",
-    "JDRs/Ayihyala/Personnages/Castiran Eville Spown/Castiran Eville Spown.md",
     "Ressources/Données/table rencontre lvl-px.png",
-    "Templates/sort.md",
-    "Ressources/Sorts/Texte illusoire.md",
-    "Ressources/Sorts/Murmures dissonants.md",
-    "Ressources/Sorts/Illusion mineure.md",
-    "Ressources/Sorts/Fou rire de Tasha.md",
-    "Ressources/Sorts/Décharge occulte.md",
     "Ressources/Sorts",
     "JDRs/autres/Solis/Solis Abdir.pdf",
-    "JDRs/Phandalin Cluedo/objets",
     "JDRs/Phandalin Cluedo/Carte de Phandalin.jpg",
     "Ressources/Cartes/Phandalin-carte.jpg",
     "Templates/image personnage placeholder.png",
