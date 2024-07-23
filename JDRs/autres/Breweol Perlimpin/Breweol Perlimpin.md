@@ -5,14 +5,14 @@ Breweol dégage une aura magique très forte (lui donne l'apparence qu'il est pl
 # Caractéristique
 caractéristique de base : 11 14 15 17 11 14
 
-| Caractéristique |   Valeur   | Bonus | Sauvegarde | Bonus Sauvegarde |
-| :-------------: | :--------: | :---: | :--------: | :--------------: |
-|      Force      |     11     |   0   |            |                  |
-|    Dextérité    | 11+2 -> 13 |   1   |            |                  |
-|  Constitution   | 15+1 -> 16 |   3   |    oui     |                  |
-|  Intelligence   |     14     |   2   |    oui     |                  |
-|     Sagesse     | 17+1 -> 18 |   4   |    oui     |                  |
-|    Charisme     |     14     |   2   |            |                  |
+| Caractéristique |   Valeur   | Bonus | Sauvegarde |
+| :-------------: | :--------: | :---: | :--------: |
+|      Force      |     11     |   0   |            |
+|    Dextérité    | 11+2 -> 13 |   1   |            |
+|  Constitution   | 15+1 -> 16 |   3   |    oui     |
+|  Intelligence   |     14     |   2   |    oui     |
+|     Sagesse     | 17+1 -> 18 |   4   |    oui     |
+|    Charisme     |     14     |   2   |            |
 # Niveaux
 - 4 niveaux de druide cercle de la lune
 - 2 niveaux de mage école de la divination
