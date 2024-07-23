@@ -2,7 +2,7 @@
 *Humanoïde (humaine) de taille M, neutre mauvais, chasseur de prime (historique), moine niveau 3*
 ___
 **Classe d'armure** 16 (défense sans armure)  
-**Points de vie** 25 (3d8 + 1)  
+**Points de vie** 25 (3d8)  
 **Vitesse** 12 m 
 **Initiative** +9
 ___
@@ -22,9 +22,11 @@ ___
 **Outils** outils de voleur, flute, véhicules terrestre
 **Armes** armes courantes, épée courte
 **Armure** aucune
-**Puissance** 1 (200 PX)     **Bonus de maîtrise** +2  
+**Bonus de maîtrise** +2  
 ___
 ### Capacités
+Vision dans le noir
+
 **Regard pétrifiant (Malédiction de [Méduse](https://www.aidedd.org/dnd/monstres.php?vf=meduse))**.  Si une créature débute son tour à 9 mètres ou moins de la méduse et que chacun peut voir l'autre, la méduse (si elle n'est pas incapable d'agir) peut forcer la créature à effectuer un jet de sauvegarde de Constitution DD 14. En cas d'échec de 5 points ou plus, la créature est immédiatement pétrifiée. En cas de simple échec, elle commence à se changer en pierre et est entravée. Elle doit retenter le jet de sauvegarde à la fin de son prochain tour. En cas de réussite, l'effet se termine. En cas d'échec, la créature est pétrifiée, jusqu'à ce qu'elle soit délivrée par un sort de [restauration supérieure](https://www.aidedd.org/dnd/sorts.php?vf=restauration-superieure) ou par une magie similaire. À moins qu'elle ne soit surprise, une créature peut éviter le regard de la méduse pour éviter un jet de sauvegarde au début de son tour. Dans ce cas, elle ne pourra pas voir la méduse jusqu'au début de son prochain tour, et pourra encore choisir à ce moment d'éviter son regard. Si elle regarde la méduse entre temps, elle devra tenter immédiatement le jet de sauvegarde. Si la méduse voit son propre reflet à 9 mètres ou moins dans des conditions de lumière vive, la méduse, du fait de sa malédiction, sera affectée par son propre regard.
 
 **Vigilant**. Toujours en train de guetter le danger, vous gagnez les avantages suivants : 
@@ -49,7 +51,8 @@ Lorsque vous dépensez un point ki, il n'est plus disponible jusqu'à ce que vou
 **Coup de Dague Drow**. *Attaque au corps à corps avec une arme* : +2+4 au toucher, allonge 1,50 m, une cible. *Touché* : 4d4+4 dégâts perçant. Toute personne blessé par la dague doit effectuer un jet de sauvegarde (dd15) de Constitution ou s'endormir.
 
 **Coup de bâton**. *Attaque au corp à corps avec une arme* : +2+4 au toucher, allonge 1,50 m, une cible. *Touché* : 1d6+4 dégâts contondant ou 1d8+4 si à deux mains (polyvalent).
-**Jet de fléchettes**. *Attaque à distance avec une arme* : +2+4 au lancer, porté de 6 à 18m. *Touché* : 1d4+4
+
+**Jet de fléchettes**. *Attaque à distance avec une arme* : +2+4 au lancer, porté de 6 à 18m. *Touché* : 1d4+4. 10 munitions.
 
 **Coup de dague**. *Attaque au corp à corps avec une arme* : +2+4 au toucher, allonge 1,50 m, une cible. *Touché* : 1d4+4 dégâts perçant.
 
@@ -70,7 +73,7 @@ Lorsque vous dépensez un point ki, il n'est plus disponible jusqu'à ce que vou
 |  0  | 14  |  0  |  0  |  0  |
 
 **Robe de moine-ninja**. ???
-**Sac d'explorateur**. Un sac à dos, un sac de couchage, une trousse de mess, un briquet, 10 torches, 7 jours de rations, une outre et 15m de corde.
+**Sac d'explorateur**. Un sac à dos, un sac de couchage, une trousse de mess, un briquet, 10 torches, 4 jours de rations, une outre et 15m de corde.
 **Médaillons de Soh Liarish**. ???
 ___
 ## Description
