@@ -1,0 +1,1 @@
+Petit village d'un cinquantaine d'âme, celui-ci est surtout agricole.

@@ -1,5 +1,5 @@
-## Ranulf le tavernier
-*Humanoïde (humain) de taille M, neutre neutre*
+## Esprit de la mare
+*Humanoïde (humain) de taille M, neutre neutre, soldat (historique), {classe} niveau 0*
 ___
 **Classe d'armure** 10 (vêtement)  
 **Points de vie** 5 (1d8 + 1)  
@@ -24,7 +24,7 @@ ___
 **Puissance** 1 (200 PX)     **Bonus de maîtrise** +2  
 ___
 ### Capacités
-***Nom de la capacité***. Description de la capacité.  
+**Nom de la capacité**. Description de la capacité.  
 
 ### Actions
 ***Coup de poing***. *Attaque au corps à corps avec une arme* : +0 au toucher, allonge 1,50 m, une cible. *Touché* : 2 (1d4 + 0) dégâts contondant.  
@@ -42,16 +42,18 @@ ___
 | PP  | PO  | PE  | PA  | PC  |
 | :-: | :-: | :-: | :-: | :-: |
 |  0  |  0  |  0  |  0  |  0  |
-***Objet***. Description
+
+**Objet**. Description
 ___
-### Description
+## Description
 Description du personnage
 ___
-### Histoire
+## Histoire
 Histoire du personnage
 ___
-### Objectif
+## Objectif
 Objectif du personnage
 ___
-### Notes
-prise de notes
+## Notes
+[sentinelle d'eau - fiche dnd](https://www.aidedd.org/dnd/monstres.php?vf=sentinelle-d-eau)
+Esprit Yuan-Ti
