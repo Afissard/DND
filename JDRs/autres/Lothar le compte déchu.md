@@ -79,9 +79,9 @@ ___
 - Rôdeur niveau 2 : style de combat Archerie (Vous obtenez un bonus de +2 aux jets d'attaque avec une arme à distance.)
 - Rôdeur niveau 3 : Archétype du Chasseur, proie du chasseur : Tueur de colosses (Votre ténacité peut user les ennemis les plus puissants. Quand vous touchez une créature lors d'une attaque avec une arme, la créature prend 1d8 dégâts supplémentaires si elle est sous son maximum de points de vie. Vous ne pouvez infliger ces dégâts supplémentaires qu'une fois par tour.)
 - Rôdeur niveau 4 : Dons Tireur d'élite
-- 
+Multi-classe :
 - Un maximum de niveau de Roublard (archétype de l'Assassin) pour l'attaque sournoise
-- 3 niveaux de guerrier (champion) pour la fougue + style de combat (combat à deux armes ou défense) et Critique amélioré. Alternativement il est possible de ne pas prendre de niveau de Rôdeur et prendre des niveau de guerrier à la place.
+- 3 niveaux de guerrier (champion) pour la fougue + style de combat (combat à deux armes ou défense (ou archerie)) et Critique amélioré. Alternativement il est possible de ne pas prendre de niveau de Rôdeur et prendre des niveau de guerrier à la place.
 
 ### Futurs dons :
 *Si départ avec une arbalète :*

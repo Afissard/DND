@@ -25,7 +25,7 @@ ___
 **Bonus de maîtrise** +2  
 ___
 ### Capacités
-Vision dans le noir
+**Vision dans le noir.** Vous pouvez voir à 18 mètres dans une lumière faible comme vous verriez avec une lumière vive, et dans le noir comme vous verriez avec une lumière faible. Dans le noir, vous ne discernez pas les couleurs, uniquement des nuances de gris.
 
 **Regard pétrifiant (Malédiction de [Méduse](https://www.aidedd.org/dnd/monstres.php?vf=meduse))**.  Si une créature débute son tour à 9 mètres ou moins de la méduse et que chacun peut voir l'autre, la méduse (si elle n'est pas incapable d'agir) peut forcer la créature à effectuer un jet de sauvegarde de Constitution DD 14. En cas d'échec de 5 points ou plus, la créature est immédiatement pétrifiée. En cas de simple échec, elle commence à se changer en pierre et est entravée. Elle doit retenter le jet de sauvegarde à la fin de son prochain tour. En cas de réussite, l'effet se termine. En cas d'échec, la créature est pétrifiée, jusqu'à ce qu'elle soit délivrée par un sort de [restauration supérieure](https://www.aidedd.org/dnd/sorts.php?vf=restauration-superieure) ou par une magie similaire. À moins qu'elle ne soit surprise, une créature peut éviter le regard de la méduse pour éviter un jet de sauvegarde au début de son tour. Dans ce cas, elle ne pourra pas voir la méduse jusqu'au début de son prochain tour, et pourra encore choisir à ce moment d'éviter son regard. Si elle regarde la méduse entre temps, elle devra tenter immédiatement le jet de sauvegarde. Si la méduse voit son propre reflet à 9 mètres ou moins dans des conditions de lumière vive, la méduse, du fait de sa malédiction, sera affectée par son propre regard.
 
@@ -67,6 +67,8 @@ Lorsque vous dépensez un point ki, il n'est plus disponible jusqu'à ce que vou
 
 ### Réactions
 **Parade de projectiles (Moine)**. À partir du niveau 3, vous pouvez utiliser votre réaction pour dévier ou attraper les projectiles lorsque vous êtes touché lors d'une attaque à distance avec une arme. Lorsque vous choisissez d'utiliser la parade de projectiles, les dégâts que vous subissez de l'attaque sont réduits de 1d10 + votre modificateur de Dextérité + votre niveau de moine. Si vous réduisez les dégâts à 0, vous pouvez attraper le projectile s'il est suffisamment petit pour que vous puissiez le tenir à une main et si bien sûr vous avez une main de libre. Si vous attrapez le projectile de cette façon, vous pouvez dépenser 1 point ki pour effectuer une attaque à distance avec cette arme ou cette munition (portée 6/18 mètres) ; cette attaque fait partie de votre réaction. Vous effectuez cette attaque avec votre bonus de maîtrise, que vous maîtrisiez ou non l'arme en question, et le projectile compte comme une arme de moine pour cette attaque.
+
+___
 ### Inventaire
 | PP  | PO  | PE  | PA  | PC  |
 | :-: | :-: | :-: | :-: | :-: |
