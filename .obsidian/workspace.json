@@ -10,13 +10,15 @@
           {
             "id": "d5438cc5236038d8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin Yuan-Ti.md",
+                "file": "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin Yuan-Ti.md",
+                "file": "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin Yuan-Ti.md",
+                "file": "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin Yuan-Ti.md"
+                "file": "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md"
               }
             }
           }
@@ -163,15 +165,28 @@
   },
   "active": "d5438cc5236038d8",
   "lastOpenFiles": [
-    "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin Yuan-Ti.md",
-    "JDRs/autres/Breweol Perlimpin/Breweol-Perlimpin_Yuan-ti.png",
+    "Ressources/Sorts/Frappe piégeuse.md",
+    "Ressources/Sorts/Marque du chasseur.md",
+    "Ressources/Sorts/Bouffée de poison.md",
+    "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
+    "Ressources/Sorts/Rayon Empoisonné.md",
+    "Ressources/Sorts/Silence.md",
+    "Ressources/Sorts/Foulée brumeuse.md",
+    "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin.md",
     "Ressources/Classes/Rodeur Donjons & Dragons - D&D 5.pdf",
+    "Ressources/Sorts/Arme magique.md",
+    "JDRs/autres/Linn Seraphim/Sorts de mage intéressants.md",
+    "Ressources/Sorts/Amitié avec les animaux.md",
+    "Ressources/Sorts/Message.md",
+    "Ressources/Sorts/Main de mage.md",
+    "Ressources/Sorts/Suggestion.md",
+    "Ressources/Sorts/Aura magique de Nystul.md",
+    "JDRs/autres/Breweol Perlimpin/Breweol-Perlimpin_Yuan-ti.png",
     "JDRs/Mystère de Lamar/personnages/Yeshih Ottom.md",
     "JDRs/autres/Breweol Perlimpin/Breweol-grimoire.pdf",
     "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Règles/dnd_multiclasse.pdf",
     "JDRs/autres/Breweol Perlimpin/Breweol-fiche_0.pdf",
-    "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin.md",
     "JDRs/autres/Lothar le compte déchu.md",
     "JDRs/autres/Asudem/Asudem Yulia.md",
     "JDRs/autres/Asudem/Asudem.md",
@@ -187,18 +202,6 @@
     "JDRs/Mystère de Lamar/personnages/Ranulf le tavernier.md",
     "JDRs/Mystère de Lamar/personnages/Lucie tavernière et fille légère.md",
     "JDRs/Mystère de Lamar/lieux/la taverne du Blé Arrosé.md",
-    "JDRs/Mystère de Lamar/personnages/La Comtesse Aliénor De Lamar.md",
-    "JDRs/Mystère de Lamar/personnages/Siegfried De Lamar.md",
-    "JDRs/Mystère de Lamar/personnages/Esprit de la mare.md",
-    "Ressources/Sorts/Silence.md",
-    "Ressources/Sorts/Passage sans trace.md",
-    "Ressources/Sorts/Vision dans le noir.md",
-    "Ressources/Sorts/Ténèbres.md",
-    "Ressources/Sorts/Illusion mineure.md",
-    "Ressources/Sorts/Vision dans le noir.md",
-    "JDRs/Mystère de Lamar/personnages/Lothar Démiur Chef de la Garde.md",
-    "Templates/personnage.md",
-    "JDRs/Mystère de Lamar/objets/dague De Lamar.md",
     "Ressources/Données/5e_Ability-Score-Table_5e.webp",
     "Ressources/Données/table rencontre lvl-px.png",
     "JDRs/Mystère de Lamar/Carte de Phandalin.jpg",
