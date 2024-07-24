@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3ec0c2ae64c6ba72",
+        "id": "495bfaffa1b08983",
         "type": "tabs",
         "children": [
           {
-            "id": "280c519900263054",
+            "id": "d5438cc5236038d8",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Ressources/Classes/Rodeur Donjons & Dragons - D&D 5.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c7ba4d6269dde513",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JDRs/Mystère de Lamar/personnages/Yeshih Ottom.md",
+                "file": "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin Yuan-Ti.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JDRs/Mystère de Lamar/personnages/Yeshih Ottom.md",
+                "file": "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin Yuan-Ti.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JDRs/Mystère de Lamar/personnages/Yeshih Ottom.md",
+                "file": "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin Yuan-Ti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JDRs/Mystère de Lamar/personnages/Yeshih Ottom.md"
+                "file": "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin Yuan-Ti.md"
               }
             }
           }
@@ -176,23 +161,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7ba4d6269dde513",
+  "active": "d5438cc5236038d8",
   "lastOpenFiles": [
+    "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin Yuan-Ti.md",
+    "JDRs/autres/Breweol Perlimpin/Breweol-Perlimpin_Yuan-ti.png",
     "Ressources/Classes/Rodeur Donjons & Dragons - D&D 5.pdf",
     "JDRs/Mystère de Lamar/personnages/Yeshih Ottom.md",
+    "JDRs/autres/Breweol Perlimpin/Breweol-grimoire.pdf",
+    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Règles/dnd_multiclasse.pdf",
+    "JDRs/autres/Breweol Perlimpin/Breweol-fiche_0.pdf",
+    "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin.md",
+    "JDRs/autres/Lothar le compte déchu.md",
     "JDRs/autres/Asudem/Asudem Yulia.md",
     "JDRs/autres/Asudem/Asudem.md",
     "JDRs/autres/Bobli Tauseq.md",
-    "JDRs/autres/Lothar le compte déchu.md",
     "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Rôdeur Donjons & Dragons - D&D 5.pdf",
     "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
     "JDRs/Mystère de Lamar/personnages/Szemu Ottom.md",
     "JDRs/Mystère de Lamar/lieux/Phandalin.md",
     "JDRs/Mystère de Lamar/Résumé de la campagne.md",
@@ -211,7 +199,6 @@
     "JDRs/Mystère de Lamar/personnages/Lothar Démiur Chef de la Garde.md",
     "Templates/personnage.md",
     "JDRs/Mystère de Lamar/objets/dague De Lamar.md",
-    "JDRs/Mystère de Lamar/personnages/Le Compte Mordred De Lamar.md",
     "Ressources/Données/5e_Ability-Score-Table_5e.webp",
     "Ressources/Données/table rencontre lvl-px.png",
     "JDRs/Mystère de Lamar/Carte de Phandalin.jpg",
