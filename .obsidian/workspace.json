@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c0f9c43cf351d0c",
+        "id": "07979e107db8a93f",
         "type": "tabs",
         "children": [
           {
-            "id": "910ecb8147dcf4f9",
+            "id": "c9c3bd67cd42c67e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,120 +22,49 @@
             }
           },
           {
-            "id": "46f8ad55fef88294",
+            "id": "bcab86b6a171763a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JDRs/Mystère de Lamar/personnages/Isarn Doyen du temple de Lathandre.md",
+                "file": "JDRs/Mystère de Lamar/personnages/Parasite.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b8449e2ddd97af4e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JDRs/Mystère de Lamar/personnages/Yeshih Ottom.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1d3c0d3e2c71047f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JDRs/Mystère de Lamar/personnages/Szemu Ottom.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
           }
-        ]
-      },
-      {
-        "id": "05bb1db52d99deda",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "417be921cb157e42",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "JDRs/Mystère de Lamar/personnages/Le Compte Mordred De Lamar.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "path:\"JDRs/Mystère de Lamar\"  ",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "path:\"JDRs/Mystère de Lamar/lieux\"  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    },
-                    {
-                      "query": "path:\"JDRs/Mystère de Lamar/personnages\"  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 10050774
-                      }
-                    },
-                    {
-                      "query": "path:\"JDRs/Mystère de Lamar/objets\"  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11392604
-                      }
-                    },
-                    {
-                      "query": "path:\"JDRs/Mystère de Lamar/événements\"  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 6070742
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": -2,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.5,
-                  "repelStrength": 15,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6666666666666661,
-                  "close": true
-                }
-              },
-              "pinned": true
-            },
-            "group": "0c3e6feaab165e40"
-          },
-          {
-            "id": "de39f6a8426c718c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JDRs/Mystère de Lamar/personnages/Le Compte Mordred De Lamar.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            },
-            "group": "0c3e6feaab165e40"
-          },
-          {
-            "id": "e74fb131f40daff3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JDRs/Mystère de Lamar/Résumé de la campagne.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JDRs/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
+                "file": "JDRs/Mystère de Lamar/personnages/Parasite.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JDRs/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
+                "file": "JDRs/Mystère de Lamar/personnages/Parasite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JDRs/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md"
+                "file": "JDRs/Mystère de Lamar/personnages/Parasite.md"
               }
             }
           }
@@ -277,15 +206,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "910ecb8147dcf4f9",
+  "active": "bcab86b6a171763a",
   "lastOpenFiles": [
+    "JDRs/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
+    "JDRs/Mystère de Lamar/personnages/Yeshih Ottom.md",
+    "JDRs/Mystère de Lamar/personnages/Szemu Ottom.md",
+    "JDRs/Mystère de Lamar/personnages/Parasite.md",
     "JDRs/Mystère de Lamar/personnages/Isarn Doyen du temple de Lathandre.md",
+    "Ressources/Données/table rencontre lvl-px.png",
+    "JDRs/Mystère de Lamar/image/Linn_prisonière.jpg",
+    "JDRs/Mystère de Lamar/image",
+    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
     "JDRs/Mystère de Lamar/personnages/Le Compte Mordred De Lamar.md",
     "JDRs/Mystère de Lamar/Résumé de la campagne.md",
     "JDRs/Mystère de Lamar/lieux/Phandalin.md",
-    "JDRs/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
     "JDRs/Mystère de Lamar/personnages/Lothar Démiur Chef de la Garde.md",
-    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
     "JDRs/Mystère de Lamar/personnages/Lucie tavernière et fille légère.md",
     "JDRs/Mystère de Lamar/personnages/Ranulf le tavernier.md",
     "JDRs/Mystère de Lamar/lieux/taverne du Blé Arrosé.md",
@@ -295,7 +230,6 @@
     "JDRs/Mystère de Lamar/lieux/poste de garde.md",
     "JDRs/Mystère de Lamar/lieux/champs.md",
     "JDRs/Mystère de Lamar/lieux/temple de Lathandre.md",
-    "JDRs/Mystère de Lamar/personnages/Szemu Ottom.md",
     "JDRs/Mystère de Lamar/personnages/Siegfried De Lamar.md",
     "JDRs/Mystère de Lamar/événements/Mort de Mordred De Lamar.md",
     "JDRs/Mystère de Lamar/événements/La requête de la comtesse.md",
@@ -303,27 +237,22 @@
     "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
     "JDRs/autres/Asudem/Asudem.md",
     "JDRs/autres/Asudem/Asudem Yulia.md",
-    "JDRs/Mystère de Lamar/personnages/Yeshih Ottom.md",
     "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
     "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
     "Ressources/Sorts/Arme magique.md",
     "Ressources/Classes/Rodeur Donjons & Dragons - D&D 5.pdf",
     "JDRs/Mystère de Lamar/musique.md",
     "JDRs/Mystère de Lamar/événements",
-    "Ressources/Sorts/Frappe piégeuse.md",
     "JDRs/autres/Breweol Perlimpin/Breweol-Perlimpin_Yuan-ti.png",
     "JDRs/autres/Breweol Perlimpin/Breweol-grimoire.pdf",
     "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Règles/dnd_multiclasse.pdf",
     "JDRs/autres/Breweol Perlimpin/Breweol-fiche_0.pdf",
-    "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Données/5e_Ability-Score-Table_5e.webp",
-    "Ressources/Données/table rencontre lvl-px.png",
     "Ressources/Cartes/Phandalin-carte.jpg",
     "Templates/image personnage placeholder.png",
     "Pasted image 20240619092910.png",
     "Pasted image 20240619092907.png",
-    "Ressources/Cartes/Sword-Coast-Map_HighRes.jpg",
-    "JDRs/autres/Liam Seraphim/Druide Inspiration.png"
+    "Ressources/Cartes/Sword-Coast-Map_HighRes.jpg"
   ]
 }

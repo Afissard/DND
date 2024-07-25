@@ -22,7 +22,7 @@ ___
 **Outils** aucun
 **Armes** armes courantes, armes de guerre
 **Armure** armures légères et intermédiaires, boucliers
-**Puissance** ? (??? PX)     **Bonus de maîtrise** +3  
+**Puissance** 3 (750 PX)     **Bonus de maîtrise** +3  
 ___
 ### Capacités
 **Couleur local (voyageur)**. Vos voyages vous ont appris à adopter rapidement les coutumes des peuples que vous avez croisés, leur accent, leur façon de s'habiller, de se comporter, jusqu'à leur démarche. Lorsque vous arrivez dans une ville ou une région, il ne vous faut pas longtemps pour vous faire passer pour un local. De plus, vous pouvez, si vous le souhaitez, vous comporter comme si vous étiez originaire de tous les endroits que vous avez traversés. Au début de la partie, déterminez avec votre MD combien d'origines vous pouvez imiter. Vous connaissez aussi quelques mots de nombreux langages, assez pour vous en sortir dans une interaction sociale de base (dire bonjour, merci, commander à boire par exemple) avec presque n'importe quel humanoïde civilisé (là encore, le MD est seul juge).
@@ -101,6 +101,7 @@ ___
 C'est un veil homme, vêtu dans le pure style ottomans
 ___
 ## Histoire
+#TODO 
 Histoire du personnage
 ___
 ## Objectif
