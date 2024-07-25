@@ -41,7 +41,7 @@ Lucie est une jeune femme encore dans la fleur de l'âge (environ 25 ans), elle 
 
 ___
 ## Histoire
-Sa mère étant morte alors qu'elle n'était encore qu'une enfant, Lucie n'a que son père, [[Ranulf le tavernier]], pour famille. Elle sait qu'il se tue à la tâche pour qu'elle puisse mener une belle vie et puisse hériter d'un établissement de renom. Cependant, Lucie s'est pris de passion pour les hommes durant son adolescence. Elle se doute que son père connaît ce secret mais qu'il se tait dessus, sachant qu'elle contribue à la notoriété et à la santé économique de [[la taverne du Blé Arrosé]]. La conversation reste donc tabou pour le moment.
+Sa mère étant morte alors qu'elle n'était encore qu'une enfant, Lucie n'a que son père, [[Ranulf le tavernier]], pour famille. Elle sait qu'il se tue à la tâche pour qu'elle puisse mener une belle vie et puisse hériter d'un établissement de renom. Cependant, Lucie s'est pris de passion pour les hommes durant son adolescence. Elle se doute que son père connaît ce secret mais qu'il se tait dessus, sachant qu'elle contribue à la notoriété et à la santé économique de la [[taverne du Blé Arrosé]]. La conversation reste donc tabou pour le moment.
 
 ___
 ## Objectif

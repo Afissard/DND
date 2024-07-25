@@ -1,1 +1,0 @@
-fille caché du grand prêtre de Phandalin, elle a été confié à sa naissance à un groupe de none. Alors qu'elle allais rendre une visite (discrète) à son père, elle s'est fais attaquer par des parasites, elle a ensuite quelque jour plus tard attaquer le juge de Phandalin avant de se faire maîtriser et envoyer dans les geôles de la tour de garde.

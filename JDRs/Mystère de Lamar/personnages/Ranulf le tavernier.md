@@ -52,7 +52,7 @@ C'est un vieil homme usé par le travail, quelque peu bedonnant.
 
 ___
 ## Histoire
-C'est un tavernier plutôt joyeux qui aime son métier et a consacré une bonne partie de sa vie à construire [[la taverne du Blé Arrosé]], aujourd'hui c'est une taverne très appréciée par les habitants des environs. Père de [[Lucie tavernière et fille légère]], il fait tout ce qui est en son pouvoir pour qu'elle puisse mener une belle vie et trouver un bon mari. Il la soupçonne de coucher avec certains clients de la taverne mais n'a pour le moment toujours pas osé aborder le sujet, par peur de la vérité.
+C'est un tavernier plutôt joyeux qui aime son métier et a consacré une bonne partie de sa vie à construire la [[taverne du Blé Arrosé]], aujourd'hui c'est une taverne très appréciée par les habitants des environs. Père de [[Lucie tavernière et fille légère]], il fait tout ce qui est en son pouvoir pour qu'elle puisse mener une belle vie et trouver un bon mari. Il la soupçonne de coucher avec certains clients de la taverne mais n'a pour le moment toujours pas osé aborder le sujet, par peur de la vérité.
 
 ___
 ## Objectif

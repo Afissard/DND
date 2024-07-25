@@ -1,1 +1,1 @@
-Suite à la mort mystérieuse de son marie, la comtesse fait appel à un groupe d'aventurier pour résoudre le mystère.
+Suite à la [[Mort de Mordred De Lamar]], [[La Comtesse Aliénor De Lamar]] fait appel à un groupe d'aventurier pour résoudre le mystère.
