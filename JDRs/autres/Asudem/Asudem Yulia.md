@@ -38,7 +38,7 @@ ___
 
 **Arts martiaux (Moine)**. Au niveau 1, votre pratique des arts martiaux vous donne la maîtrise des styles de combat utilisant les attaques à mains nues et les armes de moine, qui sont l'épée courte et toutes les armes de corps à corps courantes qui n'ont ni la propriété à deux mains, ni la propriété lourde. Vous gagnez les avantages suivants lorsque vous êtes à mains nues ou ne maniez que des armes de moine et que vous n'êtes équipé ni d'armure ni de bouclier : 
 - Vous pouvez utiliser la Dextérité à la place de la Force aux jets d'attaque et de dégâts de vos attaques à mains nues et avec des armes de moine. 
-- Vous pouvez lancer un d4 à la place des dégâts normaux de votre attaque à mains nues ou de vos armes de moine. Ce dé change lorsque vous gagnez des niveaux de moine, comme indiqué dans la colonne Arts martiaux de la table ci-dessus. 
+- Vous pouvez lancer un **d4** à la place des dégâts normaux de votre attaque à mains nues ou de vos armes de moine. Ce dé change lorsque vous gagnez des niveaux de moine, comme indiqué dans la colonne Arts martiaux de la table ci-dessus. 
 - Lorsque vous utilisez l'action Attaquer avec une attaque à mains nues ou une arme de moine au cours de votre tour, vous pouvez effectuer une attaque à mains nues au prix d'une action bonus. Par exemple, si vous prenez l'action Attaque et attaquez avec un bâton, vous pouvez également effectuer une attaque à mains nues avec votre action bonus, à condition que vous n'ayez pas déjà utilisé votre action bonus pour ce tour.
 Certains monastères utilisent des versions spéciales des armes de moine. Par exemple, vous pourriez utiliser un gourdin dont les deux manches en bois sont reliés par une chaîne de fer (cette arme est alors appelée un nunchaku) ou bien une serpe possédant une lame plus courte et plus droite (on parle alors de kama). Quel que soit le nom que vous utilisiez pour votre arme de moine, vous pouvez utiliser les statistiques de jeu données à l'arme dans le chapitre Armes.
 
@@ -59,6 +59,8 @@ Lorsque vous dépensez un point ki, il n'est plus disponible jusqu'à ce que vou
 **Arts des ombres (Moine - Voie de l'Ombre)**. Dès que vous choisissez cette voie au niveau 3, vous pouvez utiliser votre ki pour reproduire les effets de certains sorts. Par une action, vous pouvez dépenser 2 points ki pour lancer [[Ténèbres]], [[Vision dans le noir]], [[Passage sans trace]] ou [[Silence]], sans avoir besoin de fournir les composantes matérielles. De plus, vous gagnez le sort mineur [[Illusion mineure]] si vous ne le connaissez pas déjà.
 
 ### Actions bonus
+**Art martiaux**. Lorsque vous utilisez l'action Attaquer avec une attaque à mains nues ou une arme de moine au cours de votre tour, vous pouvez effectuer une attaque à mains nues (**1d4**) au prix d'une action bonus. Par exemple, si vous prenez l'action Attaque et attaquez avec un bâton, vous pouvez également effectuer une attaque à mains nues avec votre action bonus, à condition que vous n'ayez pas déjà utilisé votre action bonus pour ce tour.
+
 **Défense patiente :** Vous pouvez dépenser 1 point ki pour utiliser l'action Esquiver via une action bonus au cours de votre tour. 
 
 **Déluge de coups :** Immédiatement après avoir utilisé une action Attaquer au cours de votre tour, vous pouvez dépenser 1 point ki pour effectuer deux attaques à mains nues via une action bonus. 

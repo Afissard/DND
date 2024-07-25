@@ -32,7 +32,7 @@ ___
 **Résistances au poison**.
 Vous avez un avantage sur les jets de sauvegarde que vous effectuez pour éviter ou mettre fin à l'état d'empoisonnement qui vous touche. Vous avez également une résistance aux dégâts de poison.
 
-**Serpentine Spellcasting.** You know the [Poison Spray](http://dnd5e.wikidot.com/spell:poison-spray) cantrip. You can cast [Animal Friendship](http://dnd5e.wikidot.com/spell:animal-friendship) an unlimited number of times with this trait, but you can target only snakes with it. Starting at 3rd level, you can also cast [Suggestion](http://dnd5e.wikidot.com/spell:suggestion) with this trait. Once you cast it, you can’t do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher. Wisdom is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
+**Incantation Yuan-ti**. Vous connaissez le sort mineur [[Bouffée de poison]]. Vous pouvez lancer autant de fois que vous le souhaiter le sort [[Amitié avec les animaux]] uniquement pour les serpent, vous pouvez aussi lancer le sort [[Suggestion]] une fois par repos long gratuitement ou avec un emplacement de sort adapté.
 
 **Ennemi juré (Humain, Elfe)**. Vous avez des compétences significatives pour pister, chasser et même communiquer avec un certain type d'ennemi. Vous avez un avantage aux jets de Sagesse (Survie) pour pister vos ennemis favoris, ainsi qu'aux jets d’Intelligence permettant de se rappeler des informations sur ceux-ci. Quand vous obtenez cette capacité, vous apprenez également une langue de votre choix qui est parlée par vos ennemis favoris, s’ils en parlent une.
 
@@ -65,9 +65,9 @@ Lors d'un voyage d'une heure ou plus dans votre terrain favori, vous obtenez les
 
 ****
 ### Actions
-***Attaque au cimeterre***. *Attaque au corps à corps avec une arme* : +7 au toucher, allonge 1,50 m, une cible. *Touché* : 1d6+4 dégâts tranchant.  
+**Attaque au cimeterre**. *Attaque au corps à corps avec une arme* : +7 au toucher, allonge 1,50 m, une cible. *Touché* : 1d6+4 dégâts tranchant.  
 
-***Tir à l'arc long***. Attaque à distance avec une arme : +7 au toucher, portée 45 m/180 m, cible unique. Touché 1d10+4 dégâts perforant.
+**Tir à l’arbalète lourde**. Attaque à distance avec une arme : +7 au toucher, portée 45 m/180 m, cible unique. Touché 1d10+4 dégâts perforant.
 
 ### Incantation.
 *Sorts connus :* 4
@@ -80,8 +80,8 @@ Lors d'un voyage d'une heure ou plus dans votre terrain favori, vous obtenez les
 #### Sorts
 **Sorts mineurs**
 **Sorts niveau 1**
-- Marque du chasseur
-- Frappe piégeuse
+- [[Marque du chasseur]]
+- [[Frappe piégeuse]]
 - Grêle d'épines
 **Sorts niveau 2**
 - [[Silence]]
