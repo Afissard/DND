@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9c3bd67cd42c67e",
+            "id": "0c69403357992f19",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "bcab86b6a171763a",
+            "id": "d4f50e8aa94192f9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -63,8 +63,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JDRs/Mystère de Lamar/personnages/Parasite.md",
+                "file": "JDRs/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JDRs/Mystère de Lamar/personnages/Parasite.md",
+                "file": "JDRs/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JDRs/Mystère de Lamar/personnages/Parasite.md"
+                "file": "JDRs/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md"
               }
             }
           }
@@ -206,17 +205,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcab86b6a171763a",
+  "active": "0c69403357992f19",
   "lastOpenFiles": [
+    "JDRs/Mystère de Lamar/personnages/Yeshih Ottom.md",
     "JDRs/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
     "JDRs/Mystère de Lamar/personnages/Parasite.md",
-    "JDRs/Mystère de Lamar/personnages/Szemu Ottom.md",
     "JDRs/Mystère de Lamar/personnages/Yeshih Ottom.md",
     "JDRs/Mystère de Lamar/personnages/Isarn Doyen du temple de Lathandre.md",
     "Ressources/Données/table rencontre lvl-px.png",
     "JDRs/Mystère de Lamar/image/Linn_prisonière.jpg",
     "JDRs/Mystère de Lamar/image",
-    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
     "JDRs/Mystère de Lamar/personnages/Le Compte Mordred De Lamar.md",
     "JDRs/Mystère de Lamar/Résumé de la campagne.md",
     "JDRs/Mystère de Lamar/lieux/Phandalin.md",
@@ -238,10 +236,7 @@
     "JDRs/autres/Asudem/Asudem.md",
     "JDRs/autres/Asudem/Asudem Yulia.md",
     "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
-    "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
-    "Ressources/Sorts/Arme magique.md",
     "Ressources/Classes/Rodeur Donjons & Dragons - D&D 5.pdf",
-    "JDRs/Mystère de Lamar/musique.md",
     "JDRs/Mystère de Lamar/événements",
     "JDRs/autres/Breweol Perlimpin/Breweol-Perlimpin_Yuan-ti.png",
     "JDRs/autres/Breweol Perlimpin/Breweol-grimoire.pdf",
