@@ -37,6 +37,8 @@ ___
 
 **Radiance de l'aube**. À partir du niveau 2, vous pouvez utiliser votre Conduit divin pour exploiter la lumière du soleil, bannissant les ténèbres et infligeant des dégâts radiants à vos ennemis. Par une action, vous présentez votre symbole sacré et toutes les ténèbres magiques dans un rayon de 9 mètres autour de vous sont dissipées. En outre, chaque créature hostile dans un rayon de 9 mètres autour de vous doit réaliser un jet de sauvegarde de Constitution. Une créature prend 2d10 + votre niveau de clerc dégâts radiants en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Une créature qui dispose d'une couverture totale vis à vis de vous n'est pas affectée.
 
+![[Parasite#Parasite supérieur (niveau 6 à 9)]]
+
 ___
 ### Actions
 ***Dague***. *Attaque au corps à corps avec une arme* : +5 au toucher, allonge 1,50 m, une cible. *Touché* : 4 (1d4 + 2) dégâts perforant.
