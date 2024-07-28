@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c69403357992f19",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JDRs/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "d4f50e8aa94192f9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JDRs/Mystère de Lamar/personnages/Parasite.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "b8449e2ddd97af4e",
             "type": "leaf",
             "pinned": true,
@@ -57,6 +29,41 @@
               "type": "markdown",
               "state": {
                 "file": "JDRs/Mystère de Lamar/personnages/Szemu Ottom.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "cc81c0ed025c1f81",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JDRs/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "826826b4e6c69109",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "786b0e71bddc0203",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JDRs/Mystère de Lamar/personnages/Parasite.md",
                 "mode": "source",
                 "source": false
               },
@@ -205,12 +212,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c69403357992f19",
+  "active": "cc81c0ed025c1f81",
   "lastOpenFiles": [
     "JDRs/Mystère de Lamar/personnages/Yeshih Ottom.md",
-    "JDRs/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
     "JDRs/Mystère de Lamar/personnages/Parasite.md",
-    "JDRs/Mystère de Lamar/personnages/Yeshih Ottom.md",
+    "JDRs/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
+    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "JDRs/autres/Breweol Perlimpin/Breweol-fiche_0.pdf",
+    "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
+    "JDRs/Mystère de Lamar/personnages/Szemu Ottom.md",
+    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
     "JDRs/Mystère de Lamar/personnages/Isarn Doyen du temple de Lathandre.md",
     "Ressources/Données/table rencontre lvl-px.png",
     "JDRs/Mystère de Lamar/image/Linn_prisonière.jpg",
@@ -232,7 +243,6 @@
     "JDRs/Mystère de Lamar/événements/Mort de Mordred De Lamar.md",
     "JDRs/Mystère de Lamar/événements/La requête de la comtesse.md",
     "JDRs/Mystère de Lamar/Carte de Phandalin.jpg",
-    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
     "JDRs/autres/Asudem/Asudem.md",
     "JDRs/autres/Asudem/Asudem Yulia.md",
     "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
@@ -241,8 +251,6 @@
     "JDRs/autres/Breweol Perlimpin/Breweol-Perlimpin_Yuan-ti.png",
     "JDRs/autres/Breweol Perlimpin/Breweol-grimoire.pdf",
     "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Règles/dnd_multiclasse.pdf",
-    "JDRs/autres/Breweol Perlimpin/Breweol-fiche_0.pdf",
     "Ressources/Données/5e_Ability-Score-Table_5e.webp",
     "Ressources/Cartes/Phandalin-carte.jpg",
     "Templates/image personnage placeholder.png",

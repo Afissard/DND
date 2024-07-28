@@ -2,7 +2,7 @@
 *Humanoïde (humain) de taille M, loyal bon, acolyte (historique), clerc niveau 5*
 ___
 **Classe d'armure** 10 (vêtement)  
-**Points de vie** 33 (5d8)  
+**Points de vie** 40 (5d8)  
 **Vitesse** 9 m  
 ___
 
@@ -35,7 +35,13 @@ ___
 
 **Illumination protectrice**. Au niveau 1, vous pouvez interposer une lumière divine entre vous et un ennemi qui attaque. Lorsque vous êtes attaqué par une créature située à 9 mètres ou moins de vous et que vous pouvez voir, vous pouvez utiliser votre réaction pour imposer un désavantage à son jet d'attaque, en faisant éclater une lumière avant qu'il touche ou rate. Un attaquant qui ne peut pas être aveuglé est immunisé face à cette capacité. Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificateur de Sagesse (minimum une fois). Vous en retrouver toutes les utilisations dépensées lorsque vous terminez un repos long.
 
-**Radiance de l'aube**. À partir du niveau 2, vous pouvez utiliser votre Conduit divin pour exploiter la lumière du soleil, bannissant les ténèbres et infligeant des dégâts radiants à vos ennemis. Par une action, vous présentez votre symbole sacré et toutes les ténèbres magiques dans un rayon de 9 mètres autour de vous sont dissipées. En outre, chaque créature hostile dans un rayon de 9 mètres autour de vous doit réaliser un jet de sauvegarde de Constitution. Une créature prend 2d10 + votre niveau de clerc dégâts radiants en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Une créature qui dispose d'une couverture totale vis à vis de vous n'est pas affectée.
+**Radiance de l'aube (conduit divin)**. À partir du niveau 2, vous pouvez utiliser votre Conduit divin pour exploiter la lumière du soleil, bannissant les ténèbres et infligeant des dégâts radiants à vos ennemis. Par une action, vous présentez votre symbole sacré et toutes les ténèbres magiques dans un rayon de 9 mètres autour de vous sont dissipées. En outre, chaque créature hostile dans un rayon de 9 mètres autour de vous doit réaliser un jet de sauvegarde de Constitution. Une créature prend 2d10 + votre niveau de clerc dégâts radiants en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Une créature qui dispose d'une couverture totale vis à vis de vous n'est pas affectée.
+
+**Adepte martial**. Vous avez une formation martiale qui vous permet d'effectuer des manœuvres de combat spéciales. Vous obtenez les avantages suivants : 
+- Vous apprenez deux manœuvres de votre choix parmi celles disponibles pour l'archétype de guerrier du maître de bataille. Si une manœuvre que vous utilisez nécessite que la cible fasse un jet de sauvegarde pour résister aux effets de la manœuvre, le DD du jet de sauvegarde est égal à 8 + votre bonus de maîtrise + votre modificateur de Force ou de Dextérité (selon votre choix) (**DD jet de sauvegarde = 13**). 
+	- **Balayage**. Si vous touchez une créature lors d'une attaque avec une arme au corps à corps, vous pouvez dépenser un dé de supériorité pour tenter de frapper une autre créature avec la même attaque. Choisissez une autre créature dans un rayon de 1,50 mètre autour de la cible originale et à votre portée. Si votre jet d'attaque contre votre première cible permet également de toucher la seconde, vous infligez à cette dernière les dégâts de votre dé de supériorité. Les dégâts seront du même type sur ceux de la première attaque.
+	- **Désarmement**. Si vous touchez une créature lors d'une attaque avec une arme, vous pouvez dépenser un dé de supériorité pour tenter de désarmer la cible, la forçant à lâcher un objet de votre choix qu’elle a en main. Vous ajoutez le dé de supériorité aux dégâts de l’attaque, et la cible doit faire un jet de sauvegarde de Force. En cas d’échec, elle lâche l’objet que vous avez désigné. L’objet tombe à ses pieds.
+- Vous gagnez ~~un~~ *trois* dé de supériorité, qui ~~est~~ *sont* ~~un~~ *des* d6 (ce dé s'ajoute à tous autres dés de supériorité que vous pourriez avoir gagnés d'une autre source). Ce dé est utilisé pour alimenter vos manœuvres. Un dé de supériorité est dépensé lorsque vous l'utilisez. Vous regagnez vos dés de supériorité dépensés lorsque vous terminez un repos court ou long.
 
 ![[Parasite#Parasite supérieur (niveau 6 à 9)]]
 
@@ -66,8 +72,7 @@ ___
 Fille adoptive d'[[Isarn Doyen du temple de Lathandre]], elle a été confié à sa naissance au [[temple de Lathandre]]. Alors qu'elle allais rendre une visite à son père, elle s'est fais attaquer par des [[Parasite]]s, elle a ensuite quelque jour plus tard attaquer le juge de Phandalin avant de se faire maîtriser et envoyer dans les geôles du [[poste de garde]]
 ___
 ## Objectif
-Objectif du personnage
-#TODO 
+A perdu tout objectifs depuis qu'elle est infestée par le [[Parasite]].
 ___
 ## Notes
 prise de notes
