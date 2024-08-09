@@ -1,5 +1,5 @@
 ## Breweol Perlimpin (Yuan-Ti)
-*Humanoïde (yuan-ti) de taille M, chaotique neutre, ermite (historique), rôdeur niveau 4 et mage niveau 2*
+*Humanoïde (yuan-ti sang pure) de taille M, neutre mauvais, ermite (historique), rôdeur niveau 4 et mage niveau 2*
 ___
 **Classe d'armure** 16 (armure de cuir)  
 **Points de vie** 54 (4d10 + 2d6) -> 26 
@@ -17,7 +17,7 @@ ___
 **Immunités aux dégâts** aucun
 **Immunités aux états** aucun  
 **Sens**  Perception passive 15  
-**Langues** Commun, Elfique, Sylvestre
+**Langues** Commun, Draconique, Abyssal
 **Outils** kit d'herboriste
 **Armes** armes courantes, armes de guerre
 **Armure** armures légères et intermédiaires, boucliers
@@ -123,7 +123,7 @@ ___
 ```col-md
 Breweol est un vieux yuan-ti d'apparence faiblarde emmitouflé dans ses robes mais sa cape de fourrure et son masque lui donne un air de veil homme patibulaire et renfermé malgré sa barbe vénérable. Sa personnalité est tout autre, c'est en effet un vieillard un peu gâteux mais aux yeux emplis malice et de sagesse, bon vivant il aime se remémorer et partager ses aventures passées tout en fumant (avec une pipe) son tabac ou en buvant du thé de sa composition.
 
-Breweol dégage une aura magique très forte (lui donne l'apparence qu'il est plus qu'il ne l'est vraiment).
+Breweol dégage une aura magique très forte (lui donne l'apparence qu'il est plus puissant qu'il ne l'est vraiment).
 ```
 ````
 
@@ -138,3 +138,6 @@ ___
 ## Notes
 
 **Découverte**. La paisible réclusion de votre ermitage prolongé vous a donné accès à une grande et unique découverte. La nature exacte de cette révélation dépend de la nature de votre réclusion. Il se peut que ce soit un grand secret à propos du cosmos, des dieux, de créatures venues d'autres plans ou de forces de la nature. Ce pourrait aussi être un site que personne d'autre ne connait. Vous pourriez avoir mis au grand jour des faits oubliés depuis longtemps ou déterré des reliques du passé qui pourraient réécrire l'histoire. Il se peut aussi que ce soit des informations qui pourraient nuire à ceux qui vous ont forcé à l'exil et, de ce fait, être la raison de votre retour dans la société.
+
+[fandom Yuan-ti](https://forgottenrealms.fandom.com/wiki/Yuan-ti)
+[fandom Sseth](https://forgottenrealms.fandom.com/wiki/Sseth)

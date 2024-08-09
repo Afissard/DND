@@ -20,3 +20,4 @@
 - **Extra :** https://www.aidedd.org/dnd-5/unearthed-arcana/
 - **Aide DD web app :** https://www.aidedd.org/adj/outils/
 - création de ville (GUARDS method) : https://youtu.be/o_DSr8tY4pQ?si=2fzi6NHI6u2XBeQz
+- solo DND : https://www.youtube.com/watch?v=c2nVilB8QeY
