@@ -10,13 +10,15 @@
           {
             "id": "30240759ae5f9cf4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -163,14 +165,18 @@
   },
   "active": "30240759ae5f9cf4",
   "lastOpenFiles": [
+    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
+    "Ressources/Images/olrox-1.jpg",
+    "Ressources/Images/Olrox-2.webp",
+    "Ressources/Images/olrox.jpg",
+    "Ressources/Images",
     "JDRs/autres/Dorn, prêtre de Lathandre et nécromancien.md",
     "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
     "Ressources/Sorts/Augure.md",
     "Ressources/Sorts/Déguisement.md",
     "JDRs/autres/Bobli Tauseq.md",
-    "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
     "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin.md",
-    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
     "JDRs/autres/Solis/Solis Abdir.md",
@@ -179,7 +185,6 @@
     "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/5e Class - The Catalyst (Spell Version) - The Homebrewery.pdf",
     "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
-    "JDRs/autres/perso clement.pdf",
     "JDRs/autres/Lothar le compte déchu.md",
     "JDRs/autres/Liam Seraphim/Liam Seraphim v1.md",
     "JDRs/autres/Linn Seraphim/Linn (Linnaea) Seraphim v1.md",
@@ -204,9 +209,6 @@
     "JDRs/autres/Breweol Perlimpin/Breweol-Perlimpin_Yuan-ti.png",
     "Ressources/Données/5e_Ability-Score-Table_5e.webp",
     "Ressources/Cartes/Phandalin-carte.jpg",
-    "Templates/image personnage placeholder.png",
-    "Pasted image 20240619092910.png",
-    "Pasted image 20240619092907.png",
-    "Ressources/Cartes/Sword-Coast-Map_HighRes.jpg"
+    "Templates/image personnage placeholder.png"
   ]
 }

@@ -32,7 +32,7 @@ ___
 
 **Incantation Yuan-ti**. Vous connaissez le sort mineur bouffé de poison. Vous pouvez lancer autant de fois que vous le souhaiter le sort amitié avec les animaux uniquement pour les serpent, vous pouvez aussi lancer le sort suggestion une fois par repos long gratuitement ou avec un emplacement de sort adapté.
 
-**Ennemi juré (Humain, Elfe)**. Vous avez des compétences significatives pour pister, chasser et même communiquer avec un certain type d'ennemi. Vous avez un avantage aux jets de Sagesse (Survie) pour pister vos ennemis favoris, ainsi qu'aux jets d’Intelligence permettant de se rappeler des informations sur ceux-ci. Quand vous obtenez cette capacité, vous apprenez également une langue de votre choix qui est parlée par vos ennemis favoris, s’ils en parlent une.
+**Ennemi juré (Géant / Celeste)**. Vous avez des compétences significatives pour pister, chasser et même communiquer avec un certain type d'ennemi. Vous avez un avantage aux jets de Sagesse (Survie) pour pister vos ennemis favoris, ainsi qu'aux jets d’Intelligence permettant de se rappeler des informations sur ceux-ci. Quand vous obtenez cette capacité, vous apprenez également une langue de votre choix qui est parlée par vos ennemis favoris, s’ils en parlent une.
 
 **Explorateur-né (Forêt)**. Vous êtes particulièrement familier avec un type de milieu naturel et êtes apte à voyager et à survivre dans ces régions. Lorsque vous faites un jet d’Intelligence ou de Sagesse lié à votre terrain favori, votre bonus de maîtrise est doublé si vous utilisez une compétence que vous maîtrisez.
 Lors d'un voyage d'une heure ou plus dans votre terrain favori, vous obtenez les avantages suivants : 
@@ -115,29 +115,40 @@ ___
 **Grimoire**. Un grimoire de mage.
 ___
 ## Description
-````col
-```col-md
-![[Breweol-Perlimpin_Yuan-ti.png]]
-```
-
-```col-md
-Breweol est un vieux yuan-ti d'apparence faiblarde emmitouflé dans ses robes mais sa cape de fourrure et son masque lui donne un air de veil homme patibulaire et renfermé malgré sa barbe vénérable. Sa personnalité est tout autre, c'est en effet un vieillard un peu gâteux mais aux yeux emplis malice et de sagesse, bon vivant il aime se remémorer et partager ses aventures passées tout en fumant (avec une pipe) son tabac ou en buvant du thé de sa composition.
-
-Breweol dégage une aura magique très forte (lui donne l'apparence qu'il est plus puissant qu'il ne l'est vraiment).
-```
-````
-
+Brewshuh est un Yuan-ti quadragénaire, pendant de longue année il a porté les vêtement traditionnel yuan-ti, mais depuis qu'il vit parmi les Hommes il opte pour des vêtements de voyage confortable et passe partout. Il porte une cape faites enchevêtrement de fourrures et de tissus par dessus une vielle et usée armure de cuir, lorsqu'il se déplace et combat Brewshuh porte un casque orné du symbole de Sseth, qu'il couvre ensuite de voiles ainsi que le reste de son visage, ne laissant à découvert que ses yeux et son nez. Sa peau tannée par le soleil et ses trait coupé tirés et usés par le temps font ressortir ses yeux marrons aux pupilles reptiliennes pleine de sagesses et de mystères.
+Alors qu'il vivait encore en ermitage, Brewshuh à commencer à developer une aura magique de plus en plus forte, ce qui lui donne l'apparence d'être un mage bien plus puissant qu'il ne l'est véritablement (*cf [[Aura magique de Nystul]]*).
+Froid et consciencieux aux premiers abords, Brewshuh est en réalité plutôt bon vivant, il aime se remémorer et partager ses aventures passées tout en apprécient du tabac et du thé de sa composition.
 
 ___
 ## Histoire
-Après avoir vécu les deux dernier siècle isolé avec pour seul compagnie quelque animaux pour se consacré à ses études et méditations de rôdeur, Breweol choisi de quitter sa retraite après avoir reçu l'appel pour reprendre le chemin de l'aventure. 
+Breweol n'est qu'un nom d'emprunt pour mieux s’intégrer dans la société humaine, Brewshuh de son vrai nom est un des nombreux espion et informateur Yuan-ti pour le temple de Sseth. A l'age de 20 ans, il est envoyé par son temple en temps qu'espion dans la ville de Padhiver sous la couverture de Breweol Perlimpin un rôdeur quelque peu froid aux premiers abords avec un certain penchant pour les mécanismes en tout genres (arbalètes, montres) et le thé. Peu à peu il se lie d'amitié avec deux autre aventuriers : Derek un guerrier humain et Joline une demi-elf barde. Après dix ans d'aventures, ses deux amis, attendant un enfant décident de mener une vie simple et moins dangereuse pour élever leur progéniture. En dix ans, bien qu'ils soient très proche Brewshuh ne leurs a jamais véritablement révélé son statut d'espion (bien qu'ils soient partiellement au courant qu'il soit yuan-ti).
+Brewshuh lui continua un peu l'aventure avant de s'isoler pour un temps (10 ans) dans les bois de Padhiver pour méditer et developer quelque peu son don pour divination. Alors qu'il méditais depuis près d'une semaine, Brewshuh entra en transe et reçu l'appel de la Tour de la Vérité en plus d'une prophétie bien plus terrible encore, où de monstrueuses créatures s’échappent de la Tour. Après s'être remis de cette violente transe, Brewshuh se mis en chemin pour n'arriver qu'un mois après le début des événements.
+
 ___
 ## Objectif
-Il souhaite aussi consacrer plus activement les derniers siècles de sa vie à la protection de la nature notamment en invitant les citadins à vivre en symbiose avec celle-ci.
+Il souhaite souhaite éliminer tout danger pour son peuple, il perçois les créatures de la Tour de la Vérité comme étant un danger hautement mortel. Il aspire à devenir à grimper les échelon de la société Yuan-ti (devenir un Malison puis une Abomination) ainsi qu'a perfectionner sa maîtrise des arbalètes (devenir tireur d'élite (don)).
+
 ___
 ## Notes
+
+**Prochains niveaux**
+- 1 niveau de rôdeur pour l'attaque supplémentaire
+- quelques niveaux (2 min pour le conduit divin) de clerc (domaine de la guerre, ~~duperie ~~?) en temps qu'apôtre de Sseth
 
 **Découverte**. La paisible réclusion de votre ermitage prolongé vous a donné accès à une grande et unique découverte. La nature exacte de cette révélation dépend de la nature de votre réclusion. Il se peut que ce soit un grand secret à propos du cosmos, des dieux, de créatures venues d'autres plans ou de forces de la nature. Ce pourrait aussi être un site que personne d'autre ne connait. Vous pourriez avoir mis au grand jour des faits oubliés depuis longtemps ou déterré des reliques du passé qui pourraient réécrire l'histoire. Il se peut aussi que ce soit des informations qui pourraient nuire à ceux qui vous ont forcé à l'exil et, de ce fait, être la raison de votre retour dans la société.
 
 [fandom Yuan-ti](https://forgottenrealms.fandom.com/wiki/Yuan-ti)
 [fandom Sseth](https://forgottenrealms.fandom.com/wiki/Sseth)
+
+*images d'inspiration*
+````col
+```col-md
+![[olrox-1.jpg]]
+```
+
+```col-md
+![[Olrox-2.webp]]
+
+![[Breweol-Perlimpin_Yuan-ti.png]]
+```
+````
