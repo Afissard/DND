@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8e2129ea4d91ae51",
+        "id": "6fcac9933b0a932d",
         "type": "tabs",
         "children": [
           {
-            "id": "30240759ae5f9cf4",
+            "id": "63df53bea431a565",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf"
+              }
             }
           }
         ]
@@ -87,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
+                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
+                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md"
+                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf"
               }
             }
           }
@@ -163,10 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30240759ae5f9cf4",
+  "active": "63df53bea431a565",
   "lastOpenFiles": [
+    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "JDRs/autres/Sorts de mage intéressants.md",
+    "JDRs/autres/Vaern/dnd_vaern_16.pdf",
+    "JDRs/autres/Vaern/dnd_vaern_15.pdf",
     "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
+    "JDRs/autres/Vaern/Vaern.md",
     "Ressources/Images/olrox-1.jpg",
     "Ressources/Images/Olrox-2.webp",
     "Ressources/Images/olrox.jpg",
@@ -177,14 +178,11 @@
     "Ressources/Sorts/Déguisement.md",
     "JDRs/autres/Bobli Tauseq.md",
     "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin.md",
-    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
     "JDRs/autres/Solis/Solis Abdir.md",
     "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/5e Class - The Catalyst (Spell Version) - The Homebrewery.pdf",
-    "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
     "JDRs/autres/Lothar le compte déchu.md",
     "JDRs/autres/Liam Seraphim/Liam Seraphim v1.md",
     "JDRs/autres/Linn Seraphim/Linn (Linnaea) Seraphim v1.md",
@@ -203,8 +201,6 @@
     "JDRs/Mystère de Lamar/Résumé de la campagne.md",
     "JDRs/Mystère de Lamar/lieux/Phandalin.md",
     "JDRs/Mystère de Lamar/personnages/Lothar Démiur Chef de la Garde.md",
-    "JDRs/Mystère de Lamar/personnages/Lucie tavernière et fille légère.md",
-    "JDRs/Mystère de Lamar/personnages/Ranulf le tavernier.md",
     "JDRs/Mystère de Lamar/image/Carte de Phandalin.jpg",
     "JDRs/autres/Breweol Perlimpin/Breweol-Perlimpin_Yuan-ti.png",
     "Ressources/Données/5e_Ability-Score-Table_5e.webp",
