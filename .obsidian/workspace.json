@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63df53bea431a565",
+            "id": "d3f4c4cd914ce8d8",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf"
-              }
+                "file": "JDRs/autres/Mysha Mordal.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -83,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+                "file": "JDRs/autres/Mysha Mordal.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+                "file": "JDRs/autres/Mysha Mordal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf"
+                "file": "JDRs/autres/Mysha Mordal.md"
               }
             }
           }
@@ -159,14 +163,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63df53bea431a565",
+  "active": "d3f4c4cd914ce8d8",
   "lastOpenFiles": [
-    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
+    "JDRs/autres/Mysha Mordal.md",
+    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
+    "JDRs/autres/Linn Seraphim/Linn (Linnaea) Seraphim v2.md",
+    "Ressources/Sites internets.md",
     "JDRs/autres/Sorts de mage intéressants.md",
     "JDRs/autres/Vaern/dnd_vaern_16.pdf",
     "JDRs/autres/Vaern/dnd_vaern_15.pdf",
-    "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
     "JDRs/autres/Vaern/Vaern.md",
     "Ressources/Images/olrox-1.jpg",
     "Ressources/Images/Olrox-2.webp",
@@ -182,16 +191,13 @@
     "JDRs/autres/Solis/Solis Abdir.md",
     "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
     "JDRs/autres/Lothar le compte déchu.md",
     "JDRs/autres/Liam Seraphim/Liam Seraphim v1.md",
     "JDRs/autres/Linn Seraphim/Linn (Linnaea) Seraphim v1.md",
-    "JDRs/autres/Linn Seraphim/Linn (Linnaea) Seraphim v2.md",
     "JDRs/Mystère de Lamar/personnages/Esprit de la mare.md",
     "JDRs/Mystère de Lamar/personnages/Yeshih Ottom.md",
     "JDRs/Mystère de Lamar/personnages/Szemu Ottom.md",
     "JDRs/Mystère de Lamar/musique.md",
-    "Ressources/Sites internets.md",
     "JDRs/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
     "JDRs/Mystère de Lamar/personnages/Parasite.md",
     "JDRs/Mystère de Lamar/personnages/Isarn Doyen du temple de Lathandre.md",
@@ -200,7 +206,6 @@
     "JDRs/Mystère de Lamar/personnages/Le Compte Mordred De Lamar.md",
     "JDRs/Mystère de Lamar/Résumé de la campagne.md",
     "JDRs/Mystère de Lamar/lieux/Phandalin.md",
-    "JDRs/Mystère de Lamar/personnages/Lothar Démiur Chef de la Garde.md",
     "JDRs/Mystère de Lamar/image/Carte de Phandalin.jpg",
     "JDRs/autres/Breweol Perlimpin/Breweol-Perlimpin_Yuan-ti.png",
     "Ressources/Données/5e_Ability-Score-Table_5e.webp",
