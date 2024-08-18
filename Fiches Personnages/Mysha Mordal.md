@@ -24,7 +24,7 @@ ___
 **Puissance** 1 (200 PX)     **Bonus de maîtrise** +2  
 ___
 ### Capacités
-**Vision dans le noir (18 m)**.  Vous pouvez voir à 18 mètres dans une lumière faible comme vous verriez avec une lumière vive, et dans le noir comme vous verriez avec une lumière faible. Dans le noir, vous ne discernez pas les couleurs, uniquement des nuances de gris.
+**Vision dans le noir (18 m)**.  Grâce à votre sang orc, vous avez une vision supérieure dans le noir et les conditions de faible éclairage. Vous pouvez voir à 18 mètres dans une lumière faible comme vous verriez avec une lumière vive, et dans le noir comme vous verriez avec une lumière faible. Dans le noir, vous ne discernez pas les couleurs, uniquement des nuances de gris.
 **Menaçant**. Vous gagnez la maîtrise de la compétence Intimidation.
 **Endurance implacable**. Lorsque vous tombez à 0 point de vie, mais que vous n'êtes pas tué sur le coup, vous pouvez passer à 1 point de vie à la place. Vous devez terminer un repos long avant de pouvoir utiliser cette capacité de nouveau.
 **Attaques sauvages**. Lorsque vous réalisez un coup critique lors d'une attaque au corps à corps avec une arme, vous pouvez lancer l'un des dés de dégâts de l'arme une deuxième fois et l'ajouter aux dégâts supplémentaires du coup critique.
@@ -45,6 +45,7 @@ ___
 | Niveau <br>d'emplacement | Nombre <br>d'emplacement | Emplacement <br>utilisé |
 | :----------------------: | :----------------------: | :---------------------: |
 |            1             |            2             |            0            |
+|            2             |            0             |            0            |
 
 **Sorts connus (3)** 
 - Niveau 0 : _assistance_, _stabilisation_, _thaumaturgie_  
@@ -81,4 +82,4 @@ ___
 ## Notes
 *Les Secrets de la Vie et de la Mort* ne sont pas du tout une référence à Dwarf Fortress.
 ### Niveaux
-Les 8-10 premiers niveau de clerc sont intéressants, mais à ne pas prendre d'une traite : prendre de niveau de magicien (école de la nécromancie, 6 niveaux minimum), et peut être aussi de guerrier (champion, 3 niveaux, si plus perd l’accès aux sort de niveau 8 à 9 si guerrier niveau 5). *(peut être même un niveau de barbare pour la rage ???)*
+Les 8-10 premiers niveau de clerc sont intéressants, mais à ne pas prendre d'une traite : prendre de niveau de magicien (école de la nécromancie, 6 niveaux minimum), et peut être aussi de guerrier (champion, 3 niveaux, ou 5 niveaux mais perd l’accès aux sort de niveau 8 à 9). *(peut être même un niveau de barbare pour la rage ???)*

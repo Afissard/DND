@@ -4,7 +4,7 @@
 - Un Clerc (alcoolique ?) et illuminé : [[Solis Abdir.pdf]]
 - Un marionnettiste dément : [[Peter Angladem]]
 - Une dryade druide
-- Un archer de l'infini (rôdeur & roublard) [[Lothar le compte déchu]]
+- Un archer de l'infini (rôdeur & roublard) [[Lothar le compte déchu]] & [[Breweol Perlimpin (Yuan-Ti)]]
 - Un dresseur Pokemon (invocateur ...)
 - Un cavalier (sorte de paladin : invocation de destrier ...)
 - Un gnome de guerre

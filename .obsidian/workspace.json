@@ -4,19 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "6fcac9933b0a932d",
+        "id": "24d7016ff713dcf9",
         "type": "tabs",
         "children": [
           {
-            "id": "d3f4c4cd914ce8d8",
+            "id": "9185f207a242a4f5",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JDRs/autres/Mysha Mordal.md",
+                "file": "Fiches Personnages/Noraki Mordal.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "de37643ea3c999a6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7c2bc652e980680a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf"
               },
               "pinned": true
             }
@@ -87,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JDRs/autres/Mysha Mordal.md",
+                "file": "Fiches Personnages/Noraki Mordal.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JDRs/autres/Mysha Mordal.md",
+                "file": "Fiches Personnages/Noraki Mordal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JDRs/autres/Mysha Mordal.md"
+                "file": "Fiches Personnages/Noraki Mordal.md"
               }
             }
           }
@@ -163,51 +187,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3f4c4cd914ce8d8",
+  "active": "9185f207a242a4f5",
   "lastOpenFiles": [
     "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "Fiches Personnages/Noraki Mordal.md",
     "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
-    "JDRs/autres/Mysha Mordal.md",
+    "Fiches Personnages/Mysha Mordal.md",
+    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
+    "Fiches Personnages/Ghal Mordal.md",
+    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Rodeur Donjons & Dragons - D&D 5.pdf",
+    "Ressources/Règles/dnd_multiclasse.pdf",
+    "JDR/Mystère de Lamar/événements/Arrivée de Linn et agression du juge.md",
+    "JDR/Mystère de Lamar/personnages/Parasite.md",
+    "JDR/Mystère de Lamar/Résumé de la campagne.md",
+    "JDR/Mystère de Lamar/personnages/Felix Lex le Juge.md",
+    "JDR/Mystère de Lamar/lieux/Phandalin.md",
+    "JDR/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
+    "JDR/Mystère de Lamar/personnages/Esprit de la mare.md",
+    "JDR/Mystère de Lamar/personnages/Isarn Doyen du temple de Lathandre.md",
+    "JDR/Mystère de Lamar/événements/Mort de Mordred De Lamar.md",
+    "JDR/Mystère de Lamar/événements/La requête de la comtesse.md",
+    "Fiches Personnages/Dorn, prêtre de Lathandre et nécromancien.md",
+    "Fiches Personnages/perso clement.pdf",
+    "Fiches Personnages/Sorts de mage intéressants.md",
+    "JDR/Ayihyala/Personnages/Peter Angaldem/Peter Angladem.md",
+    "Fiches Personnages/Liste de perso à faire.md",
+    "Fiches Personnages/Lothar le compte déchu.md",
+    "Fiches Personnages/Ea Meloflow/Ea Meloflow.md",
+    "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin.md",
+    "Fiches Personnages/Breweol Perlimpin/Breweol-Perlimpin_Yuan-ti.png",
+    "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
+    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
-    "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
-    "JDRs/autres/Linn Seraphim/Linn (Linnaea) Seraphim v2.md",
+    "Fiches Personnages/Linn Seraphim/Linn (Linnaea) Seraphim v2.md",
     "Ressources/Sites internets.md",
-    "JDRs/autres/Sorts de mage intéressants.md",
-    "JDRs/autres/Vaern/dnd_vaern_16.pdf",
-    "JDRs/autres/Vaern/dnd_vaern_15.pdf",
-    "JDRs/autres/Vaern/Vaern.md",
+    "Fiches Personnages/Vaern/dnd_vaern_16.pdf",
+    "Fiches Personnages/Vaern/Vaern.md",
     "Ressources/Images/olrox-1.jpg",
     "Ressources/Images/Olrox-2.webp",
     "Ressources/Images/olrox.jpg",
-    "Ressources/Images",
-    "JDRs/autres/Dorn, prêtre de Lathandre et nécromancien.md",
-    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
     "Ressources/Sorts/Augure.md",
-    "Ressources/Sorts/Déguisement.md",
-    "JDRs/autres/Bobli Tauseq.md",
-    "JDRs/autres/Breweol Perlimpin/Breweol Perlimpin.md",
-    "Ressources/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
-    "JDRs/autres/Solis/Solis Abdir.md",
-    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
-    "JDRs/autres/Lothar le compte déchu.md",
-    "JDRs/autres/Liam Seraphim/Liam Seraphim v1.md",
-    "JDRs/autres/Linn Seraphim/Linn (Linnaea) Seraphim v1.md",
-    "JDRs/Mystère de Lamar/personnages/Esprit de la mare.md",
-    "JDRs/Mystère de Lamar/personnages/Yeshih Ottom.md",
-    "JDRs/Mystère de Lamar/personnages/Szemu Ottom.md",
-    "JDRs/Mystère de Lamar/musique.md",
-    "JDRs/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
-    "JDRs/Mystère de Lamar/personnages/Parasite.md",
-    "JDRs/Mystère de Lamar/personnages/Isarn Doyen du temple de Lathandre.md",
     "Ressources/Données/table rencontre lvl-px.png",
-    "JDRs/Mystère de Lamar/image/Linn_prisonière.jpg",
-    "JDRs/Mystère de Lamar/personnages/Le Compte Mordred De Lamar.md",
-    "JDRs/Mystère de Lamar/Résumé de la campagne.md",
-    "JDRs/Mystère de Lamar/lieux/Phandalin.md",
-    "JDRs/Mystère de Lamar/image/Carte de Phandalin.jpg",
-    "JDRs/autres/Breweol Perlimpin/Breweol-Perlimpin_Yuan-ti.png",
+    "JDR/Mystère de Lamar/image/Linn_prisonière.jpg",
+    "JDR/Mystère de Lamar/image/Carte de Phandalin.jpg",
     "Ressources/Données/5e_Ability-Score-Table_5e.webp",
     "Ressources/Cartes/Phandalin-carte.jpg",
     "Templates/image personnage placeholder.png"

@@ -43,7 +43,7 @@ ___
 **Contre coups**. A chaque utilisation des pouvoirs télékinétique du parasite, le corps de l'hôte est pris de tremblement de sueur et de fièvre.
 ### Effets incontrôlé
 **Rejet du parasite**. L'hôte est régulièrement pris de crise de vomissement et de tremblement ainsi que de très violant mal de crane. La personne n'est pas dans son assiette mais peux se déplacer et communiquer normalement en dehors des crises.
-**Parasitage**. Par une action, l'hôte embrasse une cible au prix d'une action et transmet un parasite. Lancer un dé 10, si 1 alors la cible est parasité.
+**Parasitage**. Par une action, l'hôte embrasse / mord une cible au prix d'une action et transmet un parasite. Lancer un dé 10, si 1 alors la cible est parasité.
 ___
 ## Parasite majeur (niveau 3 à 6)
 **Jet de sauvegarde :** 15
@@ -67,7 +67,7 @@ ___
 **Présence du parasite**. La présence du parasite dans le corps de l'hôte est visible (jet de perception >= 15), l'hôte est plus pale qu'à la normal (teint laiteux) et des veines noires transparaissent légèrement au travers de sa peau.
 ### Effets incontrôlé
 **Hallucinations**. L'hôte est régulièrement pris de crise hallucination, son environment devient très sombre flou et distordus, les son semblent venir de loin, pendant ces crises l'hôte ère de manière aléatoire à une vitesse de 1m pendant une minute.
-**Parasitage**. Par une action, l'hôte embrasse une cible au prix d'une action et transmet un parasite. Lancer un dé 8, si 1 alors la cible est parasité.
+**Parasitage**. Par une action, l'hôte embrasse / mord une cible au prix d'une action et transmet un parasite. Lancer un dé 8, si 1 alors la cible est parasité.
 
 ___
 ## Parasite supérieur (niveau 6 à 9)
@@ -88,10 +88,11 @@ ___
 **Vol télékinétique**. Le parasite fais voler son hôte avec une vitesse de vol de 6m.
 **Résistance psychique**. L'hôte devient résistant au dégâts psychique et est immuniser contre les sorts de manipulation mental.
 **Bouclier télékinétique**. Le parasite peut utiliser sa réaction pour bloquer une attaque physique avec un jet d'intelligence. / Le parasite génère un petit champ de protection pour protéger son hôte ainsi que lui même, la classe d'armure de celui-ci est égale à 11 + modificateur d'intelligence.
-**Parasitage**. Par une action, l'hôte embrasse une cible au prix d'une action et transmet un parasite. Lancer un dé 6, si 1 alors la cible est parasité.
+**Parasitage**. Par une action, l'hôte embrasse / mord une cible au prix d'une action et transmet un parasite. Lancer un dé 6, si 1 alors la cible est parasité.
 ### Effets contrôlé
-**Contre coups**. A chaque utilisation des pouvoirs télékinétique du parasite, le corps de l'hôte est pris de tremblement vomit du sang et subis un dé 6 de dégâts.*Le corps étant désormais quelque peu habituer au parasite, il ne subit plus que les conséquence physique direct lié à l'utilisation des pouvoir psychique du parasite.*
+**Contre coups**. A chaque utilisation des pouvoirs télékinétique du parasite, l'hôte crache un peu de sang et subis un dé 6 de dégâts. *Le corps étant désormais quelque peu habituer au parasite, il ne subit plus que les conséquence physique direct lié à l'utilisation des pouvoir psychique du parasite.*
 **Présence du parasite**. La présence du parasite dans le corps de l'hôte est visible (jet de perception >= 12), l'hôte a un teint laiteux, ses veines sont noires et transparaissent au travers de sa peau.
+**Réseau parasite**. L'hôte et le parasite perçoivent les parasite présent dans un rayon de 200 mètres.
 ### Effets incontrôlé
 **Démence**. Le parasite contrôle son hôte, celui tente vainement de formuler des pensée cohérente à l'oral pour finalement exprimer un entremêlement de sa volonté et celle du parasite. L'hôte peine à reconnaître ses amis. Le parasite attaque toute personnes effectuant un geste vers lui pour tenter de les parasité ou de se mettre hors de danger.
 

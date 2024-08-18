@@ -4,6 +4,6 @@ Un secte Yuan-Ti s'est installé dans le village et manigance dans l'ombre ...
 - https://www.aidedd.org/dnd/monstres.php?vf=yuan-ti-sang-pur
 - https://www.aidedd.org/dnd/monstres.php?vf=yuan-ti-malison
 
-Un parasite s'est développer en parallèle
+Un parasite se développe en parallèle
 
 
