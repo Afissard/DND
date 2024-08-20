@@ -49,7 +49,7 @@ ___
 Description du personnage
 ___
 ## Histoire
-Fils de [[Mysha Mordal]] et frère jumeau de [[Noraki Mordal]].
+Fils de [[Mysha Mordal]] et frère jumeau de [[Noraki Mordal]]. Il a été affecté dans son enfance par un rituel de son père et possède depuis une magie sauvage (ensorceleur).
 ___
 ## Objectif
 Objectif du personnage

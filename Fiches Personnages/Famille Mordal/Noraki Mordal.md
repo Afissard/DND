@@ -38,7 +38,7 @@ Votre rage dure 1 minute. Elle nit prématurément si vous devenez inconscient, 
 **Éternel vagabond**. Vous avez une excellente mémoire en ce qui concerne les cartes et la géographie, et vous pouvez toujours vous rappeler de la configuration générale d'un terrain, d'une agglomération ou d'autres agencements autour de vous. De plus, vous pouvez trouver de la nourriture et de l'eau fraîche pour vous même et jusqu'à 5 autres personnes chaque jour, à condition que la terre offre des baies, du petit gibier, de l'eau, etc.
 ### Actions
 **Maillet**. _Corps à corps_ : +5 (2d6+3 contondant ; lourde, à deux mains)  
-**Massue**. _Corps à corps_ : +5 (1d8+3 contondant ; à deux mains)  
+**Hachettes**. _Corps à corps_ : +5 (1d6+3 tranchant ; lancer (portée 6 m/18 m))  
 **Javeline**. _Corps à corps_ : +5 (1d6+3 perforant ; lancer (portée 9 m/36 m))
 
 ### Actions bonus
@@ -54,7 +54,7 @@ ___
 |  0  | 10  |  0  |  0  |  0  |
 
 **Objet**. Description
-Maillet, massue, javeline (4), sac à dos, sac de couchage, gamelle, boite d'allume-feu, torche (10), rations/1 jour (10), gourde, corde en chanvre de 15 m, piège à mâchoires, vêtements de voyage, bâton, trophée, bourse
+Maillet, hachette (2), javeline (4), sac à dos, sac de couchage, gamelle, boite d'allume-feu, torche (10), rations/1 jour (10), gourde, corde en chanvre de 15 m, piège à mâchoires, vêtements de voyage, bâton, trophée, bourse
 ___
 ## Description
 Tout comme son père [[Mysha Mordal]], Noraki est de grande stature, sa peau gris-bleue couvertes de tatouages (blanc) lui donne un air mystérieux et redoutable. Dans la vingtaine, Noraki vit simplement et se vêtit en conséquences, elle ne porte rien d'autre que quelques lanières de cuir pour maintenir sa poitrine et un long pagne. Ses long cheveux blanc forment une infinité de tresses volant librement sur ses épaules. Quand le froid se fais sentir où quand il est nécessaire d'aller au contacte de civilisation Noraki porte une peau de loup pour se couvrir.
@@ -66,9 +66,9 @@ Fille de [[Mysha Mordal]] elle a un grand frère Tarion aussi stupide que fort e
 > - Noraki Mordal 
 ___
 ## Objectif
-Objectif du personnage
+Objectifs inconnus, à déterminer avec la quête du JDR ... 
 ___
 ## Notes
 Prendre des niveaux de barbare, deux (à quatre ?) niveaux de druide (cercle de la lune) ainsi que 3 niveaux de guerrier (champion).
 Si la voie de la magie sauvage est autorisé : 3 niveaux de guerrier (champion), le reste en niveaux de barbare
-Sinon : 3 niveau de guerrier (champion), 2 niveaux de druide (cercle de la lune), le reste en niveaux de barbare (voie du totem)
+Sinon : 3 niveau de guerrier (champion), le reste en niveaux de barbare (voie du totem, loup) avec deux niveau de druide (cercle de la lune) en option ?

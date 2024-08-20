@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9185f207a242a4f5",
+            "id": "9f159112b3b8eb86",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiches Personnages/Noraki Mordal.md",
+                "file": "Fiches Personnages/Famille Mordal/Mysha Mordal.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,30 +22,66 @@
             }
           },
           {
-            "id": "de37643ea3c999a6",
+            "id": "c212223144f75382",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf"
+                "file": "Fiches Personnages/Famille Mordal/Ea Meloflow Mordal.md",
+                "mode": "source",
+                "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "7c2bc652e980680a",
+            "id": "c6b353ed7394ec33",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf"
+                "file": "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e094cf0da55581b2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fiches Personnages/Famille Mordal/Ghal Mordal.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6b407d3cf519d216",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Fiches Personnages/Famille Mordal/Généalogie & relations des Mordal.canvas",
+                "viewState": {
+                  "x": -164.19051945980164,
+                  "y": -281.1105171895196,
+                  "zoom": -0.8000000000000002
+                }
               },
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -95,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "14a3ecdddb3f1626",
@@ -111,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches Personnages/Noraki Mordal.md",
+                "file": "Fiches Personnages/Famille Mordal/Généalogie & relations des Mordal.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches Personnages/Noraki Mordal.md",
+                "file": "Fiches Personnages/Famille Mordal/Généalogie & relations des Mordal.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiches Personnages/Noraki Mordal.md"
+                "file": "Fiches Personnages/Famille Mordal/Généalogie & relations des Mordal.canvas"
               }
             }
           }
@@ -187,17 +224,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9185f207a242a4f5",
+  "active": "6b407d3cf519d216",
   "lastOpenFiles": [
-    "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
-    "Fiches Personnages/Noraki Mordal.md",
+    "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
+    "Fiches Personnages/Famille Mordal/Ghal Mordal.md",
+    "Fiches Personnages/Famille Mordal/Mysha Mordal.md",
+    "Fiches Personnages/Famille Mordal/Généalogie & relations des Mordal.canvas",
+    "Fiches Personnages/Famille Mordal/Ea Meloflow Mordal.md",
+    "Fiches Personnages/Ea Meloflow/Ea Meloflow.md",
+    "Fiches Personnages/Asudem/Asudem.md",
+    "Ressources/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Fiches Personnages/Ea Meloflow/Ea Meloflow.pdf",
+    "Fiches Personnages/Famille Mordal",
     "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
-    "Fiches Personnages/Mysha Mordal.md",
+    "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
-    "Fiches Personnages/Ghal Mordal.md",
     "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Rodeur Donjons & Dragons - D&D 5.pdf",
-    "Ressources/Règles/dnd_multiclasse.pdf",
     "JDR/Mystère de Lamar/événements/Arrivée de Linn et agression du juge.md",
     "JDR/Mystère de Lamar/personnages/Parasite.md",
     "JDR/Mystère de Lamar/Résumé de la campagne.md",
@@ -209,25 +254,18 @@
     "JDR/Mystère de Lamar/événements/Mort de Mordred De Lamar.md",
     "JDR/Mystère de Lamar/événements/La requête de la comtesse.md",
     "Fiches Personnages/Dorn, prêtre de Lathandre et nécromancien.md",
-    "Fiches Personnages/perso clement.pdf",
     "Fiches Personnages/Sorts de mage intéressants.md",
     "JDR/Ayihyala/Personnages/Peter Angaldem/Peter Angladem.md",
     "Fiches Personnages/Liste de perso à faire.md",
     "Fiches Personnages/Lothar le compte déchu.md",
-    "Fiches Personnages/Ea Meloflow/Ea Meloflow.md",
     "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin.md",
     "Fiches Personnages/Breweol Perlimpin/Breweol-Perlimpin_Yuan-ti.png",
     "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
-    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Linn Seraphim/Linn (Linnaea) Seraphim v2.md",
     "Ressources/Sites internets.md",
-    "Fiches Personnages/Vaern/dnd_vaern_16.pdf",
-    "Fiches Personnages/Vaern/Vaern.md",
     "Ressources/Images/olrox-1.jpg",
     "Ressources/Images/Olrox-2.webp",
     "Ressources/Images/olrox.jpg",
-    "Ressources/Sorts/Augure.md",
     "Ressources/Données/table rencontre lvl-px.png",
     "JDR/Mystère de Lamar/image/Linn_prisonière.jpg",
     "JDR/Mystère de Lamar/image/Carte de Phandalin.jpg",
