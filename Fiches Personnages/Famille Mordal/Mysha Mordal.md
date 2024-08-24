@@ -8,10 +8,10 @@ ___
 
 | FOR     | DEX    | CON     | INT     | SAG     | CHA     |
 | ------- | ------ | ------- | ------- | ------- | ------- |
-| 16 (+3) | 7 (-2) | 15 (+2) | 15 (+2) | 15 (+2) | 12 (+1) |
+| 16 (+3) | 8 (-1) | 14 (+2) | 13 (+1) | 14 (+2) | 11 (+0) |
 ___
-**Jets de sauvegarde** Sag +4, Cha +3
-**Compétences** Arcanes +4, Histoire +4, Intimidation +3, Persuasion +3, Religion +4
+**Jets de sauvegarde** Sag +4, Cha +2
+**Compétences** Arcanes +3, Histoire +3, Intimidation +2, Persuasion +2, Religion +3
 **Vulnérabilités aux dégâts** aucun
 **Résistances aux dégâts** aucun
 **Immunités aux dégâts** aucun
@@ -71,7 +71,7 @@ ___
 Masse d'armes, épée à deux mains, armure d'écailles, bouclier, livre, symbole sacré/reliquaire, sac à dos, couverture, bougie (10), boite d'allume-feu, rations/1 jour (2), gourde, encre/bouteille, plume d'écriture, vêtements communs, boîte pour l'aumône, bâtonnets d'encens (2), encensoir, habits de cérémonie, petit couteau, lettre d'un collègue mort, bourse
 ___
 ## Description
-Bien qu'il ai 40 ans d'age, Mysha vit dans la peau d'un demi-orc de 20 ans haut de 2 m pour un poids de 120 kilos. Sa peau grise-roche, ses cheveux noir fermement attacher en arrière et sa mâchoire carré lui donne un air féroce. Ses yeux bleu pourrais en geler plus d'un sur place. En bref Mysha est un sage dans un corp de guerrier, ce qui ne vient pas sans quelque contrainte... En effet il arrive que la marque de [Gruumsh](https://www.aidedd.org/univers/pantheon/gruumsh/) reface surface et s'empare de son esprit notamment lorsqu'il échoue à se concentrer ou à réaliser quelque chose de complexe, Mysha peut dans un accès de rage renverser une table noyer de notes importante ou bien démolir une bibliothèque remplis d'ouvrage unique.
+Bien qu'il ai 40 ans d'age, Mysha vit dans la peau d'un demi-orc de 20 ans haut de 2 m pour un poids de 120 kilos. Sa peau grise-roche, ses cheveux blanc fermement attacher en arrière et sa mâchoire carré lui donne un air féroce. Ses yeux bleu pourrais en geler plus d'un sur place. En bref Mysha est un sage dans un corp de guerrier, ce qui ne vient pas sans quelque contrainte... En effet il arrive que la marque de [Gruumsh](https://www.aidedd.org/univers/pantheon/gruumsh/) reface surface et s'empare de son esprit notamment lorsqu'il échoue à se concentrer ou à réaliser quelque chose de complexe, Mysha peut dans un accès de rage renverser une table noyer de notes importante ou bien démolir une bibliothèque remplis d'ouvrage unique.
 ___
 ## Histoire
 Mysha étais un humain par le passé, membre d'une sous branche de l'église de [Velsharoon](https://forgottenrealms.fandom.com/wiki/Velsharoon#The_Church) *l'Archimage Nécromancien* à la recherche d'un artefact légendaire, supposer être un grimoire : *Les Secrets de la Vie et de la Mort*. Dans un rite d'initiation signifiant son entré officiel dans le clergé, Mysha à fais expérience de la mort et de la renaissance en se réincarnant (en demi-orc).

@@ -58,10 +58,11 @@ ___
 Rapière, dague, armure de cuir, flûte, kit de déguisement, coffre, étui à cartes ou parchemins (2), vêtements fins, encre/bouteille, plume d'écriture, lampe, huile/flasque (2), papier (5), parfum/fiole, cire à cacheter, savon, vêtements fins, outils d'escroquerie, bourse
 ___
 ## Description
-Description du personnage
+Ea est bien plus qu'une barde, sa beauté exotique ont fait d'elle une muse pour ses confrères. Ses yeux d'or et sa chevelure blanche on hypnotisé en ont plus d'un, sa peau rouge vif, sa longue queue et ses fines cornes d'antilope d'habitude source de discrimination pour sa race sont contemplés avec émerveillement. Si ses oreilles pointues font d'elle une jeune femme mignonne à croquée, son sourire carnassier pourrais renverser la vapeur de plus d'un cœur.
 ___
 ## Histoire
 Bâtarde de [[Mysha Mordal]] et d'une jeune aspirante recherchant ses faveurs alors que celui-ci était en pleine ascension des rang de l'église de [Velsharoon](https://forgottenrealms.fandom.com/wiki/Velsharoon#The_Church), Ea est donc la demi-sœur de [[Noraki Mordal]] et de son frère jumeau [[Ghal Mordal]].
+Tieffeline d'une rare beauté, Ea a très vite compris comment utiliser son corps pour arrivé à ses fins tout comme sa mère qui étais encore une jeune aspirante, c'est d'ailleurs grace à cette relation que celle-ci a pus devenir une courtisane mais surtout espionne au service de l'église, Mysha lui rendant encore visite de temps à autre. Ea a donc grandis dans des environment plein de richesse et luxure mais ennuyeux pour une jeune enfant, elle fus donc envoyé au collège bardique de la ville.
 Charlatan (Je m'introduis dans la vie des gens pour jouer de leurs faiblesses et récupérer leur fortune)
 ___
 ## Objectif
@@ -69,4 +70,4 @@ Objectif du personnage
 ___
 ## Notes
 Barde [collège de la séduction](https://www.aidedd.org/dnd-5/unearthed-arcana/colleges-bardiques/#seduction) si autorisé, sinon collège du savoir.
-Multi-classe en roublard (assassin) 
+Prendre quelque niveaux de roublard (assassin) en alternant avec ceux de barde à partir du niveau 6-7.
