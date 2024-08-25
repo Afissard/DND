@@ -1,17 +1,18 @@
 {
 	"nodes":[
 		{"id":"9f9c2e74fbfb840f","type":"file","file":"Fiches Personnages/Famille Mordal/Ea Meloflow Mordal.md","x":-695,"y":-110,"width":400,"height":400},
-		{"id":"db05150f19d7638b","x":-140,"y":-60,"width":400,"height":50,"type":"text","text":"# Tarion Mordal"},
+		{"id":"db05150f19d7638b","type":"text","text":"# Tarion Mordal","x":-140,"y":-60,"width":400,"height":50},
 		{"id":"2003abe011652b86","type":"file","file":"Fiches Personnages/Famille Mordal/Noraki Mordal.md","x":185,"y":90,"width":400,"height":400},
 		{"id":"78ff229a40b6edba","type":"file","file":"Fiches Personnages/Famille Mordal/Ghal Mordal.md","x":740,"y":90,"width":400,"height":400},
 		{"id":"2d931689f892e572","type":"text","text":"Mariage","x":260,"y":-300,"width":250,"height":60},
-		{"id":"6b3d2bbd15fe2dc3","x":-620,"y":-410,"width":250,"height":60,"type":"text","text":"Courte Relation caché qui dura quelques mois"},
+		{"id":"6b3d2bbd15fe2dc3","type":"text","text":"Courte Relation caché qui dura quelques mois","x":-620,"y":-410,"width":250,"height":60},
 		{"id":"a217bc4001695081","type":"file","file":"Fiches Personnages/Famille Mordal/Mysha Mordal.md","x":-260,"y":-580,"width":400,"height":400},
 		{"id":"b6efd291b9a94ab3","type":"file","file":"Fiches Personnages/Asudem/Asudem Yulia.md","x":640,"y":-580,"width":400,"height":400},
 		{"id":"ff36c3f596a8fc24","type":"text","text":"# Jeune aspirante de Velsharoon","x":-1120,"y":-510,"width":400,"height":100},
-		{"id":"440638f45724296e","x":-695,"y":-1080,"width":220,"height":100,"type":"text","text":"## *Eglise de Velsharoon*"},
+		{"id":"440638f45724296e","type":"text","text":"## *Eglise de Velsharoon*","x":-695,"y":-1080,"width":220,"height":100},
 		{"id":"4890d26fbecb120a","type":"text","text":"## *Temple de Bhaal*","x":730,"y":-1080,"width":220,"height":100},
-		{"id":"7ee1ba563a012973","x":-1620,"y":-1030,"width":400,"height":400,"type":"file","file":"Fiches Personnages/Vaern/Vaern.md"}
+		{"id":"7ee1ba563a012973","type":"file","file":"Fiches Personnages/Vaern/Vaern.md","x":-1620,"y":-1030,"width":400,"height":400},
+		{"id":"1ac9dd557db3641e","x":-885,"y":-1600,"width":330,"height":80,"type":"text","text":"# Orcus dieu créateur des [liches](https://www.aidedd.org/adj/classes/comment-devenir-une-liche/)"}
 	],
 	"edges":[
 		{"id":"c373395374a63532","fromNode":"a217bc4001695081","fromSide":"right","toNode":"2d931689f892e572","toSide":"left"},
@@ -28,6 +29,8 @@
 		{"id":"90a27c345f1b0f80","fromNode":"ff36c3f596a8fc24","fromSide":"top","toNode":"440638f45724296e","toSide":"bottom","label":"aspirante"},
 		{"id":"d01e4e8e18b4bf11","fromNode":"b6efd291b9a94ab3","fromSide":"top","toNode":"4890d26fbecb120a","toSide":"bottom","label":"Dirige et réforme"},
 		{"id":"ebe1a49a27aa361e","fromNode":"4890d26fbecb120a","fromSide":"left","toNode":"440638f45724296e","toSide":"right","toEnd":"none","label":"collaboration"},
-		{"id":"006b33fb042a7717","fromNode":"7ee1ba563a012973","fromSide":"right","toNode":"440638f45724296e","toSide":"left","label":"recherches sur les liches\n"}
+		{"id":"006b33fb042a7717","fromNode":"7ee1ba563a012973","fromSide":"right","toNode":"440638f45724296e","toSide":"left","label":"recherches sur les liches\n"},
+		{"id":"aae8b5258f91c496","fromNode":"7ee1ba563a012973","fromSide":"right","toNode":"1ac9dd557db3641e","toSide":"bottom","label":"ancien temple sous Padhiver "},
+		{"id":"f55aaec840db167a","fromNode":"440638f45724296e","fromSide":"top","toNode":"1ac9dd557db3641e","toSide":"bottom"}
 	]
 }

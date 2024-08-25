@@ -27,7 +27,7 @@ ___
 **Collectionneuse de Secrets**. Lucie est avantagée pour ses actions de Persuasion ou de Tromperie contre une cible pour obtenir des informations compromettantes si elles se trouvent dans une situation assez intime (dans une chambre isolé par exemple). Une fois par jour, elle peut obtenir un avantage sur un jet de Persuasion ou de Tromperie lorsqu'elle interagit avec une personne dont elle connaît un secret.  
 
 ### Actions
-**Gifle**. *Attaque au corps à corps avec une arme* : +0 au toucher, allonge 1,50 m, une cible. *Touché* : 2 (1d4 + 0) dégâts contondants.  
+**Gifle**. *Attaque au corps à corps avec une arme* : +0 au toucher, allonge 1,50 m, une cible. *Touché* : 1 (1d4 -2) dégâts contondants.  
 
 ___
 ### Inventaire
@@ -46,7 +46,11 @@ Sa mère étant morte alors qu'elle n'était encore qu'une enfant, Lucie n'a que
 ___
 ## Objectif
 Lucie a couché avec beaucoup d'hommes mais aussi de femmes et aime collectionner leurs petits secrets. Pour elle, tout le monde a un secret.
+> "Un secret pour un secret, l'échange est équivalent n'est-ce pas ?"
+>  - Lucie après une nuit en bonne compagnie
 
 ___
 ## Notes
-Prise de notes
+### Secrets
+Lucie sait que [[Yeshih Ottom]] est grandement intéressée par la [[dague De Lamar]] et les mystères qui l'entoure.
+Elle n'a jamais couché avec [[Le Compte Mordred De Lamar]], bien qu'elle aurais aimé, mais elle sait que celui-ci l'a déjà fais avec sa défunte mère.

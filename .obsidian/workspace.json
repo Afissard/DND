@@ -4,42 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "24d7016ff713dcf9",
+        "id": "d4f25aa8bcd57e8a",
         "type": "tabs",
         "children": [
           {
-            "id": "6b407d3cf519d216",
+            "id": "c16b065afa6af1bf",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Fiches Personnages/Famille Mordal/Généalogie & relations des Mordal.canvas",
-                "viewState": {
-                  "x": 43.00051460467574,
-                  "y": -206.2431687460529,
-                  "zoom": -0.8000000000000002
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "07c6f9cf55d80f9f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches Personnages/Vaern/Vaern.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches Personnages/Vaern/Vaern.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches Personnages/Vaern/Vaern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fiches Personnages/Vaern/Vaern.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -181,52 +153,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07c6f9cf55d80f9f",
+  "active": "c16b065afa6af1bf",
   "lastOpenFiles": [
-    "Fiches Personnages/Vaern/dnd_vaern_17.pdf",
+    "Campagnes/Mystère de Lamar/personnages/Lucie tavernière et fille légère.md",
+    "Campagnes/Mystère de Lamar/Résumé de la campagne.md",
+    "Campagnes/Mystère de Lamar/personnages/Yeshih Ottom.md",
+    "Campagnes/Mystère de Lamar/personnages/Szemu Ottom.md",
+    "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
+    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
+    "Campagnes/Mystère de Lamar/objets/dague De Lamar.md",
+    "Campagnes/Mystère de Lamar/événements/Le parasite attaque.md",
+    "Campagnes/Mystère de Lamar/musique.md",
+    "Campagnes/Mystère de Lamar/événements/Fuite de Linn.md",
+    "Campagnes/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
+    "Campagnes/Mystère de Lamar/personnages/Parasite.md",
+    "Campagnes/Mystère de Lamar/événements/Arrivée de Linn et agression du juge.md",
+    "Fiches Personnages/Famille Mordal/Généalogie & relations des Mordal.canvas",
+    "Ressources/Sites internets.md",
     "Fiches Personnages/Vaern/Vaern.md",
+    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
+    "Fiches Personnages/Vaern/dnd_vaern_17.pdf",
+    "Fiches Personnages/Famille Mordal/Mysha Mordal.md",
+    "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
+    "Ressources/Données/5e_Ability-Score-Table_5e.webp",
+    "Fiches Personnages/Vaern/dnd_vaern_12.pdf",
     "Fiches Personnages/Vaern/vaern_clerc.pdf",
     "Ressources/Fiches personnages/Spellcasting Sheet (Optional) - Form Fillable.pdf",
-    "Fiches Personnages/Famille Mordal/Généalogie & relations des Mordal.canvas",
     "Fiches Personnages/Vaern/dnd_vaern_16.pdf",
-    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Fiches personnages/Spellcasting Sheet (Optional) - Print Version.pdf",
-    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Asudem/Asudem.md",
     "Fiches Personnages/Asudem/Asudem Yulia.md",
-    "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
     "Fiches Personnages/Famille Mordal/Ea Meloflow Mordal.md",
-    "Fiches Personnages/Famille Mordal/Mysha Mordal.md",
-    "Ressources/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Famille Mordal/Ghal Mordal.md",
     "Fiches Personnages/Ea Meloflow/Ea Meloflow.md",
-    "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
-    "JDR/Mystère de Lamar/événements/Arrivée de Linn et agression du juge.md",
-    "JDR/Mystère de Lamar/personnages/Parasite.md",
-    "JDR/Mystère de Lamar/Résumé de la campagne.md",
-    "JDR/Mystère de Lamar/personnages/Felix Lex le Juge.md",
-    "JDR/Mystère de Lamar/lieux/Phandalin.md",
-    "JDR/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
-    "JDR/Mystère de Lamar/personnages/Esprit de la mare.md",
-    "JDR/Mystère de Lamar/personnages/Isarn Doyen du temple de Lathandre.md",
-    "JDR/Mystère de Lamar/événements/Mort de Mordred De Lamar.md",
-    "JDR/Mystère de Lamar/événements/La requête de la comtesse.md",
-    "Fiches Personnages/Dorn, prêtre de Lathandre et nécromancien.md",
-    "Fiches Personnages/Sorts de mage intéressants.md",
-    "JDR/Ayihyala/Personnages/Peter Angaldem/Peter Angladem.md",
-    "Fiches Personnages/Liste de perso à faire.md",
-    "Fiches Personnages/Lothar le compte déchu.md",
-    "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin.md",
+    "Campagnes/Mystère de Lamar/personnages/Felix Lex le Juge.md",
+    "Campagnes/Mystère de Lamar/lieux/Phandalin.md",
+    "Campagnes/Mystère de Lamar/personnages/Esprit de la mare.md",
+    "Campagnes/Mystère de Lamar/personnages/Isarn Doyen du temple de Lathandre.md",
+    "Campagnes/Mystère de Lamar/événements/Mort de Mordred De Lamar.md",
     "Fiches Personnages/Breweol Perlimpin/Breweol-Perlimpin_Yuan-ti.png",
-    "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
     "Ressources/Images/olrox-1.jpg",
     "Ressources/Images/Olrox-2.webp",
     "Ressources/Images/olrox.jpg",
     "Ressources/Données/table rencontre lvl-px.png",
-    "JDR/Mystère de Lamar/image/Linn_prisonière.jpg",
-    "JDR/Mystère de Lamar/image/Carte de Phandalin.jpg",
-    "Ressources/Données/5e_Ability-Score-Table_5e.webp",
+    "Campagnes/Mystère de Lamar/image/Linn_prisonière.jpg",
+    "Campagnes/Mystère de Lamar/image/Carte de Phandalin.jpg",
     "Ressources/Cartes/Phandalin-carte.jpg",
     "Templates/image personnage placeholder.png"
   ]

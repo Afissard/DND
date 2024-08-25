@@ -105,7 +105,7 @@ ___
 Histoire du personnage
 ___
 ## Objectif
-Objectif du personnage
+Lui et [[Szemu Ottom]] sont envoyés par le temple de [Sseth](https://forgottenrealms.fandom.com/wiki/Sseth) récupérer la [[dague De Lamar]], de laquelle serais enfermé l'âme d'un des plus puissant Yuan-ti que le monde est jamais connus.
 ___
 ## Notes
 prise de notes
