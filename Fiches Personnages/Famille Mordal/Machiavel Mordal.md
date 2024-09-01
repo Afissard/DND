@@ -49,8 +49,8 @@ ___
 **Apanage de la noblesse**. Grâce à votre noble naissance, les gens sont enclins à penser le meilleur de vous. Vous êtes le bienvenu dans la haute société, et les gens supposent que vous avez le droit d'être là où vous êtes. Les gens ordinaires font tout pour vous accueillir et éviter de vous déplaire, et les personnes de haute naissance vous traitent comme un membre de leur sphère sociale. Vous pouvez obtenir une audience avec un noble local si vous en avez besoin.
 
 ### Actions
-**Rapière (arme de pacte)**. _Corps à corps_ : +7 (1d8+3 perforant + 4 nécrotique ; finesse)  
-**Dague**. _Corps à corps_ : +7 (1d4+3 perforant ; finesse, légère, lancer (portée 6 m/18 m))
+**Rapière (arme de pacte)**. _Corps à corps_ : +7 (1d8+3 perforant + 4 nécrotique -> `dice: 1d8+3+4` ; finesse) -> 3 coups + maléfice : `dice: 3d8+3*3+3*4+3d6`
+**Dague**. _Corps à corps_ : +7 (1d4+3 perforant -> `dice: 1d4+3` ; finesse, légère, lancer (portée 6 m/18 m)) -> 2 coups + maléfice : `dice: 2d4+2d6+2*3`
 
 ### Actions bonus
 **Sorts**.
@@ -169,3 +169,4 @@ Occultiste niveau 14 (Arcanum mystique 6 : pétrification / création de morts v
 **Regain**. À votre tour, vous pouvez utiliser une action bonus et un dé de supériorité pour renforcer la volonté d’un de vos alliés. Dans ce cas, choisissez un allié qui peut vous voir ou vous entendre. Cette créature gagne un nombre de pv temporaires égal au résultat du dé de supériorité + votre modificateur de Charisme. 
 **Repousser**. Si vous touchez une créature lors d'une attaque avec une arme, vous pouvez dépenser un dé de supériorité pour tenter de repousser la cible. Ajoutez votre dé de supériorité aux dégâts, et si la cible est de taille G ou plus petite, elle devra faire un jet de sauvegarde de Force. En cas d’échec, vous repoussez la cible à 4,50 mètres de vous. 
 ==**Riposte**. Si une créature vous rate lors d'une attaque au corps à corps, vous pouvez utiliser votre réaction et un dé de supériorité pour faire une attaque avec une arme au corps à corps contre cette créature. Si vous touchez, ajoutez votre dé de supériorité aux dégâts.==
+
