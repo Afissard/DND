@@ -6,13 +6,15 @@
 		{"id":"78ff229a40b6edba","type":"file","file":"Fiches Personnages/Famille Mordal/Ghal Mordal.md","x":740,"y":90,"width":400,"height":400},
 		{"id":"2d931689f892e572","type":"text","text":"Mariage","x":260,"y":-300,"width":250,"height":60},
 		{"id":"6b3d2bbd15fe2dc3","type":"text","text":"Courte Relation caché qui dura quelques mois","x":-620,"y":-410,"width":250,"height":60},
-		{"id":"a217bc4001695081","type":"file","file":"Fiches Personnages/Famille Mordal/Mysha Mordal.md","x":-260,"y":-580,"width":400,"height":400},
+		{"id":"a217bc4001695081","type":"file","file":"Fiches Personnages/Famille Mordal/Candide Mordal.md","x":-260,"y":-580,"width":400,"height":400},
 		{"id":"b6efd291b9a94ab3","type":"file","file":"Fiches Personnages/Asudem/Asudem Yulia.md","x":640,"y":-580,"width":400,"height":400},
 		{"id":"ff36c3f596a8fc24","type":"text","text":"# Jeune aspirante de Velsharoon","x":-1120,"y":-510,"width":400,"height":100},
 		{"id":"440638f45724296e","type":"text","text":"## *Eglise de Velsharoon*","x":-695,"y":-1080,"width":220,"height":100},
-		{"id":"4890d26fbecb120a","type":"text","text":"## *Temple de Bhaal*","x":730,"y":-1080,"width":220,"height":100},
-		{"id":"7ee1ba563a012973","type":"file","file":"Fiches Personnages/Vaern/Vaern.md","x":-1620,"y":-1030,"width":400,"height":400},
-		{"id":"1ac9dd557db3641e","x":-885,"y":-1600,"width":330,"height":80,"type":"text","text":"# Orcus dieu créateur des [liches](https://www.aidedd.org/adj/classes/comment-devenir-une-liche/)"}
+		{"id":"1ac9dd557db3641e","type":"text","text":"# Orcus dieu créateur des [liches](https://www.aidedd.org/adj/classes/comment-devenir-une-liche/)","x":-885,"y":-1600,"width":330,"height":80},
+		{"id":"4890d26fbecb120a","type":"text","text":"## *Temple de Bhaal*","x":165,"y":-880,"width":220,"height":100},
+		{"id":"7ee1ba563a012973","type":"file","file":"Fiches Personnages/Vaern/Vaern.md","x":165,"y":-1720,"width":400,"height":400},
+		{"id":"c7b556a220a3f27b","type":"text","text":"Parents inconnus","x":590,"y":-910,"width":250,"height":60},
+		{"id":"32bc001d55dd2fbf","type":"file","file":"Fiches Personnages/Famille Mordal/Machiavel Mordal.md","x":1280,"y":-580,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"c373395374a63532","fromNode":"a217bc4001695081","fromSide":"right","toNode":"2d931689f892e572","toSide":"left"},
@@ -29,8 +31,11 @@
 		{"id":"90a27c345f1b0f80","fromNode":"ff36c3f596a8fc24","fromSide":"top","toNode":"440638f45724296e","toSide":"bottom","label":"aspirante"},
 		{"id":"d01e4e8e18b4bf11","fromNode":"b6efd291b9a94ab3","fromSide":"top","toNode":"4890d26fbecb120a","toSide":"bottom","label":"Dirige et réforme"},
 		{"id":"ebe1a49a27aa361e","fromNode":"4890d26fbecb120a","fromSide":"left","toNode":"440638f45724296e","toSide":"right","toEnd":"none","label":"collaboration"},
-		{"id":"006b33fb042a7717","fromNode":"7ee1ba563a012973","fromSide":"right","toNode":"440638f45724296e","toSide":"left","label":"recherches sur les liches\n"},
-		{"id":"aae8b5258f91c496","fromNode":"7ee1ba563a012973","fromSide":"right","toNode":"1ac9dd557db3641e","toSide":"bottom","label":"ancien temple sous Padhiver "},
-		{"id":"f55aaec840db167a","fromNode":"440638f45724296e","fromSide":"top","toNode":"1ac9dd557db3641e","toSide":"bottom"}
+		{"id":"006b33fb042a7717","fromNode":"7ee1ba563a012973","fromSide":"left","toNode":"440638f45724296e","toSide":"top","label":"recherches sur les liches\n"},
+		{"id":"aae8b5258f91c496","fromNode":"7ee1ba563a012973","fromSide":"left","toNode":"1ac9dd557db3641e","toSide":"right","label":"ancien temple sous Padhiver "},
+		{"id":"f55aaec840db167a","fromNode":"440638f45724296e","fromSide":"top","toNode":"1ac9dd557db3641e","toSide":"bottom"},
+		{"id":"15da2931fa609cf1","fromNode":"c7b556a220a3f27b","fromSide":"bottom","toNode":"32bc001d55dd2fbf","toSide":"top"},
+		{"id":"3e639e2a81036df2","fromNode":"c7b556a220a3f27b","fromSide":"bottom","toNode":"a217bc4001695081","toSide":"top"},
+		{"id":"8465b9d2bee75fe5","fromNode":"7ee1ba563a012973","fromSide":"right","toNode":"32bc001d55dd2fbf","toSide":"left","toEnd":"none","label":"amis"}
 	]
 }

@@ -57,14 +57,14 @@ ___
 Mordred de Lamar est un homme dans la quarantaine, quelque peu grassouillet sa mort ne l'a pas embellis. Son teint très pâle fait contraste avec ses cheveux noir jais bien qu'un peu grisonnant sur les tempes. 
 ___
 ## Histoire
-La famille De Lamar est ancienne, ses origine remonterais à un amour de jeunesse du Roi de Padhiver avec la fille unique d'un petit noble, lorsque l'affaire fus connus la famille déshonoré pendis la pauvre jeune mère bien que le fils bâtard pus être épargné grace à l'intervention du Roi. [[Siegfried De Lamar]] fut donc d'abord élevé en secret par son père avant de devenir son ombre commandant une petite milice chargé de faire disparaître les gêneur du royaume. Pour ses services Siegfried reçut de son père  une dague : la [[dague De Lamar]], le compté de [[Phandalin]] ancien domaine de la famille de sa mère ainsi que son nom et son blason : De Lamar.
+La famille De Lamar est ancienne, ses origine remonterais à un amour de jeunesse du Roi de Padhiver avec la fille unique d'un petit noble, lorsque l'affaire fus connus la famille déshonoré pendis la pauvre jeune mère bien que le fils bâtard pus être épargné grace à l'intervention du Roi. [[Siegfried De Lamar]] fut donc d'abord élevé en secret par son père avant de devenir son ombre commandant une petite milice chargé de faire disparaître les gêneur du royaume. Pour ses services Siegfried reçut de son père  une dague : la [[dague De Lamar]], le compté de [[Conyberry]] ancien domaine de la famille de sa mère ainsi que son nom et son blason : De Lamar.
 
 Mordred De Lamar est un ancien ministre du Roi de Padhiver, il s'est retiré de toute vie politique après son second mariage. [[La Comtesse Aliénor De Lamar]] est en effet pas sa première femme celle-ci étant morte en couche donnant naissance à son fils [[Lancelin De Lamar]].
 
 #TODO: implémenter le reste de l'histoire en fonction des autres factions
 ___
 ## Objectif
-De son vivant, Mordred consacrait son temps à des recherches sur les légende de l'Esprit de la mare de [[Phandalin]], bien que son existence n'ai jamais été prouvé autre que par des récits oral celui-ci serais en lien avec la [[dague De Lamar]].
+De son vivant, Mordred consacrait son temps à des recherches sur les légende de l'Esprit de la mare de [[Conyberry]], bien que son existence n'ai jamais été prouvé autre que par des récits oral celui-ci serais en lien avec la [[dague De Lamar]].
 ___
 ## Notes
 prise de notes

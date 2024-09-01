@@ -51,7 +51,7 @@ Lorsque vous dépensez un point ki, il n'est plus disponible jusqu'à ce que vou
 
 **Attaque supplémentaire**. À partir du niveau 5, vous pouvez attaquer deux fois, au lieu d'une, lorsque vous utiliser une action Attaquer lors de votre tour.
 
-**Frappe étourdissante**. À partir du niveau 5, vous pouvez perturber le flux du ki du corps de votre adversaire. Lorsque vous touchez une autre créature lors d'une attaque au corps à corps avec une arme, vous pouvez dépenser 1 point ki pour tenter d'effectuer une frappe étourdissante. La cible doit réussir un jet de sauvegarde de Constitution sous peine d'être étourdie jusqu'à la n de votre prochain tour.
+**Frappe étourdissante**. À partir du niveau 5, vous pouvez perturber le flux du ki du corps de votre adversaire. Lorsque vous touchez une autre créature lors d'une attaque au corps à corps avec une arme, vous pouvez dépenser 1 point ki pour tenter d'effectuer une frappe étourdissante. La cible doit réussir un jet de sauvegarde de Constitution sous peine d'être étourdie jusqu'à la fin de votre prochain tour.
 
 ### Actions
 **Jet de fléchettes**. *Attaque à distance avec une arme* : +7 au lancer, porté de 6 à 18m. *Touché* : 1d4+4. 10 munitions.

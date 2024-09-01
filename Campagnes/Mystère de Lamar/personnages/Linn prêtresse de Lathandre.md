@@ -69,7 +69,7 @@ ___
 ![[Linn_prisonière.jpg]]
 ___
 ## Histoire
-Fille adoptive d'[[Isarn Doyen du temple de Lathandre]], elle a été confié à sa naissance au [[temple de Lathandre]]. Alors qu'elle allais rendre une visite à son père, elle s'est fais attaquer par des [[Parasite]]s, elle a ensuite quelque jour plus tard attaquer le juge de Phandalin avant de se faire maîtriser et envoyer dans les geôles du [[poste de garde]]
+Fille adoptive d'[[Isarn Doyen du temple de Lathandre]], elle a été confié à sa naissance au [[temple de Lathandre]]. Alors qu'elle allais rendre une visite à son père, elle s'est fais attaquer par des [[Parasite]]s, elle a ensuite quelque jour plus tard attaquer [[Felix Lex le Juge]] avant de se faire maîtriser et envoyer dans les geôles du [[poste de garde]]
 ___
 ## Objectif
 A perdu tout objectifs depuis qu'elle est infestée par le [[Parasite]].

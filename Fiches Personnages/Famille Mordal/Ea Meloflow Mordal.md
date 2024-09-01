@@ -61,7 +61,7 @@ ___
 Ea est bien plus qu'une barde, sa beauté exotique ont fait d'elle une muse pour ses confrères. Ses yeux d'or et sa chevelure blanche on hypnotisé en ont plus d'un, sa peau rouge vif, sa longue queue et ses fines cornes d'antilope d'habitude source de discrimination pour sa race sont contemplés avec émerveillement. Si ses oreilles pointues font d'elle une jeune femme mignonne à croquée, son sourire carnassier pourrais renverser la vapeur de plus d'un cœur.
 ___
 ## Histoire
-Bâtarde de [[Mysha Mordal]] et d'une jeune aspirante recherchant ses faveurs alors que celui-ci était en pleine ascension des rang de l'église de [Velsharoon](https://forgottenrealms.fandom.com/wiki/Velsharoon#The_Church), Ea est donc la demi-sœur de [[Noraki Mordal]] et de son frère jumeau [[Ghal Mordal]].
+Bâtarde de [[Candide Mordal]] et d'une jeune aspirante recherchant ses faveurs alors que celui-ci était en pleine ascension des rang de l'église de [Velsharoon](https://forgottenrealms.fandom.com/wiki/Velsharoon#The_Church), Ea est donc la demi-sœur de [[Noraki Mordal]] et de son frère jumeau [[Ghal Mordal]].
 Tieffeline d'une rare beauté, Ea a très vite compris comment utiliser son corps pour arrivé à ses fins tout comme sa mère qui étais encore une jeune aspirante, c'est d'ailleurs grace à cette relation que celle-ci a pus devenir une courtisane mais surtout espionne au service de l'église, Mysha lui rendant encore visite de temps à autre. Ea a donc grandis dans des environment plein de richesse et luxure mais ennuyeux pour une jeune enfant, elle fus donc envoyé au collège bardique de la ville.
 Charlatan (Je m'introduis dans la vie des gens pour jouer de leurs faiblesses et récupérer leur fortune)
 ___

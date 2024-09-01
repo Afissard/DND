@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d4f25aa8bcd57e8a",
+        "id": "af2458bdd8b2ef4c",
         "type": "tabs",
         "children": [
           {
-            "id": "c16b065afa6af1bf",
+            "id": "07dfbfecc23758a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fiches Personnages/Famille Mordal/Machiavel Mordal.md"
+              }
             }
           }
         ],
@@ -153,54 +161,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c16b065afa6af1bf",
+  "active": "07dfbfecc23758a4",
   "lastOpenFiles": [
-    "Campagnes/Mystère de Lamar/personnages/Lucie tavernière et fille légère.md",
+    "Fiches Personnages/Famille Mordal/Candide Mordal.md",
+    "Fiches Personnages/Famille Mordal/Ea Meloflow Mordal.md",
+    "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
+    "Ressources/Données/table rencontre lvl-px.png",
+    "Ressources/Données/5e_Ability-Score-Table_5e.webp",
+    "Fiches Personnages/Famille Mordal/Généalogie & relations des Mordal.canvas",
+    "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
+    "Fiches Personnages/Famille Mordal/Ghal Mordal.md",
+    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Données/Dons (extension) - D&D 5e.pdf",
+    "Ressources/Données/Dons (extension) Dungeons & Dragons - D&D 5e.pdf",
+    "Ressources/Données/Poisons Dungeons & Dragons - D&D 5e.pdf",
+    "Ressources/Données/Manifestations Occultes - DnD 5e.pdf",
+    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Images/Machiavel Mordal.jpg",
+    "Ressources/Règles/dnd_multiclasse.pdf",
+    "Fiches Personnages/Linn Seraphim/Linn Seraphim.md",
+    "Fiches Personnages/Linn Seraphim/Linn (Linnaea) Seraphim v2.md",
+    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
+    "Fiches Personnages/Liam Seraphim/Druide Inspiration.png",
+    "Fiches Personnages/Vaern/Vaern.md",
+    "README.md",
     "Campagnes/Mystère de Lamar/Résumé de la campagne.md",
+    "Campagnes/Mystère de Lamar/lieux/Conyberry.md",
     "Campagnes/Mystère de Lamar/personnages/Yeshih Ottom.md",
     "Campagnes/Mystère de Lamar/personnages/Szemu Ottom.md",
-    "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
-    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
-    "Campagnes/Mystère de Lamar/objets/dague De Lamar.md",
-    "Campagnes/Mystère de Lamar/événements/Le parasite attaque.md",
-    "Campagnes/Mystère de Lamar/musique.md",
-    "Campagnes/Mystère de Lamar/événements/Fuite de Linn.md",
+    "Ressources/Sorts/Ténèbres.md",
+    "Ressources/Sorts/Suggestion.md",
+    "Ressources/Sorts/Bouffée de poison.md",
+    "Campagnes/Mystère de Lamar/personnages/Ranulf le tavernier.md",
+    "Campagnes/Mystère de Lamar/personnages/Lucie tavernière et fille légère.md",
+    "Campagnes/Mystère de Lamar/personnages/Lothar Démiur Chef de la Garde.md",
+    "Campagnes/Mystère de Lamar/personnages/La Comtesse Aliénor De Lamar.md",
+    "Campagnes/Mystère de Lamar/personnages/Tyranthraxus.md",
+    "Campagnes/Mystère de Lamar/image/Village de Conyberry.png",
+    "Campagnes/Mystère de Lamar/événements/Serpents dans la forêt.md",
+    "Campagnes/Mystère de Lamar/personnages/Vorgansheim.md",
+    "Ressources/Données/Donjons-Dragons-weapons.webp",
+    "Campagnes/Mystère de Lamar/personnages/Siegfried De Lamar.md",
     "Campagnes/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
-    "Campagnes/Mystère de Lamar/personnages/Parasite.md",
-    "Campagnes/Mystère de Lamar/événements/Arrivée de Linn et agression du juge.md",
-    "Fiches Personnages/Famille Mordal/Généalogie & relations des Mordal.canvas",
-    "Ressources/Sites internets.md",
-    "Fiches Personnages/Vaern/Vaern.md",
-    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
-    "Fiches Personnages/Vaern/dnd_vaern_17.pdf",
-    "Fiches Personnages/Famille Mordal/Mysha Mordal.md",
-    "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
-    "Ressources/Données/5e_Ability-Score-Table_5e.webp",
-    "Fiches Personnages/Vaern/dnd_vaern_12.pdf",
-    "Fiches Personnages/Vaern/vaern_clerc.pdf",
-    "Ressources/Fiches personnages/Spellcasting Sheet (Optional) - Form Fillable.pdf",
-    "Fiches Personnages/Vaern/dnd_vaern_16.pdf",
-    "Fiches Personnages/Asudem/Asudem.md",
-    "Fiches Personnages/Asudem/Asudem Yulia.md",
-    "Fiches Personnages/Famille Mordal/Ea Meloflow Mordal.md",
-    "Fiches Personnages/Famille Mordal/Ghal Mordal.md",
-    "Fiches Personnages/Ea Meloflow/Ea Meloflow.md",
-    "Campagnes/Mystère de Lamar/personnages/Felix Lex le Juge.md",
-    "Campagnes/Mystère de Lamar/lieux/Phandalin.md",
-    "Campagnes/Mystère de Lamar/personnages/Esprit de la mare.md",
-    "Campagnes/Mystère de Lamar/personnages/Isarn Doyen du temple de Lathandre.md",
-    "Campagnes/Mystère de Lamar/événements/Mort de Mordred De Lamar.md",
-    "Fiches Personnages/Breweol Perlimpin/Breweol-Perlimpin_Yuan-ti.png",
-    "Ressources/Images/olrox-1.jpg",
-    "Ressources/Images/Olrox-2.webp",
-    "Ressources/Images/olrox.jpg",
-    "Ressources/Données/table rencontre lvl-px.png",
-    "Campagnes/Mystère de Lamar/image/Linn_prisonière.jpg",
-    "Campagnes/Mystère de Lamar/image/Carte de Phandalin.jpg",
-    "Ressources/Cartes/Phandalin-carte.jpg",
-    "Templates/image personnage placeholder.png"
+    "Ressources/Cartes/BaroviaMaps/Village of Barovia.png",
+    "Campagnes/Mystère de Lamar/image/Village of Barovia.png",
+    "Campagnes/Mystère de Lamar/image/BaroviaMaps/villageofbarovia.png",
+    "Campagnes/Mystère de Lamar/image/BaroviaMaps/vallaki.png"
   ]
 }

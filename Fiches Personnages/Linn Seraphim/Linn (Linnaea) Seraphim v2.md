@@ -15,7 +15,7 @@ Linn est une fée à la peau pale et cheveux blanc aux reflet bleuté. Ses yeux 
 | Intelligence    | 15         | 2     |            |                  |
 | Sagesse         | 15         | 2     |            |                  |
 | Charisme        | 18+2->20   | 5     |            |                  |
-Jets de caractéristiques : 16, 15, 18, 16, 15, 11
+Jets de caractéristiques : 16, 15, 18, 16, 15, 11 -> 18, 16, 16 15, 15, 11
 Point à ajouter lors de gain de statistique / dons : 1 Constitution et 2 Dextérité
 # Race
 ## Fée

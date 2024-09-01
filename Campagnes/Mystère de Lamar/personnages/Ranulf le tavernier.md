@@ -1,7 +1,3 @@
-Voici la fiche de personnage complétée de Ranulf, le tavernier :
-
----
-
 ## Ranulf le tavernier
 *Humanoïde (humain) de taille M, loyal bon*
 ___
