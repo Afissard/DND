@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bea0311d39862a41",
+        "id": "6cfaa1529dc6cdce",
         "type": "tabs",
         "children": [
           {
-            "id": "33e05c4a29c26414",
+            "id": "cd5f9a8ad9344cd4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fiches Personnages/Famille Mordal/Machiavel Mordal.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,18 +160,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9431088d230af419",
+  "active": "cd5f9a8ad9344cd4",
   "lastOpenFiles": [
-    "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
+    "DND-Plugin.md",
+    "Fiches Personnages/perso clement.pdf",
     "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
+    "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
+    "Fiches Personnages/Famille Mordal/Candide Mordal.md",
+    "Fiches Personnages/Famille Mordal/Généalogie & relations des Mordal.canvas",
     "test.md",
     "Fiches Personnages/Famille Mordal/Ghal Mordal.md",
     "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
-    "Fiches Personnages/Famille Mordal/Candide Mordal.md",
     "Fiches Personnages/Famille Mordal/Ea Meloflow Mordal.md",
     "Ressources/Données/table rencontre lvl-px.png",
     "Ressources/Données/5e_Ability-Score-Table_5e.webp",
-    "Fiches Personnages/Famille Mordal/Généalogie & relations des Mordal.canvas",
     "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Données/Dons (extension) - D&D 5e.pdf",
     "Ressources/Données/Dons (extension) Dungeons & Dragons - D&D 5e.pdf",
@@ -185,7 +183,6 @@
     "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Images/Machiavel Mordal.jpg",
-    "Ressources/Règles/dnd_multiclasse.pdf",
     "Fiches Personnages/Linn Seraphim/Linn Seraphim.md",
     "Fiches Personnages/Linn Seraphim/Linn (Linnaea) Seraphim v2.md",
     "Fiches Personnages/Liam Seraphim/Druide Inspiration.png",
@@ -208,7 +205,6 @@
     "Campagnes/Mystère de Lamar/personnages/Vorgansheim.md",
     "Ressources/Données/Donjons-Dragons-weapons.webp",
     "Campagnes/Mystère de Lamar/personnages/Siegfried De Lamar.md",
-    "Campagnes/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
     "Ressources/Cartes/BaroviaMaps/Village of Barovia.png",
     "Campagnes/Mystère de Lamar/image/Village of Barovia.png",
     "Campagnes/Mystère de Lamar/image/BaroviaMaps/villageofbarovia.png",

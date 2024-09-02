@@ -6,9 +6,9 @@ ___
 **Vitesse** 9 m  
 ___
 
-|  FOR   |       DEX       |   CON   |   INT   |   SAG   |      CHA      |
-| :----: | :-------------: | :-----: | :-----: | :-----: | :-----------: |
-| 8 (-1) | 13+1+2->16 (+3) | 14 (+2) | 11 (+0) | 12 (+1) | 17+1->18 (+4) |
+|  FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
+| :----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| 8 (-1) | 16 (+3) | 14 (+2) | 11 (+0) | 12 (+1) | 18 (+4) |
 ___
 **Jets de sauvegarde** Dextérité +7, Charisme +8
 **Compétences** Histoire +4, Perception +5, Persuasion +8, Tromperie +8, Touche à tout (+2)
@@ -68,8 +68,6 @@ ___
 | Caractéristique <br>d'incantation | DD des sauvegarde <br>des sorts | Bonus d'attaque <br>avec un sort |
 | :-------------------------------: | :-----------------------------: | :------------------------------: |
 |             Charisme              |               16                |                +8                |
-
-**Barde**
 
 |          Barde (6)           |       3 sorts mineurs        |       9 sorts connus        |
 | :--------------------------: | :--------------------------: | :-------------------------: |
@@ -156,8 +154,8 @@ Occultiste niveau 14 (Arcanum mystique 6 : pétrification / création de morts v
 **Attaque menaçante**. Si vous touchez une créature lors d'une attaque avec une arme, vous pouvez dépenser un dé de supériorité pour tenter d’effrayer la cible. Ajoutez votre dé de supériorité aux dégâts, et la cible doit faire un jet de sauvegarde de Sagesse. En cas d'échec, la cible est effrayée jusqu'à la fin de votre prochain tour. 
 **Attaque précise**. Si vous réalisez une attaque avec une arme, vous pouvez dépenser un dé de supériorité et l’ajouter au jet d'attaque. Vous pouvez utiliser cette manœuvre avant ou après avoir lancé le jet d'attaque, mais avant qu'un quelconque effet de l'attaque ne s'applique. 
 **Balayage**. Si vous touchez une créature lors d'une attaque avec une arme au corps à corps, vous pouvez dépenser un dé de supériorité pour tenter de frapper une autre créature avec la même attaque. Choisissez une autre créature dans un rayon de 1,50 mètre autour de la cible originale et à votre portée. Si votre jet d'attaque contre votre première cible permet également de toucher la seconde, vous infligez à cette dernière les dégâts de votre dé de supériorité. Les dégâts seront du même type sur ceux de la première attaque. 
-==**Croc-en-jambe**. Si vous touchez une créature lors d'une attaque avec une arme, vous pouvez utiliser un dé de supériorité pour tenter de mettre votre cible à terre. Ajoutez votre dé de supériorité aux dégâts, et si la cible est de taille G ou plus petite elle devra faire un jet de sauvegarde de Force. En cas d’échec, votre cible tombe à terre. ==
-==**Désarmement**. Si vous touchez une créature lors d'une attaque avec une arme, vous pouvez dépenser un dé de supériorité pour tenter de désarmer la cible, la forçant à lâcher un objet de votre choix qu’elle a en main. Vous ajoutez le dé de supériorité aux dégâts de l’attaque, et la cible doit faire un jet de sauvegarde de Force. En cas d’échec, elle lâche l’objet que vous avez désigné. L’objet tombe à ses pieds. ==
+==**Croc-en-jambe**. Si vous touchez une créature lors d'une attaque avec une arme, vous pouvez utiliser un dé de supériorité pour tenter de mettre votre cible à terre. Ajoutez votre dé de supériorité aux dégâts, et si la cible est de taille G ou plus petite elle devra faire un jet de sauvegarde de Force. En cas d’échec, votre cible tombe à terre.==
+==**Désarmement**. Si vous touchez une créature lors d'une attaque avec une arme, vous pouvez dépenser un dé de supériorité pour tenter de désarmer la cible, la forçant à lâcher un objet de votre choix qu’elle a en main. Vous ajoutez le dé de supériorité aux dégâts de l’attaque, et la cible doit faire un jet de sauvegarde de Force. En cas d’échec, elle lâche l’objet que vous avez désigné. L’objet tombe à ses pieds.==
 **Diversion**. Si vous touchez une créature lors d'une attaque avec une arme, vous pouvez dépenser un dé de supériorité pour distraire la créature et provoquer une ouverture pour vos alliés. Ajoutez votre dé de supériorité à vos dégâts. La prochaine attaque contre votre cible aura l'avantage si ce n’est pas vous qui frappez et si elle est faite avant le début de votre prochain tour.
 **Feinte**. Vous pouvez dépenser un dé de supériorité et utiliser une action bonus à votre tour pour faire une feinte, ciblant une créature dans un rayon de 1,50 mètre autour de vous. Vous avez l'avantage à votre prochain jet d'attaque contre cette créature durant ce tour. Si cette attaque touche, ajoutez votre dé de supériorité aux dégâts. L'avantage est perdu si vous ne l'utilisez pas durant le tour où vous l'avez obtenu. 
 **Fente**. Si vous réalisez une attaque avec une arme au corps à corps durant votre tour, vous pouvez dépenser un dé de supériorité pour augmenter l'allonge de votre frappe de 1,50 mètre. Si vous touchez, ajoutez votre dé de supériorité aux dégâts. 
