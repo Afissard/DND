@@ -2,7 +2,7 @@
 *Humanoïde (humain) de taille M, neutre neutre, soldat (historique), {classe} niveau 0*
 ___
 **Classe d'armure** 10 (vêtement)  
-**Points de vie** 5 (1d8 + 1)  
+**Points de vie** 5 (1d8 )  
 **Vitesse** 9 m  
 ___
 

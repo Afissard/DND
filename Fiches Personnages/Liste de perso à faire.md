@@ -2,7 +2,7 @@
 - Un Tieffelin rockeur & enchanteur (ensorceleur/barde) : [[Ea Meloflow]]
 - Un Palladin à peaufiner : [[Taxe Paladin]]
 - Un Clerc (alcoolique ?) et illuminé : [[Solis Abdir.pdf]]
-- Un marionnettiste dément : [[Peter Angladem]]
+- Un marionnettiste dément : [[Peter Angladem le marionnettiste]]
 - Une dryade druide
 - Un archer de l'infini (rôdeur & roublard) [[Lothar le compte déchu]] & [[Breweol Perlimpin (Yuan-Ti)]]
 - Un dresseur Pokemon (invocateur ...)
