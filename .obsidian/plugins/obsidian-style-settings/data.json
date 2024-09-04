@@ -21,5 +21,6 @@
   "ITS@@img-adj-center": true,
   "ITS@@breadcrumbs-block": false,
   "ITS@@default-statblock": false,
-  "ITS@@ITS-Sizes": "sizing-readable"
+  "ITS@@ITS-Sizes": "sizing-readable",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-lavender"
 }
