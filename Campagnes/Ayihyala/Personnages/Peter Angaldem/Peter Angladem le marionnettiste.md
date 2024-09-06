@@ -1,8 +1,8 @@
 ## Peter Angladem le marionnettiste
 *Monstruosité (drider) de taille G, chaotique mauvais*
 ___
-**Classe d'armure** 12 (corp arachnides)  
-**Points de vie** 61 (6d8+18)  
+**Classe d'armure** 14 (corp arachnides)  
+**Points de vie** 123 (15d8+45)  -> 70
 **Vitesse** 12 m,  escalade 9 m
 ___
 
@@ -11,7 +11,7 @@ ___
 | 6 (-2) | 16 (+3) | 16 (+3) | 10 (+0) | 10 (+0) | 18 (+4) |
 ___
 **Jets de sauvegarde** Sagesse +3, Charisme +7
-**Compétences** Discretion +3, Perception +3, Persuasion +7, Représentation +7, Tromperie +7
+**Compétences** Discretion +3, Perception +3, Persuasion +7, Représentation +7, Tromperie +7, Intimidation +7
 **Vulnérabilités aux dégâts** aucun
 **Résistances aux dégâts** psychique, poison
 **Immunités aux dégâts** aucun
@@ -21,7 +21,7 @@ ___
 **Outils** aucun
 **Armes** rapière
 **Armure** aucune
-**Puissance** 3.5 (900 PX)     **Bonus de maîtrise** +3 
+**Puissance** 6.5 (1900 PX)     **Bonus de maîtrise** +3 
 ___
 ### Capacités
 **Métamorphe**. Le marionnettiste peut se métamorphosé en humanoïde (drow/humain) et vice versa en drider.
@@ -44,10 +44,10 @@ ___
 **Toile d'araignée (Recharge 5-6)**. _Attaque à distance avec une arme_ : +6 au toucher, portée 9/18 m, une créature. _Touché_ : la cible est entravée par la toile. Par une action, la cible entravée peut effectuer un jet de Force DD 12, déchirant la toile en cas de réussite. La toile peut aussi être attaquée et détruite (CA 10 ; pv 5 ; vulnérabilité aux dégâts de feu ; immunités aux dégâts contondants, de poison et psychiques).
 
 ### Actions bonus
-*aucune action bonus*
+**Grappin du marionnettiste**. Par un action bonus, le marionnettiste peut créer un fil jusqu'à 9 mètres et se déplacer dessus pour moitié moins de déplacement, sans provoqué d'attaque d'opportunité. *Pas très clair dans la description mais cela fonctionne comme un grappin.*
 
 ### Réactions
-**Fils du marionnettiste**. Quand une ~~créature que le marionnettiste peu voir et située à 18 mètres ou moins ou quand une~~ créature dans l'état marionnette et contrôlé par le marionnettiste réalise un jet d'attaque contre le marionnettiste, celui ci à le choix d'utiliser sa réaction pour soit :
+**Fils du marionnettiste**. Quand une créature dans l'état marionnette et contrôlé par le marionnettiste réalise un jet d'attaque contre le marionnettiste, celui ci à le choix d'utiliser sa réaction pour soit :
 - dévier l'attaque, à condition qu'une autre créature se trouve à portée de l'attaque. L'attaquant doit réaliser un jet de sauvegarde de Sagesse DD 15. En cas d'échec, l'attaquant doit cibler la créature la plus proche de lui, autre que le marionnettiste ou lui- même. Si plusieurs créatures se trouvent en position de cibles potentielles, l'attaquant choisit celle qu'il cible.
 - imposer un désavantage à ce jet. Si l'attaque échoue, le prochain jet d'attaque du marionnettiste contre cette créature a un avantage si marionnettiste l'attaque avant la fin de son prochain tour. 
 
@@ -60,7 +60,7 @@ ___
 **Objet**. Description
 ___
 ## Description
-Description du personnage
+**Apparence humanoïde**. C'est un homme à l'apparence quelque peu excentrique, en costume rouge. Son très imposant haut de forme masque le haut de son visage.  
 ___
 ## Histoire
 Histoire du personnage

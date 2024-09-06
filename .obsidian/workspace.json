@@ -4,18 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "8ff356954d135f1d",
+        "id": "70ebbb6578c3aaa6",
         "type": "tabs",
         "children": [
           {
-            "id": "894356c991ffc28d",
+            "id": "b4977c66974dde91",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Campagnes/Ayihyala/Personnages/Alia/Alia.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4ecde96a88ced19e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Campagnes/Ayihyala/Personnages/Alia/Alia.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "995feebdfbb542f5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Fiches Personnages/Liam Seraphim/Liam Seraphim lvl2 .pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "06817992da896578",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campagnes/Ayihyala/Personnages/Peter Angaldem/Peter Angladem le marionnettiste.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6fbd74cffff4c786",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campagnes/Ayihyala/Objets/Dague de Shar.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -65,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "14a3ecdddb3f1626",
@@ -81,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Campagnes/Ayihyala/Objets/Dague de Shar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Campagnes/Ayihyala/Objets/Dague de Shar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +192,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Campagnes/Ayihyala/Objets/Dague de Shar.md"
+              }
             }
           },
           {
@@ -146,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,40 +223,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "894356c991ffc28d",
+  "active": "6fbd74cffff4c786",
   "lastOpenFiles": [
     "Campagnes/Ayihyala/Personnages/Peter Angaldem/Peter Angladem le marionnettiste.md",
+    "Campagnes/Ayihyala/Objets/Dague de Shar.md",
+    "Fiches Personnages/Liam Seraphim/Liam Seraphim lvl2 .pdf",
     "Campagnes/Ayihyala/Personnages/Alia/Alia.pdf",
     "Campagnes/Ayihyala/Personnages/Alia/Alia.md",
     "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Données/table rencontre lvl-px.png",
+    "Ressources/Règles/ecran-MD-H.pdf",
+    "Campagnes/Ayihyala/Lieux/Vallée enchantée/La vallée.md",
+    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
+    "Fiches Personnages/Liam Seraphim/Druide Inspiration.png",
+    "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Ea Meloflow/Ea Meloflow_01.pdf",
-    "Fiches Personnages/Ea Meloflow/Ea Meloflow.pdf",
     "Fiches Personnages/Ea Meloflow/Ea Meloflow.md",
     "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
-    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
     "Templates/personnage.md",
-    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Campagnes/Mystère de Lamar/Résumé de la campagne.md",
     "Campagnes/Mystère de Lamar/personnages/Szemu Ottom.md",
     "Campagnes/Mystère de Lamar/musique.md",
     "Fiches Personnages/Famille Mordal/Généalogie & relations des Mordal.canvas",
     "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
     "Fiches Personnages/Vaern/Vaern.md",
-    "Fiches Personnages/Vaern/dnd_vaern_17.pdf",
     "DND-Plugin.md",
-    "Fiches Personnages/perso clement.pdf",
     "Fiches Personnages/Famille Mordal/Candide Mordal.md",
     "test.md",
     "Fiches Personnages/Famille Mordal/Ghal Mordal.md",
-    "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Famille Mordal/Ea Meloflow Mordal.md",
     "Ressources/Données/5e_Ability-Score-Table_5e.webp",
-    "Ressources/Données/Dons (extension) - D&D 5e.pdf",
     "Ressources/Images/Machiavel Mordal.jpg",
     "Fiches Personnages/Linn Seraphim/Linn Seraphim.md",
     "Fiches Personnages/Linn Seraphim/Linn (Linnaea) Seraphim v2.md",
-    "Fiches Personnages/Liam Seraphim/Druide Inspiration.png",
     "README.md",
     "Campagnes/Mystère de Lamar/lieux/Conyberry.md",
     "Campagnes/Mystère de Lamar/personnages/Yeshih Ottom.md",
@@ -201,7 +266,6 @@
     "Ressources/Sorts/Suggestion.md",
     "Ressources/Sorts/Bouffée de poison.md",
     "Campagnes/Mystère de Lamar/personnages/Ranulf le tavernier.md",
-    "Campagnes/Mystère de Lamar/personnages/Lucie tavernière et fille légère.md",
     "Campagnes/Mystère de Lamar/image/Village de Conyberry.png",
     "Ressources/Données/Donjons-Dragons-weapons.webp",
     "Ressources/Cartes/BaroviaMaps/Village of Barovia.png",

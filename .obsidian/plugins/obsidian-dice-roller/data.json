@@ -772,10 +772,10 @@
     },
     {
       "result": 7,
-      "original": "1d4+3",
-      "resultText": "[4]+3",
-      "timestamp": 1725305258289,
-      "id": "dpT1_kxu4tpK"
+      "original": "1d20",
+      "resultText": "[7]",
+      "timestamp": 1725552606699,
+      "id": "ThM7n3g127wm"
     }
   ]
 }
