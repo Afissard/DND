@@ -2,7 +2,7 @@
 *Humanoïde (yuan-ti sang pure) de taille M, neutre mauvais, ermite (historique), rôdeur niveau 4 et mage niveau 2*
 ___
 **Classe d'armure** 16 (armure de cuir)  
-**Points de vie** 54 (4d10 + 2d6) -> 26 
+**Points de vie** 54 (4d10 + 2d6)
 **Vitesse** 9 m  
 ___
 
@@ -32,7 +32,7 @@ ___
 
 **Incantation Yuan-ti**. Vous connaissez le sort mineur bouffé de poison. Vous pouvez lancer autant de fois que vous le souhaiter le sort amitié avec les animaux uniquement pour les serpent, vous pouvez aussi lancer le sort suggestion une fois par repos long gratuitement ou avec un emplacement de sort adapté.
 
-**Ennemi juré (Géant / Celeste)**. Vous avez des compétences significatives pour pister, chasser et même communiquer avec un certain type d'ennemi. Vous avez un avantage aux jets de Sagesse (Survie) pour pister vos ennemis favoris, ainsi qu'aux jets d’Intelligence permettant de se rappeler des informations sur ceux-ci. Quand vous obtenez cette capacité, vous apprenez également une langue de votre choix qui est parlée par vos ennemis favoris, s’ils en parlent une.
+**Ennemi juré (Géant)**. Vous avez des compétences significatives pour pister, chasser et même communiquer avec un certain type d'ennemi. Vous avez un avantage aux jets de Sagesse (Survie) pour pister vos ennemis favoris, ainsi qu'aux jets d’Intelligence permettant de se rappeler des informations sur ceux-ci. Quand vous obtenez cette capacité, vous apprenez également une langue de votre choix qui est parlée par vos ennemis favoris, s’ils en parlent une.
 
 **Explorateur-né (Forêt)**. Vous êtes particulièrement familier avec un type de milieu naturel et êtes apte à voyager et à survivre dans ces régions. Lorsque vous faites un jet d’Intelligence ou de Sagesse lié à votre terrain favori, votre bonus de maîtrise est doublé si vous utilisez une compétence que vous maîtrisez.
 Lors d'un voyage d'une heure ou plus dans votre terrain favori, vous obtenez les avantages suivants : 
@@ -75,7 +75,7 @@ ___
 
 | Emplacement |  1  |  2  |
 | :---------: | :-: | :-: |
-| **Nombre**  | 3/4 | 2/3 |
+| **Nombre**  | 0/4 | 1/3 |
 #### Sorts
 **Sorts mineurs**
 - [[Main de mage]]
@@ -105,7 +105,6 @@ ___
 | PP  | PO  | PE  | PA  | PC  |
 | :-: | :-: | :-: | :-: | :-: |
 |  0  | 45  |  0  |  0  |  0  |
-
 **Armure de cuir clouté**. CA : 12 + Mod.Dex, 6,5 kg, 45 po.
 **Cimeterres (2)**. 1d6 perforant, 1,5 kg, 25 po, Propriété : finesse, légère
 **Arbalète lourde**. 1d10 perforant, 9 kg, 50 po, Munitions (portée 30 m/120 m), lourde, chargement à deux mains
@@ -133,7 +132,7 @@ ___
 
 **Prochains niveaux**
 - 1 niveau de rôdeur pour l'attaque supplémentaire
-- quelques niveaux (2 min pour le conduit divin) de clerc (domaine de la guerre, ~~duperie ~~?) en temps qu'apôtre de Sseth
+- quelques niveaux (2 min pour le conduit divin) de clerc (domaine de la guerre, ~~duperie ~~?) en temps qu'apôtre de Sseth, alternativement prendre 3 niveaux d'occultiste (fée / grand ancien)
 
 **Découverte**. La paisible réclusion de votre ermitage prolongé vous a donné accès à une grande et unique découverte. La nature exacte de cette révélation dépend de la nature de votre réclusion. Il se peut que ce soit un grand secret à propos du cosmos, des dieux, de créatures venues d'autres plans ou de forces de la nature. Ce pourrait aussi être un site que personne d'autre ne connait. Vous pourriez avoir mis au grand jour des faits oubliés depuis longtemps ou déterré des reliques du passé qui pourraient réécrire l'histoire. Il se peut aussi que ce soit des informations qui pourraient nuire à ceux qui vous ont forcé à l'exil et, de ce fait, être la raison de votre retour dans la société.
 
@@ -152,3 +151,7 @@ ___
 ![[Breweol-Perlimpin_Yuan-ti.png]]
 ```
 ````
+
+### Combat en cours
+- nat 20 jet de destin à utilisé
+- action bonus : foulé brumeuse hors de la cage + message "je pars cherché les armes". -> 5-10 min de marche aller -> 1-2 min de course

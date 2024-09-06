@@ -4,77 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "70ebbb6578c3aaa6",
+        "id": "9223679176f952fa",
         "type": "tabs",
         "children": [
           {
-            "id": "b4977c66974dde91",
+            "id": "1be6be8f16831fe1",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagnes/Ayihyala/Personnages/Alia/Alia.md",
+                "file": "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4ecde96a88ced19e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Campagnes/Ayihyala/Personnages/Alia/Alia.pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "995feebdfbb542f5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Fiches Personnages/Liam Seraphim/Liam Seraphim lvl2 .pdf"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "06817992da896578",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagnes/Ayihyala/Personnages/Peter Angaldem/Peter Angladem le marionnettiste.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6fbd74cffff4c786",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagnes/Ayihyala/Objets/Dague de Shar.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "14a3ecdddb3f1626",
@@ -141,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campagnes/Ayihyala/Objets/Dague de Shar.md",
+                "file": "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campagnes/Ayihyala/Objets/Dague de Shar.md",
+                "file": "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campagnes/Ayihyala/Objets/Dague de Shar.md"
+                "file": "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md"
               }
             }
           },
@@ -210,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,13 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6fbd74cffff4c786",
+  "active": "1be6be8f16831fe1",
   "lastOpenFiles": [
+    "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
+    "Ressources/Classes/Rodeur Donjons & Dragons - D&D 5.pdf",
+    "Ressources/Sorts/Message.md",
+    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
+    "Campagnes/Ayihyala/Personnages/Alia/Alia.md",
+    "Campagnes/Ayihyala/Personnages/Alia/Alia.pdf",
+    "Fiches Personnages/Liam Seraphim/Liam Seraphim lvl2 .pdf",
     "Campagnes/Ayihyala/Personnages/Peter Angaldem/Peter Angladem le marionnettiste.md",
     "Campagnes/Ayihyala/Objets/Dague de Shar.md",
-    "Fiches Personnages/Liam Seraphim/Liam Seraphim lvl2 .pdf",
-    "Campagnes/Ayihyala/Personnages/Alia/Alia.pdf",
-    "Campagnes/Ayihyala/Personnages/Alia/Alia.md",
     "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Données/table rencontre lvl-px.png",
@@ -239,8 +188,6 @@
     "Fiches Personnages/Liam Seraphim/Druide Inspiration.png",
     "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
-    "Fiches Personnages/Ea Meloflow/Ea Meloflow_01.pdf",
     "Fiches Personnages/Ea Meloflow/Ea Meloflow.md",
     "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
     "Templates/personnage.md",
@@ -263,9 +210,6 @@
     "Campagnes/Mystère de Lamar/lieux/Conyberry.md",
     "Campagnes/Mystère de Lamar/personnages/Yeshih Ottom.md",
     "Ressources/Sorts/Ténèbres.md",
-    "Ressources/Sorts/Suggestion.md",
-    "Ressources/Sorts/Bouffée de poison.md",
-    "Campagnes/Mystère de Lamar/personnages/Ranulf le tavernier.md",
     "Campagnes/Mystère de Lamar/image/Village de Conyberry.png",
     "Ressources/Données/Donjons-Dragons-weapons.webp",
     "Ressources/Cartes/BaroviaMaps/Village of Barovia.png",
