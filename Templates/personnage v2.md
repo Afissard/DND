@@ -6,6 +6,7 @@ ___
 number of columns: 2
 Border: disabled
 Shadow: off
+Overflow: Hidden
 ```
 
 |   FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
@@ -33,7 +34,10 @@ Shadow: off
 | PP  | PO  | PE  | PA  | PC  |
 | :-: | :-: | :-: | :-: | :-: |
 |  0  |  0  |  0  |  0  |  0  |
-**Objet**. Description
+
+| Objet | Description |
+| ----- | ----------- |
+|       |             |
 
 --- end-column ---
 
@@ -65,3 +69,4 @@ Objectif du personnage
 
 # Notes
 prise de notes
+
