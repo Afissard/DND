@@ -1,8 +1,8 @@
 ## {{title}}
-*Humanoïde (humain) de taille M, neutre neutre, soldat (historique), {classe} niveau 0*
+*Humanoïde (humain) de taille M, neutre neutre, historique, classe niveau 0*
 ___
 **Classe d'armure** 10 (vêtement)  
-**Points de vie** 5 (1d8 )  
+**Points de vie** 4 (1d8)  
 **Vitesse** 9 m  
 ___
 
@@ -10,6 +10,7 @@ ___
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
 ___
+**Bonus de maîtrise** +2
 **Jets de sauvegarde** aucun
 **Compétences** aucun
 **Vulnérabilités aux dégâts** aucun
@@ -21,19 +22,19 @@ ___
 **Outils** aucun
 **Armes** aucune
 **Armure** aucune
-**Puissance** 1 (200 PX)     **Bonus de maîtrise** +2  
+**Puissance** 1 (200 PX)  
 ___
 ### Capacités
 **Nom de la capacité**. Description de la capacité.  
 
 ### Actions
-***Coup de poing***. *Attaque au corps à corps avec une arme* : +0 au toucher, allonge 1,50 m, une cible. *Touché* : 2 (1d4 + 0) dégâts contondant.  
+**Dague**. *Corps à corps* : +0 (1d4+0 perforant - finesse, légère, lancer (portée 6 m/18 m))  
 
 ### Actions bonus
-***Nom de l'action bonus***. Description de l'action bonus.  
+**Nom de l'action bonus**. Description de l'action bonus.  
 
 ### Réactions
-***Nom de la réaction***. Description de la réaction.  
+**Nom de la réaction**. Description de la réaction.  
 
 ### Actions légendaires
 ***Nom de l'action légendaires***. Description de l'action légendaire  
@@ -42,7 +43,6 @@ ___
 | PP  | PO  | PE  | PA  | PC  |
 | :-: | :-: | :-: | :-: | :-: |
 |  0  |  0  |  0  |  0  |  0  |
-
 **Objet**. Description
 ___
 ## Description

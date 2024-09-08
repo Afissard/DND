@@ -1,9 +1,8 @@
 [
   "table-editor-obsidian",
   "dataview",
-  "obsidian-columns",
   "obsidian-timeline",
   "obsidian-dice-roller",
-  "buttons",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "multi-column-markdown"
 ]
