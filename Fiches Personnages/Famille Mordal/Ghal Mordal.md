@@ -56,13 +56,15 @@ ___
 Bâton, dague (2), focaliseur arcanique/baguette, sac à dos, sac de couchage, gamelle, boite d'allume-feu, torche (10), rations/1 jour (10), gourde, corde en chanvre de 15 m, encre/bouteille, plume d'écriture, vêtements communs, petit couteau, lettre d'un collègue mort, bourse
 ___
 ## Description
-Description du personnage
+Ghal est un homme imposant et trapu, mais un orc bien faiblard et maigrichon. Suite à un accident il a perdu son bras droit, il cache donc depuis sa blessure sous une ample cape noire de mage orné de divers symboles (à développer).
 ___
 ## Histoire
-Fils de [[Candide Mordal]] et frère jumeau de [[Noraki Mordal]]. Il a été affecté dans son enfance par un rituel de son père et possède depuis une magie sauvage (ensorceleur + barbare magie sauvage).
+Fils de [[Candide Mordal]] et frère jumeau de [[Noraki Mordal]]. Il a été affecté dans son enfance par un rituel de son père et est affecté depuis par des pics de magie sauvage. Il entame des études de magie de magie à l'école de Baldur à l'age de ses vingt ans mais est expulsé deux ans plus tard, à la suite à la lecture à voix haute d'un parchemin de boule de feu, ce qui causeras la perte de son bras ainsi que d'important dégâts matériel.
+Endetter et discrédité, Ghal fuit la ville et prend le chemin de l'aventure avec l'espoir d'une meilleurs vie et d'un meilleurs contrôle de son pouvoir.
 ___
 ## Objectif
-Objectif du personnage
+- Souhaite se prouver à lui même tout autant qu'au monde que son pouvoir n'est pas que source de désastres.
+- ???
 ___
 ## Notes
 Augmentation de caractéristiques : charisme + constitution

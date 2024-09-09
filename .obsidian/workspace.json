@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 243.5
   },
   "right": {
     "id": "14a3ecdddb3f1626",
@@ -161,19 +161,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "6d413286852608d1",
   "lastOpenFiles": [
-    "Fiches Personnages/Av'pala.md",
+    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Famille Mordal/Ghal Mordal.md",
+    "Fiches Personnages/Av'pala.md",
     "Fiches Personnages/Famille Mordal/Généalogie & relations des Mordal.canvas",
     "README.md",
     "Templates/personnage v2.md",
@@ -183,7 +184,6 @@
     "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
