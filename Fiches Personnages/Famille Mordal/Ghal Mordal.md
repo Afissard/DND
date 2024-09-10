@@ -1,5 +1,5 @@
 ## Ghal Mordal
-*Humanoïde (demi-orc) de taille M, neutre bon, sage (académicien discrédité), ensorceleur niveau 1*
+*Humanoïde (demi-orc) de taille M, neutre bon, sage (académicien discrédité), ensorceleur (magie sauvage) niveau 1 & barbare (magie sauvage) niveau 0*
 ___
 **Classe d'armure** 10 (vêtement)  
 **Points de vie** 8 (1d6)  
@@ -60,7 +60,7 @@ ___
 Ghal est un homme imposant et trapu, mais un orc bien faiblard, borgne de l’œil droit et maigrichon. Suite à un accident la majeur partie de son corp a été brûler et son bras droit a été désintégré, il cache donc depuis ses blessure sous une ample cape d'ensorceleur.
 ___
 ## Histoire
-Fils de [[Candide Mordal]] et frère jumeau de [[Noraki Mordal]]. Il a été affecté dans son enfance par un rituel de son père et est affecté depuis par des pics de magie sauvage. Il entame des études de magie de magie à l'école de Baldur à l'age de ses vingt ans mais est expulsé deux ans plus tard, à la suite à la lecture à voix haute d'un parchemin de boule de feu, ce qui causeras la perte de son bras ainsi que d'important dégâts matériel.
+Fils de [[Candide Mordal]] et frère jumeau de [[Noraki Mordal]]. Il a été affecté dans son enfance par un rituel de son père et est affecté depuis par des pics de magie sauvage. Il entame des études de magie à l'école de Baldur à l'age de ses vingt ans mais est expulsé deux ans plus tard, à la suite à la lecture à voix haute d'un parchemin de boule de feu, ce qui causeras la perte de son bras ainsi que d'important dégâts matériel.
 Endetter et discrédité, Ghal fuit la ville et prend le chemin de l'aventure avec l'espoir d'une meilleurs vie et d'un meilleurs contrôle de son pouvoir.
 ___
 ## Objectif

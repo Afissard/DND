@@ -1,0 +1,1 @@
+Paladin / ensorceleur / occultiste, alter ego de [[Av'pala]]
