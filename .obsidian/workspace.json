@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "501f312c557b9454",
+        "id": "01a273eec99c2f14",
         "type": "tabs",
         "children": [
           {
-            "id": "077eaf890aa64187",
+            "id": "fa77bcb456814765",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagnes/Mystère de Lamar/événements/Récompense de la Comptesse.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campagnes/Mystère de Lamar/événements/Récompense de la Comptesse.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campagnes/Mystère de Lamar/événements/Récompense de la Comptesse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Campagnes/Mystère de Lamar/événements/Récompense de la Comptesse.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,50 +160,49 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "077eaf890aa64187",
+  "active": "fa77bcb456814765",
   "lastOpenFiles": [
-    "Campagnes/Mystère de Lamar/événements/Récompense de la Comptesse.md",
+    "Campagnes/Ayihyala/Personnages/Peter Angaldem/Peter Angladem le marionnettiste.md",
+    "Ressources/Classes/Rodeur Donjons & Dragons - D&D 5.pdf",
+    "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
+    "Ressources/Sorts/Silence.md",
+    "Ressources/Sorts/Marque du chasseur.md",
+    "README.md",
+    "Ressources/Sorts/Arme magique.md",
+    "Ressources/Sorts/Bouffée de poison.md",
+    "Ressources/Sorts/Frappe piégeuse.md",
+    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
+    "Fiches Personnages/Linn Seraphim/Linn (Linnaea) Seraphim v2.md",
+    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Fiches Personnages/Asudem/Asudem.md",
+    "Fiches Personnages/Asudem/Asudem Yulia.md",
+    "Fiches Personnages/Asudem/Asudem.pdf",
+    "Fiches Personnages/Famille Mordal/Ghal Mordal.md",
+    "Ressources/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
+    "Campagnes/Mystère de Lamar/événements/Récompense de la Comptesse.md",
     "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Vaern/dnd_vaern_17.pdf",
     "Ressources/Fiches personnages/Spellcasting Sheet (Optional) - Form Fillable.pdf",
-    "Ressources/Fiches personnages/Character Sheet - Form Fillable.pdf",
-    "Ressources/Fiches personnages/Character Details (Optional) - Print Version.pdf",
-    "Ressources/Fiches personnages/Character Sheet - Alternative 2.pdf",
-    "Ressources/Fiches personnages/Character Sheet - Alternative - Print Version.pdf",
-    "Ressources/Fiches personnages/Character Sheet - Alternative - Form Fillable.pdf",
-    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Neva.md",
     "Fiches Personnages/Av'pala.md",
-    "Fiches Personnages/Famille Mordal/Ghal Mordal.md",
-    "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
     "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
     "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
     "Fiches Personnages/Famille Mordal/Candide Mordal.md",
     "Fiches Personnages/Famille Mordal/Ea Meloflow Mordal.md",
     "Ressources/Images/objectif de Ghal Mordal.jpg",
     "Fiches Personnages/Famille Mordal/Généalogie & relations des Mordal.canvas",
-    "README.md",
     "Templates/personnage v2.md",
     "Templates/personnage v3.md",
     "Templates/personnage.md",
     "Fiches Personnages/Vaern/Vaern.md",
     "Ressources/Sorts/Message.md",
     "Campagnes/Ayihyala/Personnages/Alia/Alia.md",
-    "Campagnes/Ayihyala/Personnages/Peter Angaldem/Peter Angladem le marionnettiste.md",
-    "Campagnes/Ayihyala/Objets/Dague de Shar.md",
     "Ressources/Données/table rencontre lvl-px.png",
-    "Campagnes/Ayihyala/Lieux/Vallée enchantée/La vallée.md",
     "Fiches Personnages/Liam Seraphim/Druide Inspiration.png",
-    "Fiches Personnages/Ea Meloflow/Ea Meloflow.md",
-    "Campagnes/Mystère de Lamar/Résumé de la campagne.md",
-    "Campagnes/Mystère de Lamar/personnages/Szemu Ottom.md",
-    "Campagnes/Mystère de Lamar/musique.md",
-    "DND-Plugin.md",
-    "test.md",
     "Ressources/Données/5e_Ability-Score-Table_5e.webp",
     "Ressources/Images/Machiavel Mordal.jpg",
-    "Fiches Personnages/Linn Seraphim/Linn Seraphim.md",
     "Campagnes/Mystère de Lamar/image/Village de Conyberry.png",
     "Ressources/Données/Donjons-Dragons-weapons.webp",
     "Ressources/Cartes/BaroviaMaps/Village of Barovia.png",

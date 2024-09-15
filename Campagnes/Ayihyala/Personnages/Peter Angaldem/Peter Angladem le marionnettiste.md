@@ -74,5 +74,3 @@ inspiration :
 ![The Greatest Living Show /Toby Fox & Itoki Hana](https://www.youtube.com/watch?v=qFow8LkHtlU)
 Autre inspiration : [Drider](https://www.aidedd.org/dnd/monstres.php?vf=drider), [Drider wiki](https://forgottenrealms.fandom.com/wiki/Drider).
 
-Classe : Occultiste Fée ou Grand Ancien / Barde  / Mage enchanteur + Ensorceleur (3 niveaux)
-
