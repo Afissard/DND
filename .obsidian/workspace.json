@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "01a273eec99c2f14",
         "type": "tabs",
         "children": [
           {
             "id": "fa77bcb456814765",
+=======
+        "id": "d5c9055a0cb4d471",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b4c4eadf8dcb6cd",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -126,6 +134,7 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "f60d30984989f15a",
             "type": "leaf",
             "state": {
@@ -135,6 +144,9 @@
           },
           {
             "id": "923c54577ba53812",
+=======
+            "id": "3970846f360a03c4",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -142,12 +154,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,6 +171,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+<<<<<<< Updated upstream
   "active": "fa77bcb456814765",
   "lastOpenFiles": [
     "Campagnes/Ayihyala/Personnages/Peter Angaldem/Peter Angladem le marionnettiste.md",
@@ -187,6 +199,27 @@
     "Ressources/Fiches personnages/Spellcasting Sheet (Optional) - Form Fillable.pdf",
     "Fiches Personnages/Neva.md",
     "Fiches Personnages/Av'pala.md",
+=======
+  "active": "4b4c4eadf8dcb6cd",
+  "lastOpenFiles": [
+    "Campagnes/Mystère de Lamar/personnages/Szemu Ottom.md",
+    "Campagnes/Mystère de Lamar/lieux/Conyberry.md",
+    "Campagnes/Mystère de Lamar/personnages/Yeshih Ottom.md",
+    "Campagnes/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
+    "Campagnes/Mystère de Lamar/personnages/Lothar Démiur Chef de la Garde.md",
+    "Campagnes/Mystère de Lamar/personnages/La Comtesse Aliénor De Lamar.md",
+    "Ressources/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
+    "Campagnes/Mystère de Lamar/Résumé de la campagne.md",
+    "Campagnes/Mystère de Lamar/personnages/Lancelin De Lamar.md",
+    "Campagnes/Mystère de Lamar/personnages/Lucie tavernière et fille légère.md",
+    "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
+    "Fiches Personnages/Neva.md",
+    "Fiches Personnages/Av'pala.md",
+    "Fiches Personnages/Famille Mordal/Ghal Mordal.md",
+    "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
+    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
+>>>>>>> Stashed changes
     "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
     "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
     "Fiches Personnages/Famille Mordal/Candide Mordal.md",
@@ -197,6 +230,15 @@
     "Templates/personnage v3.md",
     "Templates/personnage.md",
     "Fiches Personnages/Vaern/Vaern.md",
+<<<<<<< Updated upstream
+=======
+    "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Données/Dons (extension) - D&D 5e.pdf",
+>>>>>>> Stashed changes
     "Ressources/Sorts/Message.md",
     "Campagnes/Ayihyala/Personnages/Alia/Alia.md",
     "Ressources/Données/table rencontre lvl-px.png",
