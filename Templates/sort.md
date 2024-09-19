@@ -1,3 +1,11 @@
+---
+fini: 
+tags:
+  - sort
+monde: 
+niveau: 
+description:
+---
 ## {{title}}
 *niveau 0 - type*
 **Temps d'incantation** : 1 action

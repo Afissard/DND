@@ -1,26 +1,22 @@
 {
   "main": {
-    "id": "21f31ae27518f1c9",
+    "id": "1659c08714afeb54",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "01a273eec99c2f14",
+        "id": "a4831b67f11f4829",
         "type": "tabs",
         "children": [
           {
-            "id": "fa77bcb456814765",
-=======
-        "id": "d5c9055a0cb4d471",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4b4c4eadf8dcb6cd",
->>>>>>> Stashed changes
+            "id": "d89dfa2f4f2f1f72",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mondes/Chronique du danger d'ailleurs/lieux/Conyberry.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -29,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2d86e9faf642235d",
+    "id": "4fdde597c9a66b90",
     "type": "split",
     "children": [
       {
-        "id": "34da53c0ac812902",
+        "id": "73ddb397a94b3264",
         "type": "tabs",
         "children": [
           {
-            "id": "9431088d230af419",
+            "id": "eff48210c7d0d140",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "fe6d7211f2a1a734",
+            "id": "a5336022e5316316",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +58,7 @@
             }
           },
           {
-            "id": "f42215cd653ba8a3",
+            "id": "69581e1f8f329a41",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,23 +69,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 300
   },
   "right": {
-    "id": "14a3ecdddb3f1626",
+    "id": "322e8e7c887f9f8a",
     "type": "split",
     "children": [
       {
-        "id": "b4b86576005feadc",
+        "id": "8078d4898c23d2c1",
         "type": "tabs",
         "children": [
           {
-            "id": "9089c2b0e728d326",
+            "id": "3a633126c34d18ca",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
+                "file": "Mondes/Chronique du danger d'ailleurs/lieux/Conyberry.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -100,18 +97,19 @@
             }
           },
           {
-            "id": "199bd86e6b37b3aa",
+            "id": "43b36441735e8f7e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mondes/Chronique du danger d'ailleurs/lieux/Conyberry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "01ba371bcabb4a32",
+            "id": "07262227d68fd454",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,7 +120,7 @@
             }
           },
           {
-            "id": "b6d4181d8026daae",
+            "id": "e18c084054e2bee0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -134,121 +132,59 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "f60d30984989f15a",
+            "id": "536aa7ec18039694",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "923c54577ba53812",
-=======
-            "id": "3970846f360a03c4",
->>>>>>> Stashed changes
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {
+                "file": "Mondes/Chronique du danger d'ailleurs/lieux/Conyberry.md"
+              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "fa77bcb456814765",
+  "active": "d89dfa2f4f2f1f72",
   "lastOpenFiles": [
-    "Campagnes/Ayihyala/Personnages/Peter Angaldem/Peter Angladem le marionnettiste.md",
-    "Ressources/Classes/Rodeur Donjons & Dragons - D&D 5.pdf",
-    "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
-    "Ressources/Sorts/Silence.md",
-    "Ressources/Sorts/Marque du chasseur.md",
-    "README.md",
-    "Ressources/Sorts/Arme magique.md",
-    "Ressources/Sorts/Bouffée de poison.md",
-    "Ressources/Sorts/Frappe piégeuse.md",
-    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
-    "Fiches Personnages/Linn Seraphim/Linn (Linnaea) Seraphim v2.md",
-    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
-    "Fiches Personnages/Asudem/Asudem.md",
-    "Fiches Personnages/Asudem/Asudem Yulia.md",
-    "Fiches Personnages/Asudem/Asudem.pdf",
-    "Fiches Personnages/Famille Mordal/Ghal Mordal.md",
-    "Ressources/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
-    "Campagnes/Mystère de Lamar/événements/Récompense de la Comptesse.md",
-    "Ressources/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
-    "Fiches Personnages/Vaern/dnd_vaern_17.pdf",
-    "Ressources/Fiches personnages/Spellcasting Sheet (Optional) - Form Fillable.pdf",
-    "Fiches Personnages/Neva.md",
-    "Fiches Personnages/Av'pala.md",
-=======
-  "active": "4b4c4eadf8dcb6cd",
-  "lastOpenFiles": [
-    "Campagnes/Mystère de Lamar/personnages/Szemu Ottom.md",
-    "Campagnes/Mystère de Lamar/lieux/Conyberry.md",
-    "Campagnes/Mystère de Lamar/personnages/Yeshih Ottom.md",
-    "Campagnes/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
-    "Campagnes/Mystère de Lamar/personnages/Lothar Démiur Chef de la Garde.md",
-    "Campagnes/Mystère de Lamar/personnages/La Comtesse Aliénor De Lamar.md",
-    "Ressources/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
-    "Campagnes/Mystère de Lamar/Résumé de la campagne.md",
-    "Campagnes/Mystère de Lamar/personnages/Lancelin De Lamar.md",
-    "Campagnes/Mystère de Lamar/personnages/Lucie tavernière et fille légère.md",
-    "Ressources/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
-    "Fiches Personnages/Neva.md",
-    "Fiches Personnages/Av'pala.md",
-    "Fiches Personnages/Famille Mordal/Ghal Mordal.md",
-    "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
-    "Ressources/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
->>>>>>> Stashed changes
-    "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
-    "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
-    "Fiches Personnages/Famille Mordal/Candide Mordal.md",
-    "Fiches Personnages/Famille Mordal/Ea Meloflow Mordal.md",
-    "Ressources/Images/objectif de Ghal Mordal.jpg",
-    "Fiches Personnages/Famille Mordal/Généalogie & relations des Mordal.canvas",
-    "Templates/personnage v2.md",
-    "Templates/personnage v3.md",
+    "Templates/lieux.md",
+    "Mondes/Chronique du danger d'ailleurs/lieux/Conyberry.md",
+    "Mondes/Chronique du danger d'ailleurs/timeline.canvas",
+    "Mondes/Chronique du danger d'ailleurs/Côte des Épées.md",
+    "future organisation du vault.md",
+    "Ressources/Cartes/Sword-Coast-Map_HighRes.jpg",
+    "Mondes/Chronique du danger d'ailleurs/Chronique du danger d'ailleurs.md",
+    "Mondes/Chronique du danger d'ailleurs/personnages",
+    "Mondes/Chronique du danger d'ailleurs/lieux",
+    "Mondes/Chronique du danger d'ailleurs",
+    "Mondes",
+    "Système",
+    "Templates/timeline.md",
     "Templates/personnage.md",
-    "Fiches Personnages/Vaern/Vaern.md",
-<<<<<<< Updated upstream
-=======
-    "Ressources/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Données/Dons (extension) - D&D 5e.pdf",
->>>>>>> Stashed changes
-    "Ressources/Sorts/Message.md",
-    "Campagnes/Ayihyala/Personnages/Alia/Alia.md",
-    "Ressources/Données/table rencontre lvl-px.png",
-    "Fiches Personnages/Liam Seraphim/Druide Inspiration.png",
-    "Ressources/Données/5e_Ability-Score-Table_5e.webp",
-    "Ressources/Images/Machiavel Mordal.jpg",
-    "Campagnes/Mystère de Lamar/image/Village de Conyberry.png",
-    "Ressources/Données/Donjons-Dragons-weapons.webp",
-    "Ressources/Cartes/BaroviaMaps/Village of Barovia.png",
-    "Campagnes/Mystère de Lamar/image/Village of Barovia.png",
-    "Campagnes/Mystère de Lamar/image/BaroviaMaps/villageofbarovia.png"
+    "Templates/personnage (old).md",
+    "Templates/note.md",
+    "Templates/sort.md",
+    "Templates/objet.md",
+    "Campagnes/Mystère de Lamar/Résumé de la campagne.md",
+    "Templates/columns.md",
+    "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
+    "Ressources/Images/image personnage placeholder.png",
+    "DND-Plugin.md"
   ]
 }

@@ -23,5 +23,6 @@
   "ITS@@default-statblock": false,
   "ITS@@ITS-Sizes": "sizing-readable",
   "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-lavender",
-  "ITS@@highlight@@dark": "#76261C"
+  "ITS@@highlight@@dark": "#76261C",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light"
 }

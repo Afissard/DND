@@ -1,0 +1,37 @@
+# Dossiers
+- Mondes
+	- Campagne 1
+		- Lieux
+			- Conyberry (carte + description des environs)
+			- Padhiver
+		- Personnages
+			- pnj 1
+		- Timeline canvas
+		- Chronique-du-monde
+		- Carte-du-monde (leaflet + liens vers fichiers dans Lieux + database des lieux)
+		- database des pnj
+		- database des objet / sorts
+- Fiches de personnages
+	- fiche 1
+	- fiche 2
+- Ressources
+	- Carte
+		- carte 1
+	- Objets
+		- objet 1
+		- objet 2
+	- Sorts
+		- sort 1
+- Système
+	- classes /
+	- historique /
+	- races /
+	- etc
+- Templates
+	- note
+	- personnage
+	- lieux
+	- objets
+	- sorts
+# Notes
+Utiliser un système de tags & liens pour naviguer dans le vault, les tags serviront au différente de BD.
