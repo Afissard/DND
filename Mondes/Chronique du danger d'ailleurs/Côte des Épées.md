@@ -7,7 +7,7 @@ monde:
 ---
 ```leaflet 
 id: leaflet-map 
-image: [[Sword-Coast-Map_HighRes.jpg]] 
+image: [[Sword Coast Map.jpg]] 
 height: 500px 
 lat: 50 
 long: 50 

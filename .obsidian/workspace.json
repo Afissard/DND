@@ -4,19 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "a4831b67f11f4829",
+        "id": "cca679bfb50c22a4",
         "type": "tabs",
         "children": [
           {
-            "id": "d89dfa2f4f2f1f72",
+            "id": "dd97fa2fd25c7b50",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Mondes/Chronique du danger d'ailleurs/timeline.canvas",
+                "viewState": {
+                  "x": -0.12668183924097143,
+                  "y": 672.8841232354695,
+                  "zoom": -0.267576037983146
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4aa22e40bfa09533",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondes/Chronique du danger d'ailleurs/Côte des Épées.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "39ffad9aba2964d4",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Mondes/Chronique du danger d'ailleurs/lieux/Conyberry.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "d79334b601b07c6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bc22054cd069971",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campagnes/Mystère de Lamar/Résumé de la campagne.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mondes/Chronique du danger d'ailleurs/lieux/Conyberry.md",
+                "file": "Mondes/Chronique du danger d'ailleurs/timeline.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mondes/Chronique du danger d'ailleurs/lieux/Conyberry.md",
+                "file": "Mondes/Chronique du danger d'ailleurs/timeline.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mondes/Chronique du danger d'ailleurs/lieux/Conyberry.md"
+                "file": "Mondes/Chronique du danger d'ailleurs/timeline.canvas"
               }
             }
           }
@@ -161,12 +214,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d89dfa2f4f2f1f72",
+  "active": "dd97fa2fd25c7b50",
   "lastOpenFiles": [
-    "Templates/lieux.md",
     "Mondes/Chronique du danger d'ailleurs/lieux/Conyberry.md",
-    "Mondes/Chronique du danger d'ailleurs/timeline.canvas",
     "Mondes/Chronique du danger d'ailleurs/Côte des Épées.md",
+    "Mondes/Chronique du danger d'ailleurs/timeline.canvas",
+    "Campagnes/Mystère de Lamar/Résumé de la campagne.md",
+    "Templates/lieux.md",
     "future organisation du vault.md",
     "Ressources/Cartes/Sword-Coast-Map_HighRes.jpg",
     "Mondes/Chronique du danger d'ailleurs/Chronique du danger d'ailleurs.md",
@@ -181,7 +235,6 @@
     "Templates/note.md",
     "Templates/sort.md",
     "Templates/objet.md",
-    "Campagnes/Mystère de Lamar/Résumé de la campagne.md",
     "Templates/columns.md",
     "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
     "Ressources/Images/image personnage placeholder.png",

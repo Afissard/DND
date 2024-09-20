@@ -1,1 +1,21 @@
-{}
+{
+	"nodes":[
+		{"id":"9597af0b2bca0aac","type":"text","text":"# Mort de Mordred De Lamar\nPar une nuit de pleine lune, Le Compte Mordred De Lamar est assassiné dans sa chambre par Szemu Ottom, qui dérobe la dague De Lamar.","x":-260,"y":-200,"width":500,"height":160},
+		{"id":"bef95027bfc6f15c","type":"text","text":"# Convocation d'aventurier par la Comtesse De Lamar\nSuite à la Mort de Mordred De Lamar, son mari, la Comtesse Aliénor De Lamar fait appel à un groupe d'aventurier pour résoudre le mystère de ce meurtre et retrouver la dague familiale.","x":-260,"y":120,"width":500,"height":240},
+		{"id":"1f83d7d92c9827b7","type":"text","text":"# Enquêteur du dimanche\nEngagé par la Comtesse, les frères Cuissec et leur acolyte Mac Marsouin soupçonnent tout le monde à commencé par la comtesse elle même ainsi que le chef de la garde Lothar Demiur et pose beaucoup de questions (surtout à propos de leur paye).\nL’enquête est véritablement lancé après une inspection du lieux du crime où Pin Cuissec trouve des trace de poison grace à son flair alors Bis Cuissec dérobe un briquet et ? (bougeoirs ?, pas la plume ...). S'ensuit ensuite une rapide inspection du corp de feu le comte où Bis confirme les soupçons d’empoisonnement (paralysie) sous le regard attentif et penseur de Mac. Les recherche de la journée se terminent dehors où tour à tour les frères Cuissec tentent de grimper à la fenêtre du bureau du comte, tout deux échouant de peu.  ","x":-260,"y":500,"width":500,"height":280},
+		{"id":"ee2a4d92976043f7","type":"text","text":"# Heure supplémentaire à la Taverne du Blé Arrosé\nNos enquêteurs tout frais payé se rendent ensuite à la taverne (avec un léger détour par la forêts pour les frères qui n'y trouverons qu'un lapin).\nAlors que Bis s'attelle à vider les poche de la clientèle peu attentive ... ","x":-260,"y":940,"width":500,"height":280},
+		{"id":"03cf039630341c76","type":"text","text":"# Origine des frères Cuissec\nÉlever par leur mère kobold (abandonnée par leur père, un drakéide ?), Pin et Bis voient leur petite vie radicalement bouleversé lorsque leur mère se fait assassiné par un groupe de mercenaire. Pin prend la voie du paladina alors que Bis s'engage sur la voie de la roublardise, tout deux nourrissant en secret l'espoir de pouvoir se venger.\nPar un hasard de la vie, les deux frères se croisèrent lors d'une aventures et décident de s'allier contre leur ennemis commun, Pin devenant un parjure en trahissant son serment.\nMalheureusement le massacre de ces mercenaires est un crime qui va forcé les deux frère à l'exile hors de leurs forêts natale (situé dans le sud, à déterminer) ","x":-960,"y":-660,"width":460,"height":380},
+		{"id":"ab8b31b3036638d3","type":"text","text":"# Rencontre avec Mac Marsouin\nAlors qu'ils faisaient étape dans un temple du dieu de la guerre Tempus (toujours dans le sud, au niveau de Baldur), les frère croise un nain moine (vénérant aussi le dieu de ???) très intéressé par les gens de sa taille (ou plus petit encore), qui décida de les suivre dans leurs périple dans l'espoir de pouvoir satisfaire sa libido caché.","x":-960,"y":-160,"width":460,"height":320},
+		{"id":"93429970c83be947","x":-260,"y":1320,"width":500,"height":180,"type":"text","text":"# Une nuit torride pour Mac Marsouin\n#TODO "},
+		{"id":"11006969411da94c","x":-260,"y":1640,"width":500,"height":180,"type":"text","text":"# Une place de marché agité\n#TODO "}
+	],
+	"edges":[
+		{"id":"0f1f5182f1c7351f","fromNode":"9597af0b2bca0aac","fromSide":"bottom","toNode":"bef95027bfc6f15c","toSide":"top"},
+		{"id":"b10eec6f962974a5","fromNode":"bef95027bfc6f15c","fromSide":"bottom","toNode":"1f83d7d92c9827b7","toSide":"top"},
+		{"id":"ea6f6fd59e26e220","fromNode":"1f83d7d92c9827b7","fromSide":"bottom","toNode":"ee2a4d92976043f7","toSide":"top"},
+		{"id":"a69ba6e9fd9dece4","fromNode":"03cf039630341c76","fromSide":"bottom","toNode":"ab8b31b3036638d3","toSide":"top"},
+		{"id":"bf2d0d82bcca2755","fromNode":"ab8b31b3036638d3","fromSide":"bottom","toNode":"1f83d7d92c9827b7","toSide":"left"},
+		{"id":"07badad06b321c22","fromNode":"ee2a4d92976043f7","fromSide":"bottom","toNode":"93429970c83be947","toSide":"top"},
+		{"id":"20c3b942c0736362","fromNode":"93429970c83be947","fromSide":"bottom","toNode":"11006969411da94c","toSide":"top"}
+	]
+}

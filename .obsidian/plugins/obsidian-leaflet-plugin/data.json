@@ -1,5 +1,35 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1726818053586,
+      "markers": [
+        {
+          "id": "ID_d9dbf868bbfa",
+          "type": "default",
+          "loc": [
+            -12.0322265625,
+            44.71875
+          ],
+          "link": "Conyberry",
+          "layer": "%5B%5BSword%20Coast%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Mondes/Chronique du danger d'ailleurs/Côte des Épées.md",
+        "Mondes/Chronique du danger d'ailleurs/lieux/Conyberry.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
