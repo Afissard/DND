@@ -2,7 +2,7 @@
 *Humanoïde (yuan-ti sang pure) de taille M, neutre mauvais, ermite (historique), rôdeur niveau 4 et mage niveau 2*
 ___
 **Classe d'armure** 16 (armure de cuir)  
-**Points de vie** 54 (4d10 + 2d6) -> 43 
+**Points de vie** 54 (4d10 + 2d6) -> 54 
 **Vitesse** 9 m  
 ___
 
@@ -55,7 +55,7 @@ Lors d'un voyage d'une heure ou plus dans votre terrain favori, vous obtenez les
 
 **Devin érudit**. Au niveau 2, lorsque vous choisissez cette école, l'or et le temps que vous devez dépenser pour copier un sort de divination dans votre grimoire est divisé par deux.
 
-**Présage (12, 15)**. À partir du niveau 2, des aperçus du futur commencent à germer dans votre conscience. Lorsque vous terminez un repos long, lancez deux d20 et notez les résultats. Vous pouvez remplacer n'importe quel jet d'attaque, de sauvegarde ou de caractéristique, qu'il soit lancé par vous ou par une créature que vous pouvez voir, par l'un de ces jets anticipés. Vous devez choisir de faire cela avant de lancer le dé, et vous ne pouvez remplacer qu'un seul jet par tour. Chaque jet anticipé ne peut être utilisé qu'une seule fois. Lorsque vous terminez un repos long, vous perdez tous les jets anticipés non-utilisés.
+**Présage (14, 16)**. À partir du niveau 2, des aperçus du futur commencent à germer dans votre conscience. Lorsque vous terminez un repos long, lancez deux d20 et notez les résultats. Vous pouvez remplacer n'importe quel jet d'attaque, de sauvegarde ou de caractéristique, qu'il soit lancé par vous ou par une créature que vous pouvez voir, par l'un de ces jets anticipés. Vous devez choisir de faire cela avant de lancer le dé, et vous ne pouvez remplacer qu'un seul jet par tour. Chaque jet anticipé ne peut être utilisé qu'une seule fois. Lorsque vous terminez un repos long, vous perdez tous les jets anticipés non-utilisés.
 
 **Maître arbalétrier**. Grâce à votre longue pratique de l'arbalète, vous gagnez les avantages suivants : 
 - Vous ignorez la propriété chargement des arbalètes que vous maîtrisez. 
@@ -86,14 +86,14 @@ ___
 - [[Marque du chasseur]]
 - [[Frappe piégeuse]]
 - next : Grêle d'épines
-- [[Rayon Empoisonné]]
+- [[Rayon Empoisonné]] (magicien)
 - [[Amitié avec les animaux]] (serpents uniquement mais illimité)
 **Sorts niveau 2**
-- [[Suggestion]]
+- [[Suggestion]] 
 - [[Silence]]
-- [[Aura magique de Nystul]]
-- [[Foulée brumeuse]] *action bonus*
-- [[Arme magique]]
+- [[Aura magique de Nystul]] (magicien)
+- [[Foulée brumeuse]] *action bonus* (magicien)
+- [[Arme magique]] (magicien)
 ### Actions bonus
 ***Nom de l'action bonus***. Description de l'action bonus.
 
@@ -102,16 +102,17 @@ ___
 
 ___
 ### Inventaire
-| PP  |   PO   | PE  | PA  | PC  |
-| :-: | :----: | :-: | :-: | :-: |
-|  0  | ~~45~~ |  0  |  0  |  0  |
+| PP  | PO  | PE  | PA  | PC  |
+| :-: | :-: | :-: | :-: | :-: |
+|  0  |  0  |  0  |  0  |  0  |
 ~~**Armure de cuir clouté**. CA : 12 + Mod.Dex, 6,5 kg, 45 po.~~
-~~**Cimeterres (2)**. 1d6 perforant, 1,5 kg, 25 po, Propriété : finesse, légère~~
-~~**Arbalète lourde**. 1d10 perforant, 9 kg, 50 po, Munitions (portée 30 m/120 m), lourde, chargement à deux mains~~
-~~**Carreaux (116)**. 1Po pour 20 carreaux pour 0,5kg.~~
-~~**Sac d'explorateur (10 po)**. Comprend un sac à dos, un sac de couchage, une gamelle, une boite d'allume-feu, 10 torches, 20 jours de rations et une gourde d'eau. Le sac comprend aussi 15 mètres de corde de chanvre attachée sur son côté.~~
-~~**Ermite**. un étui à parchemin remplis de notes sur vos études ou vos prières, une couverture pour l'hiver, des vêtements communs, un kit d'herboriste.~~
-~~**Grimoire**. Un grimoire de mage.~~
+~~**Cimeterres (2)**. 1d6 perforant, 1,5 kg, 25 po, Propriété : finesse, légère~~ 
+~~**Arbalète lourde**. 1d10 perforant, 9 kg, 50 po, Munitions (portée 30 m/120 m), lourde, chargement à deux mains~~ 
+~~**Carreaux (116)**. 1Po pour 20 carreaux pour 0,5kg.~~ 
+~~**Sac d'explorateur (10 po)**. Comprend un sac à dos, un sac de couchage, une gamelle, une boite d'allume-feu, 10 torches, 20 jours de rations et une gourde d'eau. Le sac comprend aussi 15 mètres de corde de chanvre attachée sur son côté.~~ 
+~~**Ermite**. un étui à parchemin remplis de notes sur vos études ou vos prières, une couverture pour l'hiver, des vêtements communs, un kit d'herboriste.~~ 
+~~**Grimoire**. Un grimoire de mage.~~ 
+**Collier de Déni**. Invoque Déni pour un coup de 1 ans par minutes.
 ___
 ## Description
 Brewshuh est un Yuan-ti quadragénaire, pendant de longue année il a porté les vêtement traditionnel yuan-ti, mais depuis qu'il vit parmi les Hommes il opte pour des vêtements de voyage confortable et passe partout. Il porte une cape faites enchevêtrement de fourrures et de tissus par dessus une vielle et usée armure de cuir, lorsqu'il se déplace et combat Brewshuh porte un casque orné du symbole de Sseth, qu'il couvre ensuite de voiles ainsi que le reste de son visage, ne laissant à découvert que ses yeux et son nez. Sa peau tannée par le soleil et ses trait coupé tirés et usés par le temps font ressortir ses yeux marrons aux pupilles reptiliennes pleine de sagesses et de mystères.
@@ -152,3 +153,5 @@ ___
 ```
 ````
 
+## Information d'un vieux des geôles de l'arène
+Un des 4 véritables se trouve à Mirion, ville des humain, situé dans le sud.
