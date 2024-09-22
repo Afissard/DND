@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1726818053586,
+      "lastAccessed": 1726867757869,
       "markers": [
         {
           "id": "ID_d9dbf868bbfa",
@@ -25,8 +25,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Mondes/Chronique du danger d'ailleurs/Côte des Épées.md",
-        "Mondes/Chronique du danger d'ailleurs/lieux/Conyberry.md"
+        "Mondes/Chronique du danger d'ailleurs/Côte des Épées.md"
       ]
     }
   ],
