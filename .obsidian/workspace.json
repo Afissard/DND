@@ -10,9 +10,18 @@
           {
             "id": "45dce98b1ee38309",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Mondes/Chronique du danger d'ailleurs/timeline.canvas",
+                "viewState": {
+                  "x": 384.7401912928761,
+                  "y": 5449.304109498682,
+                  "zoom": -0.21079019423107503
+                }
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mondes/Chronique du danger d'ailleurs/lieux/Conyberry.md",
+                "file": "Mondes/Chronique du danger d'ailleurs/timeline.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mondes/Chronique du danger d'ailleurs/lieux/Conyberry.md",
+                "file": "Mondes/Chronique du danger d'ailleurs/timeline.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mondes/Chronique du danger d'ailleurs/lieux/Conyberry.md"
+                "file": "Mondes/Chronique du danger d'ailleurs/timeline.canvas"
               }
             }
           }
@@ -157,13 +166,21 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "eff48210c7d0d140",
+  "active": "45dce98b1ee38309",
   "lastOpenFiles": [
+    "Mondes/Chronique du danger d'ailleurs/personnages/Linn prêtresse de Lathandre.md",
+    "Templates/personnage.md",
+    "Campagnes/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
+    "Mondes/Chronique du danger d'ailleurs/timeline.canvas",
+    "Mondes/Chronique du danger d'ailleurs/homebrew/Parasites.md",
+    "Mondes/Chronique du danger d'ailleurs/homebrew",
+    "Campagnes/Mystère de Lamar/événements/Fuite de Linn.md",
+    "Campagnes/Mystère de Lamar/personnages/Parasite.md",
+    "Campagnes/Mystère de Lamar/événements/Récompense de la Comptesse.md",
+    "Campagnes/Mystère de Lamar/Résumé de la campagne.md",
     "Mondes/Chronique du danger d'ailleurs/Côte des Épées.md",
     "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
     "Campagnes/Ragnarök/Personnages/Breweol - Deus.md",
-    "Mondes/Chronique du danger d'ailleurs/timeline.canvas",
-    "Campagnes/Mystère de Lamar/Résumé de la campagne.md",
     "Mondes/Chronique du danger d'ailleurs/lieux/Conyberry.md",
     "Templates/lieux.md",
     "future organisation du vault.md",
@@ -175,7 +192,6 @@
     "Mondes",
     "Système",
     "Templates/timeline.md",
-    "Templates/personnage.md",
     "Templates/personnage (old).md",
     "Templates/note.md",
     "Templates/sort.md",

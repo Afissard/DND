@@ -1,4 +1,4 @@
-Suite à l'[[Arrivée de Linn et agression du juge]], [[Linn prêtresse de Lathandre]] est emprisonnée au [[poste de garde]].
+Suite à l'[[Arrivée de Linn et agression du juge]], [[Campagnes/Mystère de Lamar/personnages/Linn prêtresse de Lathandre]] est emprisonnée au [[poste de garde]].
 > Si les joueurs visite le poste de garde avant que cette dernière s'échappe, ils y trouvent une jeune femme affaiblie par la maladie, poings lié et attaché à un mur par une chaîne. Elle se lamente / prie sur sa paillasse. 
 
 Après deux jour de souffrance, le [[Parasite]] prend un peu plus le contrôle de son hôtesse et par une nuit de pleine lune s'échappe de manière spectaculaire en propulsant les barreau de sa prison sur le garde chargé de la veille le blessant grièvement.

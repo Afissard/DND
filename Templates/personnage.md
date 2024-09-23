@@ -38,6 +38,18 @@ Overflow: Hidden
 |           Armes           |         aucun         |
 |          Armure           |         aucun         |
 |         Puissance         |      1 (200 PX)       |
+## Actions
+**Dague**. *Corps à corps* : +0 (1d4+0 perforant - finesse, légère, lancer (portée 6 m/18 m))  
+
+## Actions bonus
+**Nom de l'action bonus**. Description de l'action bonus.  
+
+## Réactions
+**Nom de la réaction**. Description de la réaction.  
+
+## Actions légendaires
+**Nom de l'action légendaires**. Description de l'action légendaire  
+
 ## Inventaire
 | PP  | PO  | PE  | PA  | PC  |
 | :-: | :-: | :-: | :-: | :-: |
@@ -51,18 +63,6 @@ Overflow: Hidden
 
 ## Capacités
 **Nom de la capacité**. Description de la capacité.  
-
-## Actions
-**Dague**. *Corps à corps* : +0 (1d4+0 perforant - finesse, légère, lancer (portée 6 m/18 m))  
-
-## Actions bonus
-**Nom de l'action bonus**. Description de l'action bonus.  
-
-## Réactions
-**Nom de la réaction**. Description de la réaction.  
-
-## Actions légendaires
-**Nom de l'action légendaires**. Description de l'action légendaire  
 
 
 --- end-multi-column
