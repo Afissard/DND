@@ -11,8 +11,12 @@
             "id": "f392676b9ebc5e1d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mondes/Chronique du danger d'ailleurs/homebrew/Parasites.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mondes/Chronique du danger d'ailleurs/homebrew/Parasites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mondes/Chronique du danger d'ailleurs/homebrew/Parasites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mondes/Chronique du danger d'ailleurs/homebrew/Parasites.md"
+              }
             }
           }
         ]

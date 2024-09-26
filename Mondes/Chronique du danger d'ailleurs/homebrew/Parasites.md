@@ -11,7 +11,7 @@ monde:
 Une personne parasité peut au choix réaliser un jet de sauvegarde constitution pour lutter et rejeter le parasite hors de son corps ou bien un jet de sauvegarde de sagesse pour tenter d'atteindre une symbiose et pouvoir contrôler le parasite, un jet est effectuer à chaque repos long.
 - A chaque échec le parasite monte en *niveau de parasite* et tout les trois niveau il évolue jusqu’à sa forme finale. 
 - Pour chaque réussite de jet de constitution le parasite perd un *niveau de parasite* jusqu’à à être rejeter hors de son hôte. 
-- Pour chaque réussite de jet de sagesse le parasite ne prend pas de niveau et l'hôte peut user, avec certaines consequences, des pouvoirs accordé par le parasite. 
+- Pour chaque réussite de jet de sagesse, le parasite ne prend pas de niveau et l'hôte peut user, avec certaines conséquences, des pouvoirs accordé par le parasite. 
   Au bout de six réussites successives de jet de sauvegarde de sagesse, l'hôte entre en symbiose avec le parasite (de ce niveau et inférieur) et obtient le contrôle de l'évolution du parasite et choisi de laisser évoluer ou non le parasite, si il choisi de le faire évoluer il devra réussir trois jet de sauvegarde de sagesse pour le niveau suivant de parasite pour que celui-ci évolue sinon le parasite n'évolue pas.
 *Pour tout les jets de sauvegarde précisés dans la fiche du parasite, se référer à la valeur du jet de sauvegarde du parasite indiqué au début de sa fiche.*
 ### Relations du parasite avec son hôte
@@ -32,6 +32,7 @@ Le parasite joue en même temps que son hôte et partage la même action. La car
 *Tableau d'attaque pour les objets manipulé par télékinésie.*
 
 ___
+
 ## Parasite mineur (niveau 1 à 3)
 **Jet de sauvegarde :** 12
 **Classe d'armure** 10 
@@ -52,7 +53,9 @@ ___
 ### Effets incontrôlé
 **Rejet du parasite**. L'hôte est régulièrement pris de crise de vomissement et de tremblement ainsi que de très violant mal de crane. La personne n'est pas dans son assiette mais peux se déplacer et communiquer normalement en dehors des crises.
 **Parasitage**. Par une action, l'hôte embrasse / mord une cible au prix d'une action et transmet un parasite. Lancer un dé 10, si 1 alors la cible est parasité.
+
 ___
+
 ## Parasite majeur (niveau 3 à 6)
 **Jet de sauvegarde :** 15
 **Classe d'armure** 10 
@@ -78,6 +81,7 @@ ___
 **Parasitage**. Par une action, l'hôte embrasse / mord une cible au prix d'une action et transmet un parasite. Lancer un dé 8, si 1 alors la cible est parasité.
 
 ___
+
 ## Parasite supérieur (niveau 6 à 9)
 **Jet de sauvegarde :** 20
 **Classe d'armure** 10 /15 (bouclier télékinétique) 
@@ -105,4 +109,3 @@ ___
 **Démence**. Le parasite contrôle son hôte, celui tente vainement de formuler des pensée cohérente à l'oral pour finalement exprimer un entremêlement de sa volonté et celle du parasite. L'hôte peine à reconnaître ses amis. Le parasite attaque toute personnes effectuant un geste vers lui pour tenter de les parasité ou de se mettre hors de danger.
 
 ___
-
