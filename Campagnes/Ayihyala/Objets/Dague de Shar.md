@@ -14,5 +14,3 @@ Une fois restauré, la dague va tenté de guidé son possesseur vers la destruct
 
 **Avatar de la Lune Noire**. Shar susurre à l'oreille du possesseur de la dague, lui rappel ses désespoirs, tristesses et colères passée et pousse à la vengeance. Si la cible échoue au jet de sauvegarde de sagesse DD 15 (désavantagé si il se trouve dans un lieux sombre), elle devient un avatar de la Lune Noire pendant une heure, et est forcé d'attaqué, sous l'impulsion de Shar, la créature qui lui aurais causé du tort ou qui lui semble représenté un danger pour ses ambitions personnelles. Le possesseur de la dague peut aussi volontairement entré en transe un fois par repos long pour devenir un avatar de la Lune Noire pendant une heure.
 Dans cet état le possesseur voit sa vitesse doublé et inflige 2d4 de dégâts nécrotiques supplémentaire avec la dague de Shar. Cependant sa vision se floute : l'avatar de la Lune Noire voit en nuance de gris avec une porté de 18 mètres, la cible de l'avatar semble entouré d'un halo d'énergie attirant haine et vengeance chez l'avatar.
-
-https://www.aidedd.org/dnd/sorts.php?vf=lame-d-ombres

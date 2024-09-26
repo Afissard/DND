@@ -2,7 +2,7 @@
 *Monstruosité (drider) de taille G, chaotique mauvais*
 ___
 **Classe d'armure** 14 (corp arachnides)  
-**Points de vie** 123 (15d8+45)  -> 70
+**Points de vie** 123 (15d8+45)  -> 11
 **Vitesse** 12 m,  escalade 9 m
 ___
 
@@ -44,7 +44,7 @@ ___
 **Toile d'araignée (Recharge 5-6)**. _Attaque à distance avec une arme_ : +6 au toucher, portée 9/18 m, une créature. _Touché_ : la cible est entravée par la toile. Par une action, la cible entravée peut effectuer un jet de Force DD 12, déchirant la toile en cas de réussite. La toile peut aussi être attaquée et détruite (CA 10 ; pv 5 ; vulnérabilité aux dégâts de feu ; immunités aux dégâts contondants, de poison et psychiques).
 
 ### Actions bonus
-**Grappin du marionnettiste**. Par un action bonus, le marionnettiste peut créer un fil jusqu'à 9 mètres et se déplacer dessus pour moitié moins de déplacement, sans provoqué d'attaque d'opportunité. *Pas très clair dans la description mais cela fonctionne comme un grappin.*
+**Grappin du marionnettiste**. Par un action bonus, le marionnettiste peut créer un fil jusqu'à 12 mètres et se déplacer dessus pour moitié moins de déplacement, sans provoqué d'attaque d'opportunité. *Pas très clair dans la description mais cela fonctionne comme un grappin.*
 
 ### Réactions
 **Fils du marionnettiste**. Quand une créature dans l'état marionnette et contrôlé par le marionnettiste réalise un jet d'attaque contre le marionnettiste, celui ci à le choix d'utiliser sa réaction pour soit :

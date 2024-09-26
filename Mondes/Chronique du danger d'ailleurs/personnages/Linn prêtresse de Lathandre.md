@@ -7,7 +7,7 @@ monde:
   - Chronique-du-danger-d'ailleurs
 ---
 # Linn prêtresse de Lathandre
-*Humanoïde (humain) de taille M, ~~loyal bon~~ chaotique neutre, acolyte, clerc niveau 5*
+*Humanoïde (humain) de taille M, ~~loyal bon~~ chaotique neutre, acolyte, clerc niveau 5* 
 ___
 --- start-multi-column: Fiche-Personnage  
 ```column-settings  
@@ -24,7 +24,7 @@ Overflow: Hidden
 |            nom            |                             attributs                             |
 | :-----------------------: | :---------------------------------------------------------------: |
 |      Classe d'armure      |                           10 (vêtement)                           |
-|       Points de vie       |                             40 (5d8)                              |
+|       Points de vie       |                         140 (5d8 dé vie)                          |
 |          Vitesse          |                                9m                                 |
 |     Bonus de maîtrise     |                                +3                                 |
 |    Jets de sauvegarde     |                    Sagesse (+6), Charisme (+5)                    |
