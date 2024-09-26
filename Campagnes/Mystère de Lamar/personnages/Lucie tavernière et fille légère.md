@@ -52,5 +52,5 @@ Lucie a couché avec beaucoup d'hommes mais aussi de femmes et aime collectionne
 ___
 ## Notes
 ### Secrets
-Lucie sait que [[Yeshih Ottom]] est grandement intéressée par la [[dague De Lamar]] et les mystères qui l'entoure.
+Lucie sait que [[Campagnes/Mystère de Lamar/personnages/Yeshih Ottom]] est grandement intéressée par la [[dague De Lamar]] et les mystères qui l'entoure.
 Elle n'a jamais couché avec [[Le Compte Mordred De Lamar]], bien qu'elle aurais aimé, mais elle sait que celui-ci l'a déjà fais avec sa défunte mère.

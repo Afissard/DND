@@ -76,7 +76,7 @@ ___
 |              2               |              3               |              0              |
 |              3               |              3               |              0              |
 |      **Occultiste (6)**      |     **3 sorts mineurs**      |     **7 sorts connus**      |
-|   **Niveau <br>d'emplacement**   |   **Nombre <br>d'emplacement**   |   **Emplacement <br>utilisé**   |
+| **Niveau <br>d'emplacement** | **Nombre <br>d'emplacement** | **Emplacement <br>utilisé** |
 |              3               |              2               |              0              |
 
 **Sorts mineurs** 

@@ -49,6 +49,17 @@ Overflow: Hidden
 ## Réactions
 **Nom de la réaction**. Description de la réaction.  
 
+### Incantation.
+*DD de sauvegarde des sorts : 14*
+*Modificateur aux attaques avec un sort : 6*
+
+| Emplacement |  1  |  2  |  3  |
+| :---------: | :-: | :-: | :-: |
+| **Nombre**  | 4/4 | 3/3 | 2/2 |
+**Sorts mineurs**. Assistance, Flamme sacrée, Lumière, Réparation
+**Sorts niveau 1**. Lueurs féeriques, Mains brûlantes, Injonction, Bénédiction, Soins
+**Sorts niveau 2**. Rayons ardent, Sphère de feu, Lien de protection
+**Sorts niveau 3**. Boule de feu, Lumière du jour, Retour à la vie, Marche sur l'eau, Esprit gardiens
 ## Inventaire
 | PP  | PO  | PE  | PA  | PC  |
 | :-: | :-: | :-: | :-: | :-: |
@@ -66,12 +77,6 @@ Overflow: Hidden
 --- end-column ---
 
 ## Capacités
-**Lanceuse de sorts**. Linn est une lanceuse de sorts de niveau 5. Sa caractéristique de sort est la Sagesse (DD de sauvegarde contre ses sorts 14, +6 pour toucher avec les attaques de sort). Il a les sorts suivants préparés :
-- **Sorts mineur** : Assistance, Flamme sacrée, Lumière, Réparation
-- **1er niveau (4 emplacements)** : Lueurs féeriques, Mains brûlantes, Injonction, Bénédiction, Soins
-- **2ème niveau (3 emplacements)** : Rayons ardent, Sphère de feu, Lien de protection
-- **3ème niveau (2 emplacements)** : Boule de feu, Lumière du jour, Retour à la vie, Marche sur l'eau, Esprit gardiens
-
 **Renvoi des morts-vivants (conduit divin)**. Au prix d'une action, vous présentez votre symbole sacré en psalmodiant une prière contre les morts-vivants. Chaque mort-vivant qui peut vous voir ou vous entendre et qui se trouve à 9 mètres ou moins de vous doit effectuer un jet de sauvegarde de Sagesse. Si la créature rate son jet de sauvegarde, elle est renvoyée pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts. Une créature renvoyée doit passer ses actions à essayer de s'éloigner le plus loin possible de vous et ne peut volontairement se rapprocher à 9 mètres ou moins de vous. Elle ne peut pas utiliser de réactions et peut utiliser ses actions seulement pour Foncer ou essayer de s'échapper d'un effet immobilisant. S'il n'y a nulle part où aller, la créature peut utiliser l'action Esquiver.
 
 **Illumination protectrice**. Au niveau 1, vous pouvez interposer une lumière divine entre vous et un ennemi qui attaque. Lorsque vous êtes attaqué par une créature située à 9 mètres ou moins de vous et que vous pouvez voir, vous pouvez utiliser votre réaction pour imposer un désavantage à son jet d'attaque, en faisant éclater une lumière avant qu'il touche ou rate. Un attaquant qui ne peut pas être aveuglé est immunisé face à cette capacité. Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificateur de Sagesse (minimum une fois). Vous en retrouver toutes les utilisations dépensées lorsque vous terminez un repos long.

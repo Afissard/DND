@@ -4,24 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8f17e659b5ed7183",
+        "id": "44b43cb05e7698fa",
         "type": "tabs",
         "children": [
           {
-            "id": "45dce98b1ee38309",
+            "id": "2bb8664b80eba307",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mondes/Chronique du danger d'ailleurs/timeline.canvas",
-                "viewState": {
-                  "x": 384.7401912928761,
-                  "y": 5449.304109498682,
-                  "zoom": -0.21079019423107503
-                }
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -90,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mondes/Chronique du danger d'ailleurs/timeline.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mondes/Chronique du danger d'ailleurs/timeline.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mondes/Chronique du danger d'ailleurs/timeline.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -166,12 +153,23 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "45dce98b1ee38309",
+  "active": "2bb8664b80eba307",
   "lastOpenFiles": [
+    "Campagnes/Ayihyala/Personnages/Peter Angaldem/Peter Angladem le marionnettiste.md",
+    "Campagnes/Ayihyala/Objets/Dague de Shar.md",
+    "Mondes/Chronique du danger d'ailleurs/timeline.canvas",
+    "Mondes/Chronique du danger d'ailleurs/personnages/Maître Yuan-ti.md",
+    "Système/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
+    "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
+    "Mondes/Chronique du danger d'ailleurs/personnages/Yeshih Ottom.md",
+    "Mondes/Chronique du danger d'ailleurs/personnages/Szemu Ottom.md",
+    "Système/Règles/table rencontre lvl-px.png",
+    "Campagnes/Mystère de Lamar/personnages/Szemu Ottom.md",
     "Mondes/Chronique du danger d'ailleurs/personnages/Linn prêtresse de Lathandre.md",
+    "Système/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "Campagnes/Mystère de Lamar/personnages/Yeshih Ottom.md",
     "Templates/personnage.md",
     "Campagnes/Mystère de Lamar/personnages/Linn prêtresse de Lathandre.md",
-    "Mondes/Chronique du danger d'ailleurs/timeline.canvas",
     "Mondes/Chronique du danger d'ailleurs/homebrew/Parasites.md",
     "Mondes/Chronique du danger d'ailleurs/homebrew",
     "Campagnes/Mystère de Lamar/événements/Fuite de Linn.md",
@@ -194,10 +192,6 @@
     "Templates/timeline.md",
     "Templates/personnage (old).md",
     "Templates/note.md",
-    "Templates/sort.md",
-    "Templates/objet.md",
-    "Templates/columns.md",
-    "Ressources/Images/image personnage placeholder.png",
-    "DND-Plugin.md"
+    "Ressources/Images/image personnage placeholder.png"
   ]
 }
