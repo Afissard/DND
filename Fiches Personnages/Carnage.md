@@ -155,5 +155,15 @@ Histoire du personnage
 Objectif du personnage
 
 # Notes
-prise de notes
+## Dons à prendre
+**Doué**. Vous gagnez la maîtrise de trois compétences ou outils de votre choix, avec la combinaison que vous souhaitez.
+- discretion
+- persuasion
+- investigation / perception
 
+**Magie rituelle**. Vous avez appris un certain nombre de sorts que vous pouvez lancer comme des rituels. Ces sorts sont écrits dans un livre de rituels, que vous devez avoir en main lorsque vous lancez l'un d'entre eux. Lorsque vous choisissez ce don, vous entrez en possession d'un livre de rituels qui comporte deux sorts de niveau 1 de votre choix. Choisissez l'une des classes suivantes : barde, clerc, druide, ensorceleur, magicien ou occultiste. Vous devez choisir vos sorts de la liste de sorts de cette classe, et les sorts que vous choisissez doivent avoir l'étiquette rituel. La classe que vous choisissez détermine également votre caractéristique d'incantation pour ces sorts : Charisme pour barde, ensorceleur ou occultiste ; Sagesse pour clerc ou druide ; Intelligence pour magicien. Si vous tombez sur un sort sous une forme écrite, comme un parchemin de sort magique ou le grimoire d'un magicien, vous pouvez être en mesure de l'ajouter à votre livre de rituels. Le sort doit être sur la liste de sorts de la classe que vous avez choisie, le niveau du sort ne peut être supérieur à la moitié de votre niveau (arrondi au supérieur), et il doit avoir l'étiquette rituel. Le processus de copie du sort dans votre livre de rituels prend 2 heures par niveau du sort, au prix de 50 po par niveau. Le coût représente les composantes matérielles que vous dépensez lors d'expériences pour maîtriser le sort, ainsi que les fines encres dont vous avez besoin pour la copie
+
+## Prochains niveaux
+- niveaux d'occultiste (classe principale)
+- 2 niveaux de magicien école de divination pour avoir quelque emplacement de sorts et sorts utilitaire
+- roublard niveaux 2 ou 3 selon le besoin
