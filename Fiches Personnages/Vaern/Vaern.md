@@ -220,3 +220,9 @@ Nécromancie :
 - golem de chaire (nécessite couture)
 ### Multi-classes
 14 niveaux de magicien, 6 niveau à répartir entre clerc (domaine du savoir), druide ?
+### Génie / Démon
+- **Comment devenir une liche pour les nuls (édition Côte des Épées)**
+- **Animation des monstres (emplacement 6, fp inférieure ou égale au mien)**
+- **Grimoire magique (même fonctionnement qu'arme de pacte : stocké dans une dimension et action bonus pour le faire venir a moi ou le ranger, disparaît si a plus de 3m pendant 1min)**
+- Extension du temps de contrôle des morts vivants (idéalement éternellement) -> pacte
+- Extension du nombre de morts vivants contrôlable -> pacte

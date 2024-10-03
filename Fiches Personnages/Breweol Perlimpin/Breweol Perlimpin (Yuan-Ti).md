@@ -2,7 +2,7 @@
 *Humanoïde (yuan-ti sang pure) de taille M, neutre mauvais, ermite (historique), rôdeur niveau 5 et mage niveau 2, clerc niveau 1*
 ___
 **Classe d'armure** 16 (armure de cuir)  
-**Points de vie** 70 (6d10 + 2d6) -> 1 
+**Points de vie** 70 (6d10 + 2d6) -> 70 
 **Vitesse** 9 m  
 ___
 
@@ -57,7 +57,7 @@ Lors d'un voyage d'une heure ou plus dans votre terrain favori, vous obtenez les
 
 **Devin érudit**. Au niveau 2, lorsque vous choisissez cette école, l'or et le temps que vous devez dépenser pour copier un sort de divination dans votre grimoire est divisé par deux.
 
-**Présage (~~1~~, ~~20~~)**. À partir du niveau 2, des aperçus du futur commencent à germer dans votre conscience. Lorsque vous terminez un repos long, lancez deux d20 et notez les résultats. Vous pouvez remplacer n'importe quel jet d'attaque, de sauvegarde ou de caractéristique, qu'il soit lancé par vous ou par une créature que vous pouvez voir, par l'un de ces jets anticipés. Vous devez choisir de faire cela avant de lancer le dé, et vous ne pouvez remplacer qu'un seul jet par tour. Chaque jet anticipé ne peut être utilisé qu'une seule fois. Lorsque vous terminez un repos long, vous perdez tous les jets anticipés non-utilisés.
+**Présage (14, 8)**. À partir du niveau 2, des aperçus du futur commencent à germer dans votre conscience. Lorsque vous terminez un repos long, lancez deux d20 et notez les résultats. Vous pouvez remplacer n'importe quel jet d'attaque, de sauvegarde ou de caractéristique, qu'il soit lancé par vous ou par une créature que vous pouvez voir, par l'un de ces jets anticipés. Vous devez choisir de faire cela avant de lancer le dé, et vous ne pouvez remplacer qu'un seul jet par tour. Chaque jet anticipé ne peut être utilisé qu'une seule fois. Lorsque vous terminez un repos long, vous perdez tous les jets anticipés non-utilisés.
 
 **Prêtre de guerre**. À partir du niveau 1, votre dieu vous inspire lors des combats. Lorsque vous utilisez l’action Attaquer, vous pouvez faire une attaque avec une arme en tant qu’action bonus. Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificateur de Sagesse (minimum 1). Vous regagnez les attaques utilisées à la n d’un repos long.
 
@@ -79,7 +79,7 @@ ___
 
 | Emplacement |  1  |  2  |  3  |
 | :---------: | :-: | :-: | :-: |
-| **Nombre**  | 1/4 | 1/3 | 2/2 |
+| **Nombre**  | 0/4 | 0/3 | 0/2 |
 #### Sorts
 **Sorts mineurs**
 - [[Main de mage]]
@@ -97,7 +97,8 @@ ___
 - [[Amitié avec les animaux]] (serpents uniquement mais illimité) 
 - Bouclier de la foi (clerc domaine de la guerre) 
 - Faveur divine (clerc domaine de la guerre) 
-- Mots de guérison *action bonus* (clerc) 
+- *Mots de guérison action bonus (clerc)* 
+- *Fléau (clerc)* 
 **Sorts niveau 2**
 - [[Suggestion]] 
 - [[Silence]]
@@ -107,8 +108,7 @@ ___
 **Sorts niveau 3**
 - Arme magique (clerc domaine de la guerre) 
 - Arme spirituel (clerc domaine de la guerre) 
-- Mort simulé *action bonus* (clerc)
-- Fusion dans la pierre (clerc)
+- *esprit gardien (clerc)* 
 ### Actions bonus
 ***Nom de l'action bonus***. Description de l'action bonus.
 

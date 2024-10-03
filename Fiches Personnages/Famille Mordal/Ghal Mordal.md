@@ -63,6 +63,7 @@ Bâton, dague (2), focaliseur arcanique/baguette, sac à dos, sac de couchage, g
 ___
 ## Description
 ![[objectif de Ghal Mordal.jpg]]
+[autre image](https://ca.pinterest.com/pin/1081708404278149382/)
 Ghal est un homme imposant et trapu, mais un orc bien faiblard, borgne de l’œil droit et maigrichon. Suite à un accident la majeur partie droite de son corp a été brûler et son bras droit a été désintégré, il cache donc depuis ses blessure sous une ample cape d'ensorceleur.
 ___
 ## Histoire
