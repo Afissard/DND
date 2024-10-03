@@ -6,7 +6,7 @@ tags:
 monde:
 ---
 # Carnage
-*Tieffeline (Humanoïde) de taille M, neutre neutre, charlatante, occultiste de l'Archifée pacte de la lame niveau 7 roublard assassin niveau 1 magicien école de la divination? niveau 0* 
+*Tieffeline (Humanoïde) de taille M, chaotique neutre, charlatante, occultiste de l'Archifée pacte de la lame niveau 7 roublard assassin niveau 1 magicien école de la divination? niveau 0* 
 ___
 --- start-multi-column: Fiche-Personnage  
 ```column-settings  
