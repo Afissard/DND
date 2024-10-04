@@ -5,8 +5,8 @@ tags:
   - joueur
 monde:
 ---
-# Carnage
-*Tieffeline (Humanoïde) de taille M, chaotique neutre, charlatante, occultiste de l'Archifée pacte de la lame niveau 7 roublard assassin niveau 1 magicien école de la divination? niveau 0* 
+# Perceonne
+*Tieffeline (Humanoïde) de taille M, chaotique neutre, charlatante, occultiste de l'Archifée pacte de la lame niveau 7 roublard assassin niveau 1* 
 ___
 --- start-multi-column: Fiche-Personnage  
 ```column-settings  
@@ -121,7 +121,7 @@ Vous pouvez transformer une arme magique pour en faire votre arme de pacte en ef
 - Vous avez un avantage aux jets de Charisme (Tromperie) et Charisme (Représentation) pour essayer de vous faire passer pour une autre personne. 
 - Vous pouvez imiter le discours d'une autre personne ou les sons émis par d'autres créatures. Vous devez avoir entendu la personne qui parle, ou entendu la créature émettre le son, pendant au moins 1 minute. Un jet réussi de Sagesse (Intuition) contre votre jet de Charisme (Tromperie) permet à celui qui écoute de déterminer qu'il s'agit d'une imitation.
 
-**Expertise** Au niveau 1, choisissez deux des compétences que vous maîtrisez, ou l'une d'elles et votre maîtrise des outils de voleur. Votre bonus de maîtrise est doublé pour tout jet de caractéristique que vous réalisez et qui utilise l'une des compétences choisies. Au niveau 6, vous pouvez choisir deux maîtrises supplémentaires (compétences ou outils de voleur) et obtenir le même avantage. Au niveau 6, vous pouvez choisir deux maîtrises supplémentaires (compétences ou outils de voleur) et obtenir le même avantage.
+**Expertise (tromperie?, ?)** Au niveau 1, choisissez deux des compétences que vous maîtrisez, ou l'une d'elles et votre maîtrise des outils de voleur. Votre bonus de maîtrise est doublé pour tout jet de caractéristique que vous réalisez et qui utilise l'une des compétences choisies. Au niveau 6, vous pouvez choisir deux maîtrises supplémentaires (compétences ou outils de voleur) et obtenir le même avantage. Au niveau 6, vous pouvez choisir deux maîtrises supplémentaires (compétences ou outils de voleur) et obtenir le même avantage.
 
 **Attaque sournoise**. À partir du niveau 1, vous savez comment trouver et exploiter subtilement la distraction d'un ennemi. Une fois par tour, vous pouvez infliger 1d6 points de dégâts supplémentaires à une créature que vous réussissez à toucher si vous avez un avantage au jet d'attaque. L'attaque doit utiliser une arme de finesse ou une arme à distance. Vous n'avez pas besoin d'avoir un avantage au jet d'attaque si un autre ennemi de la cible est à 1,50 mètre ou moins de celle-ci, que cet ennemi n'est pas incapable d'agir, et que vous n'avez pas un désavantage au jet d'attaque. Le nombre de dégâts supplémentaires augmente à mesure que vous gagnez des niveaux dans cette classe, comme indiqué dans la colonne Attaque sournoise de la table ci-dessus.
 
@@ -149,10 +149,11 @@ Overflow: Hidden
 --- end-multi-column
 Description du personnage
 # Histoire
-Histoire du personnage
+Sœur de [[Solitude]], Perceonne peut être tout le monde, changeant de masque en un battement de cils elle uses de ses capacité pour s'infiltrer dans la vie la plus intime de ses cibles avant des les humilier et dépouiller de toute fortune. Elle a pactisé avec [Iggwilv / Tasha](https://forgottenrealms.fandom.com/wiki/Iggwilv) alors que celle-ci avais besoin d'un intermédiaire pour se procurer certain objets magique.
 
 # Objectif
-Objectif du personnage
+- Récupérer les objets magique demandé par sa patronne
+- Quelque chose en rapport avec la quête de la campagne ?
 
 # Notes
 ## Dons à prendre
@@ -165,5 +166,8 @@ Objectif du personnage
 
 ## Prochains niveaux
 - niveaux d'occultiste (classe principale)
-- 2 niveaux de magicien école de divination pour avoir quelque emplacement de sorts et sorts utilitaire
-- roublard niveaux 2 ou 3 selon le besoin
+- 2-3 niveaux de ? pour avoir quelque emplacement de sorts et sorts utilitaire
+	- magicien école de divination (utilise l'intelligence, permet de forcer le destin)
+	- ensorceleur (magie draconique ?) (méta-magie -> virtuellement plus d'emplacement de sort)
+	- **barde collège de eloquence ou du savoir (boost des représentation, si collège savoir économise le don doué)**
+- roublard niveaux 1 à 3 selon le besoin
