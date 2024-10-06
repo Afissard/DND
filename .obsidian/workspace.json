@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2a362cae7951db01",
+        "id": "114194f0727f7fdf",
         "type": "tabs",
         "children": [
           {
-            "id": "a1cb6c253da85ab9",
+            "id": "227240134f368db3",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches Personnages/Perceonne.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches Personnages/Perceonne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches Personnages/Perceonne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fiches Personnages/Perceonne.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,13 +153,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "a1cb6c253da85ab9",
+  "active": "227240134f368db3",
   "lastOpenFiles": [
-    "Système/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
-    "Fiches Personnages/Perceonne.md",
-    "Système/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
-    "Scenar'tober/1 Horreur psychologique.md",
     "Scenar'tober/scenartober.jpg",
+    "Système/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
+    "Fiches Personnages/Perceonne.md",
+    "Système/Règles/dnd_multiclasse.pdf",
+    "Scenar'tober/1 Horreur psychologique.md",
     "README.md",
     "Scenar'tober",
     "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
@@ -194,7 +185,6 @@
     "Mondes/Chronique du danger d'ailleurs/personnages/Maître Yuan-ti.md",
     "Système/Réflexion sur des plugin de DND ou un nouveau système de JDR.md",
     "DND-Plugin.md",
-    "Système/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
     "Campagnes/Mystère de Lamar/personnages/Tyranthraxus.md",
     "Campagnes/Mystère de Lamar/personnages/Vorgansheim.md",
     "Mondes/Chronique du danger d'ailleurs/homebrew/Parasites.md",
