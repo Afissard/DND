@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "114194f0727f7fdf",
+        "id": "5028f63d310c635d",
         "type": "tabs",
         "children": [
           {
-            "id": "227240134f368db3",
+            "id": "dd11a4064c4f139f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -153,8 +153,9 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "227240134f368db3",
+  "active": "dd11a4064c4f139f",
   "lastOpenFiles": [
+    "Campagnes/Ayihyala/Objets/Dé de Pouvoir.md",
     "Scenar'tober/scenartober.jpg",
     "Système/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
     "Système/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
@@ -172,7 +173,6 @@
     "Templates/colonne.md",
     "Templates/personnage.md",
     "Templates/personnage (old).md",
-    "Campagnes/Ayihyala/Objets/Dé de Pouvoir.md",
     "Fiches Personnages/Famille Mordal/Candide Mordal.md",
     "Fiches Personnages/Av'pala.md",
     "Fiches Personnages/Famille Mordal/Ghal Mordal.md",
