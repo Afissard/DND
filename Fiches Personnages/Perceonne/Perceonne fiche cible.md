@@ -157,6 +157,11 @@ Sœur de [[Solitude]], Perceonne peut être tout le monde, changeant de masque e
 
 # Notes
 ## Dons à prendre
+**Comédien**. Entraîné au mimétisme et à l'art dramatique, vous gagnez les avantages suivants : 
+- Augmentez votre valeur de Charisme de 1, pour un maximum de 20. 
+- Vous avez un avantage aux jets de Charisme (Tromperie) et Charisme (Représentation) pour essayer de vous faire passer pour une autre personne. 
+- Vous pouvez imiter le discours d'une autre personne ou les sons émis par d'autres créatures. Vous devez avoir entendu la personne qui parle, ou entendu la créature émettre le son, pendant au moins 1 minute. Un jet réussi de Sagesse (Intuition) contre votre jet de Charisme (Tromperie) permet à celui qui écoute de déterminer qu'il s'agit d'une imitation.
+
 **Doué**. Vous gagnez la maîtrise de trois compétences ou outils de votre choix, avec la combinaison que vous souhaitez.
 - discretion
 - persuasion
@@ -165,9 +170,9 @@ Sœur de [[Solitude]], Perceonne peut être tout le monde, changeant de masque e
 **Magie rituelle**. Vous avez appris un certain nombre de sorts que vous pouvez lancer comme des rituels. Ces sorts sont écrits dans un livre de rituels, que vous devez avoir en main lorsque vous lancez l'un d'entre eux. Lorsque vous choisissez ce don, vous entrez en possession d'un livre de rituels qui comporte deux sorts de niveau 1 de votre choix. Choisissez l'une des classes suivantes : barde, clerc, druide, ensorceleur, magicien ou occultiste. Vous devez choisir vos sorts de la liste de sorts de cette classe, et les sorts que vous choisissez doivent avoir l'étiquette rituel. La classe que vous choisissez détermine également votre caractéristique d'incantation pour ces sorts : Charisme pour barde, ensorceleur ou occultiste ; Sagesse pour clerc ou druide ; Intelligence pour magicien. Si vous tombez sur un sort sous une forme écrite, comme un parchemin de sort magique ou le grimoire d'un magicien, vous pouvez être en mesure de l'ajouter à votre livre de rituels. Le sort doit être sur la liste de sorts de la classe que vous avez choisie, le niveau du sort ne peut être supérieur à la moitié de votre niveau (arrondi au supérieur), et il doit avoir l'étiquette rituel. Le processus de copie du sort dans votre livre de rituels prend 2 heures par niveau du sort, au prix de 50 po par niveau. Le coût représente les composantes matérielles que vous dépensez lors d'expériences pour maîtriser le sort, ainsi que les fines encres dont vous avez besoin pour la copie
 
 ## Prochains niveaux
-- niveaux d'occultiste (classe principale)
+- niveaux d'occultiste de l'archifée, pacte de la lame 7 minimum (classe principale)
 - 2-3 niveaux de ? pour avoir quelque emplacement de sorts et sorts utilitaire
 	- magicien école de divination (utilise l'intelligence, permet de forcer le destin)
 	- ensorceleur (magie draconique ?) (méta-magie -> virtuellement plus d'emplacement de sort)
-	- **barde collège de eloquence ou du savoir (boost des représentation, si collège savoir économise le don doué)**
+	- **barde collège de l'eloquence ou du savoir (boost des représentation, si collège savoir économise le don doué)**
 - roublard niveaux 1 à 3 selon le besoin
