@@ -125,6 +125,19 @@ Description du personnage
 # Histoire
 Sœur de [[Solitude]], Perceonne peut être tout le monde, changeant de masque en un battement de cils elle uses de ses capacité pour s'infiltrer dans la vie la plus intime de ses cibles avant des les humilier et dépouiller de toute fortune. Elle a pactisé avec [Iggwilv / Tasha](https://forgottenrealms.fandom.com/wiki/Iggwilv) alors que celle-ci avais besoin d'un intermédiaire pour se procurer certain objets magique.
 
+## Introduction de Titouan (à réécrire pour les chroniques)
+Tu sais que ta patronne t'avais donnée une mission qui était retrouver et pour cela tu devais organiser probablement le plus grand cambriolage de ta carrière car tu devais t'introduire dans le 5ème sous sol du Palais de Padhiver. 
+
+Tu as pour cela conçu une équipe de braqueurs avec les cinq meilleurs éléments possible : Toi tu te faisait appeler "100 Visages" ou "Sans Visage" les gens ne savait jamais comment t'appeler ni quel était ton vrai visage à part ta sœur qui était à la seul à reconnaître le vrai du faux dans tes paroles et tes nombreuses fourberie, elle même se faisait appeler Agent C comme Corneille. Ta sœur Solitude que tu as sollicité avait accepté, elle faisait partie de l'expédition pour une raison inconnu elle avait aussi une raison que cette objet ne demeure plus entre les mains du gouverneur de Padhiver. Vous étiez accompagner d'un Grand Voleur de Diligence nommer Pacifer aussi un nom de code, tu ne connaissait pas son vrai prénom, expert dans le forçage de coffre et dans la fuite tu le connaissais depuis de nombreuses années et son goût prononcer pour la richesse qui t'as permis de le recruter. 
+
+Vous aviez établit un plan parfait, vous étiez maître de la situation et l'affaire fut réglé en 10 minutes sans déclenché la moindre alarme. Lorsque vous prirent la fuite en direction du ports de la ville direction la tour des tempêtes comme ce qui était prévu dans le plan, tu avais un mauvais pressentiment comme si que tu avais dérober était en train d'appeler à l'aide ou de prévenir quelqu'un. 
+C'est à ce moment la que vous et vos chevaux subtilisé lors de la fuite êtes frappé d'une violente déflagration alors que vous êtes en plein milieu de la place du marcher de Padhiver. Tu te retrouve projetée au sol l'objet n'est plus dans tes mains, les dernières chose que tu vis fut ta sœur se débattre alors que l'on est en train de l’arrêter ainsi que Pacifer continuant de fuir avec l'objet dans ses mains.
+
+Ces derniers souvenirs datent du 27 février 570 après GE. 
+Soudain tu entend une voix un peu rude prononcer les mots suivants : "Salak êts Aslham", après cela tu ouvre grand les yeux et prend une grande inspiration te retrouvant enchaîner sur un lit derrière des barreaux. Tu te sens différente , tu as énormément maigrît au point ou l'on ne voit plus que tes os sous une peau pâle qui n'as plus vue le soleil depuis une éternité. 
+Combien d'année est tu rester endormi ?? 
+
+
 # Objectif
 - Récupérer les objets magique demandé par sa patronne
 - Quelque chose en rapport avec la quête de la campagne ?
