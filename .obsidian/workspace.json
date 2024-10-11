@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cd33217e23aeb459",
+        "id": "3591ab29208fcd91",
         "type": "tabs",
         "children": [
           {
-            "id": "2215181a31ff7c6d",
+            "id": "3e48e9e8597949ce",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Fiches Personnages/Perceonne/Perceonne.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -161,17 +163,18 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "2215181a31ff7c6d",
+  "active": "3e48e9e8597949ce",
   "lastOpenFiles": [
     "Système/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Perceonne/Perceonne fiche cible.md",
     "Fiches Personnages/Perceonne/Perceonne.md",
+    "Système/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
+    "Système/Règles/dnd_multiclasse.pdf",
     "Fiches Personnages/Perceonne",
     "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
     "Scenar'tober/scenartober.jpg",
-    "Système/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
     "Système/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
-    "Système/Règles/dnd_multiclasse.pdf",
     "Scenar'tober/1 Horreur psychologique.md",
     "README.md",
     "Scenar'tober",
@@ -187,7 +190,6 @@
     "Fiches Personnages/Famille Mordal/Ghal Mordal.md",
     "Fiches Personnages/Vaern/Vaern.md",
     "Ressources/Sorts/Arme magique.md",
-    "Système/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Sorts/Marque du chasseur.md",
     "Ressources/Sorts/Frappe piégeuse.md",
     "Mondes/Chronique du danger d'ailleurs/personnages/Maître Yuan-ti.md",
