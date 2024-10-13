@@ -47,7 +47,7 @@ Overflow: Hidden
 **Nom de la réaction**. Description de la réaction.  
 
 ---
-Occultiste (1) : 2 sorts mineurs, 2 sorts connus
+Occultiste (2) : 2 sorts mineurs, 3 sorts connus
 
 | Caractéristique <br>d'incantation | DD des sauvegarde <br>des sorts | Bonus d'attaque <br>avec un sort | **Niveau <br>d'emplacement** | **Emplacements** |
 | :-------------------------------: | :-----------------------------: | :------------------------------: | :--------------------------: | :--------------: |
@@ -151,16 +151,26 @@ Le plan se déroula parfaitement, en a peine dix minutes l'affaire étais plié 
 
 **Doué**. Vous gagnez la maîtrise de trois compétences ou outils de votre choix, avec la combinaison que vous souhaitez.
 - représentation
-- discretion
 - persuasion
+- discretion
 - (investigation / perception)
 
-## Prochains niveaux
-- niveaux d'occultiste de l'archifée, pacte de la lame 7 minimum (classe principale)
-- 2-3 niveaux de ? pour avoir quelque emplacement de sorts et sorts utilitaire
-	- magicien école de divination (utilise l'intelligence, permet de forcer le destin)
-	- ensorceleur (magie draconique ?) (méta-magie -> virtuellement plus d'emplacement de sort)
-	- **barde collège de l'eloquence ou du savoir (boost des représentation, si collège savoir économise le don doué)**
-- roublard niveaux 1 à 3 selon le besoin
-# Veux (pour un génie)
-- maîtrise de la représentation
+## Niveaux & Multi-Classes
+- niveaux d'occultiste de l'archifée, pacte de la chaîne
+- 2-3 niveaux de ? pour avoir quelque emplacement de sorts et sorts utilitaire : **barde collège de l'eloquence ou du savoir (boost des représentation si eloquence, si collège savoir économise le don doué) -> nécessite 3 niveaux pour la sous classe**
+
+### Occultiste (niveaux 10)
+**Manifestations occultes**. Durant vos recherches, vous avez exhumé des manifestations occultes, fragments d’un savoir interdit qui vous confère une capacité magique permanente.
+- **Mille visages**. Vous pouvez lancer _[déguisement](https://www.aidedd.org/dnd/sorts.php?vf=deguisement)_ à volonté, sans dépenser d'emplacement de sort.
+- **Voix du maître des Chaînes**. Vous pouvez communiquer avec votre familier par télépathie et percevoir les choses par le biais de ses sens, aussi longtemps que vous êtes sur le même plan d'existence. En outre, pendant que vous voyez au travers des sens de votre familier, vous pouvez le faire parler, avec votre voix, même si celui-ci est normalement incapable de discourir.
+- **Armure d'ombres**. Vous pouvez lancer _[armure de mage](https://www.aidedd.org/dnd/sorts.php?vf=armure-de-mage)_ sur vous-même à volonté, sans dépenser d'emplacement de sort ni des composantes.
+- **Visions embrumées**. Vous pouvez lancer _image silencieuse_ à volonté, sans dépenser d'emplacement de sort ni des composantes.
+
+**Pacte de la chaîne**. Vous apprenez le sort [appel de familier](https://www.aidedd.org/dnd/sorts.php?vf=appel-de-familier) et pouvez le lancer sous forme de rituel. Ce sort n’est pas comptabilisé comme un sort connu. Lorsque vous lancez le sort, vous pouvez choisir une forme normale pour votre familier (voir le sort) ou bien une des formes spéciales suivantes : [esprit follet](https://www.aidedd.org/dnd/monstres.php?vf=esprit-follet), diablotin, pseudodragon ou quasit. En outre, quand vous choisissez l’action Attaquer, vous pouvez renoncer à une de vos attaques pour permettre à votre familier d’attaquer. Lorsque vous laissez votre familier attaquer, il le fait avec sa réaction.
+
+**Échappatoire brumeuse**. À partir du niveau 6, vous pouvez disparaître dans un nuage de brume en réponse à un préjudice. Lorsque vous subissez des dégâts, vous pouvez utiliser votre réaction pour devenir invisible et vous téléporter jusqu'à 18 mètres dans un espace inoccupé que vous pouvez voir. Vous restez invisible jusqu'au début de votre prochain tour ou jusqu'à ce que vous attaquiez ou lanciez un sort. Une fois que vous avez utilisé cette capacité, vous devez terminer un repos court ou long avant de pouvoir l'utiliser à nouveau.
+
+**Défenses captivantes** À partir du niveau 10, votre patron vous enseigne à retourner contre eux la magie de vos ennemis qui affecte l'esprit. Vous êtes immunisé aux charmes, et lorsqu'une créature tente de vous charmer, vous pouvez utiliser votre réaction pour tenter de retourner son charme contre elle. La créature doit réussir un jet de sauvegarde de Sagesse contre le DD de vos sorts d'occultiste, ou vous la charmez pendant 1 minute ou jusqu'à ce que la créature subisse des dégâts.
+
+## Veux (pour un génie)
+- obtenir le don Doué (ou au moins la maîtrise d'un jet de compétence)

@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3591ab29208fcd91",
+        "id": "479ebafb4d1bd13d",
         "type": "tabs",
         "children": [
           {
-            "id": "3e48e9e8597949ce",
+            "id": "c3fa5254cab3af8f",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches Personnages/Perceonne/Perceonne.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiches Personnages/Perceonne/Perceonne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiches Personnages/Perceonne/Perceonne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fiches Personnages/Perceonne/Perceonne.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,13 +153,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "3e48e9e8597949ce",
+  "active": "c3fa5254cab3af8f",
   "lastOpenFiles": [
-    "Système/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
+    "Fiches Personnages/Perceonne.md",
     "Fiches Personnages/Perceonne/Perceonne fiche cible.md",
-    "Fiches Personnages/Perceonne/Perceonne.md",
-    "Système/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
     "Système/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
     "Système/Règles/dnd_multiclasse.pdf",
     "Fiches Personnages/Perceonne",
     "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
