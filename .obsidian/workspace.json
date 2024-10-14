@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "479ebafb4d1bd13d",
+        "id": "90d33fe4f735d089",
         "type": "tabs",
         "children": [
           {
-            "id": "c3fa5254cab3af8f",
+            "id": "87fb48a98da0cc54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Campagnes/New Padhiver/Chronique de New Padhiver.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Campagnes/New Padhiver/Chronique de New Padhiver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Campagnes/New Padhiver/Chronique de New Padhiver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Campagnes/New Padhiver/Chronique de New Padhiver.md"
+              }
             }
           }
         ]
@@ -153,8 +161,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "c3fa5254cab3af8f",
+  "active": "87fb48a98da0cc54",
   "lastOpenFiles": [
+    "Campagnes/New Padhiver/Personnages/Gala Ganja.md",
+    "Campagnes/New Padhiver/Chronique de New Padhiver.md",
+    "Campagnes/New Padhiver/Personnages/Unoble.md",
+    "Campagnes/New Padhiver/Personnages",
+    "Campagnes/New Padhiver",
+    "Campagnes/Mystère de Lamar/personnages/Parasite.md",
     "Fiches Personnages/Perceonne.md",
     "Fiches Personnages/Perceonne/Perceonne fiche cible.md",
     "Système/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
@@ -169,8 +183,6 @@
     "README.md",
     "Scenar'tober",
     "Système/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
-    "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
     "Templates/colonne.md",
     "Templates/personnage.md",
@@ -189,8 +201,6 @@
     "Campagnes/Mystère de Lamar/personnages/Vorgansheim.md",
     "Mondes/Chronique du danger d'ailleurs/homebrew/Parasites.md",
     "Mondes/Chronique du danger d'ailleurs/timeline.canvas",
-    "Mondes/Chronique du danger d'ailleurs/personnages/Linn prêtresse de Lathandre.md",
-    "Campagnes/Mystère de Lamar/personnages/Parasite.md",
     "Système/Règles/table rencontre lvl-px.png",
     "Ressources/Cartes/Sword-Coast-Map_HighRes.jpg",
     "Ressources/Images/image personnage placeholder.png"
