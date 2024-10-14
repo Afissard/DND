@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "90d33fe4f735d089",
+        "id": "facd0afee93b22a0",
         "type": "tabs",
         "children": [
           {
-            "id": "87fb48a98da0cc54",
+            "id": "5d3eb5af6dcf72d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagnes/New Padhiver/Chronique de New Padhiver.md",
+                "file": "Mondes/New Padhiver/Chronique de New Padhiver.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campagnes/New Padhiver/Chronique de New Padhiver.md",
+                "file": "Mondes/New Padhiver/Chronique de New Padhiver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campagnes/New Padhiver/Chronique de New Padhiver.md",
+                "file": "Mondes/New Padhiver/Chronique de New Padhiver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campagnes/New Padhiver/Chronique de New Padhiver.md"
+                "file": "Mondes/New Padhiver/Chronique de New Padhiver.md"
               }
             }
           }
@@ -161,13 +161,15 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "87fb48a98da0cc54",
+  "active": "5d3eb5af6dcf72d4",
   "lastOpenFiles": [
-    "Campagnes/New Padhiver/Personnages/Gala Ganja.md",
-    "Campagnes/New Padhiver/Chronique de New Padhiver.md",
-    "Campagnes/New Padhiver/Personnages/Unoble.md",
-    "Campagnes/New Padhiver/Personnages",
-    "Campagnes/New Padhiver",
+    "Mondes/New Padhiver/Personnages/Noël Beauduciel-de-la-Marne_1.jpg",
+    "Mondes/New Padhiver/Personnages/Noël Beauduciel-de-la-Marne.md",
+    "Mondes/New Padhiver/Chronique de New Padhiver.md",
+    "Mondes/New Padhiver/Personnages/Noël Beauduciel-de-la-Marne_2.jpg",
+    "Mondes/New Padhiver/Personnages/Gala Ganja.md",
+    "Mondes/New Padhiver/Personnages",
+    "Mondes/New Padhiver",
     "Campagnes/Mystère de Lamar/personnages/Parasite.md",
     "Fiches Personnages/Perceonne.md",
     "Fiches Personnages/Perceonne/Perceonne fiche cible.md",
@@ -199,7 +201,6 @@
     "DND-Plugin.md",
     "Campagnes/Mystère de Lamar/personnages/Tyranthraxus.md",
     "Campagnes/Mystère de Lamar/personnages/Vorgansheim.md",
-    "Mondes/Chronique du danger d'ailleurs/homebrew/Parasites.md",
     "Mondes/Chronique du danger d'ailleurs/timeline.canvas",
     "Système/Règles/table rencontre lvl-px.png",
     "Ressources/Cartes/Sword-Coast-Map_HighRes.jpg",
