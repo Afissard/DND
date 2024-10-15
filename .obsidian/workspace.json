@@ -10,13 +10,15 @@
           {
             "id": "5d3eb5af6dcf72d4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Mondes/New Padhiver/Chronique de New Padhiver.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -163,9 +165,12 @@
   },
   "active": "5d3eb5af6dcf72d4",
   "lastOpenFiles": [
+    "Mondes/New Padhiver/Personnages/Duc Beauduciel-de-la-Marne.md",
+    "Mondes/New Padhiver/Chronique de New Padhiver.md",
+    "Mondes/New Padhiver/Leiraspice.md",
+    "Mondes/Cluedo OneShot/Le manoir.md",
     "Mondes/New Padhiver/Personnages/Noël Beauduciel-de-la-Marne_1.jpg",
     "Mondes/New Padhiver/Personnages/Noël Beauduciel-de-la-Marne.md",
-    "Mondes/New Padhiver/Chronique de New Padhiver.md",
     "Mondes/New Padhiver/Personnages/Noël Beauduciel-de-la-Marne_2.jpg",
     "Mondes/New Padhiver/Personnages/Gala Ganja.md",
     "Mondes/New Padhiver/Personnages",
@@ -199,8 +204,6 @@
     "Mondes/Chronique du danger d'ailleurs/personnages/Maître Yuan-ti.md",
     "Système/Réflexion sur des plugin de DND ou un nouveau système de JDR.md",
     "DND-Plugin.md",
-    "Campagnes/Mystère de Lamar/personnages/Tyranthraxus.md",
-    "Campagnes/Mystère de Lamar/personnages/Vorgansheim.md",
     "Mondes/Chronique du danger d'ailleurs/timeline.canvas",
     "Système/Règles/table rencontre lvl-px.png",
     "Ressources/Cartes/Sword-Coast-Map_HighRes.jpg",
