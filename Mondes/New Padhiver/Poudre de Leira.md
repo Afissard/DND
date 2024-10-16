@@ -7,5 +7,5 @@ description:
 prix: "0"
 rareté:
 ---
-# Leiraspice
+# Poudre de Leira
 Une drogue pouvant provoquer des hallucinations pendant plusieurs heures voir jours

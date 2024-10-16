@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "facd0afee93b22a0",
+        "id": "cab25eb7237383e9",
         "type": "tabs",
         "children": [
           {
-            "id": "5d3eb5af6dcf72d4",
+            "id": "c1bd3c1ab8931a1b",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mondes/New Padhiver/Chronique de New Padhiver.md",
+                "file": "Mondes/New Padhiver/Personnages/Gala Ganja.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mondes/New Padhiver/Chronique de New Padhiver.md",
+                "file": "Mondes/New Padhiver/Personnages/Gala Ganja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mondes/New Padhiver/Chronique de New Padhiver.md",
+                "file": "Mondes/New Padhiver/Personnages/Gala Ganja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mondes/New Padhiver/Chronique de New Padhiver.md"
+                "file": "Mondes/New Padhiver/Personnages/Gala Ganja.md"
               }
             }
           }
@@ -163,16 +161,17 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "5d3eb5af6dcf72d4",
+  "active": "c1bd3c1ab8931a1b",
   "lastOpenFiles": [
-    "Mondes/New Padhiver/Personnages/Duc Beauduciel-de-la-Marne.md",
     "Mondes/New Padhiver/Chronique de New Padhiver.md",
-    "Mondes/New Padhiver/Leiraspice.md",
+    "Mondes/New Padhiver/Personnages/Gala Ganja.md",
+    "Mondes/New Padhiver/Personnages/Noël Beauduciel-de-la-Marne.md",
+    "Mondes/New Padhiver/Personnages/Duc Beauduciel-de-la-Marne.md",
+    "Templates/colonne.md",
+    "Mondes/New Padhiver/Poudre de Leira.md",
     "Mondes/Cluedo OneShot/Le manoir.md",
     "Mondes/New Padhiver/Personnages/Noël Beauduciel-de-la-Marne_1.jpg",
-    "Mondes/New Padhiver/Personnages/Noël Beauduciel-de-la-Marne.md",
     "Mondes/New Padhiver/Personnages/Noël Beauduciel-de-la-Marne_2.jpg",
-    "Mondes/New Padhiver/Personnages/Gala Ganja.md",
     "Mondes/New Padhiver/Personnages",
     "Mondes/New Padhiver",
     "Campagnes/Mystère de Lamar/personnages/Parasite.md",
@@ -191,7 +190,6 @@
     "Scenar'tober",
     "Système/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
-    "Templates/colonne.md",
     "Templates/personnage.md",
     "Templates/personnage (old).md",
     "Fiches Personnages/Famille Mordal/Candide Mordal.md",
