@@ -116,7 +116,7 @@ Occultiste (2) : 2 sorts mineurs, 3 sorts connus
 # Description
 --- start-multi-column: Fiche-Personnage  
 ```column-settings  
-number of columns: 2
+number of columns: 3
 Border: disabled
 Shadow: off
 Overflow: Hidden
@@ -128,6 +128,10 @@ Overflow: Hidden
 --- end-column ---
 
 ![image2](https://i.pinimg.com/originals/a6/86/4a/a6864a856f0448898b1492e0c43aa3a4.jpg)
+
+--- end-column ---
+
+![image 3](https://i.pinimg.com/736x/ef/9c/00/ef9c0047c2ebf32e5a589db4261470b0.jpg)
 
 --- end-multi-column
 Description du personnage
