@@ -8,39 +8,52 @@
         "type": "tabs",
         "children": [
           {
-            "id": "75c88a3ed1e25841",
+            "id": "c6458113a747db58",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mondes/Dungeon Rush/Dungeon Rush.md",
-                "mode": "source",
-                "source": false
+                "file": "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf"
               },
               "pinned": true,
-              "icon": "lucide-file",
-              "title": "Dungeon Rush"
+              "icon": "lucide-file-text",
+              "title": "Dons Dungeons & Dragons - D&D 5e"
             }
           },
           {
-            "id": "f136814dfd0f960a",
+            "id": "e5c34c53a8957336",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Mondes/Dungeon Rush/fiches personnages/Idée de fiches.md",
-                "mode": "source",
-                "source": false
+                "file": "Mondes/Dungeon Rush/fiches personnages/Mage Gateux.pdf"
               },
               "pinned": true,
-              "icon": "lucide-file",
-              "title": "Idée de fiches"
+              "icon": "lucide-file-text",
+              "title": "Mage Gateux"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "0f19286087823d04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d330765c00713d1f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Mondes/Dungeon Rush/CharacterSheet2024-FormFillable.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CharacterSheet2024-FormFillable"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,32 +200,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "f136814dfd0f960a",
+  "active": "d330765c00713d1f",
   "lastOpenFiles": [
-    "Système/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
     "Mondes/Dungeon Rush/fiches personnages/Idée de fiches.md",
-    "Mondes/Dungeon Rush/Dungeon Rush.md",
-    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
     "Mondes/Dungeon Rush/CharacterSheet2024-FormFillable.pdf",
-    "Mondes/Dungeon Rush/ressources/FeuillePersoDD2024.pdf",
-    "Mondes/Dungeon Rush/ressources/eFeuillePersoDD5.pdf",
-    "Mondes/Dungeon Rush/fiches personnages/Druide.pdf",
-    "Mondes/Dungeon Rush/fiches personnages/Berserker.pdf",
-    "Mondes/Dungeon Rush/fiches personnages/Roublard.pdf",
+    "Mondes/Dungeon Rush/fiches personnages/Mage Gateux.pdf",
+    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
+    "Mondes/Dungeon Rush/fiches personnages/Berserker Tribal.pdf",
     "Mondes/Dungeon Rush/fiches personnages/Clerc de la Lumière.pdf",
+    "Mondes/Dungeon Rush/fiches personnages/Druide du Clair de Lune.pdf",
+    "Mondes/Dungeon Rush/fiches personnages/Roublard.pdf",
+    "Mondes/Dungeon Rush/fiches personnages/Voleur Arcanique.pdf",
+    "Mondes/Cluedo OneShot/Personnage/Mage Gateux.pdf",
     "Système/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
-    "Système/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "Mondes/Dungeon Rush/Dungeon Rush.md",
     "Mondes/Dungeon Rush/fiches personnages/Saber.md",
     "Mondes/Dungeon Rush/fiches personnages/Clerc de la lumière.md",
     "Mondes/Dungeon Rush/ressources/donjon/DDN-niveaumoins2-SOUTERRAINS.jpg",
