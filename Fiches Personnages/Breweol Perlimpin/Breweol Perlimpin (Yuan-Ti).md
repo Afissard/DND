@@ -1,27 +1,27 @@
 ## Breweol Perlimpin (Yuan-Ti)
-*Humanoïde (yuan-ti sang pure) de taille M, neutre mauvais, ermite (historique), rôdeur niveau 5 et mage niveau 2, clerc niveau 1*
+*Humanoïde (yuan-ti sang pure) de taille M, neutre mauvais, ermite (historique), rôdeur niveau 5, mage niveau 2, clerc de la guerre niveau 1, roublard niveau 2*
 ___
-**Classe d'armure** 16 (armure de cuir)  
-**Points de vie** 70 (6d10 + 2d6) -> 70 
-**Vitesse** 9 m  
+**Classe d'armure** 16 (armure de cuir)
+**Points de vie** 70 (5d10 + 2d6 + 3d8) -> 86
+**Vitesse** 9 m 
 ___
 
 | FOR     | DEX     | CON     | INT     | SAG    | CHA     |
 | ------- | ------- | ------- | ------- | ------ | ------- |
 | 11 (+0) | 18 (+4) | 16 (+3) | 14 (+2) | 14(+2) | 12 (+1) |
 ___
-**Jets de sauvegarde** Force (+3), Dextérité (+7) 
-**Compétences** Discretion (+7), Perception (+5), Nature (+5), Médecine (+5), Religion (+5) 
+**Jets de sauvegarde** Force (+4), Dextérité (+8) 
+**Compétences** Discretion (+12), Perception (+6), Nature (+6), Médecine (+6), Religion (+6), Intimidation (+9)
 **Vulnérabilités aux dégâts** aucun 
-**Résistances aux dégâts** Poison, Magie 
+**Résistances aux dégâts** Poison, Magie (jet de sauvegarde) 
 **Immunités aux dégâts** aucun 
 **Immunités aux états** aucun  
 **Sens**  Perception passive 15  
-**Langues** Commun, Draconique, Abyssal, Géant 
-**Outils** kit d'herboriste 
+**Langues** Commun, Draconique, Abyssal, Géant, Jargon des voleurs
+**Outils** kit d'herboriste, outil de voleur
 **Armes** armes courantes, armes de guerre 
 **Armure** armures légères, intermédiaires et lourdes, boucliers 
-**Puissance** ? (??? PX)     **Bonus de maîtrise** +3  
+**Puissance** ? (??? PX)     **Bonus de maîtrise** +4  
 ___
 ### Capacités
 **Vision dans le noir**. Vous pouvez voir à 18 mètres dans une lumière faible comme vous verriez avec une lumière vive, et dans le noir comme vous verriez avec une lumière faible. Dans le noir, vous ne discernez pas les couleurs, uniquement des nuances de gris.
@@ -57,9 +57,15 @@ Lors d'un voyage d'une heure ou plus dans votre terrain favori, vous obtenez les
 
 **Devin érudit**. Au niveau 2, lorsque vous choisissez cette école, l'or et le temps que vous devez dépenser pour copier un sort de divination dans votre grimoire est divisé par deux.
 
-**Présage (14, 8)**. À partir du niveau 2, des aperçus du futur commencent à germer dans votre conscience. Lorsque vous terminez un repos long, lancez deux d20 et notez les résultats. Vous pouvez remplacer n'importe quel jet d'attaque, de sauvegarde ou de caractéristique, qu'il soit lancé par vous ou par une créature que vous pouvez voir, par l'un de ces jets anticipés. Vous devez choisir de faire cela avant de lancer le dé, et vous ne pouvez remplacer qu'un seul jet par tour. Chaque jet anticipé ne peut être utilisé qu'une seule fois. Lorsque vous terminez un repos long, vous perdez tous les jets anticipés non-utilisés.
+**Ruse**. À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez effectuer une action bonus à chacun de vos tours en combat. Cette action ne peut être utilisée que pour Se désengager, Se cacher ou Foncer.
+
+**Présage (20, 5)**. À partir du niveau 2, des aperçus du futur commencent à germer dans votre conscience. Lorsque vous terminez un repos long, lancez deux d20 et notez les résultats. Vous pouvez remplacer n'importe quel jet d'attaque, de sauvegarde ou de caractéristique, qu'il soit lancé par vous ou par une créature que vous pouvez voir, par l'un de ces jets anticipés. Vous devez choisir de faire cela avant de lancer le dé, et vous ne pouvez remplacer qu'un seul jet par tour. Chaque jet anticipé ne peut être utilisé qu'une seule fois. Lorsque vous terminez un repos long, vous perdez tous les jets anticipés non-utilisés.
 
 **Prêtre de guerre**. À partir du niveau 1, votre dieu vous inspire lors des combats. Lorsque vous utilisez l’action Attaquer, vous pouvez faire une attaque avec une arme en tant qu’action bonus. Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificateur de Sagesse (minimum 1). Vous regagnez les attaques utilisées à la n d’un repos long.
+
+**Expertise (discretion, intimidation)**. Au niveau 1, choisissez deux des compétences que vous maîtrisez, ou l'une d'elles et votre maîtrise des outils de voleur. Votre bonus de maîtrise est doublé pour tout jet de caractéristique que vous réalisez et qui utilise l'une des compétences choisies. Au niveau 6, vous pouvez choisir deux maîtrises supplémentaires (compétences ou outils de voleur) et obtenir le même avantage.
+
+ **Attaque sournoise**. À partir du niveau 1, vous savez comment trouver et exploiter subtilement la distraction d'un ennemi. Une fois par tour, vous pouvez infliger 1d6 points de dégâts supplémentaires à une créature que vous réussissez à toucher si vous avez un avantage au jet d'attaque. L'attaque doit utiliser une arme de nesse ou une arme à distance. Vous n'avez pas besoin d'avoir un avantage au jet d'attaque si un autre ennemi de la cible est à 1,50 mètre ou moins de celle-ci, que cet ennemi n'est pas incapable d'agir, et que vous n'avez pas un désavantage au jet d'attaque. Le nombre de dégâts supplémentaires augmente à mesure que vous gagnez des niveaux dans cette classe, comme indiqué dans la colonne Attaque sournoise de la table ci-dessus.
 
 **Maître arbalétrier**. Grâce à votre longue pratique de l'arbalète, vous gagnez les avantages suivants : 
 - Vous ignorez la propriété chargement des arbalètes que vous maîtrisez. 
@@ -67,12 +73,12 @@ Lors d'un voyage d'une heure ou plus dans votre terrain favori, vous obtenez les
 - Lorsque vous utilisez l'action Attaquer et attaquez avec une arme à une main, vous pouvez utiliser une action bonus pour attaquer avec une arbalète de poing si vous en tenez une.
 
 ### Actions
-***Attaque au cimeterre***. *Attaque au corps à corps avec une arme* : +7 au toucher, allonge 1,50 m, une cible. *Touché* : 1d6+4 dégâts tranchant.  
+***Attaque au cimeterre***. *Attaque au corps à corps avec une arme* : +8 au toucher, allonge 1,50 m, une cible. *Touché* : 1d6+4 dégâts tranchant.  
 
-***Tir à l’arbalète lourde***. Attaque à distance avec une arme : +7+2 (archerie) au toucher, portée 45 m/180 m, cible unique. Touché 1d10+4 dégâts perforant.
+***Tir à l’arbalète lourde***. Attaque à distance avec une arme : +8+2 (archerie) au toucher, portée 45 m/180 m, cible unique. Touché 1d10+4 dégâts perforant.
 
 ___
-### Incantation.
+### Incantation
 *Sorts connus :* 3 (rôdeur), 4 (mage), 3 (clerc)
 *DD de sauvegarde des sorts : 13*
 *Modificateur aux attaques avec un sort : 5*
@@ -80,6 +86,7 @@ ___
 | Emplacement |  1  |  2  |  3  |
 | :---------: | :-: | :-: | :-: |
 | **Nombre**  | 0/4 | 0/3 | 0/2 |
+
 #### Sorts
 **Sorts mineurs**
 - [[Main de mage]]
@@ -92,23 +99,23 @@ ___
 **Sorts niveau 1**
 - [[Marque du chasseur]]
 - [[Frappe piégeuse]]
-- Grêle d'épines
+- Grêle d'épines 
 - [[Rayon Empoisonné]] (magicien) 
 - [[Amitié avec les animaux]] (serpents uniquement mais illimité) 
 - Bouclier de la foi (clerc domaine de la guerre) 
 - Faveur divine (clerc domaine de la guerre) 
 - *Mots de guérison action bonus (clerc)* 
-- *Fléau (clerc)* 
+- *Localisation d'objet (clerc)* 
 **Sorts niveau 2**
 - [[Suggestion]] 
 - [[Silence]]
 - [[Aura magique de Nystul]] (magicien)
 - [[Foulée brumeuse]] *action bonus* (magicien)
 - [[Arme magique]] (magicien)
-**Sorts niveau 3**
 - Arme magique (clerc domaine de la guerre) 
 - Arme spirituel (clerc domaine de la guerre) 
-- *esprit gardien (clerc)* 
+**Sorts niveau 3**
+- *glyphe de protection (clerc)* 
 ### Actions bonus
 ***Nom de l'action bonus***. Description de l'action bonus.
 
@@ -119,15 +126,19 @@ ___
 ### Inventaire
 | PP  | PO  | PE  | PA  | PC  |
 | :-: | :-: | :-: | :-: | :-: |
-|  0  |  0  |  0  |  0  |  0  |
-~~**Armure de cuir clouté**. CA : 12 + Mod.Dex, 6,5 kg, 45 po.
+|  0  | 145 |  0  |  0  |  0  |
+**Armure de cuir clouté**. CA : 12 + Mod.Dex, 6,5 kg, 45 po.
 **Cimeterres (2)**. 1d6 perforant, 1,5 kg, 25 po, Propriété : finesse, légère 
 **Arbalète lourde**. 1d10 perforant, 9 kg, 50 po, Munitions (portée 30 m/120 m), lourde, chargement à deux mains 
-**Carreaux (116)**. 1Po pour 20 carreaux pour 0,5kg. ~~
+**Carreaux (90)**. 1Po pour 20 carreaux pour 0,5kg. 
+**Sac en laine**. 7 rations.
 ~~**Sac d'explorateur (10 po)**. Comprend un sac à dos, un sac de couchage, une gamelle, une boite d'allume-feu, 10 torches, 20 jours de rations et une gourde d'eau. Le sac comprend aussi 15 mètres de corde de chanvre attachée sur son côté.~~ 
 ~~**Ermite**. un étui à parchemin remplis de notes sur vos études ou vos prières, une couverture pour l'hiver, des vêtements communs, un kit d'herboriste.~~ 
-~~**Grimoire**. Un grimoire de mage. 
-**Collier de Déni**. Invoque Déni pour un coup de 1 ans par minutes.~~
+**Grimoire**. Un grimoire de mage. 
+**Collier de Déni**. Invoque Déni pour un coup de 1 ans par minutes.
+**Cube**. Cadeaux du yarl de Ygg
+**Fruit**. (2)
+**Clef du Petit Prince**. cf un dessin
 ___
 ## Description
 Brewshuh est un Yuan-ti quadragénaire, pendant de longue année il a porté les vêtement traditionnel yuan-ti, mais depuis qu'il vit parmi les Hommes il opte pour des vêtements de voyage confortable et passe partout. Il porte une cape faites enchevêtrement de fourrures et de tissus par dessus une vielle et usée armure de cuir, lorsqu'il se déplace et combat Brewshuh porte un casque orné du symbole de Sseth, qu'il couvre ensuite de voiles ainsi que le reste de son visage, ne laissant à découvert que ses yeux et son nez. Sa peau tannée par le soleil et ses trait coupé tirés et usés par le temps font ressortir ses yeux marrons aux pupilles reptiliennes pleine de sagesses et de mystères.
@@ -138,6 +149,8 @@ ___
 ## Histoire
 Breweol n'est qu'un nom d'emprunt pour mieux s’intégrer dans la société humaine, Brewshuh de son vrai nom est un des nombreux espion et informateur Yuan-ti pour le temple de Sseth. A l'age de 20 ans, il est envoyé par son temple en temps qu'espion dans la ville de Padhiver sous la couverture de Breweol Perlimpin un rôdeur quelque peu froid aux premiers abords avec un certain penchant pour les mécanismes en tout genres (arbalètes, montres) et le thé. Peu à peu il se lie d'amitié avec deux autre aventuriers : Derek un guerrier humain et Joline une demi-elf barde. Après dix ans d'aventures, ses deux amis, attendant un enfant décident de mener une vie simple et moins dangereuse pour élever leur progéniture. En dix ans, bien qu'ils soient très proche Brewshuh ne leurs a jamais véritablement révélé son statut d'espion (bien qu'ils soient partiellement au courant qu'il soit yuan-ti).
 Brewshuh lui continua un peu l'aventure avant de s'isoler pour un temps (10 ans) dans les bois de Padhiver pour méditer et developer quelque peu son don pour divination. Alors qu'il méditais depuis près d'une semaine, Brewshuh entra en transe et reçu l'appel de la Tour de la Vérité en plus d'une prophétie bien plus terrible encore, où de monstrueuses créatures s’échappent de la Tour. Après s'être remis de cette violente transe, Brewshuh se mis en chemin pour n'arriver qu'un mois après le début des événements.
+
+A perdu 1 ans de vie en invoquant Deni l'Alhoon
 
 ___
 ## Objectif
@@ -169,3 +182,6 @@ ___
 
 ## Information d'un vieux des geôles de l'arène
 Un des 4 véritables se trouve à Mirion, ville des humain, situé dans le sud.
+
+# Bible des opprimés ?
+le dieux fait partie des dieux qui récompense, sont peuple les démons bleues, raconte l'histoire des démons bleus qui guide le monde vers la vérité, le dieu des opprimé est LE dieux à prier, c'est lui qui récompense le plus de tout les dieux. Il a beaucoup de faux noms pour le discréditée et voue une haine à Molok ou l'enfant de souffre.

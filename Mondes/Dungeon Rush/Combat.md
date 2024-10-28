@@ -1,0 +1,5 @@
+- Barbare
+- Clerc
+- Magicien
+- Roublard
+- Saber
