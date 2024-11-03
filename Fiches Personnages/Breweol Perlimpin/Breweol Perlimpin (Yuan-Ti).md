@@ -136,21 +136,21 @@ ___
 ~~**Ermite**. un étui à parchemin remplis de notes sur vos études ou vos prières, une couverture pour l'hiver, des vêtements communs, un kit d'herboriste.~~ 
 **Grimoire**. Un grimoire de mage. 
 **Collier de Déni**. Invoque Déni pour un coup de 1 ans par minutes.
-**Cube**. Cadeaux du yarl de Ygg
+**Cube**. Cadeaux du yarl de Ygg -> créer un cube de chaleur qui protège ?, idéal pour un campement, pour une personne ? explose si détruit
 **Fruit**. (2)
-**Clef du Petit Prince**. cf un dessin
+**Clef du Petit Prince**. cf un dessin, informe si des personnes dorme, à essayé la nuit
 ___
 ## Description
 Brewshuh est un Yuan-ti quadragénaire, pendant de longue année il a porté les vêtement traditionnel yuan-ti, mais depuis qu'il vit parmi les Hommes il opte pour des vêtements de voyage confortable et passe partout. Il porte une cape faites enchevêtrement de fourrures et de tissus par dessus une vielle et usée armure de cuir, lorsqu'il se déplace et combat Brewshuh porte un casque orné du symbole de Sseth, qu'il couvre ensuite de voiles ainsi que le reste de son visage, ne laissant à découvert que ses yeux et son nez. Sa peau tannée par le soleil et ses trait coupé tirés et usés par le temps font ressortir ses yeux marrons aux pupilles reptiliennes pleine de sagesses et de mystères.
-Alors qu'il vivait encore en ermitage, Brewshuh à commencer à developer une aura magique de plus en plus forte, ce qui lui donne l'apparence d'être un mage bien plus puissant qu'il ne l'est véritablement (*cf [[Aura magique de Nystul]]*).
+Alors qu'il vivait encore en ermitage, Brewshuh à commencer à développer une aura magique de plus en plus forte, ce qui lui donne l'apparence d'être un mage bien plus puissant qu'il ne l'est véritablement (*cf [[Aura magique de Nystul]]*).
 Froid et consciencieux aux premiers abords, Brewshuh est en réalité plutôt bon vivant, il aime se remémorer et partager ses aventures passées tout en apprécient du tabac et du thé de sa composition.
 
 ___
 ## Histoire
 Breweol n'est qu'un nom d'emprunt pour mieux s’intégrer dans la société humaine, Brewshuh de son vrai nom est un des nombreux espion et informateur Yuan-ti pour le temple de Sseth. A l'age de 20 ans, il est envoyé par son temple en temps qu'espion dans la ville de Padhiver sous la couverture de Breweol Perlimpin un rôdeur quelque peu froid aux premiers abords avec un certain penchant pour les mécanismes en tout genres (arbalètes, montres) et le thé. Peu à peu il se lie d'amitié avec deux autre aventuriers : Derek un guerrier humain et Joline une demi-elf barde. Après dix ans d'aventures, ses deux amis, attendant un enfant décident de mener une vie simple et moins dangereuse pour élever leur progéniture. En dix ans, bien qu'ils soient très proche Brewshuh ne leurs a jamais véritablement révélé son statut d'espion (bien qu'ils soient partiellement au courant qu'il soit yuan-ti).
-Brewshuh lui continua un peu l'aventure avant de s'isoler pour un temps (10 ans) dans les bois de Padhiver pour méditer et developer quelque peu son don pour divination. Alors qu'il méditais depuis près d'une semaine, Brewshuh entra en transe et reçu l'appel de la Tour de la Vérité en plus d'une prophétie bien plus terrible encore, où de monstrueuses créatures s’échappent de la Tour. Après s'être remis de cette violente transe, Brewshuh se mis en chemin pour n'arriver qu'un mois après le début des événements.
+Brewshuh lui continua un peu l'aventure avant de s'isoler pour un temps (10 ans) dans les bois de Padhiver pour méditer et développer quelque peu son don pour divination. Alors qu'il méditais depuis près d'une semaine, Brewshuh entra en transe et reçu l'appel de la Tour de la Vérité en plus d'une prophétie bien plus terrible encore, où de monstrueuses créatures s’échappent de la Tour. Après s'être remis de cette violente transe, Brewshuh se mis en chemin pour n'arriver qu'un mois après le début des événements.
 
-A perdu 1 ans de vie en invoquant Deni l'Alhoon
+A perdu 1 ans de vie en invoquant Deni l'Alhoon (qui est un peu nul en combat ces dernier temps)
 
 ___
 ## Objectif
@@ -158,9 +158,12 @@ Il souhaite souhaite éliminer tout danger pour son peuple, il perçois les cré
 
 ___
 ## Notes
-
-**Prochains niveaux**
-- quelques niveaux (2 min pour le conduit divin) de clerc (domaine de la guerre, ~~duperie ~~?) en temps qu'apôtre de Sseth, alternativement prendre 3 niveaux d'occultiste pacte de la lame (~~fée~~ / grand ancien)
+**Batman**. Dans le cas où il faudrait se débarrassé à long terme de Rodolf ou Juste Albert : neutralisé l'un des deux le plus vite possible, par surprise, pour évité un combat désavantagé. Pour Albert, préparé des carreau inflammable (tissue, huile, etc) pour détruire son grimoire, ne pas le viser lui directement (attention au détournement de l'hostilité), alternativement lancé silence, ou fléau + cécité / surdité. Pour Rodolf, le neutralisé est plus dur, si il n'a pas d'organe de Molok, ce ne seras qu'un combat d'endurance mais si il en possède un il faudra garder tout les atouts de dégâts brute de disponible à cette effet (même dans le premier cas idéalement), les jets de sauvegarde charisme ou d'intelligence sont à priorisé sur les jets de sauvegarde sagesse, pour lui aussi le combo fléau + cécité / surdité peut être utile. Ne pas oublier le Petit Prince qui pourras peut être être d'une grande aide selon la situation.
+Deux ouverture de combat sont possible pour une victoire potentiel :
+- Après un combats, tout le monde est affaibli, il faut donc profité de l'avantage tactique qui est d'avoir conservé des emplacement de sorts et utilisation de la capacité de prêtre de guerre ainsi que les augures.
+- Pendant un repos, en prendre un par surprise et le neutralisé le plus vite possible (surement Albert) pour ensuite s'occupé du second.
+Même si d'autre nous accompagnes, ils ne devrais posé trop de problème.
+Dans le cas où je serais attaqué, les même planification s'applique, il faudra cependant trouvé quelque chose capable de contrer efficacement les organe de molok, potentiellement les éveillé pour qu'il s'entre tue.
 
 **Découverte**. La paisible réclusion de votre ermitage prolongé vous a donné accès à une grande et unique découverte. La nature exacte de cette révélation dépend de la nature de votre réclusion. Il se peut que ce soit un grand secret à propos du cosmos, des dieux, de créatures venues d'autres plans ou de forces de la nature. Ce pourrait aussi être un site que personne d'autre ne connait. Vous pourriez avoir mis au grand jour des faits oubliés depuis longtemps ou déterré des reliques du passé qui pourraient réécrire l'histoire. Il se peut aussi que ce soit des informations qui pourraient nuire à ceux qui vous ont forcé à l'exil et, de ce fait, être la raison de votre retour dans la société.
 
@@ -183,5 +186,5 @@ ___
 ## Information d'un vieux des geôles de l'arène
 Un des 4 véritables se trouve à Mirion, ville des humain, situé dans le sud.
 
-# Bible des opprimés ?
+## Bible des opprimés ?
 le dieux fait partie des dieux qui récompense, sont peuple les démons bleues, raconte l'histoire des démons bleus qui guide le monde vers la vérité, le dieu des opprimé est LE dieux à prier, c'est lui qui récompense le plus de tout les dieux. Il a beaucoup de faux noms pour le discréditée et voue une haine à Molok ou l'enfant de souffre.
