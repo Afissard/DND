@@ -27,3 +27,4 @@ darkMode: false
 *description*
 ## La Taverne du Blé Arrosé
 *description*
+# Personnages secondaires

@@ -12,7 +12,7 @@ Une personne parasité peut au choix réaliser un jet de sauvegarde constitution
 - A chaque échec le parasite monte en *niveau de parasite* et tout les trois niveau il évolue jusqu’à sa forme finale. 
 - Pour chaque réussite de jet de constitution le parasite perd un *niveau de parasite* jusqu’à à être rejeter hors de son hôte. 
 - Pour chaque réussite de jet de sagesse, le parasite ne prend pas de niveau et l'hôte peut user, avec certaines conséquences, des pouvoirs accordé par le parasite. 
-  Au bout de six réussites successives de jet de sauvegarde de sagesse, l'hôte entre en symbiose avec le parasite (de ce niveau et inférieur) et obtient le contrôle de l'évolution du parasite et choisi de laisser évoluer ou non le parasite, si il choisi de le faire évoluer il devra réussir trois jet de sauvegarde de sagesse pour le niveau suivant de parasite pour que celui-ci évolue sinon le parasite n'évolue pas.
+  Au bout de ~~six~~ trois réussites successives de jet de sauvegarde de sagesse, l'hôte entre en symbiose avec le parasite (de ce niveau et inférieur) et obtient le contrôle de l'évolution du parasite et choisi de laisser évoluer ou non le parasite, si il choisi de le faire évoluer il devra réussir trois jet de sauvegarde de sagesse pour le niveau suivant de parasite pour que celui-ci évolue sinon le parasite n'évolue pas.
 *Pour tout les jets de sauvegarde précisés dans la fiche du parasite, se référer à la valeur du jet de sauvegarde du parasite indiqué au début de sa fiche.*
 ### Relations du parasite avec son hôte
 Le parasite a trois états de relation avec son hôte :
