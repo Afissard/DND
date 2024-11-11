@@ -125,7 +125,7 @@ C'est un veil homme, vêtu dans le pure style ottomans
 #TODO 
 
 # Objectif
-Lui et [[Mondes/Chronique du danger d'ailleurs/personnages/Szemu Ottom|Szemu Ottom]] sont envoyés par le temple de [Sseth](https://forgottenrealms.fandom.com/wiki/Sseth) récupérer la [[dague De Lamar]], de laquelle serais enfermé l'âme d'un des plus puissant Yuan-ti que le monde est jamais connus.
+Lui et [[Mondes/Chronique du danger d'ailleurs/personnages & organisations/Szemu Ottom|Szemu Ottom]] sont envoyés par le temple de [Sseth](https://forgottenrealms.fandom.com/wiki/Sseth) récupérer la [[dague De Lamar]], de laquelle serais enfermé l'âme d'un des plus puissant Yuan-ti que le monde est jamais connus.
 
 # Notes
 prise de notes

@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1729000427904,
+      "lastAccessed": 1730969141327,
       "markers": [
         {
           "id": "ID_d9dbf868bbfa",
@@ -25,7 +25,9 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Mondes/Cluedo OneShot/Le manoir.md"
+        "Mondes/Chronique du danger d'ailleurs/lieux/Conyberry.md",
+        "Mondes/Chronique du danger d'ailleurs/lieux/Padhiver.md",
+        "Mondes/Chronique du danger d'ailleurs/Côte des Épées.md"
       ]
     }
   ],
@@ -57,7 +59,46 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 8,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[neverwinter-map.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[neverwinter-map.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "leaflet-map",
+    "lat": 50,
+    "long": 50,
+    "unit": "meters",
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "metric",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",

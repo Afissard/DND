@@ -100,7 +100,7 @@ Overflow: Hidden
 ![[Linn_prisonière.jpg]]
 
 # Histoire
-Fille adoptive d'[[Isarn Doyen du temple de Lathandre]], elle a été confié à sa naissance au [[temple de Lathandre]]. Alors qu'elle allais rendre une visite à son père, elle s'est fais attaquer par des [[Parasite]]s, elle a ensuite quelque jour plus tard attaquer [[Felix Lex le Juge]] avant de se faire maîtriser et envoyer dans les geôles du [[poste de garde]]
+Fille adoptive d'[[Isarn Doyen du temple de Lathandre]], elle a été confié à sa naissance au [[temple de Lathandre]]. Alors qu'elle allais rendre une visite à son père, elle s'est fais attaquer par des [[Campagnes/Mystère de Lamar/personnages/Parasite]]s, elle a ensuite quelque jour plus tard attaquer [[Felix Lex le Juge]] avant de se faire maîtriser et envoyer dans les geôles du [[poste de garde]]
 #TODO 
 # Objectif
 A perdu toute forme de volonté depuis qu'elle est affecté par le [[Parasites]].
