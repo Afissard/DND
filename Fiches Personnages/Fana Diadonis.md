@@ -6,8 +6,8 @@ tags:
   - pnj
 monde:
 ---
-# Fana
-*Humanoïde (demi elfe) de taille M, chaotique neutre, noble, classe niveau ensorceleuse du phœnix (6) et paladin de l'héroïsme (2)*
+# Fana Diadonis
+*Humanoïde (demi elfe) de taille M, chaotique neutre, noble, ensorceleuse du phœnix (6) et paladin de l'héroïsme (2)* 
 ___
 --- start-multi-column: Fiche-Personnage  
 ```column-settings  
@@ -15,6 +15,7 @@ number of columns: 2
 Border: disabled
 Shadow: off
 Overflow: Hidden
+Auto Layout: on
 ```
 
 |   FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
@@ -38,25 +39,58 @@ Overflow: Hidden
 |           Armes           |                               arme simple, arme de guerres                                |
 |          Armure           |                       amure légère, armure intermédiaire, bouclier                        |
 |         Puissance         |                                        1 (200 PX)                                         |
-## Actions
-**Dague**. *Corps à corps* : +0 (1d4+0 perforant - finesse, légère, lancer (portée 6 m/18 m))  
+## Combats
 
-## Actions bonus
-**Nom de l'action bonus**. Description de l'action bonus.  
+| Nom    | bonus | dégâts          | notes                                     |
+| ------ | ----- | --------------- | ----------------------------------------- |
+| daggue | +0    | 1d4+0 perforant | finesse, légère, lancer (portée 6 m/18 m) |
+## Magie
 
-## Réactions
-**Nom de la réaction**. Description de la réaction.  
+| Classe (caractéristique) | Ensorceleur & Paladin (charisme)   |
+| ------------------------ | ---------------------------------- |
+| Sorts à préparer         | 5 mineurs + 7 majeurs \| 6 majeurs |
+| DD de sauvegarde         | 15                                 |
+| Bonus d'attaque          | +7                                 |
 
+| Emplacements |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
+| :----------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|   utilisé    | 0/4 | 0/3 | 0/3 | 0/1 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0 |
+
+| Niveau | Nom                 | Temps d'incantation & Durée | Concentration, Rituel, Composants | Notes |
+| ------ | ------------------- | --------------------------- | --------------------------------- | ----- |
+| 0      | trait de feu        | 1 action                    |                                   |       |
+| 0      | illusion mineur     | 1 action                    |                                   |       |
+| 0      | main de mage        | 1 action                    |                                   |       |
+| 0      | message             | 1 action                    |                                   |       |
+| 0      | prestigitation      | 1 action                    |                                   |       |
+| 1      | main brûlante       | 1 action                    |                                   |       |
+| 1      | nappe de brouillard | 1 action                    |                                   |       |
+| 2      | foulé brumeuse      | 1 action bonus              |                                   |       |
+| 2      | rayon ardent        | 1 action                    |                                   |       |
+| 3      | boule de feu        | 1 action                    |                                   |       |
+| 3      | vol                 | 1 action                    |                                   |       |
+| 3      | contre sort         | 1 action bonus              |                                   |       |
+
+| Niveau | Nom                 | Temps d'incantation & Durée | Concentration, Rituel, Composants | Notes |
+| ------ | ------------------- | --------------------------- | --------------------------------- | ----- |
+| 1      | châtiment calcinant | 1 action bonus              |                                   |       |
+| 1      | duel forcé          | 1 action bonus              |                                   |       |
+| 1      | injonction          | 1 action                    |                                   |       |
+| 3      | arme élémentaire    | 1 action                    |                                   |       |
+| 3      | aura de vitalité    | 1 action                    |                                   |       |
+| 3      | châtiment aveuglant | 1 action bonus              |                                   |       |
 ## Inventaire
+
 | PP  | PO  | PE  | PA  | PC  |
 | :-: | :-: | :-: | :-: | :-: |
 |  0  |  0  |  0  |  0  |  0  |
 
-| Objet | Description |
-| ----- | ----------- |
-| dague |             |
-
---- end-column ---
+| Objet                | Description |
+| -------------------- | ----------- |
+| dagues (2)           |             |
+| Arbalète légère      |             |
+| focaliseur arcanique |             |
+| sac d'explorateur    |             |
 
 ## Capacités
 **Vision dans le noir.** Grâce à votre sang elfe, vous avez une vision supérieure dans le noir et les conditions de faible éclairage. Vous pouvez voir à 18 mètres dans une lumière faible comme vous verriez avec une lumière vive, et dans le noir comme vous verriez avec une lumière faible. Dans le noir, vous ne discernez pas les couleurs, uniquement des nuances de gris.
@@ -118,9 +152,9 @@ Vous pouvez également dépenser 5 points de vie de votre réserve pour guérir 
 # Description
 Description du personnage
 https://www.aidedd.org/dnd-5/unearthed-arcana/origines-magiques-densorceleur/#phoenix
-
+Personnage egocentrique, aspire à devenir un dieux vivant en s'incarnant en Phoenix, à un style de combats très, flamboyant...
 # Histoire
-Histoire du personnage
+Noble de ?, lorsque ses pouvoirs de Phoenix se manifestent, Fana vois en elle le début d'une prophétie, son ego gonflé par cette idée elle se lance dans la vie d'aventure pour développé un nouveau culte tourné sur sa propre personne.
 
 # Objectif
 Objectif du personnage

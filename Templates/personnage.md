@@ -15,6 +15,7 @@ number of columns: 2
 Border: disabled
 Shadow: off
 Overflow: Hidden
+Auto Layout: on
 ```
 
 |   FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
@@ -38,17 +39,27 @@ Overflow: Hidden
 |           Armes           |         aucun         |
 |          Armure           |         aucun         |
 |         Puissance         |      1 (200 PX)       |
-## Actions
-**Dague**. *Corps à corps* : +0 (1d4+0 perforant - finesse, légère, lancer (portée 6 m/18 m))  
+## Combats
 
-## Actions bonus
-**Nom de l'action bonus**. Description de l'action bonus.  
+| Nom    | bonus | dégâts          | notes                                     |
+| ------ | ----- | --------------- | ----------------------------------------- |
+| daggue | +0    | 1d4+0 perforant | finesse, légère, lancer (portée 6 m/18 m) |
 
-## Réactions
-**Nom de la réaction**. Description de la réaction.  
+## Magie
 
-## Actions légendaires
-**Nom de l'action légendaires**. Description de l'action légendaire  
+| Classe (caractéristique)      |     |
+| ----------------------------- | --- |
+| Sorts à préparer chaque jours |     |
+| DD de sauvegarde              |     |
+| Bonus d'attaque               |     |
+
+| Emplacements |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
+| :----------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|   utilisé    | 0/0 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0 |
+
+| Niveau | Nom | Temps d'incantation & Durée | Concentration, Rituel, Composants | Notes |
+| ------ | --- | --------------------------- | --------------------------------- | ----- |
+|        |     |                             |                                   |       |
 
 ## Inventaire
 | PP  | PO  | PE  | PA  | PC  |
@@ -58,8 +69,6 @@ Overflow: Hidden
 | Objet | Description |
 | ----- | ----------- |
 | dague |             |
-
---- end-column ---
 
 ## Capacités
 **Nom de la capacité**. Description de la capacité.  
