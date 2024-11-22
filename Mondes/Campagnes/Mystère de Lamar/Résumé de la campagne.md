@@ -1,4 +1,4 @@
-[[Le Compte Mordred De Lamar]] est retrouvé mort dans son lit, un groupe d'aventuriers est commissionné par [[La Comtesse Aliénor De Lamar]] pour éclaircir le mystère de sa mort. Malheureusement tout n'iras pas dans le sens des héros quand ils découvriront que personnes n'a les mains propre dans le petit village de [[Campagnes/Mystère de Lamar/lieux/Conyberry]].
+[[Le Compte Mordred De Lamar]] est retrouvé mort dans son lit, un groupe d'aventuriers est commissionné par [[La Comtesse Aliénor De Lamar]] pour éclaircir le mystère de sa mort. Malheureusement tout n'iras pas dans le sens des héros quand ils découvriront que personnes n'a les mains propre dans le petit village de [[Mondes/Campagnes/Mystère de Lamar/lieux/Conyberry]].
 
 # Chapitre 1 : Le Mystère De Lamar
 ```timeline-labeled

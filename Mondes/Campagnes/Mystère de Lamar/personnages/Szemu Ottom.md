@@ -91,10 +91,10 @@ Description du personnage
 #TODO 
 ___
 ## Histoire
- [[Campagnes/Mystère de Lamar/personnages/Yeshih Ottom]], c'est elle qui a tué [[Le Compte Mordred De Lamar]].
+ [[Mondes/Campagnes/Mystère de Lamar/personnages/Yeshih Ottom]], c'est elle qui a tué [[Le Compte Mordred De Lamar]].
 ___
 ## Objectif
-Elle et [[Campagnes/Mystère de Lamar/personnages/Yeshih Ottom]] sont envoyés par le temple de [Sseth](https://forgottenrealms.fandom.com/wiki/Sseth) récupérer la [[dague De Lamar]], de laquelle serais enfermé l'âme d'un des plus puissant Yuan-ti que le monde est jamais connus.
+Elle et [[Mondes/Campagnes/Mystère de Lamar/personnages/Yeshih Ottom]] sont envoyés par le temple de [Sseth](https://forgottenrealms.fandom.com/wiki/Sseth) récupérer la [[dague De Lamar]], de laquelle serais enfermé l'âme d'un des plus puissant Yuan-ti que le monde est jamais connus.
 ___
 ## Notes
 prise de notes

@@ -56,7 +56,7 @@ C'est un très veil homme, consacrer dès sa naissance à Lathandre , il a pass�
 ___
 ## Histoire
 Isarn est né avec des dons pour la divination et les a développé durant ses études de prêtrise.
-Il est le père adoptif de [[Campagnes/Mystère de Lamar/personnages/Linn prêtresse de Lathandre]] qui a été confié à son temple il y a une vingtaine d'année, bien que celle-ci ai décidé de vivre une vie d'aventurière, elle passe de temps à autre le visiter au [[temple de Lathandre]] pour lui raconter ses adventure et lui demander conseil.
+Il est le père adoptif de [[Mondes/Campagnes/Mystère de Lamar/personnages/Linn prêtresse de Lathandre]] qui a été confié à son temple il y a une vingtaine d'année, bien que celle-ci ai décidé de vivre une vie d'aventurière, elle passe de temps à autre le visiter au [[temple de Lathandre]] pour lui raconter ses adventure et lui demander conseil.
 ___
 ## Objectif
 Objectif du personnage

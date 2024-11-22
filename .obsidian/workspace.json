@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "46aaf9f9a41cb750",
+        "id": "552221bcbafcb3dd",
         "type": "tabs",
         "children": [
           {
-            "id": "f350ecb5ee6a5596",
+            "id": "f0bab67a4ee52e30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fiches Personnages/Fana Diadonis.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Fana Diadonis"
             }
           }
         ]
@@ -175,8 +179,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "f350ecb5ee6a5596",
+  "active": "f0bab67a4ee52e30",
   "lastOpenFiles": [
+    "Templates/personnage.md",
+    "DND-Plugin.md",
     "Système/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
     "Système/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
     "Système/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
@@ -186,7 +192,6 @@
     "Ressources/Sorts/Frappe piégeuse.md",
     "Ressources/Sorts/Foulée brumeuse.md",
     "Ressources/Sorts/Marque du chasseur.md",
-    "Templates/personnage.md",
     "Ressources/Images/Olrox-2.webp",
     "Ressources/Images/olrox-1.jpg",
     "Ressources/Images/objectif de Ghal Mordal.jpg",

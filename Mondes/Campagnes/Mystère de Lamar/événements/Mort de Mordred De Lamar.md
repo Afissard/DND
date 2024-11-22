@@ -1,0 +1,1 @@
+Par une nuit de pleine lune, [[Le Compte Mordred De Lamar]] est assassiné dans sa chambre par [[Mondes/Campagnes/Mystère de Lamar/personnages/Szemu Ottom]], qui dérobe la [[dague De Lamar]].

@@ -43,7 +43,7 @@ ___
 	- **Désarmement**. Si vous touchez une créature lors d'une attaque avec une arme, vous pouvez dépenser un dé de supériorité pour tenter de désarmer la cible, la forçant à lâcher un objet de votre choix qu’elle a en main. Vous ajoutez le dé de supériorité aux dégâts de l’attaque, et la cible doit faire un jet de sauvegarde de Force. En cas d’échec, elle lâche l’objet que vous avez désigné. L’objet tombe à ses pieds.
 - Vous gagnez ~~un~~ *trois* dé de supériorité, qui ~~est~~ *sont* ~~un~~ *des* d6 (ce dé s'ajoute à tous autres dés de supériorité que vous pourriez avoir gagnés d'une autre source). Ce dé est utilisé pour alimenter vos manœuvres. Un dé de supériorité est dépensé lorsque vous l'utilisez. Vous regagnez vos dés de supériorité dépensés lorsque vous terminez un repos court ou long.
 
-![[Campagnes/Mystère de Lamar/personnages/Parasite#Parasite supérieur (niveau 6 à 9)]]
+![[Parasite#Parasite supérieur (niveau 6 à 9)]]
 
 ___
 ### Actions
@@ -69,10 +69,10 @@ ___
 ![[Linn_prisonière.jpg]]
 ___
 ## Histoire
-Fille adoptive d'[[Isarn Doyen du temple de Lathandre]], elle a été confié à sa naissance au [[temple de Lathandre]]. Alors qu'elle allais rendre une visite à son père, elle s'est fais attaquer par des [[Campagnes/Mystère de Lamar/personnages/Parasite]]s, elle a ensuite quelque jour plus tard attaquer [[Felix Lex le Juge]] avant de se faire maîtriser et envoyer dans les geôles du [[poste de garde]]
+Fille adoptive d'[[Isarn Doyen du temple de Lathandre]], elle a été confié à sa naissance au [[temple de Lathandre]]. Alors qu'elle allais rendre une visite à son père, elle s'est fais attaquer par des [[Parasite]]s, elle a ensuite quelque jour plus tard attaquer [[Felix Lex le Juge]] avant de se faire maîtriser et envoyer dans les geôles du [[poste de garde]]
 ___
 ## Objectif
-A perdu tout objectifs depuis qu'elle est infestée par le [[Campagnes/Mystère de Lamar/personnages/Parasite]].
+A perdu tout objectifs depuis qu'elle est infestée par le [[Parasite]].
 ___
 ## Notes
 prise de notes

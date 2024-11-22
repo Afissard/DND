@@ -1,2 +1,0 @@
-Des serpent on été vue dans la forêt et on attaqué les bûcherons.
-> Si les joueurs vont enquêter il trouveront d'abord des serpents géants, si il réussissent un jet de perception DD 15 (ou perception passive), ils entreverront l'ombre de [[Campagnes/Mystère de Lamar/personnages/Yeshih Ottom]] qui les guideras vers [[la mare]].
