@@ -52,24 +52,27 @@ Occultiste (2) : 2 sorts mineurs, 3 sorts connus
 | Caractéristique <br>d'incantation | DD des sauvegarde <br>des sorts | Bonus d'attaque <br>avec un sort | **Niveau <br>d'emplacement** | **Emplacements** |
 | :-------------------------------: | :-----------------------------: | :------------------------------: | :--------------------------: | :--------------: |
 |             Charisme              |               13                |                +5                |              1               |       0/2        |
-**Sort mineurs**
-- thaumaturgie (Tieffelin)
-- décharge occulte
-- illusion mineur
-- ~~main de mage~~
 
-**Sorts (Tieffelin)**
-1. représailles infernal
-2. ténèbres
+| Niveau | Nom                     | Temps d'incantation & Durée | Concentration, Rituel, Composants | Notes     |
+| ------ | ----------------------- | --------------------------- | --------------------------------- | --------- |
+| 0      | thaumaturgie            |                             |                                   | Tieffelin |
+| 0      | décharge occulte        |                             |                                   |           |
+| 0      | illusion mineur         |                             |                                   |           |
+| 0      | *main de mage*          |                             |                                   | *next*    |
+| 1      | représailles infernal   |                             |                                   | Tieffelin |
+| 2      | ténèbres                |                             |                                   | Tieffelin |
+| 1      | lueurs féeriques        |                             |                                   | Archifée  |
+| 1      | sommeil                 |                             |                                   | Archifée  |
+| 2      | apaisement des émotions |                             |                                   | Archifée  |
+| 2      | force fantasmagorique   |                             |                                   | Archifée  |
+| 3      | clignotement            |                             |                                   | Archifée  |
+| 3      | croissance végétale     |                             |                                   | Archifée  |
+| 4      | domination de bête      |                             |                                   | Archifée  |
+| 4      | invisibilité supérieure |                             |                                   | Archifée  |
+| 1      | maléfice                |                             |                                   |           |
+| 1      | charme personne         |                             |                                   |           |
+| 1      | repli expéditif         |                             |                                   |           |
 
-**Sorts (Archifée)**
-1. lueurs féeriques, sommeil
-2. apaisement des émotions, force fantasmagorique
-3. clignotement, croissance végétale
-4. domination de bête, invisibilité supérieure
-
-**Sorts (Occultiste)**
-1. maléfice, charme personne, repli expéditif
 
 ---
 

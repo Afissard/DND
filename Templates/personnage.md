@@ -41,9 +41,9 @@ Auto Layout: on
 |         Puissance         |      1 (200 PX)       |
 ## Combats
 
-| Nom    | bonus | dégâts          | notes                                     |
-| ------ | ----- | --------------- | ----------------------------------------- |
-| daggue | +0    | 1d4+0 perforant | finesse, légère, lancer (portée 6 m/18 m) |
+| Nom   | bonus | dégâts          | notes                                     |
+| ----- | ----- | --------------- | ----------------------------------------- |
+| dague | +0    | 1d4+0 perforant | finesse, légère, lancer (portée 6 m/18 m) |
 
 ## Magie
 
