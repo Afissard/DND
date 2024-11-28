@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bff138793638b4a5",
+        "id": "4dc7aa385bde3e3a",
         "type": "tabs",
         "children": [
           {
-            "id": "b157358e5fdde6d4",
+            "id": "807be88b39971d74",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches Personnages/Vaern/Vaern Varnegheim.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Vaern Varnegheim"
+              "title": "New tab"
             }
           }
         ]
@@ -79,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "322e8e7c887f9f8a",
@@ -182,21 +175,33 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "b157358e5fdde6d4",
+  "active": "807be88b39971d74",
   "lastOpenFiles": [
-    "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Mondes/Ayihyala/Personnages/Héros de la Forge/Héros de la Forge.md",
+    "Mondes/Ayihyala/Personnages/Alia/Alia.md",
+    "Mondes/Ayihyala/Objets/Dé de Pouvoir.md",
+    "Mondes/Ayihyala/Objets/Dague de Shar.md",
+    "Mondes/Ayihyala/Lieux/Vallée enchantée/La forge.md",
+    "Système/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
+    "Système/Règles/5e_Ability-Score-Table_5e.webp",
+    "Système/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
+    "Mondes/Ayihyala/Personnages/Alia/Alia.pdf",
+    "Mondes/Ayihyala/Objets/Anneau d'agrandissment mineur.md",
+    "Mondes/Ayihyala/Main Page.md",
+    "Mondes/Ayihyala/Personnages/Héros de la Forge",
     "Fiches Personnages/Vaern/Vaern Varnegheim.md",
-    "Templates/personnage.md",
+    "Fiches Personnages/Vaern/dnd_vaern_12.pdf",
+    "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Fiches Personnages/Vaern/vaern_clerc.pdf",
     "Système/Règles/dnd_multiclasse.pdf",
+    "Templates/personnage.md",
     "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin.md",
     "Fiches Personnages/Perceonne.md",
     "Fiches Personnages/Fana Diadonis.md",
     "DND-Plugin.md",
     "Système/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
     "Système/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
-    "Système/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
-    "Système/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Sorts/Frappe piégeuse.md",
     "Ressources/Sorts/Foulée brumeuse.md",
     "Ressources/Sorts/Marque du chasseur.md",
@@ -210,10 +215,6 @@
     "Ressources/Images/blasphemous-02.webp",
     "Ressources/Images/blasphemous-01.jpg",
     "Fiches Personnages/Taxe Paladin.md",
-    "Mondes/Dungeon Rush/fiches personnages/Berserker Tribal.pdf",
-    "Fiches Personnages/Vaern/dnd_vaern_12.pdf",
-    "Ressources/Fiches personnages/Character Details (Optional) - Print Version.pdf",
-    "Ressources/Fiches personnages/Character Details (Optional) - Form Fillable.pdf",
     "Ressources/Sorts/Illusion mineure.md",
     "Ressources/Sorts/Arme magique.md",
     "Ressources/Sorts/Rayon Empoisonné.md",
@@ -221,14 +222,6 @@
     "Mondes/Dungeon Rush/Combat.md",
     "Mondes/Dungeon Rush/fiches personnages/Idée de fiches.md",
     "Mondes/Dungeon Rush/fiches personnages/Saber.md",
-    "Mondes/Dungeon Rush/fiches personnages/Clerc de la lumière.md",
-    "Mondes/Dungeon Rush/ressources/donjon/DDN-niveaumoins2-SOUTERRAINS.jpg",
-    "Mondes/Dungeon Rush/Cartes du donjon.md",
-    "Mondes/New Padhiver/Chronique de New Padhiver.md",
-    "Mondes/New Padhiver/Poudre de Leira.md",
-    "Fiches Personnages/Neva.md",
-    "Mondes/Cluedo OneShot/Personnage/P1.md",
-    "Mondes/Cluedo OneShot/Le manoir.md",
     "Mondes/Chronique du danger d'ailleurs/timeline.canvas"
   ]
 }

@@ -161,7 +161,7 @@ ___
 | Objet                                                  | Description                                                                                                           |
 | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
 | dague                                                  |                                                                                                                       |
-| Dague en argent                                        |                                                                                                                       |
+| Dague en argent                                        | il y a des ornement et gravures (à ré-identifié -> magie)                                                             |
 | Focaliseur Arcanique                                   |                                                                                                                       |
 | Sacoche ingrédient                                     |                                                                                                                       |
 | Grosse potion de soin                                  |                                                                                                                       |
@@ -173,7 +173,7 @@ ___
 | Carte de visite du "mage" Greed le Nain                |                                                                                                                       |
 | Livres                                                 | traité sur la communication avec les morts + voyage dimensionnel (bannissent), livre de remèdes (lèpre, soin mineur). |
 | lingots d'adamantium (3)                               |                                                                                                                       |
-| Grimoire à apprendre                                   | texte illusoire, verrou magique (rayon ardent commandé) (appris : flétrissement)                                      |
+| Grimoire à apprendre                                   | texte illusoire, verrou magique (rayon ardent commandé)~~(appris : flétrissement)~~                                   |
 | Cape de métamorphose                                   |                                                                                                                       |
 | Espadon mécanique télescopique                         | de facture gnome                                                                                                      |
 | cape invulnérabilité au feu                            | (si couvert à 100%)                                                                                                   |
