@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4dc7aa385bde3e3a",
+        "id": "be61cbc5471dd98e",
         "type": "tabs",
         "children": [
           {
-            "id": "807be88b39971d74",
+            "id": "f874f17007b24c4d",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Breweol Perlimpin (Yuan-Ti)"
             }
           }
         ]
@@ -175,8 +181,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "807be88b39971d74",
+  "active": "f874f17007b24c4d",
   "lastOpenFiles": [
+    "Templates/personnage.md",
+    "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
+    "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin.md",
     "Mondes/Ayihyala/Personnages/Héros de la Forge/Héros de la Forge.md",
     "Mondes/Ayihyala/Personnages/Alia/Alia.md",
     "Mondes/Ayihyala/Objets/Dé de Pouvoir.md",
@@ -194,14 +203,11 @@
     "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Vaern/vaern_clerc.pdf",
     "Système/Règles/dnd_multiclasse.pdf",
-    "Templates/personnage.md",
-    "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin.md",
     "Fiches Personnages/Perceonne.md",
     "Fiches Personnages/Fana Diadonis.md",
     "DND-Plugin.md",
     "Système/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
     "Système/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
-    "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
     "Ressources/Sorts/Frappe piégeuse.md",
     "Ressources/Sorts/Foulée brumeuse.md",
     "Ressources/Sorts/Marque du chasseur.md",

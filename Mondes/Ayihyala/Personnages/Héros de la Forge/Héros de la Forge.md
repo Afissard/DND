@@ -22,7 +22,12 @@ en l'échange de la perte du membre lié
 - bonus +1 force
 - contre 50% des pv max gagne l'effet agrandissement
 ## Prothèse bras paratonnerre
-- 3 charges
-- lance le sort contact électrique, éclair (3 charge), châtiment tonitruant (1 charge)
-- peut être rechargé par la foudre (+3 charges) -> paratonnerre : absorbe tout les dégâts et ajoute 1 dé de dégâts par emplacement du sorts reçu (max 10 dé stocker)
-- contre 50% des pv max gagne l'effet hâte / repos long
+- 3 charges pour lancer les sorts suivants :
+	- 0 charge : [poigne électrique](https://www.aidedd.org/dnd/sorts.php?vf=poigne-electrique)
+	- 1 charge : [châtiment tonitruant](https://www.aidedd.org/dnd/sorts.php?vf=chatiment-tonitruant)
+	- 3 charge : [éclaire](https://www.aidedd.org/dnd/sorts.php?vf=eclair)
+- Paratonnerre : absorbe les dégâts de foudre et recharge le bras d'une charge par emplacement de sort utilisé pour lancé l'attaque (ou équivalent, exemple la foudre d'un orage donne 3 charges)
+- Gagne l'effet du sort [hâte](https://www.aidedd.org/dnd/sorts.php?vf=hate) en sacrifiant au bras 50% des pv max (une fois par repos long).
+## écu du forcené
+- Donne 1 de CA
+- En réaction à des dégâts physique (contondant, tranchant, percent), vous pouvez interposer l'écu et absorbé ces dégâts, au prochain tour, par une action, vous pouvez renvoyer 50% de ces dégâts en dégâts de force (3 fois par repos long).

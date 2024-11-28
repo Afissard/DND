@@ -23,6 +23,54 @@ ___
 **Armure** armures légères, intermédiaires et lourdes, boucliers 
 **Puissance** ? (??? PX)     **Bonus de maîtrise** +4  
 ___
+### Combats
+
+| Nom                 | bonus | dégâts           | notes                                     |
+| ------------------- | ----- | ---------------- | ----------------------------------------- |
+| dague               | +8    | 1d4+4 perforant  | finesse, légère, lancer (portée 6 m/18 m) |
+| ~~cimetterre~~      | +8    | 1d6+4 tranchant  | finesse                                   |
+| ~~arbalète lourde~~ | +10   | 1d10+4 perforant | portée 45 m/180 m, cible unique           |
+| La dague de Bhaal   | +8    | mort au contact  |                                           |
+### Magie
+
+| Classe (caractéristique)      | Rôdeur (sagesse) | Magicien (intelligence) | Clerc (sagesse) |
+| ----------------------------- | ---------------- | ----------------------- | --------------- |
+| Sorts à préparer chaque jours | 3                | 4                       | 3               |
+| DD de sauvegarde              | 14               | 14                      | 14              |
+| Bonus d'attaque               | +4               | +4                      | +4              |
+
+| Emplacement |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
+| :---------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| **Nombre**  | 2/4 | 1/3 | 2/2 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0 |
+
+| Niveau | Nom                                                             | Temps d'incantation & Durée | Concentration, Rituel, Composants | Notes |
+| ------ | --------------------------------------------------------------- | --------------------------- | --------------------------------- | ----- |
+| 0      | [[Main de mage]]                                                |                             |                                   |       |
+| 0      | [[Message]]                                                     |                             |                                   |       |
+| 0      | [[Illusion mineure]]                                            |                             |                                   |       |
+| 0      | [[Bouffée de poison]]                                           |                             |                                   |       |
+| 0      | Thaumaturgie                                                    |                             |                                   |       |
+| 0      | Stabilisation                                                   |                             |                                   |       |
+| 0      | Assistance                                                      |                             |                                   |       |
+| 1      | [[Marque du chasseur]]                                          |                             |                                   |       |
+| 1      | [[Frappe piégeuse]]                                             |                             |                                   |       |
+| 1      | Grêle d'épines                                                  |                             |                                   |       |
+| 1      | ~~[[Rayon Empoisonné]] (magicien)~~                             |                             |                                   |       |
+| 1      | [[Amitié avec les animaux]] (serpents uniquement mais illimité) |                             |                                   |       |
+| 1      | Bouclier de la foi (clerc domaine de la guerre)                 |                             |                                   |       |
+| 1      | Faveur divine (clerc domaine de la guerre)                      |                             |                                   |       |
+| 1      | *Mots de guérison action bonus (clerc)*                         |                             |                                   |       |
+| 2      | [[Suggestion]]                                                  |                             |                                   |       |
+| 2      | [[Silence]]                                                     |                             |                                   |       |
+| 2      | ~~[[Aura magique de Nystul]] (magicien)~~                       |                             |                                   |       |
+| 2      | ~~[[Foulée brumeuse]] *action bonus* (magicien)~~               |                             |                                   |       |
+| 2      | ~~[[Arme magique]] (magicien)~~                                 |                             |                                   |       |
+| 2      | [[Arme magique]] (clerc domaine de la guerre)                   |                             |                                   |       |
+| 2      | Arme spirituel (clerc domaine de la guerre)                     |                             |                                   |       |
+| 3      | *esprit gardien (clerc)*                                        |                             |                                   |       |
+| 3      | *création de nourriture et d'eau (clerc)*                       |                             |                                   |       |
+
+---
 ### Capacités
 **Vision dans le noir**. Vous pouvez voir à 18 mètres dans une lumière faible comme vous verriez avec une lumière vive, et dans le noir comme vous verriez avec une lumière faible. Dans le noir, vous ne discernez pas les couleurs, uniquement des nuances de gris.
 
@@ -59,7 +107,7 @@ Lors d'un voyage d'une heure ou plus dans votre terrain favori, vous obtenez les
 
 **Ruse**. À partir du niveau 2, votre vivacité d'esprit et votre agilité vous permettent de vous déplacer et d'agir rapidement. Vous pouvez effectuer une action bonus à chacun de vos tours en combat. Cette action ne peut être utilisée que pour Se désengager, Se cacher ou Foncer.
 
-**Présage (~~14~~, ~~15~~)**. À partir du niveau 2, des aperçus du futur commencent à germer dans votre conscience. Lorsque vous terminez un repos long, lancez deux d20 et notez les résultats. Vous pouvez remplacer n'importe quel jet d'attaque, de sauvegarde ou de caractéristique, qu'il soit lancé par vous ou par une créature que vous pouvez voir, par l'un de ces jets anticipés. Vous devez choisir de faire cela avant de lancer le dé, et vous ne pouvez remplacer qu'un seul jet par tour. Chaque jet anticipé ne peut être utilisé qu'une seule fois. Lorsque vous terminez un repos long, vous perdez tous les jets anticipés non-utilisés.
+**Présage (18, 18)**. À partir du niveau 2, des aperçus du futur commencent à germer dans votre conscience. Lorsque vous terminez un repos long, lancez deux d20 et notez les résultats. Vous pouvez remplacer n'importe quel jet d'attaque, de sauvegarde ou de caractéristique, qu'il soit lancé par vous ou par une créature que vous pouvez voir, par l'un de ces jets anticipés. Vous devez choisir de faire cela avant de lancer le dé, et vous ne pouvez remplacer qu'un seul jet par tour. Chaque jet anticipé ne peut être utilisé qu'une seule fois. Lorsque vous terminez un repos long, vous perdez tous les jets anticipés non-utilisés.
 
 **Prêtre de guerre**. À partir du niveau 1, votre dieu vous inspire lors des combats. Lorsque vous utilisez l’action Attaquer, vous pouvez faire une attaque avec une arme en tant qu’action bonus. Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificateur de Sagesse (minimum 1). Vous regagnez les attaques utilisées à la n d’un repos long.
 
@@ -71,50 +119,6 @@ Lors d'un voyage d'une heure ou plus dans votre terrain favori, vous obtenez les
 - Vous ignorez la propriété chargement des arbalètes que vous maîtrisez. 
 - Être à 1,50 mètre ou moins d'une créature hostile n'impose pas un désavantage à vos jets d'attaque à distance. 
 - Lorsque vous utilisez l'action Attaquer et attaquez avec une arme à une main, vous pouvez utiliser une action bonus pour attaquer avec une arbalète de poing si vous en tenez une.
-
-### Actions
-***Attaque au cimeterre***. *Attaque au corps à corps avec une arme* : +8 au toucher, allonge 1,50 m, une cible. *Touché* : 1d6+4 dégâts tranchant.  
-
-***Tir à l’arbalète lourde***. Attaque à distance avec une arme : +8+2 (archerie) au toucher, portée 45 m/180 m, cible unique. Touché 1d10+4 dégâts perforant.
-
-___
-### Incantation
-*Sorts connus :* 3 (rôdeur), 4 (mage), 3 (clerc)
-*DD de sauvegarde des sorts : 14*
-*Modificateur aux attaques avec un sort : 4*
-
-| Emplacement |  1  |  2  |  3  |
-| :---------: | :-: | :-: | :-: |
-| **Nombre**  | 2/4 | 1/3 | 1/2 |
-#### Sorts
-**Sorts mineurs**
-- [[Main de mage]]
-- [[Message]]
-- [[Illusion mineure]]
-- [[Bouffée de poison]]
-- Thaumaturgie
-- Stabilisation
-- Assistance
-**Sorts niveau 1**
-- [[Marque du chasseur]]
-- [[Frappe piégeuse]]
-- Grêle d'épines 
-- ~~[[Rayon Empoisonné]] (magicien) ~~
-- [[Amitié avec les animaux]] (serpents uniquement mais illimité) 
-- Bouclier de la foi (clerc domaine de la guerre) 
-- Faveur divine (clerc domaine de la guerre) 
-- *Mots de guérison action bonus (clerc)* 
-- *Localisation d'objet (clerc)* 
-**Sorts niveau 2**
-- [[Suggestion]] 
-- [[Silence]]
-- ~~[[Aura magique de Nystul]] (magicien)~~
-- ~~[[Foulée brumeuse]] *action bonus* (magicien)~~
-- ~~[[Arme magique]] (magicien)~~
-- Arme magique (clerc domaine de la guerre) 
-- Arme spirituel (clerc domaine de la guerre) 
-**Sorts niveau 3**
-- *création de nourriture et d'eau (clerc)* 
 
 ___
 ### Inventaire
@@ -129,18 +133,30 @@ ___
 **Sac d'explorateur (10 po)**. Comprend un sac à dos, un sac de couchage, une gamelle, une boite d'allume-feu, 10 torches, 20 jours de rations et une gourde d'eau. Le sac comprend aussi 15 mètres de corde de chanvre attachée sur son côté.
 **Ermite**. un étui à parchemin remplis de notes sur vos études ou vos prières, une couverture pour l'hiver, des vêtements communs, un kit d'herboriste. 
 **Grimoire**. Un grimoire de mage. 
-**Collier de Déni**. Invoque Déni pour un coup de 1 ans par minutes.
+**Collier de Déni**. Invoque Déni pour un coup de 1 ans par minutes. *ptn j'aurais du t'invoqué comme bouclier humain*
 **Cube**. Cadeaux du yarl de Ygg -> créer un cube de chaleur qui protège ?, idéal pour un campement, pour une personne ? explose si détruit~~
 **Fruit**. (2)
 **Clef du Petit Prince**. cf un dessin, informe si des personnes dorme, à essayé la nuit
 **Potion de soins mineurs**.
 **Dagues (2)**.
 
+
+| Objet                   | Description                                                                                            |
+| ----------------------- | ------------------------------------------------------------------------------------------------------ |
+| Dagues (2)              |                                                                                                        |
+| Potion de soins mineurs |                                                                                                        |
+| Clef du Petit Prince    |                                                                                                        |
+| Fruit (2)               |                                                                                                        |
+| La dague de Bhaal       | Tue instantanément mais en contrepartie condamne sont utilisateur à mourir de cette même dague un jour |
+
+
 ___
 ## Description
 Brewshuh est un Yuan-ti quadragénaire, pendant de longue année il a porté les vêtement traditionnel yuan-ti, mais depuis qu'il vit parmi les Hommes il opte pour des vêtements de voyage confortable et passe partout. Il porte une cape faites enchevêtrement de fourrures et de tissus par dessus une vielle et usée armure de cuir, lorsqu'il se déplace et combat Brewshuh porte un casque orné du symbole de Sseth, qu'il couvre ensuite de voiles ainsi que le reste de son visage, ne laissant à découvert que ses yeux et son nez. Sa peau tannée par le soleil et ses trait coupé tirés et usés par le temps font ressortir ses yeux marrons aux pupilles reptiliennes pleine de sagesses et de mystères.
 Alors qu'il vivait encore en ermitage, Brewshuh à commencer à développer une aura magique de plus en plus forte, ce qui lui donne l'apparence d'être un mage bien plus puissant qu'il ne l'est véritablement (*cf [[Aura magique de Nystul]]*).
 Froid et consciencieux aux premiers abords, Brewshuh est en réalité plutôt bon vivant, il aime se remémorer et partager ses aventures passées tout en apprécient du tabac et du thé de sa composition.
+
+Ecorché suite à l'épisode des 41 cavaliers.
 
 ___
 ## Histoire
@@ -152,6 +168,7 @@ A perdu 1 ans de vie en invoquant Deni l'Alhoon (qui est un peu nul en combat ce
 ___
 ## Objectif
 Il souhaite souhaite éliminer tout danger pour son peuple, il perçois les créatures de la Tour de la Vérité comme étant un danger hautement mortel. Il aspire à devenir à grimper les échelon de la société Yuan-ti (devenir un Malison puis une Abomination) ainsi qu'a perfectionner sa maîtrise des arbalètes (devenir tireur d'élite (don)).
+Sa mort ne la pas refroidi quand à sa quête de justice et redressement du peuple humain bien inférieur, mais lui a aussi rappeler pourquoi il avais choisi de s'isoler de son peuple avant de recevoir sa prophétie. Il compte désormais tué de sa main les quatre véritable ainsi que débarrasser du monde des organes de Mollock d'une manière ou d'une autre. Après cela il prendra pour de bon sa retraite, surement à aider dans un petit village dans le besoin ou bien dans un temple de moine (du petit prince). 
 
 ___
 ## Notes
