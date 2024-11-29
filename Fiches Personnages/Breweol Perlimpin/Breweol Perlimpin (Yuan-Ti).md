@@ -12,7 +12,7 @@ ___
 ___
 **Jets de sauvegarde** Force (+4), Dextérité (+8) 
 **Compétences** Discrétion (+12), Perception (+6), Nature (+6), Médecine (+6), Religion (+6), Intimidation (+9)
-**Vulnérabilités aux dégâts** aucun, feu (couvert d'huile)
+**Vulnérabilités aux dégâts** aucun, feu (couvert d'huile) 
 **Résistances aux dégâts** Poison, Magie (jet de sauvegarde) 
 **Immunités aux dégâts** aucun 
 **Immunités aux états** aucun  

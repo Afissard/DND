@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "be61cbc5471dd98e",
+        "id": "bee6d484c05e5b24",
         "type": "tabs",
         "children": [
           {
-            "id": "f874f17007b24c4d",
+            "id": "cd3066e18a71c8a9",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Breweol Perlimpin (Yuan-Ti)"
+              "title": "New tab"
             }
           }
         ]
@@ -181,36 +175,44 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "f874f17007b24c4d",
+  "active": "cd3066e18a71c8a9",
   "lastOpenFiles": [
-    "Templates/personnage.md",
+    "Système/Règles/dnd_multiclasse.pdf",
+    "Fiches Personnages/Av'pala.md",
+    "Système/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
+    "future organisation du vault.md",
+    "Fiches Personnages/Famille Mordal/Candide Mordal.md",
+    "Fiches Personnages/Famille Mordal/Ea Meloflow Mordal.md",
+    "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
+    "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
+    "Fiches Personnages/Liam Seraphim/Liam Seraphim v2.md",
+    "Fiches Personnages/Taxe Paladin.md",
+    "Fiches Personnages/Neva.md",
+    "Fiches Personnages/Lothar le compte déchu.md",
+    "Fiches Personnages/Fana Diadonis.md",
+    "Fiches Personnages/Dorn, prêtre de Lathandre et nécromancien.md",
+    "Fiches Personnages/Bobli Tauseq.md",
     "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
+    "Fiches Personnages/Vaern/Vaern Varnegheim.md",
+    "Mondes/Ayihyala/Objets/Dé de Pouvoir.md",
+    "Templates/personnage.md",
     "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin.md",
     "Mondes/Ayihyala/Personnages/Héros de la Forge/Héros de la Forge.md",
     "Mondes/Ayihyala/Personnages/Alia/Alia.md",
-    "Mondes/Ayihyala/Objets/Dé de Pouvoir.md",
     "Mondes/Ayihyala/Objets/Dague de Shar.md",
     "Mondes/Ayihyala/Lieux/Vallée enchantée/La forge.md",
-    "Système/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
     "Système/Règles/5e_Ability-Score-Table_5e.webp",
     "Système/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
     "Mondes/Ayihyala/Personnages/Alia/Alia.pdf",
     "Mondes/Ayihyala/Objets/Anneau d'agrandissment mineur.md",
     "Mondes/Ayihyala/Main Page.md",
     "Mondes/Ayihyala/Personnages/Héros de la Forge",
-    "Fiches Personnages/Vaern/Vaern Varnegheim.md",
-    "Fiches Personnages/Vaern/dnd_vaern_12.pdf",
-    "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
-    "Fiches Personnages/Vaern/vaern_clerc.pdf",
-    "Système/Règles/dnd_multiclasse.pdf",
     "Fiches Personnages/Perceonne.md",
-    "Fiches Personnages/Fana Diadonis.md",
-    "DND-Plugin.md",
-    "Système/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
-    "Système/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Sorts/Frappe piégeuse.md",
-    "Ressources/Sorts/Foulée brumeuse.md",
-    "Ressources/Sorts/Marque du chasseur.md",
     "Ressources/Images/Olrox-2.webp",
     "Ressources/Images/olrox-1.jpg",
     "Ressources/Images/objectif de Ghal Mordal.jpg",
@@ -220,14 +222,6 @@
     "Ressources/Images/image personnage placeholder.png",
     "Ressources/Images/blasphemous-02.webp",
     "Ressources/Images/blasphemous-01.jpg",
-    "Fiches Personnages/Taxe Paladin.md",
-    "Ressources/Sorts/Illusion mineure.md",
-    "Ressources/Sorts/Arme magique.md",
-    "Ressources/Sorts/Rayon Empoisonné.md",
-    "Mondes/Dungeon Rush/Dungeon Rush.md",
-    "Mondes/Dungeon Rush/Combat.md",
-    "Mondes/Dungeon Rush/fiches personnages/Idée de fiches.md",
-    "Mondes/Dungeon Rush/fiches personnages/Saber.md",
     "Mondes/Chronique du danger d'ailleurs/timeline.canvas"
   ]
 }
