@@ -1,0 +1,97 @@
+---
+fini: 
+tags:
+  - personnage
+  - joueur
+monde:
+---
+# Nola de Balhor
+*Humanoïde (humaine) de taille M, neutre neutre, noble déchue, moine niveau 1* 
+___
+--- start-multi-column: Fiche-Personnage  
+```column-settings  
+number of columns: 2
+Border: disabled
+Shadow: off
+Overflow: Hidden
+Auto Layout: on
+```
+
+|   FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| 14 (+2) | 16 (+3) | 14 (+2) | 10 (+0) | 14 (+2) | 10 (+0) |
+
+|            nom            |                                attributs                                |
+| :-----------------------: | :---------------------------------------------------------------------: |
+|      Classe d'armure      |                        15 (défense sans armure)                         |
+|       Points de vie       |                                10 (1d8)                                 |
+|          Vitesse          |                                   9m                                    |
+|     Bonus de maîtrise     |                                   +2                                    |
+|    Jets de sauvegarde     |                         force +4, dextérité +5                          |
+|        Compétences        | Athlétisme +4, Discretion +5, Perception +4, Histoire +2, Persuasion +2 |
+| Vulnérabilités aux dégâts |                                  aucun                                  |
+|  Résistances aux dégâts   |                                  aucun                                  |
+|   Immunités aux dégâts    |                                  aucun                                  |
+|           Sens            |                          Perception passive 14                          |
+|          Langues          |                             commun, elfique                             |
+|          Outils           |                        Jeu d'échecs draconiques                         |
+|           Armes           |                      armes courantes, épée courte                       |
+|          Armure           |                                  aucun                                  |
+|         Puissance         |                               1 (200 PX)                                |
+## Combats
+
+| Nom            | bonus | dégâts           | notes                             |
+| -------------- | ----- | ---------------- | --------------------------------- |
+| poing          | +5    | 1d4+6 contendant |                                   |
+| épée courte    | +5    | 1d6+3 perforant  | finesse                           |
+| fléchette (10) | +5    | 1d4+6 perforant  | finesse, lancer (portée 6 m/18 m) |
+## Inventaire
+
+| PP  | PO  | PE  | PA  | PC  |
+| :-: | :-: | :-: | :-: | :-: |
+|  0  | 25  |  0  |  0  |  0  |
+
+| Objet             | Description                                                                                                                                                                                                     |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| épée courte       |                                                                                                                                                                                                                 |
+| fléchettes        |                                                                                                                                                                                                                 |
+| sac d'explorateur | Comprend un sac à dos, un sac de couchage, une gamelle, une boite d'allume-feu, 10 torches, 10 jours de rations et une gourde d'eau. Le sac comprend aussi 15 mètres de corde de chanvre attachée sur son côté. |
+| historique        | des vêtements fins, une chevalière, une lettre de noblesse.                                                                                                                                                     |
+## Capacités
+**Bagarreur de taverne**. Habitué à vous battre comme un chiffonnier en utilisant tout ce qui vous tombe sous la main, vous obtenez les avantages suivants : 
+- Augmentez votre valeur de *Force* ou de Constitution de 1, jusqu'à un maximum de 20. 
+- Vous maîtrisez les armes improvisées. 
+- Votre attaque à mains nues utilise un d4 pour les dégâts. 
+- Pendant votre tour, si vous touchez une cible avec une attaque à mains nues ou une arme improvisée, vous pouvez utiliser une action bonus pour essayer d'engager une lutte avec la cible.  
+
+--- end-multi-column
+
+---
+# Description
+--- start-multi-column: Description
+```column-settings  
+number of columns: 2
+Border: disabled
+Shadow: off
+Overflow: Hidden
+```
+
+![[Nora 01.jpg]]
+
+--- end-column ---
+
+Dissimulée sous une longue cape de tissu maintenant bien usée, Nola cache son corps encore jeune mais déjà meurtris par la vie, ses courbes élancées de jeune femme ont presque disparue au profils de muscles et de bandages, marques de nombreux combats.
+
+--- end-multi-column
+# Histoire
+Issue d'une famille noble, Nola de Balhor est forcée de fuir pour survire suite à *un événement, causant la déchéance de sa famille et la perte de son bras droit*. Alors qu'elle fuyais depuis quelques jours Nola croisa un vieux moine itinérant qui lui appris les rudiments des traditions monastique. Elle vit depuis au jour le jour, allant de villes en villages.
+# Objectif
+Nola souhaite restauré l'honneur perdu de sa famille, elle aimerais un jour récupérer son bras mais pour le moment elle pense surtout à sa vengeance. Elle rêve de pouvoir maitriser un jour les même pouvoirs que son maître (pas brumeux, téléportation, changement de plan) ... 
+
+# Notes
+~~**Apanage de la noblesse.** Grâce à votre noble naissance, les gens sont enclins à penser le meilleur de vous. Vous êtes le bienvenu dans la haute société, et les gens supposent que vous avez le droit d'être là où vous êtes. Les gens ordinaires font tout pour vous accueillir et éviter de vous déplaire, et les personnes de haute naissance vous traitent comme un membre de leur sphère sociale. Vous pouvez obtenir une audience avec un noble local si vous en avez besoin.~~
+
+prochain dons : 
+**Lutteur.** Vous avez développé les compétences nécessaires pour vous défendre tout seul dans les combats de rues. Vous obtenez les avantages suivants : 
+- Vous avez un avantage aux jets d'attaque contre une créature avec laquelle vous êtes engagé dans une lutte. 
+- Vous pouvez utiliser votre action pour tenter de bloquer une créature avec qui vous avez engagé une lutte. Dans ce cas, faites un nouveau jet de lutte. Si vous réussissez, vous et la créature êtes tous deux entravés jusqu'à ce que la lutte se termine.

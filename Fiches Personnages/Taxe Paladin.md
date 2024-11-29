@@ -4,12 +4,12 @@
 
 | Caractéristique | Valeur | Bonus |
 | --------------- | ------ | ----- |
-| Force           | 17     | 3     |
-| Dextérité       | 10     | 0     |
+| Force           | 15     | 2     |
+| Dextérité       | 17     | 3     |
 | Constitution    | 15     | 2     |
 | Intelligence    | 10     | 0     |
 | Sagesse         | 13     | 1     |
-| Charisme        | 15     | 2     |
+| Charisme        | 10     | 0     |
 # Race : Humain (variente)
 # Dons
 # Classe : Paladin serment de la vengeance

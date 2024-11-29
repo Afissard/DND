@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "bee6d484c05e5b24",
+        "id": "e1b94d7b1f73b20a",
         "type": "tabs",
         "children": [
           {
-            "id": "cd3066e18a71c8a9",
+            "id": "7545a44064bdfc58",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fiches Personnages/Nola de Balhor.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Nola de Balhor"
             }
           }
         ]
@@ -69,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -89,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mondes/New Padhiver/Personnages/Gala Ganja.md",
+                "file": "Fiches Personnages/Nola de Balhor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gala Ganja"
+              "title": "Backlinks for Nola de Balhor"
             }
           },
           {
@@ -154,8 +161,19 @@
               "icon": "lucide-list",
               "title": "Outline of Gala Ganja"
             }
+          },
+          {
+            "id": "9f4ff5f302029ee2",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -175,11 +193,29 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "cd3066e18a71c8a9",
+  "active": "7545a44064bdfc58",
   "lastOpenFiles": [
+    "Fiches Personnages/Breweol Perlimpin (Yuan-Ti).md",
+    "Fiches Personnages/Nola de Balhor.md",
+    "Fiches Personnages/Old & PNJ/Breweol Perlimpin/Breweol Perlimpin.md",
+    "Fiches Personnages/Perceonne.md",
+    "Fiches Personnages/Vaern Varnegheim.md",
+    "Ressources/Images/Nora 01.jpg",
+    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
+    "Système/Règles/bonus-caractéristique.webp",
+    "Fiches Personnages/Taxe Paladin.md",
+    "Fiches Personnages/Old & PNJ/Sorts de mage intéressants.md",
+    "Fiches Personnages/Old & PNJ/Bobli Tauseq.md",
+    "Fiches Personnages/Lothar le compte déchu.md",
+    "Fiches Personnages/Famille Mordal/Asudem Yulia.md",
+    "Fiches Personnages/Liste de perso à faire.md",
+    "Fiches Personnages/Linn Seraphim.md",
+    "Fiches Personnages/Old & PNJ/Linn Seraphim/Linn (Linnaea) Seraphim v2.md",
+    "Fiches Personnages/Old & PNJ/Ea Meloflow/Ea Meloflow.md",
+    "Fiches Personnages/Old & PNJ",
     "Système/Règles/dnd_multiclasse.pdf",
     "Fiches Personnages/Av'pala.md",
-    "Système/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
     "Système/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
     "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Système/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
@@ -190,29 +226,13 @@
     "Fiches Personnages/Famille Mordal/Ea Meloflow Mordal.md",
     "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
     "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
-    "Fiches Personnages/Liam Seraphim/Liam Seraphim v2.md",
-    "Fiches Personnages/Taxe Paladin.md",
+    "Fiches Personnages/Old & PNJ/Liam Seraphim/Liam Seraphim v2.md",
     "Fiches Personnages/Neva.md",
-    "Fiches Personnages/Lothar le compte déchu.md",
     "Fiches Personnages/Fana Diadonis.md",
-    "Fiches Personnages/Dorn, prêtre de Lathandre et nécromancien.md",
-    "Fiches Personnages/Bobli Tauseq.md",
-    "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin (Yuan-Ti).md",
-    "Fiches Personnages/Vaern/Vaern Varnegheim.md",
+    "Fiches Personnages/Old & PNJ/Dorn, prêtre de Lathandre et nécromancien.md",
     "Mondes/Ayihyala/Objets/Dé de Pouvoir.md",
     "Templates/personnage.md",
-    "Fiches Personnages/Breweol Perlimpin/Breweol Perlimpin.md",
-    "Mondes/Ayihyala/Personnages/Héros de la Forge/Héros de la Forge.md",
-    "Mondes/Ayihyala/Personnages/Alia/Alia.md",
-    "Mondes/Ayihyala/Objets/Dague de Shar.md",
-    "Mondes/Ayihyala/Lieux/Vallée enchantée/La forge.md",
-    "Système/Règles/5e_Ability-Score-Table_5e.webp",
     "Système/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
-    "Mondes/Ayihyala/Personnages/Alia/Alia.pdf",
-    "Mondes/Ayihyala/Objets/Anneau d'agrandissment mineur.md",
-    "Mondes/Ayihyala/Main Page.md",
-    "Mondes/Ayihyala/Personnages/Héros de la Forge",
-    "Fiches Personnages/Perceonne.md",
     "Ressources/Images/Olrox-2.webp",
     "Ressources/Images/olrox-1.jpg",
     "Ressources/Images/objectif de Ghal Mordal.jpg",
@@ -221,7 +241,6 @@
     "Ressources/Images/Machiavel Mordal.jpg",
     "Ressources/Images/image personnage placeholder.png",
     "Ressources/Images/blasphemous-02.webp",
-    "Ressources/Images/blasphemous-01.jpg",
     "Mondes/Chronique du danger d'ailleurs/timeline.canvas"
   ]
 }
