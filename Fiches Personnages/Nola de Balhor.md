@@ -42,9 +42,9 @@ Auto Layout: on
 
 | Nom            | bonus | dégâts           | notes                             |
 | -------------- | ----- | ---------------- | --------------------------------- |
-| poing          | +5    | 1d4+6 contendant |                                   |
+| poing          | +5    | 1d4+3 contendant |                                   |
 | épée courte    | +5    | 1d6+3 perforant  | finesse                           |
-| fléchette (10) | +5    | 1d4+6 perforant  | finesse, lancer (portée 6 m/18 m) |
+| fléchette (10) | +5    | 1d4+3 perforant  | finesse, lancer (portée 6 m/18 m) |
 ## Inventaire
 
 | PP  | PO  | PE  | PA  | PC  |
@@ -63,6 +63,13 @@ Auto Layout: on
 - Vous maîtrisez les armes improvisées. 
 - Votre attaque à mains nues utilise un d4 pour les dégâts. 
 - Pendant votre tour, si vous touchez une cible avec une attaque à mains nues ou une arme improvisée, vous pouvez utiliser une action bonus pour essayer d'engager une lutte avec la cible.  
+
+**Défense sans armure.** Dès le niveau 1, tant que vous n'êtes équipé ni d'une armure, ni d'un bouclier, votre CA est égale à 10 + votre modificateur de Dextérité + votre modificateur de Sagesse.
+
+**Arts martiaux.** Au niveau 1, votre pratique des arts martiaux vous donne la maîtrise des styles de combat utilisant les attaques à mains nues et les armes de moine, qui sont l'épée courte et toutes les armes de corps à corps courantes qui n'ont ni la propriété à deux mains, ni la propriété lourde. Vous gagnez les avantages suivants lorsque vous êtes à mains nues ou ne maniez que des armes de moine et que vous n'êtes équipé ni d'armure ni de bouclier :
+- Vous pouvez utiliser la Dextérité à la place de la Force aux jets d'attaque et de dégâts de vos attaques à mains nues et avec des armes de moine.
+- Vous pouvez lancer un d4 à la place des dégâts normaux de votre attaque à mains nues ou de vos armes de moine. Ce dé change lorsque vous gagnez des niveaux de moine, comme indiqué dans la colonne Arts martiaux de la table ci-dessus.
+- Lorsque vous utilisez l'action Attaquer avec une attaque à mains nues ou une arme de moine au cours de votre tour, vous pouvez effectuer une attaque à mains nues au prix d'une action bonus. Par exemple, si vous prenez l'action Attaque et attaquez avec un bâton, vous pouvez également effectuer une attaque à mains nues avec votre action bonus, à condition que vous n'ayez pas déjà utilisé votre action bonus pour ce tour.
 
 --- end-multi-column
 

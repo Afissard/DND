@@ -1,1 +1,0 @@
-Suite à la [[Mort de Mordred De Lamar]], [[La Comtesse Aliénor De Lamar]] fait appel à un groupe d'aventurier pour résoudre le mystère.

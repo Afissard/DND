@@ -1,0 +1,1 @@
+possesseur originel de la [[dague De Lamar]] et ancêtre du [[Le Compte Mordred De Lamar]]

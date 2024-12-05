@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e1b94d7b1f73b20a",
+        "id": "1228acec028c48f0",
         "type": "tabs",
         "children": [
           {
-            "id": "7545a44064bdfc58",
+            "id": "ec062c68a201e4ea",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches Personnages/Nola de Balhor.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Nola de Balhor"
+              "title": "New tab"
             }
           }
         ]
@@ -193,16 +187,25 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "7545a44064bdfc58",
+  "active": "ec062c68a201e4ea",
   "lastOpenFiles": [
+    "Fiches Personnages/Vaern Varnegheim.md",
     "Fiches Personnages/Breweol Perlimpin (Yuan-Ti).md",
+    "Mondes/Chronique d'une nouvelle ère/homebrew/Parasites.md",
+    "Mondes/Chronique d'une nouvelle ère/lieux/Padhiver.md",
+    "Mondes/Chronique d'une nouvelle ère/timeline.canvas",
+    "Mondes/New Padhiver/Personnages/Noël Beauduciel-de-la-Marne.md",
+    "Mondes/New Padhiver/Chronique de New Padhiver.md",
+    "Mondes/New Padhiver/Poudre de Leira.md",
+    "Mondes/Campagnes/Mystère de Lamar/Résumé de la campagne.md",
     "Fiches Personnages/Nola de Balhor.md",
+    "Mondes/Chronique d'une nouvelle ère/personnages & organisations/Yuan-ti",
+    "Système/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Old & PNJ/Breweol Perlimpin/Breweol Perlimpin.md",
     "Fiches Personnages/Perceonne.md",
-    "Fiches Personnages/Vaern Varnegheim.md",
     "Ressources/Images/Nora 01.jpg",
     "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
-    "Système/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
     "Système/Règles/bonus-caractéristique.webp",
     "Fiches Personnages/Taxe Paladin.md",
     "Fiches Personnages/Old & PNJ/Sorts de mage intéressants.md",
@@ -216,7 +219,6 @@
     "Fiches Personnages/Old & PNJ",
     "Système/Règles/dnd_multiclasse.pdf",
     "Fiches Personnages/Av'pala.md",
-    "Système/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
     "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Système/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
     "Système/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
@@ -226,13 +228,6 @@
     "Fiches Personnages/Famille Mordal/Ea Meloflow Mordal.md",
     "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
     "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
-    "Fiches Personnages/Old & PNJ/Liam Seraphim/Liam Seraphim v2.md",
-    "Fiches Personnages/Neva.md",
-    "Fiches Personnages/Fana Diadonis.md",
-    "Fiches Personnages/Old & PNJ/Dorn, prêtre de Lathandre et nécromancien.md",
-    "Mondes/Ayihyala/Objets/Dé de Pouvoir.md",
-    "Templates/personnage.md",
-    "Système/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Images/Olrox-2.webp",
     "Ressources/Images/olrox-1.jpg",
     "Ressources/Images/objectif de Ghal Mordal.jpg",
@@ -240,7 +235,6 @@
     "Ressources/Images/magic extracteur de charité.jpg",
     "Ressources/Images/Machiavel Mordal.jpg",
     "Ressources/Images/image personnage placeholder.png",
-    "Ressources/Images/blasphemous-02.webp",
-    "Mondes/Chronique du danger d'ailleurs/timeline.canvas"
+    "Ressources/Images/blasphemous-02.webp"
   ]
 }

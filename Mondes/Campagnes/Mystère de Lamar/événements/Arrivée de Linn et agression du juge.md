@@ -1,2 +1,0 @@
-[[Mondes/Campagnes/Mystère de Lamar/personnages/Linn prêtresse de Lathandre]] est en nage, touché par une étrange fièvre. Alors qu'elle arrivais sur la place du marché, [[Felix Lex le Juge]] la rattrape l’empêchant de s'effondrer au sol alors qu'elle s'évanouissait. Reprenant ses esprits, Linn attaque le juge et le mord au bras, transmettant le [[Parasite]], avant d'être vivement maîtriser.
-Linn est ensuite emprisonnée au [[poste de garde]] alors que le juge est lui envoyé au [[temple de Lathandre]] pour y être soigné.

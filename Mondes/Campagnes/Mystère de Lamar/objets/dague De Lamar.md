@@ -1,1 +1,0 @@
-Une dague appartenant au [[Le Compte Mordred De Lamar]]. Sa lame est légèrement ondulé, le pommeau représentant une tête de serpent prêt à mordre. La dague renfermerais selon certaine légendes l'âme d'un des plus puissant Yuan-ti que le monde est jamais connus.
