@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1228acec028c48f0",
+        "id": "40a41994ea651162",
         "type": "tabs",
         "children": [
           {
-            "id": "ec062c68a201e4ea",
+            "id": "ac637fd678354f2b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fiches Personnages/Nola de Balhor.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Nola de Balhor"
             }
           }
         ]
@@ -187,8 +191,9 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "ec062c68a201e4ea",
+  "active": "ac637fd678354f2b",
   "lastOpenFiles": [
+    "Fiches Personnages/Nola de Balhor.md",
     "Fiches Personnages/Vaern Varnegheim.md",
     "Fiches Personnages/Breweol Perlimpin (Yuan-Ti).md",
     "Mondes/Chronique d'une nouvelle ère/homebrew/Parasites.md",
@@ -198,7 +203,6 @@
     "Mondes/New Padhiver/Chronique de New Padhiver.md",
     "Mondes/New Padhiver/Poudre de Leira.md",
     "Mondes/Campagnes/Mystère de Lamar/Résumé de la campagne.md",
-    "Fiches Personnages/Nola de Balhor.md",
     "Mondes/Chronique d'une nouvelle ère/personnages & organisations/Yuan-ti",
     "Système/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
     "Système/Classes/Moine Donjons & Dragons - D&D 5e.pdf",

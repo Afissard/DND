@@ -70,6 +70,7 @@ Auto Layout: on
 - Vous pouvez utiliser la Dextérité à la place de la Force aux jets d'attaque et de dégâts de vos attaques à mains nues et avec des armes de moine.
 - Vous pouvez lancer un d4 à la place des dégâts normaux de votre attaque à mains nues ou de vos armes de moine. Ce dé change lorsque vous gagnez des niveaux de moine, comme indiqué dans la colonne Arts martiaux de la table ci-dessus.
 - Lorsque vous utilisez l'action Attaquer avec une attaque à mains nues ou une arme de moine au cours de votre tour, vous pouvez effectuer une attaque à mains nues au prix d'une action bonus. Par exemple, si vous prenez l'action Attaque et attaquez avec un bâton, vous pouvez également effectuer une attaque à mains nues avec votre action bonus, à condition que vous n'ayez pas déjà utilisé votre action bonus pour ce tour.
+Certains monastères utilisent des versions spéciales des armes de moine. Par exemple, vous pourriez utiliser un gourdin dont les deux manches en bois sont reliés par une chaîne de fer (cette arme est alors appelée un nunchaku) ou bien une serpe possédant une lame plus courte et plus droite (on parle alors de kama). Quel que soit le nom que vous utilisiez pour votre arme de moine, vous pouvez utiliser les statistiques de jeu données à l'arme dans le chapitre Armes.
 
 --- end-multi-column
 
@@ -91,14 +92,25 @@ Dissimulée sous une longue cape de tissu maintenant bien usée, Nola cache son 
 
 --- end-multi-column
 # Histoire
-Issue d'une famille noble, Nola de Balhor est forcée de fuir pour survire suite à *un événement, causant la déchéance de sa famille et la perte de son bras droit*. Alors qu'elle fuyais depuis quelques jours Nola croisa un vieux moine itinérant qui lui appris les rudiments des traditions monastique. Elle vit depuis au jour le jour, allant de villes en villages.
+Issue d'une famille noble (fille unique), à 16 ans, Nola de Balhor est forcée de fuir pour survire suite à *un événement, causant la déchéance de sa famille et la perte de son bras droit*. Alors qu'elle fuyais depuis quelques jours Nola croisa un vieux moine itinérant qui lui appris les rudiments des traditions monastique. Elle vit depuis au jour le jour, allant de villes en villages. 
+Après 4 ans d'errance, Nola arrivas au village de Leilon et y rencontre Bjord le tavernier Goliath et sa fille Eris, elle s'y fit aussi de nouveau amis après quelque aventure au service du tavernier.
 # Objectif
-Nola souhaite restauré l'honneur perdu de sa famille, elle aimerais un jour récupérer son bras mais pour le moment elle pense surtout à sa vengeance. Elle rêve de pouvoir maitriser un jour les même pouvoirs que son maître (pas brumeux, téléportation, changement de plan) ... 
+Nola souhaite restauré l'honneur perdu de sa famille, elle aimerais un jour récupérer son bras mais pour le moment elle pense surtout à sa vengeance.
 
 # Notes
 ~~**Apanage de la noblesse.** Grâce à votre noble naissance, les gens sont enclins à penser le meilleur de vous. Vous êtes le bienvenu dans la haute société, et les gens supposent que vous avez le droit d'être là où vous êtes. Les gens ordinaires font tout pour vous accueillir et éviter de vous déplaire, et les personnes de haute naissance vous traitent comme un membre de leur sphère sociale. Vous pouvez obtenir une audience avec un noble local si vous en avez besoin.~~
+
+sous classe : voies des quatre éléments (fouet de l'onde, poing d'air au niveau 6 (à remplacé par vol ou forme gazeuse), boule de feu (11))
 
 prochain dons : 
 **Lutteur.** Vous avez développé les compétences nécessaires pour vous défendre tout seul dans les combats de rues. Vous obtenez les avantages suivants : 
 - Vous avez un avantage aux jets d'attaque contre une créature avec laquelle vous êtes engagé dans une lutte. 
 - Vous pouvez utiliser votre action pour tenter de bloquer une créature avec qui vous avez engagé une lutte. Dans ce cas, faites un nouveau jet de lutte. Si vous réussissez, vous et la créature êtes tous deux entravés jusqu'à ce que la lutte se termine.
+
+**Adepte martial.** Vous avez une formation martiale qui vous permet d'effectuer des manœuvres de combat spéciales. Vous obtenez les avantages suivants :
+- Vous apprenez deux manœuvres de votre choix parmi celles disponibles pour l'archétype de guerrier du maître de bataille. Si une manœuvre que vous utilisez nécessite que la cible fasse un jet de sauvegarde pour résister aux effets de la manœuvre, le DD du jet de sauvegarde est égal à 8 + votre bonus de maîtrise + votre modificateur de Force ou de Dextérité (selon votre choix).
+- Vous gagnez un dé de supériorité, qui est un d6 (ce dé s'ajoute à tous autres dés de supériorité que vous pourriez avoir gagnés d'une autre source). Ce dé est utilisé pour alimenter vos manœuvres. Un dé de supériorité est dépensé lorsque vous l'utilisez. Vous regagnez vos dés de supériorité dépensés lorsque vous terminez un repos court ou long.
+
+**Magie rituel.** (magicien/druide/clerc)
+- Appel de familier
+- Identification / autre
