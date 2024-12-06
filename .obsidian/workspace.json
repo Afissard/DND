@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "40a41994ea651162",
+        "id": "f655754a02d82bfe",
         "type": "tabs",
         "children": [
           {
-            "id": "ac637fd678354f2b",
+            "id": "2e133d756d137292",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches Personnages/Nola de Balhor.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Nola de Balhor"
+              "title": "New tab"
             }
           }
         ]
@@ -73,8 +69,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,9 +186,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "ac637fd678354f2b",
+  "active": "2e133d756d137292",
   "lastOpenFiles": [
+    "Système/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Nola de Balhor.md",
+    "Système/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
+    "Système/Règles/Basic-Rules-FR.pdf",
     "Fiches Personnages/Vaern Varnegheim.md",
     "Fiches Personnages/Breweol Perlimpin (Yuan-Ti).md",
     "Mondes/Chronique d'une nouvelle ère/homebrew/Parasites.md",
@@ -223,15 +223,10 @@
     "Fiches Personnages/Old & PNJ",
     "Système/Règles/dnd_multiclasse.pdf",
     "Fiches Personnages/Av'pala.md",
-    "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
-    "Système/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
-    "Système/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
-    "Système/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
     "future organisation du vault.md",
     "Fiches Personnages/Famille Mordal/Candide Mordal.md",
     "Fiches Personnages/Famille Mordal/Ea Meloflow Mordal.md",
     "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
-    "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
     "Ressources/Images/Olrox-2.webp",
     "Ressources/Images/olrox-1.jpg",
     "Ressources/Images/objectif de Ghal Mordal.jpg",
