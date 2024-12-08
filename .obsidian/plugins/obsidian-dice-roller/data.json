@@ -101,6 +101,13 @@
       "resultText": "[4]-4",
       "timestamp": 1732902441343,
       "id": "fZyPNNS_GAAX"
+    },
+    {
+      "result": 14,
+      "original": "4d6",
+      "resultText": "[3, 2, 5, 4]",
+      "timestamp": 1733563928491,
+      "id": "8xjE0TWAwa5b"
     }
   ]
 }

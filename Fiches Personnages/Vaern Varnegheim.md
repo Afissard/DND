@@ -1,28 +1,28 @@
 ## Vaern Varnegheim
-*Humanoïde (changelin) de taille M, chaotique mauvais, érudit, magicien niveau 11 et clerc niveau 1* 
+*Humanoïde (changelin) de taille M, chaotique mauvais, érudit, magicien niveau 12 et clerc niveau 1* 
 ___
 
 | FOR     | DEX     | CON     | INT     | SAG     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 11 (+0) | 11 (+0) | 22 (+6) | 14 (+2) | 13 (+1) |
 
-|             nom             |                                       attributs                                       |
-| :-------------------------: | :-----------------------------------------------------------------------------------: |
-|       Classe d'armure       |                                     10 (vêtement)                                     |
-|        Points de vie        |                                 44 (11d6 + 1d8) -> 43                                 |
-|           Vitesse           |                                          9m                                           |
-|      Bonus de maîtrise      |                                          +4                                           |
-|     Jets de sauvegarde      |                              Intelligence +9, Sagesse+6                               |
-|         Compétences         | Arcanes +9, Médecine +6, Perspicacité +6, <br>Persuasion +5, Histoire +9, Religion +9 |
-|  Vulnérabilités aux dégâts  |                                         aucun                                         |
-|   Résistances aux dégâts    |                                      Nécrotique                                       |
-| Immunités aux dégâts / état |                                    Réduction de PV                                    |
-|            Sens             |                                 Perception passive 12                                 |
-|           Langues           |     Commun, Changelin, Sylvestre, <br>Céleste, Draconique, Commun des profondeurs     |
-|           Outils            |                                       Alchimie                                        |
-|            Armes            |                   dague, bâton, fronde, arbalète légère, fléchette                    |
-|           Armure            |                               légère, médiane, bouclier                               |
-|          Puissance          |                                      1 (200 PX)                                       |
+|             nom             |                                        attributs                                         |
+| :-------------------------: | :--------------------------------------------------------------------------------------: |
+|       Classe d'armure       |                                      10 (vêtement)                                       |
+|        Points de vie        |                                  46 (11d6 + 1d8) -> 46                                   |
+|           Vitesse           |                                            9m                                            |
+|      Bonus de maîtrise      |                                            +5                                            |
+|     Jets de sauvegarde      |                               Intelligence +10, Sagesse+7                                |
+|         Compétences         | Arcanes +10, Médecine +7, Perspicacité +7, <br>Persuasion +6, Histoire +10, Religion +10 |
+|  Vulnérabilités aux dégâts  |                                          aucun                                           |
+|   Résistances aux dégâts    |                                        Nécrotique                                        |
+| Immunités aux dégâts / état |                                     Réduction de PV                                      |
+|            Sens             |                                  Perception passive 12                                   |
+|           Langues           |      Commun, Changelin, Sylvestre, <br>Céleste, Draconique, Commun des profondeurs       |
+|           Outils            |                                         Alchimie                                         |
+|            Armes            |                     dague, bâton, fronde, arbalète légère, fléchette                     |
+|           Armure            |                                légère, médiane, bouclier                                 |
+|          Puissance          |                                        1 (200 PX)                                        |
 
 ___
 ### Actions
@@ -36,17 +36,18 @@ ___
 
 | Niveau <br>d'emplacement | Nombre <br>d'emplacement | Emplacement <br>utilisé |
 | :----------------------: | :----------------------: | :---------------------: |
-|            1             |            4             |            1            |
-|            2             |            3             |            2            |
-|            3             |            3             |            3            |
-|            4             |            3             |            2            |
-|            5             |           2+1            |            2            |
+|            1             |            4             |            0            |
+|            2             |            3             |            0            |
+|            3             |            3             |            0            |
+|            4             |            3             |            0            |
+|            5             |           2+1            |            0            |
 |            6             |            1             |            0            |
+|            7             |            1             |            0            |
 #### Magicien (École de la Nécromancie)
 
 | Caractéristique <br>d'incantation | DD des sauvegarde <br>des sorts | Bonus d'attaque <br>avec un sort | Sorts à préparer <br>chaque jour |
 | :-------------------------------: | :-----------------------------: | :------------------------------: | :------------------------------: |
-|         Intelligence (+5)         |               18                |                +9                |            11+6 -> 17            |
+|         Intelligence (+5)         |               19                |               +10                |            12+6 -> 18            |
 
 | Niveau | Nom                              | Temps d'incantation & Durée | Concentration, Rituel, Composants            | Notes         |
 | ------ | -------------------------------- | --------------------------- | -------------------------------------------- | ------------- |
@@ -81,6 +82,8 @@ ___
 | 5      | cercle de téléportation          |                             |                                              |               |
 | 5      | **domination de personne**       |                             |                                              |               |
 | 6      | **désintégration**               |                             |                                              |               |
+| 7      | **changement de plan**           |                             |                                              |               |
+| 7      | urne magique                     |                             |                                              |               |
 
 #### Clerc (Domaine du Savoir)
 
@@ -142,7 +145,7 @@ Chaque fois que vous créez un mort-vivant en utilisant un sort de nécromancie,
 
 ~~**Métamorphe (Changelin)**. As an action, you can change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight and can change your size between Medium and Small. You can make yourself appear as a member of another race, though none of your game statistics change. You can’t duplicate the appearance of an individual you’ve never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren’t changed by this trait. You stay in the new form until you use an action to revert to your true form or until you die.~~
 
-**Spore Myconide** Peut lancer des sorts jusqu'au tier 6, avec 1 niveau d'épuisement par tier. 1 niveau d'épuisement est récupéré par repos long. (Niveau d'épuisement : 0)
+**Spore Myconide**. Peut lancer des sorts jusqu'au tier 6, avec 1 niveau d'épuisement par tier. 1 niveau d'épuisement est récupéré par repos long. (Niveau d'épuisement : 0)
 
 **Sac dopage Duergar (19/20 utilisations)**. 10 recharges -> +5 Force + maîtrise DD Force et Constitution + 30 PV temporaire pendant 1h.
 
@@ -151,6 +154,8 @@ Chaque fois que vous créez un mort-vivant en utilisant un sort de nécromancie,
 **Démon des Ombre**. Vous pouvez invoqué pendant 10 min le [Démon des Ombres](https://www.aidedd.org/dnd/monstres.php?vf=demon-des-ombres) pour combattre ou pactiser.
 
 **Bénédictions du savoir**. Au niveau 1, vous apprenez deux langues de votre choix. Vous obtenez aussi la maîtrise de deux compétences de votre choix parmi les suivantes : Arcanes, Histoire, Nature ou Religion. Votre bonus de maîtrise est doublé pour les jets de caractéristique utilisant une de ces compétences.
+
+**Chanceux**. Vous avez une chance inexplicable qui semble tomber juste au bon moment. Vous avez 3 points de chance. Chaque fois que vous faites un jet d'attaque, de caractéristique ou de sauvegarde, vous pouvez dépenser un point de chance pour lancer un d20 supplémentaire. Vous pouvez choisir de dépenser un de vos points de chance après avoir lancé le dé mais avant que son effet soit déterminé. Vous choisissez quel d20 utiliser pour le jet d'attaque, de caractéristique ou de sauvegarde. Vous pouvez également dépenser un point de chance quand un jet d'attaque est fait contre vous. Lancez un d20, et choisissez quel jet l'attaquant doit utiliser. Si plus d'une créature dépense un point de chance pour influencer le résultat d'un jet, les points s'annulent ; aucun dé supplémentaire n'est lancé. Vous regagnez vos points de chance dépensés lorsque vous terminez un repos long.
 
 ___
 ### Inventaire
