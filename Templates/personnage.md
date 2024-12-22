@@ -66,9 +66,11 @@ Auto Layout: on
 | :-: | :-: | :-: | :-: | :-: |
 |  0  |  0  |  0  |  0  |  0  |
 
-| Objet | Description |
-| ----- | ----------- |
-| dague |             |
+| Objet               | Description |
+| ------------------- | ----------- |
+| dague               |             |
+| potion de guerrison |             |
+| regard charmeur     |             |
 
 ## Capacités
 **Nom de la capacité**. Description de la capacité.  

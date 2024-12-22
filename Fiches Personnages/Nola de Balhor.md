@@ -40,11 +40,11 @@ Auto Layout: on
 |         Puissance         |                               1 (200 PX)                                |
 ## Combats
 
-| Nom            | bonus | dégâts           | notes                             |
-| -------------- | ----- | ---------------- | --------------------------------- |
-| poing          | +5    | 1d4+3 contendant |                                   |
-| épée courte    | +5    | 1d6+3 perforant  | finesse                           |
-| fléchette (10) | +5    | 1d4+3 perforant  | finesse, lancer (portée 6 m/18 m) |
+| Nom           | bonus | dégâts           | notes                             |
+| ------------- | ----- | ---------------- | --------------------------------- |
+| poing         | +5    | 1d4+3 contendant |                                   |
+| épée courte   | +5    | 1d6+3 perforant  | finesse                           |
+| fléchette (9) | +5    | 1d4+3 perforant  | finesse, lancer (portée 6 m/18 m) |
 ## Inventaire
 
 | PP  | PO  | PE  | PA  | PC  |
@@ -94,8 +94,10 @@ Dissimulée sous une longue cape de tissu maintenant bien usée, Nola cache son 
 # Histoire
 Issue d'une famille noble (fille unique), à 16 ans, Nola de Balhor est forcée de fuir pour survire suite à *un événement, causant la déchéance de sa famille et la perte de son bras droit*. Alors qu'elle fuyais depuis quelques jours Nola croisa un vieux moine itinérant qui lui appris les rudiments des traditions monastique. Elle vit depuis au jour le jour, allant de villes en villages. 
 Après 4 ans d'errance, Nola arrivas au village de Leilon et y rencontre Bjord le tavernier Goliath et sa fille Eris, elle s'y fit aussi de nouveau amis après quelque aventure au service du tavernier.
+
+
 # Objectif
-Nola souhaite restauré l'honneur perdu de sa famille, elle aimerais un jour récupérer son bras mais pour le moment elle pense surtout à sa vengeance.
+Nola souhaite restauré l'honneur perdu de sa famille, ~~elle aimerais un jour récupérer son bras~~ mais pour le moment elle pense surtout à sa famille.
 
 # Notes
 ~~**Apanage de la noblesse.** Grâce à votre noble naissance, les gens sont enclins à penser le meilleur de vous. Vous êtes le bienvenu dans la haute société, et les gens supposent que vous avez le droit d'être là où vous êtes. Les gens ordinaires font tout pour vous accueillir et éviter de vous déplaire, et les personnes de haute naissance vous traitent comme un membre de leur sphère sociale. Vous pouvez obtenir une audience avec un noble local si vous en avez besoin.~~
