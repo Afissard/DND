@@ -14,8 +14,8 @@ Contre un dd 25 d'athlétisme, un joueur peu retenir les murs pour un tour.
 # 3 setback / trick
 une fois de plus long couloir, une série de sarcophage sont accrocher au mur, en face un autel, derrière ce dernier se dresse une porte de pierre massive et richement gravé
 
-quand les joueurs inspect l'autel ou l'un des sarcophage ils sont agresser par une horde de momie-vampire (todo faire une fiche avec une ou deux variation)
-horde de [guerrier-momifié](https://www.aidedd.org/dnd/monstres.php?vf=guerrier-momifie), accompagné d'une ou deux momie plus force [s'inspirer des : seigneur-momie](https://www.aidedd.org/dnd/monstres.php?vf=seigneur-momie) (boost un guerrier momifié en pv et lui ajouter une ou deux action spécifique à son rôle (magie, art martiaux))
+quand les joueurs inspect l'autel ou l'un des sarcophage ils sont agresser par une horde de momie, à l'emplacement de leur cœur, un coffret verrouiller (qui contient leur nouveau cœur).
+horde de [guerrier-momifié](https://www.aidedd.org/dnd/monstres.php?vf=guerrier-momifie), accompagné d'une ou deux momie plus force [s'inspirer des : seigneur-momie](https://www.aidedd.org/dnd/monstres.php?vf=seigneur-momie) (boost un guerrier momifié en pv et lui ajouter une ou deux action spécifique à son rôle (magie (électricité pour raf), art martiaux))
 
 *solution : combattre ou conduit-divin*
 # 4 climax, boss battle
@@ -26,6 +26,6 @@ Acnolia est dérangé par les joueur, il savait qu'ils arrivaient et cela l'irri
 combat contre Acnolia -> TODO faire sa fiche
 [vecna](https://www.aidedd.org/dnd/monstres.php?vf=vecna-l-archiliche) récupérer l'image
 
-Acnolia utilise de la magie sanguine et peut donc en sacrifiant ses pv ou ceux de ses "esclaves" lancer des sorts puissant. Lorsqu'il lance un sorts il fait venir à lui un de ses cobaye avant de le sacrifier pour "payer" le sort, si sa première action (récupération de cobaye) est empêché, il est forcé de sacrifié une partie de ses pv personnel ou de stoppé son incantation et de réaliser une autre action.
+Acnolia utilise de la magie sanguine et peut donc en sacrifiant ses pv ou ceux de ses "esclaves" lancer des sorts puissant. Lorsqu'il lance un sorts il fait venir à lui un de ses cobaye avant de le sacrifier pour "payer" le sort, si sa première action (récupération de cobaye) est empêché, il est forcé de sacrifié une partie de ses pv personnel ou de stoppé son incantation et de réaliser une autre action. Si il tombe
 # 5 reward & revelation
-"fin du jdr", le plan s'auto détruit, Ayihyala est renvoyé à son époque, les joueur on le choix de rester ou de rentré à faerun à leur époque
+"fin du jdr", le plan se détruit au fur et à mesure (cf la fin de SAO), Ayihyala est renvoyé à son époque, les joueur on le choix de rester ou de rentré à faerun à leur époque

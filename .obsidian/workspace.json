@@ -38,23 +38,8 @@
               "icon": "lucide-file",
               "title": "Acnolia"
             }
-          },
-          {
-            "id": "22966b0a6666e33a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf"
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "Magicien Donjons & Dragons - D&D 5e"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,13 +208,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "b5ac6c0456ecde07",
+  "active": "d78f5890b8d792ff",
   "lastOpenFiles": [
+    "Mondes/Ayihyala/Personnages/Acnolia/Acnolia.md",
+    "Mondes/Ayihyala/Lieux/Ayihyala (ville)/Le Donjon/Étage 5 - Palais d'Acnolia.md",
     "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Système/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
-    "Mondes/Ayihyala/Personnages/Acnolia/Acnolia.md",
     "Système/Règles/table rencontre lvl-px.png",
-    "Mondes/Ayihyala/Lieux/Ayihyala (ville)/Le Donjon/Étage 5 - Palais d'Acnolia.md",
     "Mondes/Ayihyala/Personnages/Acnolia/Le prince et mage noir Acnolia.md",
     "Mondes/Ayihyala/Personnages/Héros de la Forge.md",
     "Mondes/Ayihyala/Personnages/Peter Angladem le marionnettiste.md",
