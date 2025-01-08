@@ -4,40 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "c31d0b1c7238c6bf",
+        "id": "63fa77378f0d8d28",
         "type": "tabs",
         "children": [
           {
-            "id": "bf7e076758a5d9fe",
+            "id": "d78f5890b8d792ff",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiches Personnages/Carnage.md",
+                "file": "Mondes/Ayihyala/Lieux/Ayihyala (ville)/Le Donjon/Étage 5 - Palais d'Acnolia.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Carnage"
+              "title": "Étage 5 - Palais d'Acnolia"
             }
           },
           {
-            "id": "edb0941d20b873a9",
+            "id": "b5ac6c0456ecde07",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mondes/Ayihyala/Personnages/Acnolia/Acnolia.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Acnolia"
+            }
+          },
+          {
+            "id": "22966b0a6666e33a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Système/Classes/Paladin Donjons & Dragons - D&D 5e.pdf"
+                "file": "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf"
               },
               "pinned": true,
               "icon": "lucide-file-text",
-              "title": "Paladin Donjons & Dragons - D&D 5e"
+              "title": "Magicien Donjons & Dragons - D&D 5e"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,14 +223,28 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "bf7e076758a5d9fe",
+  "active": "b5ac6c0456ecde07",
   "lastOpenFiles": [
+    "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "Mondes/Ayihyala/Personnages/Acnolia/Acnolia.md",
+    "Système/Règles/table rencontre lvl-px.png",
+    "Mondes/Ayihyala/Lieux/Ayihyala (ville)/Le Donjon/Étage 5 - Palais d'Acnolia.md",
+    "Mondes/Ayihyala/Personnages/Acnolia/Le prince et mage noir Acnolia.md",
+    "Mondes/Ayihyala/Personnages/Héros de la Forge.md",
+    "Mondes/Ayihyala/Personnages/Peter Angladem le marionnettiste.md",
+    "Mondes/Ayihyala/Objets/Prothèse bras paratonnerre.md",
+    "Mondes/Ayihyala/Objets/écu du forcené.md",
+    "Mondes/Ayihyala/Objets/Dé de Pouvoir.md",
+    "Mondes/Ayihyala/Lieux/Ayihyala (ville)/Le Donjon/Étage 4 - Vallée enchantée.md",
+    "Mondes/Ayihyala/Main Page.md",
+    "Mondes/Ayihyala/Lieux/Vallée enchantée/La forge.md",
+    "Mondes/Ayihyala/Personnages/Alia/Alia.md",
     "Système/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Carnage.md",
     "Ressources/Données/Dons (extension) - D&D 5e.pdf",
     "Système/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
-    "Système/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
     "Mondes/Dungeon Rush/fiches personnages/Clerc de la Lumière.pdf",
     "Fiches Personnages/Isaac.md",
     "Fiches Personnages/Old & PNJ/Dorn, prêtre de Lathandre et nécromancien.md",
@@ -228,28 +259,14 @@
     "Système/Règles/dnd_multiclasse.pdf",
     "Système/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
     "Système/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
-    "Système/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
-    "Système/Règles/table rencontre lvl-px.png",
     "Mondes/Chronique d'une nouvelle ère/Côte des Épées.md",
     "Fiches Personnages/Humpy le Conil.md",
     "Fiches Personnages/Perceonne.md",
     "Templates/personnage.md",
     "Mondes/Ragnarök/Personnages/Linn Seraphim - Dea.md",
     "Fiches Personnages/Av'pala.md",
-    "Fiches Personnages/Famille Mordal/Machiavel Mordal.md",
-    "Fiches Personnages/Famille Mordal/Candide Mordal.md",
-    "Fiches Personnages/Famille Mordal/Ea Meloflow Mordal.md",
-    "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
-    "Fiches Personnages/Fana Diadonis.md",
-    "Fiches Personnages/Nola de Balhor.md",
     "Système/Règles/bonus-caractéristique.webp",
-    "Fiches Personnages/Vaern Varnegheim.md",
-    "Mondes/Chronique d'une nouvelle ère/homebrew/Parasites.md",
-    "Mondes/Chronique d'une nouvelle ère/lieux/Padhiver.md",
     "Mondes/Chronique d'une nouvelle ère/timeline.canvas",
-    "Mondes/New Padhiver/Personnages/Noël Beauduciel-de-la-Marne.md",
-    "Mondes/New Padhiver/Chronique de New Padhiver.md",
-    "Mondes/New Padhiver/Poudre de Leira.md",
     "Ressources/Images/Nora 01.jpg",
     "Ressources/Images/Olrox-2.webp",
     "Ressources/Images/olrox-1.jpg",
