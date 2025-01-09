@@ -108,6 +108,27 @@
       "resultText": "[3, 2, 5, 4]",
       "timestamp": 1733563928491,
       "id": "8xjE0TWAwa5b"
+    },
+    {
+      "result": 10,
+      "original": "4d4",
+      "resultText": "[4, 3, 1, 2]",
+      "timestamp": 1736433714631,
+      "id": "WO25RpbcAVXC"
+    },
+    {
+      "result": 8,
+      "original": "4d4",
+      "resultText": "[3, 2, 1, 2]",
+      "timestamp": 1736433722046,
+      "id": "5H7b9m_DkcWs"
+    },
+    {
+      "result": 13,
+      "original": "4d4",
+      "resultText": "[2, 3, 4, 4]",
+      "timestamp": 1736433733582,
+      "id": "kVdwmOPSsMtz"
     }
   ]
 }

@@ -1,4 +1,6 @@
 [5 rooms dungeon](https://www.roleplayingtips.com/5-room-dungeons/#t-1587038394548)
+
+nom de la fantôme : Ayalis
 # 1 entrance & guardian
 l'entrée est gardé par un concierge, c'est un veil homme faible, il aspire la pitié, il est assit au pied de la porte, il semble trop faible pour même se lever ou parler.
 grande porte, haute, la serrure a la forme d'un cœur, le concierge annonce qu'il faut réaliser "le plus grand sacrifice" pour passer.
@@ -11,6 +13,7 @@ La sortie est bloquer par une porte, elle semble vivante et doué d'intelligence
 Contre un dd 25 d'athlétisme, un joueur peu retenir les murs pour un tour.
 
 *la solution est de soit tué la porte ou bien que la fantôme, possède la porte pour l'ouvrir*
+49
 # 3 setback / trick
 une fois de plus long couloir, une série de sarcophage sont accrocher au mur, en face un autel, derrière ce dernier se dresse une porte de pierre massive et richement gravé
 

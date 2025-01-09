@@ -17,7 +17,7 @@ ___
 |            nom            |                 attributs                  |
 | :-----------------------: | :----------------------------------------: |
 |      Classe d'armure      |                     12                     |
-|       Points de vie       |            (16d6) 93+30 -> 123             |
+|       Points de vie       |          (20d6) 120+30 -> 150 x2           |
 |          Vitesse          |                     9m                     |
 |     Bonus de maîtrise     |                     +4                     |
 |    Jets de sauvegarde     |       intelligence, sagesse, charime       |

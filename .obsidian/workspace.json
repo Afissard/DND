@@ -4,39 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "63fa77378f0d8d28",
+        "id": "268effce4a6ad7a3",
         "type": "tabs",
         "children": [
           {
-            "id": "d78f5890b8d792ff",
+            "id": "dac460dd0369be55",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mondes/Ayihyala/Lieux/Ayihyala (ville)/Le Donjon/Étage 5 - Palais d'Acnolia.md",
+                "file": "Mondes/Ayihyala/Objets/Dé de Pouvoir.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Étage 5 - Palais d'Acnolia"
-            }
-          },
-          {
-            "id": "b5ac6c0456ecde07",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mondes/Ayihyala/Personnages/Acnolia/Acnolia.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Acnolia"
+              "title": "Dé de Pouvoir"
             }
           }
         ]
@@ -208,23 +190,23 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d78f5890b8d792ff",
+  "active": "dac460dd0369be55",
   "lastOpenFiles": [
-    "Mondes/Ayihyala/Personnages/Acnolia/Acnolia.md",
     "Mondes/Ayihyala/Lieux/Ayihyala (ville)/Le Donjon/Étage 5 - Palais d'Acnolia.md",
+    "Mondes/Ayihyala/Personnages/Héros de la Forge.md",
+    "Mondes/Ayihyala/Objets/Dé de Pouvoir.md",
+    "Mondes/Ayihyala/Personnages/Alia/Alia.md",
+    "Mondes/Ayihyala/Personnages/Acnolia/Acnolia.md",
     "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Système/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
     "Système/Règles/table rencontre lvl-px.png",
     "Mondes/Ayihyala/Personnages/Acnolia/Le prince et mage noir Acnolia.md",
-    "Mondes/Ayihyala/Personnages/Héros de la Forge.md",
     "Mondes/Ayihyala/Personnages/Peter Angladem le marionnettiste.md",
     "Mondes/Ayihyala/Objets/Prothèse bras paratonnerre.md",
     "Mondes/Ayihyala/Objets/écu du forcené.md",
-    "Mondes/Ayihyala/Objets/Dé de Pouvoir.md",
     "Mondes/Ayihyala/Lieux/Ayihyala (ville)/Le Donjon/Étage 4 - Vallée enchantée.md",
     "Mondes/Ayihyala/Main Page.md",
     "Mondes/Ayihyala/Lieux/Vallée enchantée/La forge.md",
-    "Mondes/Ayihyala/Personnages/Alia/Alia.md",
     "Système/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Carnage.md",
     "Ressources/Données/Dons (extension) - D&D 5e.pdf",

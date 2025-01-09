@@ -8,14 +8,6 @@ monde:
 # Alia
 *Humanoïde (succube) de taille M, chaotique neutre, artiste, barde niveau 5*
 ___
---- start-multi-column: Fiche-Personnage  
-```column-settings  
-number of columns: 2
-Border: disabled
-Shadow: off
-Overflow: Hidden
-Auto Layout: on
-```
 
 |   FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -24,7 +16,7 @@ Auto Layout: on
 |            nom            |                                                attributs                                                |
 | :-----------------------: | :-----------------------------------------------------------------------------------------------------: |
 |      Classe d'armure      |                                           13 (armure en cuir)                                           |
-|       Points de vie       |                                                42 (5d8)                                                 |
+|       Points de vie       |                                            42 (5d8) 42-> 14                                             |
 |          Vitesse          |                                                   9m                                                    |
 |     Bonus de maîtrise     |                                                   +3                                                    |
 |    Jets de sauvegarde     |                                           dextérité, charisme                                           |
@@ -55,7 +47,7 @@ Auto Layout: on
 
 | Emplacements |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
 | :----------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|   utilisé    | 0/4 | 0/3 | 0/2 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0 |
+|   utilisé    | 1/4 | 2/3 | 1/2 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0 |
 
 | Niveau | Nom                     | Temps d'incantation & Durée | Concentration, Rituel, Composants | Notes |
 | ------ | ----------------------- | --------------------------- | --------------------------------- | ----- |
@@ -103,8 +95,6 @@ Auto Layout: on
 **Baiser corrupteur**. Le fiélon embrasse une créature qu'il a charmée ou une créature consentante. La cible doit effectuer un jet de sauvegarde de Constitution DD 15 contre cette magie, subissant 32 (5d10 + 5) dégâts psychiques en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Le maximum de points de vie de la cible est diminué d'un montant égal aux dégâts subis. Cette diminution perdure jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0.
 
 **Forme éthérée**. Le fiélon pénètre dans le plan éthéré à partir du plan matériel, ou inversement.
-
---- end-multi-column
 
 ---
 # Description
