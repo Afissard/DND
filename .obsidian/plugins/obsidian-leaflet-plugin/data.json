@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1730969141327,
+      "lastAccessed": 1737541842426,
       "markers": [
         {
           "id": "ID_d9dbf868bbfa",
@@ -25,9 +25,8 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Mondes/Chronique du danger d'ailleurs/lieux/Conyberry.md",
-        "Mondes/Chronique du danger d'ailleurs/lieux/Padhiver.md",
-        "Mondes/Chronique du danger d'ailleurs/Côte des Épées.md"
+        "Mondes/Chronique d'une nouvelle ère/Côte des Épées.md",
+        "Mondes/Art of Heist/Côte des Épées.md"
       ]
     }
   ],
