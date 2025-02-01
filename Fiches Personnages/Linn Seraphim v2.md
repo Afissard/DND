@@ -9,36 +9,28 @@ monde:
 # Linn Seraphim
 *Humanoïde (fée) de taille P, chaotique bon, artiste, barde collège de la vaillance niveau 3* 
 ___
---- start-multi-column: Fiche-Personnage  
-```column-settings  
-number of columns: 2
-Border: disabled
-Shadow: off
-Overflow: Hidden
-Auto Layout: on
-```
 
 | FOR     | DEX     | CON     | INT     | SAG     | CHA     |
 | ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 18 (+4) | 18 (+4) | 15 (+2) | 15 (+2) | 20 (+5) |
 
-|            nom            |                                  attributs                                   |
-| :-----------------------: | :--------------------------------------------------------------------------: |
-|      Classe d'armure      |                             15 (armure en cuir)                              |
-|       Points de vie       |                                30 (3d8) ->30                                 |
-|          Vitesse          |                                      9m                                      |
-|     Bonus de maîtrise     |                                      +2                                      |
-|    Jets de sauvegarde     |                             dextérité, charisme                              |
-|        Compétences        | acrobatie, **représentation**, tromperie, <br>**persuasion** *touche à tout* |
-| Vulnérabilités aux dégâts |                                    aucun                                     |
-|  Résistances aux dégâts   |                                    aucun                                     |
-|   Immunités aux dégâts    |                                    aucun                                     |
-|           Sens            |                            Perception passive 14                             |
-|          Langues          |                              sylvestre, commun                               |
-|          Outils           |                  Flute, Cornemuse, Luth, kit de déguisement                  |
-|           Armes           |                      armes courantes, armes de guerres                       |
-|          Armures          |                     légère, intermédiaires et boucliers                      |
-|         Puissance         |                                  1 (200 PX)                                  |
+|            nom            |                                   attributs                                   |
+| :-----------------------: | :---------------------------------------------------------------------------: |
+|      Classe d'armure      |                              15 (armure en cuir)                              |
+|       Points de vie       |                                 30 (3d8) ->29                                 |
+|          Vitesse          |                                      9m                                       |
+|     Bonus de maîtrise     |                                      +2                                       |
+|    Jets de sauvegarde     |                              dextérité, charisme                              |
+|        Compétences        | acrobatie, **représentation**, tromperie, <br>**persuasion**, *touche à tout* |
+| Vulnérabilités aux dégâts |                                     aucun                                     |
+|  Résistances aux dégâts   |                                     aucun                                     |
+|   Immunités aux dégâts    |                                     aucun                                     |
+|           Sens            |                             Perception passive 14                             |
+|          Langues          |                               sylvestre, commun                               |
+|          Outils           |                  Flute, Cornemuse, Luth, kit de déguisement                   |
+|           Armes           |                       armes courantes, armes de guerres                       |
+|          Armures          |                      légère, intermédiaires et boucliers                      |
+|         Puissance         |                                  1 (200 PX)                                   |
 ## Combats
 
 | Nom     | bonus | dégâts          | notes                                     |
@@ -58,19 +50,22 @@ Auto Layout: on
 | :----------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |   utilisé    | 0/4 | 0/2 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0 | 0/0 |
 
-| Niveau | Nom                           | Temps d'incantation & Durée | Concentration, Rituel, Composants | Notes |
-| ------ | ----------------------------- | --------------------------- | --------------------------------- | ----- |
-| 0      | Druidisme                     |                             |                                   | Fée   |
-| 1      | Lueurs féerique               |                             |                                   | Fée   |
-| 3      | agrandissement rappetissement |                             |                                   | Fée   |
-| 0      | moquerie cruel                |                             |                                   |       |
-| 0      | main de mage                  |                             |                                   |       |
-| 1      | murmures dissonant            |                             |                                   |       |
-| 1      | vague tonnante                |                             |                                   |       |
-| 1      | soins                         |                             |                                   |       |
-| 1      | sommeil                       |                             |                                   |       |
-| 1      | identification                |                             |                                   |       |
-| 1      | déguisement                   |                             |                                   |       |
+| Niveau       | Nom                                                      | Temps d'incantation & Durée | Concentration, Rituel, Composants | Notes        |
+| ------------ | -------------------------------------------------------- | --------------------------- | --------------------------------- | ------------ |
+| 0            | Druidisme                                                |                             |                                   | Fée          |
+| 1            | Lueurs féerique                                          |                             |                                   | Fée          |
+| 3            | agrandissement rapetissement                             |                             |                                   | Fée          |
+| 0            | moquerie cruel                                           |                             |                                   |              |
+| 0            | main de mage                                             |                             |                                   |              |
+| 1            | murmures dissonant                                       |                             |                                   |              |
+| 1            | vague tonnante                                           |                             |                                   |              |
+| 1            | soins                                                    |                             |                                   |              |
+| 1            | sommeil                                                  |                             |                                   |              |
+| 1            | identification                                           |                             |                                   |              |
+| 1            | déguisement                                              |                             |                                   |              |
+| Lute de Doss | amitié avec les animaux                                  |                             |                                   | Lute de Doss |
+| Lute de Doss | protection contre le poison                              |                             |                                   | Lute de Doss |
+| Lute de Doss | protection contre le feu (protection contre une énergie) |                             |                                   | Lute de Doss |
 
 ## Inventaire
 | PP  | PO  | PE  | PA  | PC  |
@@ -87,11 +82,12 @@ Auto Layout: on
 | flute                                                                   |                                                                                                                                                                                                                                      |
 | armure de cuir                                                          |                                                                                                                                                                                                                                      |
 | ~~dague~~                                                               | non magique ?                                                                                                                                                                                                                        |
-| menotte brisé en adamantium                                             | + clef                                                                                                                                                                                                                               |
+| menotte (brisée?) en adamantium                                         | + clef                                                                                                                                                                                                                               |
 | terre de magie sauvage                                                  | dans un recoins de mon sac de diplomate                                                                                                                                                                                              |
 | rations                                                                 | 3                                                                                                                                                                                                                                    |
 | outils de voleurs improvisé                                             | casse sur un natural 1                                                                                                                                                                                                               |
 | Luth de doss                                                            | Lance les sorts : <br>- amitié avec les animaux<br>- protection contre le poison<br>- protection contre le feu (protection contre une énergie)                                                                                       |
+| Carte de la région                                                      |                                                                                                                                                                                                                                      |
 
 ## Capacités
 **Magie des Fée**. Vous connaissez le sort [Druidisme](https://www.aidedd.org/dnd/sorts.php?vf=druidisme). A partir du niveau 3 vous pouvez lancer le sort [Lueurs Féérique](https://www.aidedd.org/dnd/sorts.php?vf=lueurs-feeriques) avec ce trait. Au niveau 5 vous pouvez lancer le sort [Agrandissement/Rapetissement](https://www.aidedd.org/dnd/sorts.php?vf=agrandissement-rapetissement) avec ce trait. Une fois que vous avez utiliser Lueurs Féerique ou Agrandissement/Rapetissement avec ce trait, vous devriez effectuer un repos long avant de pouvoir les réutiliser. Vous pouvez aussi lancer ces sorts avec un emplacement de sort approprié. L'Intelligence, la Sagesse, ou le **Charisme** est votre caractéristique d'incantation pour ces sort.
@@ -112,8 +108,6 @@ Auto Layout: on
 
 **Chanceux (6pts) (Bénédiction de [Tymora](https://forgottenrealms.fandom.com/wiki/Tymora) déesse de la Chance).** Vous avez une chance inexplicable qui semble tomber juste au bon moment. Vous avez ~~3~~ **6** points de chance. Chaque fois que vous faites un jet d'attaque, de caractéristique ou de sauvegarde, vous pouvez dépenser un point de chance pour lancer un d20 supplémentaire. Vous pouvez choisir de dépenser un de vos points de chance après avoir lancé le dé mais avant que son effet soit déterminé. Vous choisissez quel d20 utiliser pour le jet d'attaque, de caractéristique ou de sauvegarde. Vous pouvez également dépenser un point de chance quand un jet d'attaque est fait contre vous. Lancez un d20, et choisissez quel jet l'attaquant doit utiliser. Si plus d'une créature dépense un point de chance pour influencer le résultat d'un jet, les points s'annulent ; aucun dé supplémentaire n'est lancé. Vous regagnez vos points de chance dépensés lorsque vous terminez un repos ~~long~~ **court**.
 
---- end-multi-column
-
 ---
 # Description
 Linn est une fée à la peau pale et cheveux blanc aux reflet bleuté. Ses yeux sont bleu ciel, en accord avec les motifs de sa robe longue et large, ne laissant qu'une interstice pour ses longue aile de papillon blanc-bleu. Si ses grande oreilles attire l'attention, ses cornes (de cerf) spectrale, reflètent  son humeur (blanc, s'assombrie vers du bleu, bleu foncé en plus de s'agrandir si humeurs négative), elles sont sources de nombreux regards émerveillé. Linn aime jouer d'une drôle de flute taillé dans un bois de cerf.
@@ -131,9 +125,12 @@ prise de notes
 
 Prise de niveaux :
 - 6 niveaux de barde minimum jusqu'à 14 plus tard à minima
-- 2 niveau de roublard (compétence + maitrise outils de voleur, expertise + ruse)
-- 3 niveau de guerrier maître de guerre (style de combat, fougue, dé de superiority)
+- 2 niveau de roublard (compétence + maîtrise outils de voleur, expertise + ruse)
+- 3 niveau de guerrier maître de guerre (style de combat, fougue, dé de supériorité)
 Dons :
 - Doué ?
 - Adepte martial ?
 - augmentation de caractéristiques (intelligence+sagesse)
+- Mobile (pour la fuite)
+- Expert de la charge
+- Mage de guerre

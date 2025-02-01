@@ -4,17 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5b8360ab5610add9",
+        "id": "8861d2334f3089ab",
         "type": "tabs",
         "children": [
           {
-            "id": "4e96d2ce546eb288",
+            "id": "07540a1a4154aef2",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fiches Personnages/Linn Seraphim v2.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Linn Seraphim v2"
             }
           }
         ]
@@ -36,7 +42,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -186,9 +193,35 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "4e96d2ce546eb288",
+  "active": "07540a1a4154aef2",
   "lastOpenFiles": [
+    "Fiches Personnages/Linn Seraphim.md",
+    "Mondes/Chronique d'une nouvelle ère/lieux/Padhiver.md",
+    "Mondes/Chronique d'une nouvelle ère/homebrew/Parasites.md",
+    "Mondes/Chronique d'une nouvelle ère/timeline.canvas",
+    "Système/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "Mondes/Chronique d'une nouvelle ère/personnages & organisations/Guilde de Bumpal.md",
+    "Mondes/Chronique d'une nouvelle ère/lieux/Tombeau du Prince Blanc.md",
+    "Mondes/Chronique d'une nouvelle ère/personnages & organisations/Prince Blanc.md",
+    "Fiches Personnages/Linn Seraphim v2.md",
+    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Données/Dons (extension) - D&D 5e.pdf",
+    "Mondes/Chronique d'une nouvelle ère/Côte des Épées.md",
     "Mondes/Chronique d'une nouvelle ère/lieux/palais_éternel_du_prince_blanc.png",
+    "Ressources/Cartes/Sword Coast Map.jpg",
+    "Système/Règles/bonus-caractéristique.webp",
+    "Mondes/Art of Heist/rogue.md",
+    "Mondes/Art of Heist/wizard.md",
+    "Mondes/Art of Heist/druid.md",
+    "Mondes/Art of Heist/Princess Pursuit.md",
+    "Mondes/Art of Heist/Côte des Épées.md",
+    "Mondes/Chronique d'une nouvelle ère/Chronique du danger d'ailleurs.md",
+    "laipon.png",
+    "cité_d_omb.png",
+    "odella.png",
+    "péninsule_d_omb.png",
+    "Untitled.canvas",
     "Fiches Personnages/Isaac.md",
     "Mondes/Ayihyala/Objets/Dé de Pouvoir.md",
     "Mondes/Ayihyala/Lieux/Ayihyala (ville)/Le Donjon/Étage 5 - Palais d'Acnolia.md",
@@ -201,18 +234,10 @@
     "Mondes/Ayihyala/Objets/Prothèse bras paratonnerre.md",
     "Mondes/Ayihyala/Objets/écu du forcené.md",
     "Mondes/Ayihyala/Lieux/Ayihyala (ville)/Le Donjon/Étage 4 - Vallée enchantée.md",
-    "Mondes/Ayihyala/Main Page.md",
-    "Mondes/Ayihyala/Lieux/Vallée enchantée/La forge.md",
     "Système/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
-    "Fiches Personnages/Carnage.md",
-    "Ressources/Données/Dons (extension) - D&D 5e.pdf",
     "Système/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
-    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
     "Mondes/Dungeon Rush/fiches personnages/Clerc de la Lumière.pdf",
-    "Fiches Personnages/Old & PNJ/Dorn, prêtre de Lathandre et nécromancien.md",
     "Ressources/Images/Nora 01.jpg",
-    "Ressources/Images/Olrox-2.webp",
-    "Ressources/Images/olrox-1.jpg",
-    "Ressources/Images/objectif de Ghal Mordal.jpg"
+    "Ressources/Images/Olrox-2.webp"
   ]
 }

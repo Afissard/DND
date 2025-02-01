@@ -12,6 +12,12 @@ player are greet by their "manager" in the tavern. They're task to retrieve *~~d
 players find the ruin of a camp, a battle took place here, there sign this might have been the camp of the princess.
 ### fight with some violant "beggars"
 5 thief + 1 chief
+
+~~20 vet~~
+35 ch
+6 ba1
+~~11 ba2~~ behead
+
 ### searching clue for a direction
 interrogating the newly defeated to get more information about a direction 
 ## Travel part 2
