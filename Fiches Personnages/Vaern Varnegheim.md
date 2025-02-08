@@ -99,6 +99,7 @@ ___
 | 1      | **identification**              |                             |                                   | toujours prêt |
 | 1      | **injonction**                  |                             |                                   | toujours prêt |
 | 1      | bénédiction                     |                             |                                   |               |
+| 1      | éclaire traçant                 |                             |                                   |               |
 | 1      | blessure                        |                             |                                   |               |
 | 1      | soins                           |                             |                                   |               |
 | 1      | fléau                           |                             |                                   |               |
@@ -185,7 +186,7 @@ ___
 | matériel de couture + livre d'instruction              |                                                                                                                       |
 | livre de médecine légal                                |                                                                                                                       |
 | matériel de forge et bricoleur et instructions associé |                                                                                                                       |
-| parchemin de communication avec les morts              |                                                                                                                       |
+| parchemin de communication avec les morts              | à revendre ou donnée à qq1                                                                                            |
 
 ___
 ## Description
@@ -209,7 +210,7 @@ ___
 ## Notes
 Échoppe d'alchimie dans les bas quartier de Padiver (10po/mois) (probablement saisie par le gouvernement mais vive l'illegal)
 Médecin légiste pour la police de Padiver (à temps partiel)
-~~Pseudo Dragon~~
+~~Pseudo Dragon (Servus)~~
 
 Plus d’œil droit + 99% d'âme et -10 ans d'espérance de vie
 
