@@ -37,6 +37,29 @@ The caravan did indeed meet the princess and the knight, they have bought some b
 may give some information about a knight who might be after the princess / with the princess, who know ?
 
 ### Forest dungeon
-Ambush by a the bad omen (we will be right back (jojo music))
+Ambush by a the bad omen 
+#### Entrance (puzzle)
+On a stele, writen in druidic : 
+> "Bones walk, stone breathes, roots grasp.  I am bound, yet I want to be free." 
 
+At the foot of the tree, there is an half buried skeleton-golem, he seems to be restrained by the vines.
+
+the solution is to free the golem nor to give him a proper death
+
+#### trap
+illusion of player desire / diamond but must outrun the vines
+#### Fight with some lush skeletons / golem
+5 skeleton, all have a rune inside there skull, if removed it kill them
+https://www.aidedd.org/dnd/monstres.php?vf=squelette
+https://www.aidedd.org/dnd/monstres.php?vf=araignee-geante
+
+- skel spid 26-> 16
+- 17 druid
+- skel 2 & 3
+- 11 theif 
+- 10 bar
+- 10 mage
+- skel 4 & 5 -> 3  13
+#### Golem boss
+take no damage, need to remove the gem in his chest
 ### Attack on the princess's "cart"
