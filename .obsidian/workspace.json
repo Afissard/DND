@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "84dbe437489f197a",
+        "id": "fefa304d106221c9",
         "type": "tabs",
         "children": [
           {
-            "id": "046f501fb4d85803",
+            "id": "8e4f3723374691c9",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "empty",
               "state": {},
@@ -172,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,31 +187,37 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "046f501fb4d85803",
+  "active": "8e4f3723374691c9",
   "lastOpenFiles": [
+    "Mondes/Chronique d'une nouvelle ère/lieux/palais_éternel_du_prince_blanc.png",
+    "Mondes/Chronique d'une nouvelle ère/timeline.canvas",
+    "Mondes/Chronique d'une nouvelle ère/homebrew/Parasites.md",
+    "Mondes/Chronique d'une nouvelle ère/lieux/Tombeau du Prince Blanc.md",
+    "Système/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
+    "Mondes/Chronique d'une nouvelle ère/personnages & organisations/Emi.md",
+    "Mondes/Chronique d'une nouvelle ère/personnages & organisations/Solitude.md",
+    "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
+    "Fiches Personnages/Atone.md",
+    "Système/Règles/dnd_multiclasse.pdf",
+    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
+    "Fiches Personnages/Vaern Varnegheim.md",
     "Mondes/Art of Heist/Princess Pursuit.md",
     "Mondes/Art of Heist/druid.md",
     "Mondes/Art of Heist/bloodmist_glades.png",
-    "Système/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Liste de perso à faire.md",
     "Fiches Personnages/Taxe Paladin.md",
     "Fiches Personnages/Linn Seraphim.md",
     "Fiches Personnages/Linn Seraphim v2.md",
-    "Système/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Liste de perso à faire.md",
-    "Fiches Personnages/Vaern Varnegheim.md",
     "Fiches Personnages/Nola de Balhor.md",
     "Mondes/Ayihyala/Tranche de puissance.md",
     "Système/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
     "Mondes/Art of Heist/Côte des Épées.md",
     "Mondes/Chronique d'une nouvelle ère/lieux/Padhiver.md",
-    "Mondes/Chronique d'une nouvelle ère/homebrew/Parasites.md",
-    "Mondes/Chronique d'une nouvelle ère/timeline.canvas",
     "Mondes/Chronique d'une nouvelle ère/personnages & organisations/Guilde de Bumpal.md",
-    "Mondes/Chronique d'une nouvelle ère/lieux/Tombeau du Prince Blanc.md",
     "Mondes/Chronique d'une nouvelle ère/personnages & organisations/Prince Blanc.md",
     "Mondes/Chronique d'une nouvelle ère/Côte des Épées.md",
-    "Mondes/Chronique d'une nouvelle ère/lieux/palais_éternel_du_prince_blanc.png",
     "Ressources/Cartes/Sword Coast Map.jpg",
     "Mondes/Art of Heist/rogue.md",
     "Mondes/Art of Heist/wizard.md",
@@ -223,9 +229,6 @@
     "Untitled.canvas",
     "Fiches Personnages/Isaac.md",
     "Mondes/Ayihyala/Objets/Dé de Pouvoir.md",
-    "Mondes/Ayihyala/Lieux/Ayihyala (ville)/Le Donjon/Étage 5 - Palais d'Acnolia.md",
-    "Mondes/Ayihyala/Personnages/Héros de la Forge.md",
-    "Mondes/Ayihyala/Personnages/Alia/Alia.md",
     "Système/Règles/table rencontre lvl-px.png",
     "Système/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
     "Mondes/Dungeon Rush/fiches personnages/Clerc de la Lumière.pdf",

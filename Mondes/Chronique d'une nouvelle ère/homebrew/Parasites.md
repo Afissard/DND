@@ -36,7 +36,7 @@ ___
 ## Parasite mineur (niveau 1 à 3)
 **Jet de sauvegarde :** 12
 **Classe d'armure** 10 
-**Points de vie** 1   
+**Points de vie** 1 
 **Vitesse** 1 m  
 **Bonus de maîtrise** +2
 **Points de manipulation télékinétique** 2
