@@ -8,13 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e4f3723374691c9",
+            "id": "d6b0664ac3d20ba0",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fiches Personnages/Haemir (Ava).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Haemir (Ava)"
             }
           }
         ]
@@ -187,20 +193,31 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "8e4f3723374691c9",
+  "active": "d6b0664ac3d20ba0",
   "lastOpenFiles": [
+    "Fiches Personnages/Haemir (Ava).md",
+    "Untitled.md",
+    "Système/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Fiches personnages/2024-dnd-character-sheet-printable.pdf",
+    "Système/Règles/table rencontre lvl-px.png",
+    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
+    "Fiches Personnages/Heigel.md",
+    "Système/Classes/Rodeur Donjons & Dragons - D&D 5.pdf",
+    "Système/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
+    "Système/Règles/dnd_multiclasse.pdf",
+    "Système/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "Système/Règles/bonus-caractéristique.webp",
+    "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
     "Mondes/Chronique d'une nouvelle ère/lieux/palais_éternel_du_prince_blanc.png",
     "Mondes/Chronique d'une nouvelle ère/timeline.canvas",
     "Mondes/Chronique d'une nouvelle ère/homebrew/Parasites.md",
     "Mondes/Chronique d'une nouvelle ère/lieux/Tombeau du Prince Blanc.md",
-    "Système/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
     "Mondes/Chronique d'une nouvelle ère/personnages & organisations/Emi.md",
     "Mondes/Chronique d'une nouvelle ère/personnages & organisations/Solitude.md",
-    "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
-    "Système/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Atone.md",
-    "Système/Règles/dnd_multiclasse.pdf",
-    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Vaern Varnegheim.md",
     "Mondes/Art of Heist/Princess Pursuit.md",
     "Mondes/Art of Heist/druid.md",
@@ -212,7 +229,6 @@
     "Fiches Personnages/Liste de perso à faire.md",
     "Fiches Personnages/Nola de Balhor.md",
     "Mondes/Ayihyala/Tranche de puissance.md",
-    "Système/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
     "Mondes/Art of Heist/Côte des Épées.md",
     "Mondes/Chronique d'une nouvelle ère/lieux/Padhiver.md",
     "Mondes/Chronique d'une nouvelle ère/personnages & organisations/Guilde de Bumpal.md",
@@ -221,17 +237,11 @@
     "Ressources/Cartes/Sword Coast Map.jpg",
     "Mondes/Art of Heist/rogue.md",
     "Mondes/Art of Heist/wizard.md",
-    "Mondes/Chronique d'une nouvelle ère/Chronique du danger d'ailleurs.md",
     "laipon.png",
     "cité_d_omb.png",
     "odella.png",
     "péninsule_d_omb.png",
     "Untitled.canvas",
-    "Fiches Personnages/Isaac.md",
-    "Mondes/Ayihyala/Objets/Dé de Pouvoir.md",
-    "Système/Règles/table rencontre lvl-px.png",
-    "Système/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
-    "Mondes/Dungeon Rush/fiches personnages/Clerc de la Lumière.pdf",
     "Ressources/Images/Nora 01.jpg"
   ]
 }
