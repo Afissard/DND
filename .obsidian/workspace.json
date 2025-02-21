@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "fefa304d106221c9",
+        "id": "0bb87893ea0820db",
         "type": "tabs",
         "children": [
           {
-            "id": "d6b0664ac3d20ba0",
+            "id": "872e5623dc83fef5",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiches Personnages/Haemir (Ava).md",
+                "file": "Fiches Personnages/Haemir.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Haemir (Ava)"
+              "title": "Haemir"
             }
           }
         ]
@@ -193,22 +193,22 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d6b0664ac3d20ba0",
+  "active": "872e5623dc83fef5",
   "lastOpenFiles": [
-    "Fiches Personnages/Haemir (Ava).md",
-    "Untitled.md",
+    "Fiches Personnages/Haemir.md",
+    "Système/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
     "Système/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
+    "Système/Règles/dnd_multiclasse.pdf",
+    "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
+    "Mondes/Dungeon Rush/fiches personnages/Druide du Clair de Lune.pdf",
+    "Système/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
+    "Untitled.md",
     "Ressources/Fiches personnages/2024-dnd-character-sheet-printable.pdf",
     "Système/Règles/table rencontre lvl-px.png",
-    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
     "Fiches Personnages/Heigel.md",
     "Système/Classes/Rodeur Donjons & Dragons - D&D 5.pdf",
-    "Système/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
-    "Système/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
-    "Système/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
-    "Système/Règles/dnd_multiclasse.pdf",
-    "Système/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
-    "Système/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
     "Système/Règles/bonus-caractéristique.webp",
     "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
     "Mondes/Chronique d'une nouvelle ère/lieux/palais_éternel_du_prince_blanc.png",
@@ -236,7 +236,6 @@
     "Mondes/Chronique d'une nouvelle ère/Côte des Épées.md",
     "Ressources/Cartes/Sword Coast Map.jpg",
     "Mondes/Art of Heist/rogue.md",
-    "Mondes/Art of Heist/wizard.md",
     "laipon.png",
     "cité_d_omb.png",
     "odella.png",
