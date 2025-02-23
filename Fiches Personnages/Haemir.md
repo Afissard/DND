@@ -118,7 +118,7 @@ Alors que les flocons fondais sur mes joues cachaient mes larmes de joie, mes ye
 Haemir semblait méfiant, mais il finit par sortir, libre de ses chaines et de son collier d'entrave. Je me relevais, prête à la suivre quand je senti soudain une présence dans mon dos. Instinctivement je portas ma mains à ma hanche, prête à dégainer mon cimeterre, pour finalement trouver le fourreau vide.
 L'instant d'après, un frisson parcourais mon corps et mon cœur se figeas dans ma poitrine. Baissant doucement la tête vers la douleur, je découvris avec surprise une lame traversant ma poitrine. J'étais incapable bouger, figée, aucun son ne pouvais sortir de mes lèvres alors que ma gorge s'emplissait de sang. Peu à peu une ligne rouge pourpre glissa le long de la lame, à la pointe une goute se formais. Peu à peu cette larme pourpre s'étirais avant de tomber et s'écraser dans la neige immaculée, *plip*, puis une seconde, *plip*, suivit de peu par une troisième, *plop*. 
 Alors les larmes me montais aux yeux et que la douleur devenais insoutenable, la lame se retira enfin de mon corps dans un mouvement sec. Vidée de mes forces, sans rien pour me maintenir debout je tombas à genoux avant de m'écrouler dans la neige. 
-Alors que mon corps parcouru de spasme teintait d'un éclatant rouge pourpre la neige autour de moi, je réussi à relever la tête pour contempler, d'une vue se troublait, le spectacle macabre du camps se faisant massacrer avant de m'évanouire.
+Alors que mon corps parcouru de spasme teintait d'un éclatant rouge pourpre la neige autour de moi, je réussi à relever la tête pour contempler, d'une vue se troublait, le spectacle macabre du camps se faisant massacrer avant de m'évanouir.
 
 # Objectif
 **Objectif de quête.** A voir avec le jdr.
