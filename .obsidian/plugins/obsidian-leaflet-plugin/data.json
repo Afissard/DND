@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1738252760205,
+      "lastAccessed": 1740651976901,
       "markers": [
         {
           "id": "ID_d9dbf868bbfa",
@@ -20,13 +20,28 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a8bdaeb3b78",
+          "type": "default",
+          "loc": [
+            -11.926343250315186,
+            45.67757930320157
+          ],
+          "layer": "%5B%5BSword%20Coast%20Map.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
-        "Mondes/Chronique d'une nouvelle ère/lieux/Tombeau du Prince Blanc.md",
-        "Mondes/Chronique d'une nouvelle ère/lieux/Padhiver.md"
+        "Mondes/Chronique d'une nouvelle ère/Côte des Épées.md"
       ]
     }
   ],

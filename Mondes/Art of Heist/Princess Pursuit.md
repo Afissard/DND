@@ -53,13 +53,26 @@ illusion of player desire / diamond but must outrun the vines
 https://www.aidedd.org/dnd/monstres.php?vf=squelette
 https://www.aidedd.org/dnd/monstres.php?vf=araignee-geante
 
-- skel spid 26-> 16
+- skel spid 26-> 0
 - 17 druid
-- skel 2 & 3
+- skel 2 & 3 -> 0 13 
 - 11 theif 
 - 10 bar
 - 10 mage
-- skel 4 & 5 -> 3  13
-#### Golem boss
-take no damage, need to remove the gem in his chest
-### Attack on the princess's "cart"
+- skel 4 & 5 -> 0  0
+~~#### Golem boss
+take no damage, need to remove the gem in his chest~~
+### Attack on the princess's "carriage"
+after some travel out of the forest, players find the princess's carriage. They will probably have to fight the [knight](https://www.aidedd.org/dnd/monstres.php?vf=horreur-casquee).
+Then they will have to convince the princess to follow them back to the city of Padhiver.
+
+ambush by orcs
+https://www.aidedd.org/dnd/monstres.php?vf=orc
+https://www.aidedd.org/dnd/monstres.php?vf=orc-oeil-de-gruumsh
+https://www.aidedd.org/dnd/monstres.php?vf=orc-chef-de-guerre
+
+combat against knight
+- 20 bar
+- 17 knight
+- 16 thief
+- 16 druid

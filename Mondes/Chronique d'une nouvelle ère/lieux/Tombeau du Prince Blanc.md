@@ -31,3 +31,6 @@ initiative
 12 roub
 8 poi 1 -> 65 -> 51 -> 27 -> 16 -> -4
 7 poi 2 -> 97 -> 74 -> 64 -> 32 -> -5
+
+## boss & récompense
+Golem possédant [[Épée du Prince Blanc]].

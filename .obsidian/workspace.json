@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0bb87893ea0820db",
+        "id": "eea0363b536f8250",
         "type": "tabs",
         "children": [
           {
-            "id": "872e5623dc83fef5",
+            "id": "706dd63acdb461bb",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,7 +17,6 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Haemir"
             }
@@ -130,55 +128,20 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "e18c084054e2bee0",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "536aa7ec18039694",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Mondes/New Padhiver/Personnages/Gala Ganja.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Gala Ganja"
-            }
-          },
-          {
-            "id": "9f4ff5f302029ee2",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,13 +156,21 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "872e5623dc83fef5",
+  "active": "706dd63acdb461bb",
   "lastOpenFiles": [
+    "Mondes/Art of Heist/Princess Pursuit.md",
+    "Mondes/Chronique d'une nouvelle ère/Côte des Épées.md",
+    "Mondes/Chronique d'une nouvelle ère/timeline.canvas",
+    "Mondes/Chronique d'une nouvelle ère/lieux/Tombeau du Prince Blanc.md",
+    "Mondes/Chronique d'une nouvelle ère/objets/Épée du Prince Blanc.md",
+    "Mondes/Chronique d'une nouvelle ère/objets/dague De Lamar.md",
+    "Mondes/Art of Heist/wizard.md",
+    "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Mondes/Art of Heist/druid.md",
     "Fiches Personnages/Haemir.md",
     "Système/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
     "Système/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
     "Système/Règles/dnd_multiclasse.pdf",
-    "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
     "Système/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
     "Mondes/Dungeon Rush/fiches personnages/Druide du Clair de Lune.pdf",
@@ -212,15 +183,11 @@
     "Système/Règles/bonus-caractéristique.webp",
     "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
     "Mondes/Chronique d'une nouvelle ère/lieux/palais_éternel_du_prince_blanc.png",
-    "Mondes/Chronique d'une nouvelle ère/timeline.canvas",
     "Mondes/Chronique d'une nouvelle ère/homebrew/Parasites.md",
-    "Mondes/Chronique d'une nouvelle ère/lieux/Tombeau du Prince Blanc.md",
     "Mondes/Chronique d'une nouvelle ère/personnages & organisations/Emi.md",
     "Mondes/Chronique d'une nouvelle ère/personnages & organisations/Solitude.md",
     "Fiches Personnages/Atone.md",
     "Fiches Personnages/Vaern Varnegheim.md",
-    "Mondes/Art of Heist/Princess Pursuit.md",
-    "Mondes/Art of Heist/druid.md",
     "Mondes/Art of Heist/bloodmist_glades.png",
     "Fiches Personnages/Liste de perso à faire.md",
     "Fiches Personnages/Taxe Paladin.md",
@@ -232,10 +199,7 @@
     "Mondes/Art of Heist/Côte des Épées.md",
     "Mondes/Chronique d'une nouvelle ère/lieux/Padhiver.md",
     "Mondes/Chronique d'une nouvelle ère/personnages & organisations/Guilde de Bumpal.md",
-    "Mondes/Chronique d'une nouvelle ère/personnages & organisations/Prince Blanc.md",
-    "Mondes/Chronique d'une nouvelle ère/Côte des Épées.md",
     "Ressources/Cartes/Sword Coast Map.jpg",
-    "Mondes/Art of Heist/rogue.md",
     "laipon.png",
     "cité_d_omb.png",
     "odella.png",

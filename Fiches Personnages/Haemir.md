@@ -101,22 +101,22 @@ Description du personnage
 
 *Haemir deviens alors un serviteur d'Ava, ses condition de vie s'améliore quelque peu. La suivant comme son l'ombre, il atteint même la position d'esclave favori de la jeune aristocrate en a peine un ans de servitude à ces côté.* 
 ## fuite
-*Alors qu'Ava participait, avec sa mère et quelque gardes, à sa première excursion / chasse à la surface. Par une nuit de pleine lune, Ava vint ouvrir la cage d'Haemir et le libérer de son collier d'entrave (une première), avant de l'inviter à fuir avec elle avant qu'ils ne soient vus. Cependant craignant la ruse et la traitrise, nourrit par dix ans d'esclavage, par colère et par vengeance, Haemir tue Ava dans le dos avant de la décapiter. S'ensuit alors un massacre du camps (esclaves exclus).*
+*Alors qu'Ava participait, avec sa mère et quelque gardes, à sa première excursion / chasse à la surface. Par une nuit de pleine lune, Ava vint ouvrir la cage d'Haemir et le libérer de son collier d'entrave (une première), avant de l'inviter à fuir avec elle avant qu'ils ne soient vus. Cependant craignant la ruse et la traîtrise, nourrit par dix ans d'esclavage, par colère et par vengeance, Haemir tue Ava dans le dos avant de la décapiter. S'ensuit alors un massacre du camps (esclaves exclus).*
 
 *En dernier acte de vengeance Haemir récupère les corps de ses tortionnaires et les écorche, vivant pour certains, et utilise leur peaux pour se confectionner une cape/manteau. Du crane d'Ava il se confectionne un nouveau focalisateur et récupère ses vêtement et équipement pour les faire siens.*
 
 *Haemir fuit ensuite dans l'hiver ...*
 
-Pour les vingt ans de sa fille et apprentie, la grande prêtresse, décida d'enmener Ava en chasse à la surface. Cela devais être un événement important sans le parcours initiatique des prêtresse de Lolth au vu de l'engoument de ma maîtresse. 
+Pour les vingt ans de sa fille et apprentie, la grande prêtresse, décida d’emmener Ava en chasse à la surface. Cela devais être un événement important sans le parcours initiatique des prêtresse de Lolth au vu de l’engouement de ma maîtresse. 
 En dix ans, se serais la première fois que je reverrais la douce lumière du soleil. J'ai passé dix ans sous terre, en captivité, dix ans sous les ordres de Drow plus vils les uns que les autres. Ava pouvais être perçue comme une exception parmi les siens mais elle n'en restais pas moins une, peut être que par sa jeunesse elle manque de cruauté ou d'expérience mais ses tortures et punitions n'en sont pas moins douloureuses aussi bien mentalement que physiquement.
 
 J'avais oublier à quel point les hivers pouvais être froid à la surface, en Outreterre, rien ne change, les grottes ne connaissent aucune météo après tout. Ava qui avais toujours été curieuse sur le monde extérieur ...
-Alors que les flocons fondais sur mes joues cachaient mes larmes de joie, mes yeux inspectais l'environement. C'étais le pleine hiver, la neige, la neige d'un blanc éclatant, montais à minima jusqu'à mes chevilles. Un temps idéal pour la chasse où la moindre goute de sangs pouvais trahir la proie.
+Alors que les flocons fondais sur mes joues cachaient mes larmes de joie, mes yeux inspectais l’environnement. C'étais le pleine hiver, la neige, la neige d'un blanc éclatant, montais à minima jusqu'à mes chevilles. Un temps idéal pour la chasse où la moindre goutte de sangs pouvais trahir la proie.
 
 ...
 
 Haemir semblait méfiant, mais il finit par sortir, libre de ses chaines et de son collier d'entrave. Je me relevais, prête à la suivre quand je senti soudain une présence dans mon dos. Instinctivement je portas ma mains à ma hanche, prête à dégainer mon cimeterre, pour finalement trouver le fourreau vide.
-L'instant d'après, un frisson parcourais mon corps et mon cœur se figeas dans ma poitrine. Baissant doucement la tête vers la douleur, je découvris avec surprise une lame traversant ma poitrine. J'étais incapable bouger, figée, aucun son ne pouvais sortir de mes lèvres alors que ma gorge s'emplissait de sang. Peu à peu une ligne rouge pourpre glissa le long de la lame, à la pointe une goute se formais. Peu à peu cette larme pourpre s'étirais avant de tomber et s'écraser dans la neige immaculée, *plip*, puis une seconde, *plip*, suivit de peu par une troisième, *plop*. 
+L'instant d'après, un frisson parcourais mon corps et mon cœur se figeas dans ma poitrine. Baissant doucement la tête vers la douleur, je découvris avec surprise une lame traversant ma poitrine. J'étais incapable bouger, figée, aucun son ne pouvais sortir de mes lèvres alors que ma gorge s'emplissait de sang. Peu à peu une ligne rouge pourpre glissa le long de la lame, à la pointe une goutte se formais. Peu à peu cette larme pourpre s'étirais avant de tomber et s'écraser dans la neige immaculée, *plip*, puis une seconde, *plip*, suivit de peu par une troisième, *plop*. 
 Alors les larmes me montais aux yeux et que la douleur devenais insoutenable, la lame se retira enfin de mon corps dans un mouvement sec. Vidée de mes forces, sans rien pour me maintenir debout je tombas à genoux avant de m'écrouler dans la neige. 
 Alors que mon corps parcouru de spasme teintait d'un éclatant rouge pourpre la neige autour de moi, je réussi à relever la tête pour contempler, d'une vue se troublait, le spectacle macabre du camps se faisant massacrer avant de m'évanouir.
 

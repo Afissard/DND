@@ -178,6 +178,97 @@
       "resultText": "[4, 4]",
       "timestamp": 1740132948287,
       "id": "45rNNjgXvKrp"
+    },
+    {
+      "result": 9,
+      "original": "1d20",
+      "resultText": "[9]",
+      "timestamp": 1740651488021,
+      "id": "cRdplLvAUT97"
+    },
+    {
+      "result": 0,
+      "original": "1d20kl",
+      "resultText": "[20d]",
+      "timestamp": 1740652292812,
+      "id": "_DA257mgABhP"
+    },
+    {
+      "result": 9,
+      "original": "1d20",
+      "resultText": "[9]",
+      "timestamp": 1740653886223,
+      "id": "_7gL-pMozdeT"
+    },
+    {
+      "result": 17,
+      "original": "1d20",
+      "resultText": "[17]",
+      "timestamp": 1740654147833,
+      "id": "X8gAE3ClD3zB"
+    },
+    {
+      "result": 30,
+      "original": "2d20",
+      "resultText": "[11, 19]",
+      "timestamp": 1740654417795,
+      "id": "0NWyPzzOvGfP"
+    },
+    {
+      "result": 12,
+      "original": "1d20",
+      "resultText": "[12]",
+      "timestamp": 1740654428200,
+      "id": "oj11qgVkwMz2"
+    },
+    {
+      "result": 6,
+      "original": "1d8",
+      "resultText": "[6]",
+      "timestamp": 1740654448360,
+      "id": "XLkpkOLCVmWi"
+    },
+    {
+      "result": 15,
+      "original": "1d20",
+      "resultText": "[15]",
+      "timestamp": 1740654715568,
+      "id": "IQwRNZ_oa5LT"
+    },
+    {
+      "result": 15,
+      "original": "1d20",
+      "resultText": "[15]",
+      "timestamp": 1740654772313,
+      "id": "FXR_8rd5LNkO"
+    },
+    {
+      "result": 10,
+      "original": "2d8",
+      "resultText": "[4, 6]",
+      "timestamp": 1740654839958,
+      "id": "4tyEnWqC1PSm"
+    },
+    {
+      "result": 12,
+      "original": "1d20",
+      "resultText": "[12]",
+      "timestamp": 1740654861974,
+      "id": "V5XLGwl9ymk0"
+    },
+    {
+      "result": 5,
+      "original": "1d8",
+      "resultText": "[5]",
+      "timestamp": 1740654883787,
+      "id": "Qznp5_KEEaKu"
+    },
+    {
+      "result": 2,
+      "original": "1d20",
+      "resultText": "[2]",
+      "timestamp": 1740655095151,
+      "id": "49VPpvkuZkZl"
     }
   ]
 }
