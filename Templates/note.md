@@ -1,6 +1,0 @@
----
-fini: 
-tags:
-  - note
-monde:
----

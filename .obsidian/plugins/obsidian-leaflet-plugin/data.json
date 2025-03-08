@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1740651976901,
+      "lastAccessed": 1741451773625,
       "markers": [
         {
           "id": "ID_d9dbf868bbfa",
@@ -40,9 +40,7 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "Mondes/Chronique d'une nouvelle ère/Côte des Épées.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {
