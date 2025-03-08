@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eea0363b536f8250",
+        "id": "98a03c038d87ef13",
         "type": "tabs",
         "children": [
           {
-            "id": "706dd63acdb461bb",
+            "id": "681b5c403d9269b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches Personnages/Haemir.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Haemir"
+              "title": "New tab"
             }
           }
         ]
@@ -135,13 +131,42 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "18aa2b32fd790b83",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9405f540a18be923",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +181,23 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "706dd63acdb461bb",
+  "active": "681b5c403d9269b9",
   "lastOpenFiles": [
+    "Fiches Personnages/Kardack.md",
+    "Fiches Personnages/Fana Diadonis.md",
+    "Système/Classes/Ensorceleur Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Barbare Donjons & Dragons - D&D 5e.pdf",
+    "Templates/personnage.md",
+    "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
+    "Système/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Rodeur Donjons & Dragons - D&D 5.pdf",
+    "Système/Classes/Barde Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
+    "Système/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
+    "Fiches Personnages/Haemir.md",
     "Mondes/Art of Heist/Princess Pursuit.md",
     "Mondes/Chronique d'une nouvelle ère/Côte des Épées.md",
     "Mondes/Chronique d'une nouvelle ère/timeline.canvas",
@@ -165,23 +205,11 @@
     "Mondes/Chronique d'une nouvelle ère/objets/Épée du Prince Blanc.md",
     "Mondes/Chronique d'une nouvelle ère/objets/dague De Lamar.md",
     "Mondes/Art of Heist/wizard.md",
-    "Système/Classes/Magicien Donjons & Dragons - D&D 5e.pdf",
     "Mondes/Art of Heist/druid.md",
-    "Fiches Personnages/Haemir.md",
-    "Système/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
-    "Système/Classes/Druide Donjons & Dragons - D&D 5e.pdf",
-    "Système/Règles/dnd_multiclasse.pdf",
-    "Ressources/Données/Dons Dungeons & Dragons - D&D 5e.pdf",
-    "Système/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
-    "Mondes/Dungeon Rush/fiches personnages/Druide du Clair de Lune.pdf",
-    "Système/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
     "Untitled.md",
-    "Ressources/Fiches personnages/2024-dnd-character-sheet-printable.pdf",
     "Système/Règles/table rencontre lvl-px.png",
     "Fiches Personnages/Heigel.md",
-    "Système/Classes/Rodeur Donjons & Dragons - D&D 5.pdf",
     "Système/Règles/bonus-caractéristique.webp",
-    "Fiches Personnages/Famille Mordal/Noraki Mordal.md",
     "Mondes/Chronique d'une nouvelle ère/lieux/palais_éternel_du_prince_blanc.png",
     "Mondes/Chronique d'une nouvelle ère/homebrew/Parasites.md",
     "Mondes/Chronique d'une nouvelle ère/personnages & organisations/Emi.md",
@@ -195,10 +223,6 @@
     "Fiches Personnages/Linn Seraphim v2.md",
     "Fiches Personnages/Liste de perso à faire.md",
     "Fiches Personnages/Nola de Balhor.md",
-    "Mondes/Ayihyala/Tranche de puissance.md",
-    "Mondes/Art of Heist/Côte des Épées.md",
-    "Mondes/Chronique d'une nouvelle ère/lieux/Padhiver.md",
-    "Mondes/Chronique d'une nouvelle ère/personnages & organisations/Guilde de Bumpal.md",
     "Ressources/Cartes/Sword Coast Map.jpg",
     "laipon.png",
     "cité_d_omb.png",

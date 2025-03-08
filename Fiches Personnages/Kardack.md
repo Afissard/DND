@@ -1,0 +1,1 @@
+demi orc barbare magie sauvage, guerrier champion, ensorceleur magie sauvage

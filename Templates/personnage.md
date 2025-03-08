@@ -1,22 +1,6 @@
----
-fini: 
-tags:
-  - personnage
-  - joueur
-  - pnj
-monde:
----
 # {{title}}
-*Humanoïde (humain) de taille M, neutre neutre, historique, classe niveau 0*
+Humain (humanoïde) de taille M, neutre neutre, historique, classe niveau 0
 ___
---- start-multi-column: Fiche-Personnage  
-```column-settings  
-number of columns: 2
-Border: disabled
-Shadow: off
-Overflow: Hidden
-Auto Layout: on
-```
 
 |   FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -74,9 +58,6 @@ Auto Layout: on
 
 ## Capacités
 **Nom de la capacité**. Description de la capacité.  
-
-
---- end-multi-column
 
 ---
 # Description
