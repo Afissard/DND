@@ -8,13 +8,6 @@ monde:
 # Perceonne (15/15)
 *Tieffeline (Humanoïde) de taille M, chaotique neutre, charlatante, occultiste de l'Archifée pacte de la lame niveau 1* 
 ___
---- start-multi-column: Fiche-Personnage  
-```column-settings  
-number of columns: 2
-Border: disabled
-Shadow: off
-Overflow: Hidden
-```
 
 |  FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
 | :----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -94,9 +87,6 @@ Occultiste (2) : 2 sorts mineurs, 3 sorts connus
 | Ration (20) et eau             |                                                                                                                                                                                                                  |
 | Vêtement de la fée de la flûte |                                                                                                                                                                                                                  |
 | Flute d'une fée "génie"        |                                                                                                                                                                                                                  |
-
---- end-column ---
-
 ## Capacités
 **Fausse identité**. Vous vous êtes créé une fausse identité, ce qui inclut des documents, des relations établies et du maquillage qui vous permet d'assumer ce rôle. De plus, vous pouvez contrefaire des documents, dont des papiers officiels et des lettres personnelles, à condition que vous ayez déjà vu un exemplaire de ce type de document, ou l'écriture que vous essayez d'imiter.
 
@@ -112,8 +102,6 @@ Occultiste (2) : 2 sorts mineurs, 3 sorts connus
 
 - **Mille visages**. Vous pouvez lancer _[déguisement](https://www.aidedd.org/dnd/sorts.php?vf=deguisement)_ à volonté, sans dépenser d'emplacement de sort.
 - **Armure d'ombres**. Vous pouvez lancer _[armure de mage](https://www.aidedd.org/dnd/sorts.php?vf=armure-de-mage)_ sur vous-même à volonté, sans dépenser d'emplacement de sort ni des composantes.
-
---- end-multi-column
 
 ---
 # Description

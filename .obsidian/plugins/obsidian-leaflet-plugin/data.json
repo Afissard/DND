@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "leaflet-map",
-      "lastAccessed": 1741451773625,
+      "lastAccessed": 1742479389626,
       "markers": [
         {
           "id": "ID_d9dbf868bbfa",
@@ -36,11 +36,30 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_28da998b9b68",
+          "type": "default",
+          "loc": [
+            -4.475016212934806,
+            6.048032969581498
+          ],
+          "layer": "%5B%5Bpalais_%C3%A9ternel_du_prince_blanc.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
-      "files": []
+      "files": [
+        "Campagne/Chronique d'une nouvelle ère/lieux/Tombeau du Prince Blanc.md",
+        "Campagne/Chronique d'une nouvelle ère/lieux/Conyberry.md"
+      ]
     }
   ],
   "defaultMarker": {

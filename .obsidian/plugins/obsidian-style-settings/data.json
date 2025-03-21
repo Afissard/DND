@@ -22,5 +22,6 @@
   "ITS@@breadcrumbs-block": false,
   "ITS@@default-statblock": false,
   "ITS@@ITS-Sizes": "sizing-readable",
-  "ITS@@highlight@@dark": "#76261C"
+  "ITS@@highlight@@dark": "#76261C",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light"
 }
