@@ -1,5 +1,5 @@
-# Burghein Mornepierre, vieux chevalier errant
-Gnome des roches (humanoïde) de taille P, loyal neutre, héros du peuple, guerrier occulte niveau 2 et moine niveau 1
+# Burghein Mornesel, vieux chevalier errant
+Gnome des roches (humanoïde) de taille P, loyal neutre, héros du peuple, guerrier niveau 2 et moine niveau 1
 ___
 
 |  FOR   |   DEX   |      CON       |      INT      |   SAG   |  CHA   |
@@ -9,7 +9,7 @@ ___
 |            nom            |                          attributs                          |
 | :-----------------------: | :---------------------------------------------------------: |
 |      Classe d'armure      |                  13 (défense sans armure)                   |
-|       Points de vie       |                        27 (2d10+1d8)                        |
+|       Points de vie       |                     27 (1d10+2d8) -> 11                     |
 |          Vitesse          |                            7,50m                            |
 |     Bonus de maîtrise     |                             +2                              |
 |    Jets de sauvegarde     | Force, Constitution<br>adv: intelligence, sagesse, charisme |
@@ -22,22 +22,24 @@ ___
 |          Outils           |         bricoleur, forgeron, véhicules (terrestres)         |
 |           Armes           |              armes courantes, armes de guerre               |
 |          Armure           |                toutes les armures, boucliers                |
+|        Expérience         |                          1110/2700                          |
 ## Combats
 
 | Nom          | bonus | dégâts           | notes                                                                         |
 | ------------ | ----- | ---------------- | ----------------------------------------------------------------------------- |
 | tir de fusil | 2+2+2 | 1d10+2 perforant | Munitions (portée 30 m/120 m), lourde, chargement (6 tirs),  <br>à deux mains |
 | baïonnette   | 2+2   | 1d6+2 perforant  | polyvalente (1d8)                                                             |
-| ~~revolver~~ | 2+2+2 | 1d6+2 perforant  | légère, munitions (portée 9 m/50 m), chargement 6 coups, 1 action de recharge |
+| revolver     | 2+2+2 | 1d6+2 perforant  | légère, munitions (portée 9 m/50 m), chargement 6 coups, 1 action de recharge |
 | épée courte  | 2+2   | 1d6+2 tranchant  | légère                                                                        |
 
 ## Magie
 
-| Classe (caractéristique)      | Chevalier Occulte (intelligence) |
-| ----------------------------- | -------------------------------- |
-| Sorts à préparer chaque jours |                                  |
-| DD de sauvegarde              |                                  |
-| Bonus d'attaque               |                                  |
+| Classe (caractéristique)      | ??? |
+| ----------------------------- | --- |
+| Sort mineurs connus           |     |
+| Sorts à préparer chaque jours |     |
+| DD de sauvegarde              |     |
+| Bonus d'attaque               |     |
 
 | Emplacements |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
 | :----------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -50,19 +52,20 @@ ___
 ## Inventaire
 | PP  | PO  | PE  | PA  | PC  |
 | :-: | :-: | :-: | :-: | :-: |
-|  0  | 30  |  0  |  0  |  0  |
+|  0  |  3  |  0  |  9  |  9  |
 
-| Objet                            | Description                                                                                                                                                                                                     |
-| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| historique                       | un jeu d'outil d'artisan (bricoleur), une pelle, un pot en fer, des vêtements communs et une bourse contenant 10 po.                                                                                            |
-| fusil à baïonnette (51 po)       | 1d10 de dégâts perforant, 2,5kg, munitions (portée 30m/200m), a deux mains, chargement 6 coups, 1 action de recharge, baïonnette comme une lance.                                                               |
-| ~~revolver (six-coups) (75 po)~~ | 1d6 de dégâts perforant, 1kg, légère, munitions (portée 9 m/50 m), chargement 6 coups, 1 action de recharge.                                                                                                    |
-| munitions (70)                   | 750 g / munitions, 1 po / munition                                                                                                                                                                              |
-| poney (30 po)                    | 12 m, 115 kg                                                                                                                                                                                                    |
-| mors et bride (2 po)             | 500 g                                                                                                                                                                                                           |
-| selle militaire (20 po)          | 15 kg                                                                                                                                                                                                           |
-| épée courte (10 po)              | Finesse, légère                                                                                                                                                                                                 |
-| sac d'explorateur (10 po)        | Comprend un sac à dos, un sac de couchage, une gamelle, une boite d'allume-feu, 10 torches, 10 jours de rations et une gourde d'eau. Le sac comprend aussi 15 mètres de corde de chanvre attachée sur son côté. |
+| Objet                        | Description                                                                                                                                                                                                    |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| historique                   | un jeu d'outil d'artisan (bricoleur), une pelle, un pot en fer, des vêtements communs et une bourse contenant 10 po.                                                                                           |
+| fusil à baïonnette (51 po)   | 1d10 de dégâts perforant, 2,5kg, munitions (portée 30m/200m), a deux mains, chargement 6 coups, 1 action de recharge, baïonnette comme une lance.                                                              |
+| revolver (six-coups) (75 po) | 1d6 de dégâts perforant, 1kg, légère, munitions (portée 9 m/50 m), chargement 6 coups, 1 action de recharge.                                                                                                   |
+| munitions (70)               | 750 g / munitions, 1 po / munition - 70-2                                                                                                                                                                      |
+| poney (30 po)                | 12 m, 115 kg                                                                                                                                                                                                   |
+| mors et bride (2 po)         | 500 g                                                                                                                                                                                                          |
+| selle militaire (20 po)      | 15 kg                                                                                                                                                                                                          |
+| épée courte (10 po)          | Finesse, légère                                                                                                                                                                                                |
+| sac d'explorateur (10 po)    | Comprend un sac à dos, un sac de couchage, une gamelle, une boite d'allume-feu, 10 torches, 9 jours de rations et une gourde d'eau. Le sac comprend aussi 15 mètres de corde de chanvre attachée sur son côté. |
+| outil de voleur              |                                                                                                                                                                                                                |
 
 
 ## Capacités
@@ -96,13 +99,15 @@ Certains monastères utilisent des versions spéciales des armes de moine. Par e
 
 ---
 # Description
-Description du personnage
+Du haut de ses 360 ans, Burghein en a vu des vertes et des pas mures, enfin surtout des pas mures. Il se déplace le plus souvent à dos de poney (Merry) cigare vissé à la bouche, son visage est à la fois masqué par sont sombrero et sa vielle barbe gris fleurs de sel.
 
+
+![[cowboy.jpg]]
 # Histoire
-Les Mornepierre est certes une ancienne famille mais le petit village de Mornepierre, coincé entre deux montagne n'est pas bien peuplé et ses mine de charbon presque vide ne rapporte bien trop peu
+Les Mornesel est certes une ancienne famille mais le petit village de Mornesel, isolé sur l'île éponyme n'est pas bien peuplé et le rare poisson ne rapporte bien trop peu.
 
 # Objectif
-Objectif du personnage
+Malgré son age avancé, Burghein a toujours continuer de vivre sur les routes mais aujourd'hui il sent que la retraite est proche, il souhaite faire une dernière adventure avant de se retirer définitivement (cf: cire momore)
 
 # Notes
 12 5 13 13 9 14

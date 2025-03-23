@@ -10,11 +10,31 @@
           {
             "id": "cc3b1e43506cc70c",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fiches Personnages/Burghein Mornesel vieux chevalier errant.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Burghein Mornesel vieux chevalier errant"
+            }
+          },
+          {
+            "id": "4b42134ce718d045",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.aidedd.org/regles/equipement/armes/",
+                "title": "Armes » Donjons & Dragons - D&D 5e",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Armes » Donjons & Dragons - D&D 5e"
             }
           }
         ]
@@ -191,18 +211,22 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "eff48210c7d0d140",
+  "active": "cc3b1e43506cc70c",
   "lastOpenFiles": [
+    "Fiches Personnages/Burghein Mornesel vieux chevalier errant.md",
+    "Règle/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
+    "Règle/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
+    "Règle/Classes/Clerc Donjons & Dragons - D&D 5e.pdf",
+    "Assets/images/inspiration/cowboy.jpg",
+    "Fiches Personnages/Linn Seraphim.md",
+    "Règle/Règles/dnd_multiclasse.pdf",
+    "Campagne/Dungeon Rush/fiches personnages/Clerc de la Lumière.pdf",
     "Campagne/Chronique d'une nouvelle ère/homebrew/Parasites.md",
     "Campagne/Chronique d'une nouvelle ère/objets/Épée du Prince Blanc.md",
     "Campagne/Chronique d'une nouvelle ère/timeline.canvas",
     "Campagne/Chronique d'une nouvelle ère/lieux/Tombeau du Prince Blanc.md",
     "Untitled.md",
-    "Fiches Personnages/Burghein Mornepierre vieux chevalier errant.md",
     "Assets/information/Dons.pdf",
-    "Règle/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
-    "Règle/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
-    "Règle/Règles/dnd_multiclasse.pdf",
     "Règle/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
     "Règle/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
     "Règle/Classes/Rodeur Donjons & Dragons - D&D 5.pdf",
@@ -215,7 +239,6 @@
     "Fiches Personnages/Perceonne.md",
     "Fiches Personnages/Nola de Balhor.md",
     "Fiches Personnages/Linn Seraphim v2.md",
-    "Fiches Personnages/Linn Seraphim.md",
     "Fiches Personnages/Kardack.md",
     "Fiches Personnages/Isaac.md",
     "Fiches Personnages/Humpy le Conil.md",
@@ -228,8 +251,6 @@
     "Scenar'tober/scenartober.jpg",
     "Scenar'tober/1 Horreur psychologique.md",
     "Assets/images/Donjons-Dragons-weapons.webp",
-    "Assets/information/Dons (extension).pdf",
-    "Assets/information/Herbes.pdf",
     "Wishlist.md",
     "README.md",
     "péninsule_d_omb.png",
@@ -238,7 +259,6 @@
     "Assets/images/inspiration/Olrox-2.webp",
     "Assets/images/inspiration/olrox-1.jpg",
     "Assets/images/inspiration/objectif de Ghal Mordal.jpg",
-    "Assets/images/inspiration/Nora 01.jpg",
     "Untitled.canvas"
   ]
 }
