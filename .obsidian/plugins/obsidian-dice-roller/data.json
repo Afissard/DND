@@ -346,6 +346,104 @@
       "resultText": "[11]",
       "timestamp": 1742485369743,
       "id": "TZ6sfkfGm2_U"
+    },
+    {
+      "result": 8,
+      "original": "3d6",
+      "resultText": "[3, 3, 2]",
+      "timestamp": 1743018233793,
+      "id": "eOmJqNmDmmYt"
+    },
+    {
+      "result": 12,
+      "original": "3d6",
+      "resultText": "[3, 4, 5]",
+      "timestamp": 1743018244226,
+      "id": "qrzyTyFLCMoP"
+    },
+    {
+      "result": 0,
+      "original": "1d8-4",
+      "resultText": "[4]-4",
+      "timestamp": 1743018265093,
+      "id": "OMfaShTOJXaK"
+    },
+    {
+      "result": 2,
+      "original": "1d8-4",
+      "resultText": "[6]-4",
+      "timestamp": 1743018272193,
+      "id": "NYq_X-VxmcvU"
+    },
+    {
+      "result": 4,
+      "original": "1d8-4",
+      "resultText": "[8]-4",
+      "timestamp": 1743018275776,
+      "id": "TywOsdCZy-Zt"
+    },
+    {
+      "result": 3,
+      "original": "1d8-4",
+      "resultText": "[7]-4",
+      "timestamp": 1743018284209,
+      "id": "EZVuJpfrgae2"
+    },
+    {
+      "result": -2,
+      "original": "1d8-4",
+      "resultText": "[2]-4",
+      "timestamp": 1743018287526,
+      "id": "KqT6IGB27xbG"
+    },
+    {
+      "result": 2,
+      "original": "1d8-4",
+      "resultText": "[6]-4",
+      "timestamp": 1743018298493,
+      "id": "pVpm9KerP2jb"
+    },
+    {
+      "result": 2,
+      "original": "1d6-3",
+      "resultText": "[5]-3",
+      "timestamp": 1743018547361,
+      "id": "AZyx9n5OeX2J"
+    },
+    {
+      "result": -2,
+      "original": "1d6-3",
+      "resultText": "[1]-3",
+      "timestamp": 1743018552495,
+      "id": "rpFGnYEjeJJp"
+    },
+    {
+      "result": -2,
+      "original": "1d6-3",
+      "resultText": "[1]-3",
+      "timestamp": 1743018554211,
+      "id": "6ElGz5mzTul7"
+    },
+    {
+      "result": 0,
+      "original": "1d6-3",
+      "resultText": "[3]-3",
+      "timestamp": 1743018556033,
+      "id": "-MgKVu7UZXWe"
+    },
+    {
+      "result": 3,
+      "original": "1d6-3",
+      "resultText": "[6]-3",
+      "timestamp": 1743018558195,
+      "id": "EwtAPxCA0oUn"
+    },
+    {
+      "result": -2,
+      "original": "1d6-3",
+      "resultText": "[1]-3",
+      "timestamp": 1743018560545,
+      "id": "maofZ6GErGLk"
     }
   ]
 }

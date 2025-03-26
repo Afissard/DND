@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e3127f6da4d5a37b",
+        "id": "90aa91a4999e00bd",
         "type": "tabs",
         "children": [
           {
-            "id": "cc3b1e43506cc70c",
+            "id": "5cb934e4fed33951",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fiches Personnages/Burghein Mornesel vieux chevalier errant.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Burghein Mornesel vieux chevalier errant"
-            }
-          },
-          {
-            "id": "4b42134ce718d045",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.aidedd.org/regles/equipement/armes/",
-                "title": "Armes » Donjons & Dragons - D&D 5e",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Armes » Donjons & Dragons - D&D 5e"
+              "title": "New tab"
             }
           }
         ]
@@ -211,8 +191,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "cc3b1e43506cc70c",
+  "active": "5cb934e4fed33951",
   "lastOpenFiles": [
+    "Fiches Personnages/Lieselbeilg.md",
+    "Règle/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
+    "Assets/images/inspiration/pnj23__ResizedImageWzQwMCw0OTJd.jpg",
     "Fiches Personnages/Burghein Mornesel vieux chevalier errant.md",
     "Règle/Classes/Guerrier Donjons & Dragons - D&D 5e.pdf",
     "Règle/Classes/Moine Donjons & Dragons - D&D 5e.pdf",
@@ -228,7 +211,6 @@
     "Untitled.md",
     "Assets/information/Dons.pdf",
     "Règle/Classes/Roublard Donjons & Dragons - D&D 5e.pdf",
-    "Règle/Classes/Occultiste Donjons & Dragons - D&D 5e.pdf",
     "Règle/Classes/Rodeur Donjons & Dragons - D&D 5.pdf",
     "Règle/Classes/Paladin Donjons & Dragons - D&D 5e.pdf",
     "Règle/Règles/bonus-caractéristique.webp",
@@ -252,13 +234,11 @@
     "Scenar'tober/1 Horreur psychologique.md",
     "Assets/images/Donjons-Dragons-weapons.webp",
     "Wishlist.md",
-    "README.md",
     "péninsule_d_omb.png",
     "odella.png",
     "laipon.png",
     "Assets/images/inspiration/Olrox-2.webp",
     "Assets/images/inspiration/olrox-1.jpg",
-    "Assets/images/inspiration/objectif de Ghal Mordal.jpg",
     "Untitled.canvas"
   ]
 }
