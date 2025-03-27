@@ -1,5 +1,5 @@
-# Lieselbeilg
-Demi-Elfe (humanoïde) de taille M, chaotique neutre, charlatan, *magicien* niveau 2
+# Lieselbeilg Monalheim
+Demi-Elfe (humanoïde) de taille M, chaotique mauvais, charlatan, *magicien* niveau 2
 ___
 
 |  FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
@@ -9,7 +9,7 @@ ___
 |            nom            |                                 attributs                                  |
 | :-----------------------: | :------------------------------------------------------------------------: |
 |      Classe d'armure      |                            14 (armure de cuir)                             |
-|       Points de vie       |                                  17 (2d8)                                  |
+|       Points de vie       |                               17 (2d8) -> 9                                |
 |          Vitesse          |                                     9m                                     |
 |     Bonus de maîtrise     |                                     +2                                     |
 |    Jets de sauvegarde     |                             sagesse, charisme                              |
@@ -18,11 +18,10 @@ ___
 |  Résistances aux dégâts   |                                   aucun                                    |
 |   Immunités aux dégâts    |                                   aucun                                    |
 |           Sens            |                           Perception passive 10                            |
-|          Langues          |                          commun, elfique, profond                          |
+|          Langues          |                         commun, elfique, sylvestre                         |
 |          Outils           |                   kit de contrefaçon, kit de déguisement                   |
 |           Armes           |                              armes courantes                               |
 |          Armure           |                              armures légères                               |
-|         Puissance         |                                 1 (200 PX)                                 |
 ## Combats
 
 | Nom             | bonus | dégâts          | notes                                                  |
@@ -30,7 +29,6 @@ ___
 | dague           | +5    | 1d4+3 perforant | finesse, légère, lancer (portée 6 m/18 m)              |
 | arbalète légère | +5    | 1d8+3 perforant | munitions (portée 24 m/96 m), chargement, à deux mains |
 | bâton           | -2    | 1d6-2           | polyvalente (1d8)                                      |
-
 ## Magie
 
 | Classe (caractéristique)      | Occultiste Archifée (charisme) |
@@ -38,7 +36,7 @@ ___
 | Sorts connus                  | 3                              |
 | DD de sauvegarde              | 14                             |
 | Bonus d'attaque               | +6                             |
-| Emplacement (niveau 2)        | 0/2                            |
+| Emplacement (niveau 2)        | 1/2                            |
 | Arcanum Mystique (6, 7, 8, 9) | -                              |
 
 | Niveau | Nom                                                                                        | Temps d'incantation & Durée | Concentration, Rituel, Composants | Notes                                                       |
@@ -49,24 +47,27 @@ ___
 | X      | [sommeil](https://www.aidedd.org/dnd/sorts.php?vf=sommeil)                                 |                             |                                   | pacte                                                       |
 | X      | [apaisement des émotions](https://www.aidedd.org/dnd/sorts.php?vf=apaisement-des-emotions) |                             |                                   | pacte                                                       |
 | X      | [force fantasmagorique](https://www.aidedd.org/dnd/sorts.php?vf=force-fantasmagorique)     |                             |                                   | pacte                                                       |
-| X      | [suggestion](https://www.aidedd.org/dnd/sorts.php?vf=suggestion)                           | 1 action                    |                                   | jedi                                                        |
+| X      | [suggestion](https://www.aidedd.org/dnd/sorts.php?vf=suggestion)                           | 1 action                    |                                   |                                                             |
 | X      | [maléfice](https://www.aidedd.org/dnd/sorts.php?vf=malefice)                               | action bonus                | concentration 1h                  | châtiment 1d6 + désavantage caractéristique choisie         |
 | X      | [fracassement](https://www.aidedd.org/dnd/sorts.php?vf=fracassement)                       | 1 action                    |                                   | 18m, dd constitution ou 3d8 dégâts, valable pour les objets |
 
 ## Inventaire
 | PP  | PO  | PE  | PA  | PC  |
 | :-: | :-: | :-: | :-: | :-: |
-|  0  | 15  |  0  |  0  |  0  |
+|  0  | 64  |  9  |  0  |  0  |
 
-| Objet                          | Description                                                                                                                                                                                                                             |
-| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| historique                     | des vêtements fins, un kit de déguisement, des outils d'escroquerie de votre choix (10 bouteilles bouchonnées remplies d'un liquide coloré, dés truqués, cartes marquées, fausse chevalière de duc, ...) et une bourse contenant 15 po. |
-| sac d'érudit                   | Comprend un sac à dos, un livre de connaissance, une bouteille d'encre, une plume d'écriture, 10 feuilles de parchemin, un petit sac de sable et un petit couteau.                                                                      |
-| focaliseur arcanique           |                                                                                                                                                                                                                                         |
-| dague (2)                      |                                                                                                                                                                                                                                         |
-| armure de cuir                 |                                                                                                                                                                                                                                         |
-| baton                          |                                                                                                                                                                                                                                         |
-| arbalète légère (20 munitions) |                                                                                                                                                                                                                                         |
+| Objet                          | Description                                                                                                                                                                                               |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| historique                     | des vêtements fins, un kit de déguisement, des outils d'escroquerie de votre choix (10 bouteilles bouchonnées remplies d'un liquide coloré, dés truqués, cartes marquées, fausse chevalière de duc, ...). |
+| sac d'érudit                   | Comprend un sac à dos, un livre de connaissance, une bouteille d'encre, une plume d'écriture, 10 feuilles de parchemin, un petit sac de sable et un petit couteau.                                        |
+| focaliseur arcanique           |                                                                                                                                                                                                           |
+| dague (2)                      |                                                                                                                                                                                                           |
+| armure de cuir                 |                                                                                                                                                                                                           |
+| baton                          |                                                                                                                                                                                                           |
+| arbalète légère (20 munitions) |                                                                                                                                                                                                           |
+| rations                        | 9                                                                                                                                                                                                         |
+| cimeterre                      |                                                                                                                                                                                                           |
+| chapeau de Jhon Mala           | magie d'invocation pour invoquer un petit oiseau.                                                                                                                                                         |
 
 ## Capacités
 **Fausse identité.** Vous vous êtes créé une fausse identité, ce qui inclut des documents, des relations établies et du maquillage qui vous permet d'assumer ce rôle. De plus, vous pouvez contrefaire des documents, dont des papiers officiels et des lettres personnelles, à condition que vous ayez déjà vu un exemplaire de ce type de document, ou l'écriture que vous essayez d'imiter.
@@ -88,12 +89,17 @@ Lieselbeilg est une jeune demi elfe, proche de la trentaine, elle se dissimule s
 
 ![[pnj23__ResizedImageWzQwMCw0OTJd.jpg]]
 # Histoire
-Lieselbeilg est une chasseuse d'artéfacts, elle se fait souvent passé pour une mage et / aventurière pour trompé ses cibles.
+*Histoire officieuse*
+Lieselbeilg Monalheim est une chasseuse d’artefacts, elle se fait souvent passé pour une mage et / aventurière pour trompé ses cibles.
+
+*Histoire "officiel"*
+Lieselbeilg Monalheim est une mage en cours de formation, elle prépare actuellement une thèse de recherche sur l'histoire de la création et de l'utilisation des objets magiques de la région.
+Elle parcours donc le monde, vêtue d'ample robe de mage, dans le but de trouver des objets magiques à étudier.
 
 # Objectif
-Objectif du personnage
+Collectionner des objet magique ...
 
 # Notes
-prise de notes
+objet difforme, demi-aura, pas d'école de magie, seul ne fait rien mais avec un autre objet il pourrais être très dangereux, très destructeur.
 
-2 -2 3 4 2 0
+Ralala le rat siamois (post-fusion) et magicien (meilleur que mage niveau 2)
