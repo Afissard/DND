@@ -11,10 +11,17 @@
             "id": "9a2e04db0f4883b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Campagne/Chronique d'une nouvelle ère/timeline.canvas",
+                "viewState": {
+                  "x": -185.54242711573374,
+                  "y": 9295.21778683995,
+                  "zoom": -0.07919994510745054
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "timeline"
             }
           }
         ]
