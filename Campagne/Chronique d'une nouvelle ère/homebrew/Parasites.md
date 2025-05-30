@@ -77,7 +77,7 @@ ___
 **Contre coups**. A chaque utilisation des pouvoirs télékinétique du parasite, le corps de l'hôte est pris de tremblement de sueur et de fièvre. En plus de cela l'hôte effectue un jet de sauvegarde de constitution sous peine de vomir du sang et subir un dé 4 de dégâts ainsi que de voir sa vitesse réduite de 3m pour les deux prochains tours.
 **Présence du parasite**. La présence du parasite dans le corps de l'hôte est visible (jet de perception >= 15), l'hôte est plus pale qu'à la normal (teint laiteux) et des veines noires transparaissent légèrement au travers de sa peau.
 ### Effets incontrôlé
-**Hallucinations**. L'hôte est régulièrement pris de crise hallucination, son environment devient très sombre flou et distordus, les son semblent venir de loin, pendant ces crises l'hôte ère de manière aléatoire à une vitesse de 1m pendant une minute.
+**Hallucinations**. L'hôte est régulièrement pris de crise hallucination, son environnent devient très sombre flou et distordus, les son semblent venir de loin, pendant ces crises l'hôte ère de manière aléatoire à une vitesse de 1m pendant une minute.
 **Parasitage**. Par une action, l'hôte embrasse / mord une cible au prix d'une action et transmet un parasite. Lancer un dé 8, si 1 alors la cible est parasité.
 
 ___

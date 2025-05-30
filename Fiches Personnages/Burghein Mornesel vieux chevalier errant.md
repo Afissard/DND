@@ -9,7 +9,7 @@ ___
 |            nom            |                          attributs                          |
 | :-----------------------: | :---------------------------------------------------------: |
 |      Classe d'armure      |                  13 (défense sans armure)                   |
-|       Points de vie       |                     27 (1d10+2d8) -> 11                     |
+|       Points de vie       |                     27 (1d10+2d8) -> 23                     |
 |          Vitesse          |                            7,50m                            |
 |     Bonus de maîtrise     |                             +2                              |
 |    Jets de sauvegarde     | Force, Constitution<br>adv: intelligence, sagesse, charisme |
@@ -54,19 +54,18 @@ ___
 | :-: | :-: | :-: | :-: | :-: |
 |  0  |  3  |  0  |  9  |  9  |
 
-| Objet                        | Description                                                                                                                                                                                                    |
-| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| historique                   | un jeu d'outil d'artisan (bricoleur), une pelle, un pot en fer, des vêtements communs et une bourse contenant 10 po.                                                                                           |
-| fusil à baïonnette (51 po)   | 1d10 de dégâts perforant, 2,5kg, munitions (portée 30m/200m), a deux mains, chargement 6 coups, 1 action de recharge, baïonnette comme une lance.                                                              |
-| revolver (six-coups) (75 po) | 1d6 de dégâts perforant, 1kg, légère, munitions (portée 9 m/50 m), chargement 6 coups, 1 action de recharge.                                                                                                   |
-| munitions (70)               | 750 g / munitions, 1 po / munition - 70-2                                                                                                                                                                      |
-| poney (30 po)                | 12 m, 115 kg                                                                                                                                                                                                   |
-| mors et bride (2 po)         | 500 g                                                                                                                                                                                                          |
-| selle militaire (20 po)      | 15 kg                                                                                                                                                                                                          |
-| épée courte (10 po)          | Finesse, légère                                                                                                                                                                                                |
-| sac d'explorateur (10 po)    | Comprend un sac à dos, un sac de couchage, une gamelle, une boite d'allume-feu, 10 torches, 9 jours de rations et une gourde d'eau. Le sac comprend aussi 15 mètres de corde de chanvre attachée sur son côté. |
-| outil de voleur              |                                                                                                                                                                                                                |
-
+| Objet                        | Description                                                                                                                                                                                                      |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| historique                   | un jeu d'outil d'artisan (bricoleur), une pelle, un pot en fer, des vêtements communs et une bourse contenant 10 po.                                                                                             |
+| fusil à baïonnette (51 po)   | 1d10 de dégâts perforant, 2,5kg, munitions (portée 30m/200m), a deux mains, chargement 6 coups, 1 action de recharge, baïonnette comme une lance.                                                                |
+| revolver (six-coups) (75 po) | 1d6 de dégâts perforant, 1kg, légère, munitions (portée 9 m/50 m), chargement 6 coups, 1 action de recharge.                                                                                                     |
+| munitions (70)               | 750 g / munitions, 1 po / munition - 70-2                                                                                                                                                                        |
+| poney (30 po)                | 12 m, 115 kg                                                                                                                                                                                                     |
+| mors et bride (2 po)         | 500 g                                                                                                                                                                                                            |
+| selle militaire (20 po)      | 15 kg                                                                                                                                                                                                            |
+| épée courte (10 po)          | Finesse, légère                                                                                                                                                                                                  |
+| sac d'explorateur (10 po)    | Comprend un sac à dos, un sac de couchage, une gamelle, une boite d'allume-feu, 10 torches, 9 jours de rations et une gourde d'eau. Le sac comprend aussi 15-3 mètres de corde de chanvre attachée sur son côté. |
+| *outil de voleur*            | donné à Raldin                                                                                                                                                                                                   |
 
 ## Capacités
 **Connaissance en ingénierie.** Chaque fois que vous effectuez un jet d'Intelligence (Histoire) en relation avec l'alchimie, des objets magiques ou des dispositifs technologiques, ajoutez le double de votre bonus de maîtrise au jet, au lieu du bonus de maîtrise normal.
@@ -107,7 +106,7 @@ Du haut de ses 360 ans, Burghein en a vu des vertes et des pas mures, enfin surt
 Les Mornesel est certes une ancienne famille mais le petit village de Mornesel, isolé sur l'île éponyme n'est pas bien peuplé et le rare poisson ne rapporte bien trop peu.
 
 # Objectif
-Malgré son age avancé, Burghein a toujours continuer de vivre sur les routes mais aujourd'hui il sent que la retraite est proche, il souhaite faire une dernière adventure avant de se retirer définitivement (cf: cire momore)
+Malgré son age avancé, Burghein a toujours continuer de vivre sur les routes mais aujourd'hui il sent que la retraite est proche, il souhaite faire une dernière aventure avant de se retirer définitivement (cf: cire momore)
 
 # Notes
 12 5 13 13 9 14
