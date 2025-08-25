@@ -8,5 +8,6 @@
     "downscalePercent": 85
   },
   "alwaysUpdateLinks": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "vimMode": true
 }
