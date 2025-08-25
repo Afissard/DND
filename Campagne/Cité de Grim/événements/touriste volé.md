@@ -1,0 +1,1 @@
+demander un jet de perception sans donner plus de détail à un joueur, lorsqu'il voudra payer quelque chose, il remarquera que la moitié de ses PO ont disparus.

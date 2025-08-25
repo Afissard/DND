@@ -1,0 +1,1 @@
+un groupe cherche des âme puissante (en lien avec une divinité ou autre ensorceleur, etc) pour alimenter une très vielle machine : un four à âme construit pour animé une cité (cf titan warhammer 40k)
