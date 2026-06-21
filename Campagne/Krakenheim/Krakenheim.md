@@ -48,6 +48,7 @@ C'est un homme très pieux, et suis presqu'aveuglément les paroles des prêtres
 ### Chef des armateurs: Bijorgunr
 ...
 
+## Pretre Jorund
 ## Les factions du village, chacun a son representant au conseil
 
 ### Les gens de la forêt (bucheron, ébéniste, etc)
@@ -67,3 +68,11 @@ Il y a trois petite famille de noble dans la région, l'une d'entre elle règne 
 ### Le clergé de [Chauntea](https://www.aidedd.org/univers/pantheon/chauntea/)
 Les quelques prêtes (1 maitre et 2 apprenti) y officiant sont à peine capable et offre le service minimum et cherche plutôt leur ascension politique au sein de leur ordre.
 L'existance de la sorcière leur pose problème car elle offre une alternative à leur service, médiocre, de soin et moral...
+
+
+---
+
+# Note état du JDR
+
+Fin de la séance 1: début du combat de la partie, un golum avec des griffes et des sabot touché par Ankli avec une fleche, et un loup-serpent, Ostium vole au dessus pour les attirer. Ils ont pister les monstre pour espérer trouver leurs repère
+*-> la sorcière est proche, elle connais la source des monstre*
